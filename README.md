@@ -1,2 +1,2 @@
-# curriculum_vitae
-academic CV
+# CV
+academic curriculum vitae
