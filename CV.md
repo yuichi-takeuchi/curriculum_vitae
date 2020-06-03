@@ -61,13 +61,14 @@ Jan 1st, 2016	Physiology Educator	Physiological Society of Japan, No. 160018
 
 **2016**:	Research Fellow	The Uehara Memorial Foundation, Japan
 
+## 4. Other Appointments and Affiliations
 ### Professional Societies
 **2005–present**:	Japanese Pharmacological Society,	Member
 
 **2008–present**:	The Japan Neuroscience Society,	Member
 
-**2010–present**:	The Physiological Society of Japan
-	Member (2010 –2020)
+**2010–present**:	The Physiological Society of Japan,
+	Member
 
 **2010–present**:	Society for Neuroscience,	Member
 
