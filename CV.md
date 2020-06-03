@@ -1,26 +1,26 @@
 # COVERSHEET
 ## 1. Personal details
 
-***First / Surnames***:	Yuichi TAKEUCHI, Ph.D.
+**First / Surnames**:	Yuichi TAKEUCHI, Ph.D.
 
-***Nationality***:	Japan
+**Nationality**:	Japan
 
-***Place of Birth***:	Aichi, Japan
+**Place of Birth**:	Aichi, Japan
 
-***Date of Birth***:	4th September 1982
+**Date of Birth**:	4th September 1982
 
-***Gender***:	Male
+**Gender**:	Male
 
-***Office Address***:	MTA-SZTE ‘Lendület’, Oscillatory Neuronal
+**Office Address**:	MTA-SZTE ‘Lendület’, Oscillatory Neuronal
 Networks Research Group University of Szeged, Department of Physiology 10 Dóm sqr, Szeged 6720, Hungary
 
-***Phone***:	+36-62-545-373
+**Phone**:	+36-62-545-373
 
-***Fax***:	+36-62-545-842
+**Fax**:	+36-62-545-842
 
-***E-mail***:	takeuchi.yuichi@med.u-szeged.hu
+**E-mail**:	takeuchi.yuichi@med.u-szeged.hu
 
-***Web site***:	https://ytake.org/
+**Web site**:	https://ytake.org/
 
 
 ### Current Appointment
