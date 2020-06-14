@@ -163,7 +163,8 @@ Website| https://ytake.org/
 23.	Miyata M., **Takeuchi Y.**, and Osaki H. Large-scale somatotopic reorganization with afferent fiber remodeling in the mice whisker sensory thalamus after peripheral sensory nerve injury. The 93rd Annual Meeting of the Physiological Society of Japan. Sapporo, Japan. Mar 22-24, 2016. (Abstract No. 2P-078) Poster
 24.	**Takeuchi Y.**, Harangozó M., Pedraza L., Földi T., Kozák G., and Berényi A. Real-time control of epileptic seizures via on-demand deep brain stimulation. The 28th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology. Hyogo, Japan. Mar 13, 2019. (Abstract No. 3) Symposium
 25.	**Takeuchi Y.**, Harangozó M., Pedraza L., Földi T., Kozák G., and Berényi A. A closed-loop proxy-intervention of epileptic seizures. Jisedai-Nou Symposium. Tokyo, Japan. Dec 18-20, 2019. (Byotai No. 7) Poster
-26.	**Takeuchi Y.**, Harangozó M., Pedraza L., Földi T., Kozák G., and Berényi A. Closed-loop stimulation of the medial septum terminates epilepsy seizures in rats. The 93th Annual Meeting of the Japan Pharmacological Society. Yokohama, Japan. Mar 16-18, 2020. (Abstract No. 3-O-103) Oral
+26. **Takeuchi Y.**, Time- and space-targeted intervention of brain activities for control of epilepsy. The 29th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology. Yokohama, Japan. 15 Mar 2020. Oral
+27.	**Takeuchi Y.**, Harangozó M., Pedraza L., Földi T., Kozák G., and Berényi A. Closed-loop stimulation of the medial septum terminates epilepsy seizures in rats. The 93th Annual Meeting of the Japan Pharmacological Society. Yokohama, Japan. Mar 16-18, 2020. (Abstract No. 3-O-103) Oral
 
 ### Scientific Essays
 1.	**Takeuchi Y.** (2013) Report of the 36th Annual Meeting of Japanese Neuroscience Society. Neuroscience News of the Japan Neuroscience Society 195: 10. (Japanese)
