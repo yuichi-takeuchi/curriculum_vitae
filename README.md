@@ -234,8 +234,10 @@ https://doi.org/10.6084/m9.figshare.6160181
 2018|	Invited speaker, The Pharmaceutical Society of Japan, Tokai Branch @ Nagoya City University, Nagoya, Japan
 2018|	Invited speaker, Seminar @ National Institute of Physiological Sciences
 2019|	Invited speaker, Seminar @ University of Szeged, Szeged, Hungary
+2019| Invited speaker, Annual Meeting of MEXT Grant-in-Aid for Scientific Research on Innovative Areas (Multiscale Brain)
 2019|	Invited speaker, Seminar @ Osaka City University, Osaka, Japan
 2019|	Invited speaker, Seminar @ Tokyo Women’s Medical University, Tokyo, Japan
+2020| Invited speaker, Annual Meeting of MEXT Grant-in-Aid for Scientific Research on Innovative Areas (Multiscale Brain)
 
 ## Contributed Talks
 |||
