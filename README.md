@@ -107,7 +107,7 @@ Website| https://ytake.org/
 1.	Miyata M. and **Takeuchi Y.** Neurophysiology of Body image: Remodeling of the body map. Clin Neurosci 29 (8): 895-899. Aug 2011. Chugai-igakusha. (Invited, Japanese)
 2.	**Takeuchi Y.** Epilepsy progress: Development of on-demand interventions of epileptic seizures and a quantitative method of seizure susceptibility. Medical Science Digest 46 (2): 118-121. Feb 2020. Hokuryukan. (Invited, Japanese)
 3.	**Takeuchi Y.** Imaging of neuropsychiatric disorders: Revealing neuronal network dynamics underlying behavioral phenotypes of psychiatric disorders. Medical Science Digest 46 (6): 906-909. Jun 2020. Hokuryukan. (Invited, Japanese)
-4. **Takeuchi Y.** Development of on-demand interventions of epileptic seizures and a quantitative method of seizure susceptibility. BIO Clinica 35 (9): 771-774. Aug 2020. Hokuryukan. (Invited, Japanese)
+4. **Takeuchi Y.** Updates in novel therapies against neurodegenerative diseases: Development of on-demand interventions of epileptic seizures and a quantitative method of seizure susceptibility. BIO Clinica 35 (9): 771-774. Aug 2020. Hokuryukan. (Invited, Japanese)
 
 ### Preprints
 1.	**Takeuchi Y.**, Harangozó M., Pedraza L., Földi T., Kozák G., Berényi A. Closed-loop stimulation of the medial septum terminates epileptic seizures. bioRxiv 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
