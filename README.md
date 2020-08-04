@@ -137,6 +137,7 @@ Website| https://ytake.org/
 15.	Li Q, Takeuchi Y, Kozák G, Ohsawa M, Harangozó M, Berényi A. The functional role of altered olfactory network synchrony in the development of depression. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 87) Poster
 16.	Takeuchi Y, Harangozó M, Pedraza L, Földi T, Kozák G, and Berényi A. A closed-loop proxy-intervention of epileptic seizures. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 89) Poster
 17.	Narushima M., Yagasaki Y., **Takeuchi Y.**, Aiba A., and Miyata M. The metabotropic glutamate receptor subtype 1 regulates development and maintenance of lemniscal synaptic connectivity through cortical activity in the somatosensory thalamus. FENS Meeting 2020. Glasgow, U. K. July 11th – 15th, 2020.
+18. Pedraza L, Sierra R, Takeuchi Y, Kozák G, Peijin A, Barcsai L, Berényi A. CLOSED-LOOP MANIPULATION OF HIPPOCAMPAL RIPPLES REDUCE PERSISTENT FEAR EXPRESSION IN ANIMAL MODEL OF POSTTRAUMATIC-STRESS DISORDER. FENS Meeting 2020. Glasgow, U. K. July 11th – 15th, 2020.
 
 ### Abstract (Domestic)
 1.	**Takeuchi Y.**, Tanabe M., Honda M., and Ono H. Gabapentin supraspinally accelerates spinal noradrenalin turnover in a murine neuropathic pain model. The 79th Annual Meeting of The Japanese Pharmacological Society. Yokohama, Japan. Mar 8-10, 2006. (Abstract No. P3K-64) Poster
