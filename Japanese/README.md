@@ -2,23 +2,20 @@
 ## 1. Personal details
 |||
 -|-
-氏名| 竹内雄一
-国籍| 日本|
-出生地| 愛知県
+氏名 | 竹内雄一
+国籍 | 日本|
+出生地 | 愛知県
 生年月日 | 1982年9月4日
-性別| 男
-職場| MTA-SZTE ‘Lendület’, Oscillatory Neuronal Networks Research Group University of Szeged, Department of Physiology 10 Dóm sqr, Szeged 6720, Hungary
-電話| +36-62-545-373
-ファックス| +36-62-545-842
-電子メール| takeuchi.yuichi@med.u-szeged.hu
+性別 | 男
+職場 | 大阪市立大学　大学院医学研究科　神経生理学教室、〒545-8585 大阪市阿倍野区旭町1丁目4番3号
+電話| +81-6-6645-3717
+電子メール| yuichi-takeuchi@umin.net
 ウェブサイト| https://ytake.org/
 
 ### 現職
 |||
 |-|-|
-01 Sep 2015 – 現在| Research Assistant Professor	Department of Physiology, Faculty of Medicine, University of Szeged, Hungary
-01 Sep 2015 – 現在| ハンガリー医科大学事務局、非常勤講師
-01 Apr 2018 – 現在|	名古屋市立大学　大学院薬学研究科　研究員
+01 Sep 2015 – 現在 | 大阪市立大学　大学院医学研究科　特任講師
 
 ## 2. 学歴/資格
 ### 学位
@@ -39,10 +36,11 @@
 ## 3. 職歴
 |||
 -|-
-2007–2008|	生理学研究所　リサーチアシスタント
-2009–2010|	日本学術振興会　特別研究員
-2010–2015|	東京女子医科大学　医学部　助教
+2007–2008 |	生理学研究所　リサーチアシスタント
+2009–2010 |	日本学術振興会　特別研究員
+2010–2015 |	東京女子医科大学　医学部　助教
 2016|	上原記念生命科学財団　リサーチフェロー
+2015–2020 | セゲド大学　医学部　リサーチアシスタントプロフェッサー
 
 ## 4. その他の所属
 ### 所属学会
@@ -130,11 +128,11 @@
 11.	Takeuchi Y, Harangozó M, Pedraza L, Földi T, Kozák G, and Berényi A. Closed-loop stimulation of the medial septum alleviates temporal lobe epilepsy in rats. The 49th NIPS International Symposium. Okazaki, Japan. Dec 5-8, 2018. (Abstract No. P24) Poster
 12.	**Takeuchi Y.**, Harangozó M., Pedraza L., Földi T., Kozák G., and Berényi A. Automated, closed-loop stimulation of the medial septum alleviates temporal lobe epilepsy in rats. The 9th FAOPS Congress. Kobe, Japan. Mar 28-31, 2019 (Abstract No. 1P-281) Poster
 13.	Nagy A., **Takeuchi Y.**, and Berényi A. Coding of self-motion-induced and self-independent visual motion in the rat dorsomedial striatum. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 84) Poster
-14.	Pedraza L, Sierra R, Takeuchi Y, Kozák G, Peijin A, Barcsai L, Berényi A. CLOSED-LOOP MANIPULATION OF HIPPOCAMPAL RIPPLES REDUCE PERSISTENT FEAR EXPRESSION IN ANIMAL MODEL OF POSTTRAUMATIC-STRESS DISORDER. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 86) Poster
-15.	Li Q, Takeuchi Y, Kozák G, Ohsawa M, Harangozó M, Berényi A. The functional role of altered olfactory network synchrony in the development of depression. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 87) Poster
-16.	Takeuchi Y, Harangozó M, Pedraza L, Földi T, Kozák G, and Berényi A. A closed-loop proxy-intervention of epileptic seizures. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 89) Poster
-17.	Narushima M., Yagasaki Y., **Takeuchi Y.**, Aiba A., and Miyata M. The metabotropic glutamate receptor subtype 1 regulates development and maintenance of lemniscal synaptic connectivity through cortical activity in the somatosensory thalamus. FENS Meeting 2020. Glasgow, U. K. July 11th – 15th, 2020.
-18. Pedraza L, Sierra R, Takeuchi Y, Kozák G, Peijin A, Berényi A. Controlling fear expression through closed-loop intervention: Sharp-waves ripples triggering medial forebrain bundle stimulation enhance extinction and induce long-lasting fear attenuation. FENS Meeting 2020. Glasgow, U. K. Jul 11–15, 2020.
+14.	Pedraza L, Sierra R, **Takeuchi Y**, Kozák G, Peijin A, Barcsai L, Berényi A. CLOSED-LOOP MANIPULATION OF HIPPOCAMPAL RIPPLES REDUCE PERSISTENT FEAR EXPRESSION IN ANIMAL MODEL OF POSTTRAUMATIC-STRESS DISORDER. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 86) Poster
+15.	Li Q, **Takeuchi Y**, Kozák G, Ohsawa M, Harangozó M, Berényi A. The functional role of altered olfactory network synchrony in the development of depression. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 87) Poster
+16.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, and Berényi A. A closed-loop proxy-intervention of epileptic seizures. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 89) Poster
+17.	Narushima M., Yagasaki Y., **Takeuchi Y.**, Aiba A., Miyata M. The metabotropic glutamate receptor subtype 1 regulates development and maintenance of lemniscal synaptic connectivity through cortical activity in the somatosensory thalamus. FENS Meeting 2020. Glasgow, U. K. July 11th – 15th, 2020.
+18. Pedraza L, Sierra R, **Takeuchi Y**, Kozák G, Peijin A, Berényi A. Controlling fear expression through closed-loop intervention: Sharp-waves ripples triggering medial forebrain bundle stimulation enhance extinction and induce long-lasting fear attenuation. FENS Meeting 2020. Glasgow, U. K. Jul 11–15, 2020.
 
 ### 国内学会発表
 1.	**Takeuchi Y.**, Tanabe M., Honda M., and Ono H. Gabapentin supraspinally accelerates spinal noradrenalin turnover in a murine neuropathic pain model. The 79th Annual Meeting of The Japanese Pharmacological Society. Yokohama, Japan. Mar 8-10, 2006. (Abstract No. P3K-64) Poster

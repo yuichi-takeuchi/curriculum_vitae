@@ -3,22 +3,20 @@
 |||
 -|-
 First / Surnames | Yuichi TAKEUCHI, Ph.D.
-Nationality| Japan|
-Place of Birth| Aichi, Japan
+Nationality | Japan |
+Place of Birth | Aichi, Japan
 Date of Birth | 04 Sep 1982
-Gender| Male
-Office Address| MTA-SZTE ‘Lendület’, Oscillatory Neuronal Networks Research Group University of Szeged, Department of Physiology 10 Dóm sqr, Szeged 6720, Hungary
-Phone| +36-62-545-373
-Fax| +36-62-545-842
-E-mail| takeuchi.yuichi@med.u-szeged.hu
+Gender | Male
+Office Address | Department of Physiology, Osaka City University Graduate School of Medicine, 1 Chome-4-3, Asahimachi, Abeno-ku, Osaka 545-8585, Japan
+Phone| +81-6-6645-3717
+E-mail| yuichi-takeuchi@umin.net
 Website| https://ytake.org/
 
 ### Current Appointment
 |||
 |-|-|
-01 Sep 2015 – present| Research Assistant Professor	Department of Physiology, Faculty of Medicine, University of Szeged, Hungary
-01 Sep 2015 – present| Adjunct Lecturer	Hungarian Medical Universities
-01 Apr 2018 – present|	Research Fellow	Department of Neuropharmacology, Graduate School of Pharmaceutical Sciences, Nagoya City University
+01 Sep 2020–present| Specially-Appointed Lecturer, Osaka City University Graduate School of Medicine
+
 
 ## 2. Education/Qualifications
 ### Degrees
@@ -31,18 +29,19 @@ Website| https://ytake.org/
 ### Licensures
 |||
 -|-
-28 Nov 2005| Pharmacist	Japan, No. 399397
-01 Jan 2016|	Physiology Educator	Physiological Society of Japan, No. 160018
-26 Jan 2017|	FELASA C certificate	Federation of European Laboratory Animal Science Associations, No. 63/2017, 035/14
-02 Jan 2018|	Certified Peer Reviewer,	Publons Academy
+28 Nov 2005 | Pharmacist	Japan, No. 399397
+01 Jan 2016 |	Physiology Educator	Physiological Society of Japan, No. 160018
+26 Jan 2017 |	FELASA C certificate	Federation of European Laboratory Animal Science Associations, No. 63/2017, 035/14
+02 Jan 2018 |	Certified Peer Reviewer,	Publons Academy
 
 ## 3. Professional Appointments
 |||
 -|-
-2007–2008|	Research Assistant	National Institute of Physiological Sciences, Okazaki, Japan
-2009–2010|	Research Fellow	Japan Society for the Promotion of Science, Tokyo, Japan
-2010–2015|	Assistant Professor	Tokyo Women’s Medical University, Tokyo, Japan
-2016|	Research Fellow	The Uehara Memorial Foundation, Japan
+2007–2008 |	Research Assistant, National Institute of Physiological Sciences, Okazaki, Japan
+2009–2010 |	Research Fellow,	Japan Society for the Promotion of Science, Tokyo, Japan
+2010–2015 |	Assistant Professor, School of Medicine, Tokyo Women’s Medical University, Tokyo, Japan
+2016 |	Research Fellow, The Uehara Memorial Foundation, Japan
+2015–2020  |  Research Assistant Professor,	Faculty of Medicine, University of Szeged, Szeged, Hungary
 
 ## 4. Other Appointments and Affiliations
 ### Professional Societies
@@ -130,14 +129,14 @@ Website| https://ytake.org/
 8.	Vöröslakos M., Brinyiczki K., Zombori T., **Takeuchi Y.**, Oliva A., Fernández-Ruiz A., Iványi B., Buzsáki G., and Berényi A. Spatially focused, non-invasive, fast pulse electrical stimulation of the brain. The 46thSfN Annual Meeting. San Diego, USA. Nov 12-16, 2016. (Abstract No. 591.16) Poster
 9.	Nagy A., **Takeuchi Y.**, and Berényi A. Processing of passive and motion-induced visual percepts in the rat dorsomedial striatum. The 47thSfN Annual Meeting. Washington DC, USA. Nov 11-15, 2017. (Abstract No. 313.14) Poster
 10.	**Takeuchi Y.** Electrophysiological Evaluations of Reorganized Nervous Systems. The PCS 3rd Global Cell Science and Stem Cell Conference. Budapest, Hungary. July 14-15, 2018. (Abstract No. 2 in Stem Cell and Stem Cell Therapy) Oral, Invited
-11.	Takeuchi Y, Harangozó M, Pedraza L, Földi T, Kozák G, and Berényi A. Closed-loop stimulation of the medial septum alleviates temporal lobe epilepsy in rats. The 49th NIPS International Symposium. Okazaki, Japan. Dec 5-8, 2018. (Abstract No. P24) Poster
+11.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, and Berényi A. Closed-loop stimulation of the medial septum alleviates temporal lobe epilepsy in rats. The 49th NIPS International Symposium. Okazaki, Japan. Dec 5-8, 2018. (Abstract No. P24) Poster
 12.	**Takeuchi Y.**, Harangozó M., Pedraza L., Földi T., Kozák G., and Berényi A. Automated, closed-loop stimulation of the medial septum alleviates temporal lobe epilepsy in rats. The 9th FAOPS Congress. Kobe, Japan. Mar 28-31, 2019 (Abstract No. 1P-281) Poster
 13.	Nagy A., **Takeuchi Y.**, and Berényi A. Coding of self-motion-induced and self-independent visual motion in the rat dorsomedial striatum. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 84) Poster
-14.	Pedraza L, Sierra R, Takeuchi Y, Kozák G, Peijin A, Barcsai L, Berényi A. CLOSED-LOOP MANIPULATION OF HIPPOCAMPAL RIPPLES REDUCE PERSISTENT FEAR EXPRESSION IN ANIMAL MODEL OF POSTTRAUMATIC-STRESS DISORDER. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 86) Poster
-15.	Li Q, Takeuchi Y, Kozák G, Ohsawa M, Harangozó M, Berényi A. The functional role of altered olfactory network synchrony in the development of depression. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 87) Poster
-16.	Takeuchi Y, Harangozó M, Pedraza L, Földi T, Kozák G, and Berényi A. A closed-loop proxy-intervention of epileptic seizures. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 89) Poster
-17.	Narushima M., Yagasaki Y., **Takeuchi Y.**, Aiba A., and Miyata M. The metabotropic glutamate receptor subtype 1 regulates development and maintenance of lemniscal synaptic connectivity through cortical activity in the somatosensory thalamus. FENS Meeting 2020. Glasgow, U. K. Jul 11–15, 2020.
-18. Pedraza L, Sierra R, Takeuchi Y, Kozák G, Peijin A, Berényi A. Controlling fear expression through closed-loop intervention: Sharp-waves ripples triggering medial forebrain bundle stimulation enhance extinction and induce long-lasting fear attenuation. FENS Meeting 2020. Glasgow, U. K. Jul 11–15, 2020.
+14.	Pedraza L, Sierra R, **Takeuchi Y**, Kozák G, Peijin A, Barcsai L, Berényi A. CLOSED-LOOP MANIPULATION OF HIPPOCAMPAL RIPPLES REDUCE PERSISTENT FEAR EXPRESSION IN ANIMAL MODEL OF POSTTRAUMATIC-STRESS DISORDER. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 86) Poster
+15.	Li Q, **Takeuchi Y**, Kozák G, Ohsawa M, Harangozó M, Berényi A. The functional role of altered olfactory network synchrony in the development of depression. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 87) Poster
+16.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A. A closed-loop proxy-intervention of epileptic seizures. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 89) Poster
+17.	Narushima M., Yagasaki Y., **Takeuchi Y.**, Aiba A., Miyata M. The metabotropic glutamate receptor subtype 1 regulates development and maintenance of lemniscal synaptic connectivity through cortical activity in the somatosensory thalamus. FENS Meeting 2020. Glasgow, U. K. Jul 11–15, 2020.
+18. Pedraza L, Sierra R, **Takeuchi Y**, Kozák G, Peijin A, Berényi A. Controlling fear expression through closed-loop intervention: Sharp-waves ripples triggering medial forebrain bundle stimulation enhance extinction and induce long-lasting fear attenuation. FENS Meeting 2020. Glasgow, U. K. Jul 11–15, 2020.
 
 ### Abstract (Domestic)
 1.	**Takeuchi Y.**, Tanabe M., Honda M., and Ono H. Gabapentin supraspinally accelerates spinal noradrenalin turnover in a murine neuropathic pain model. The 79th Annual Meeting of The Japanese Pharmacological Society. Yokohama, Japan. Mar 8-10, 2006. (Abstract No. P3K-64) Poster
@@ -206,7 +205,6 @@ https://doi.org/10.6084/m9.figshare.6160181
 12.	**Takeuchi Y.** (2017) CueFearConditioning v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.897730
 13.	**Takeuchi Y.** (2018) PMVmemAnalysis v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.1220169
 14.	**Takeuchi Y.** (2018) SM2CInjection v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.1220362
-15.	**Takeuchi Y.** (2018) TaskController v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.xxxxx
 
 ## Grants Received
 1.	Afferent-input-dependent thalamic circuit plasticity. JSPS, KAKENHI: Grant-in-Aid for JSPS Fellows (Grant no. 09J00032), Role: PI, Period: 2009–2010, Total cost: 700,000 JPY
