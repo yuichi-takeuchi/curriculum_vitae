@@ -9,7 +9,7 @@
 性別 | 男
 職場 | 大阪市立大学　大学院医学研究科　神経生理学教室、〒545-8585 大阪市阿倍野区旭町1丁目4番3号
 電話| +81-6-6645-3717
-電子メール| yuichi-takeuchi@umin.net
+電子メール| takeuchi.yuichi2@med.osaka-cu.ac.jp
 ウェブサイト| https://ytake.org/
 
 ### 現職

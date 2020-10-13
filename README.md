@@ -9,7 +9,7 @@ Date of Birth | 04 Sep 1982
 Gender | Male
 Office Address | Department of Physiology, Osaka City University Graduate School of Medicine, 1 Chome-4-3, Asahimachi, Abeno-ku, Osaka 545-8585, Japan
 Phone| +81-6-6645-3717
-E-mail| yuichi-takeuchi@umin.net
+E-mail| takeuchi.yuichi2@med.osaka-cu.ac.jp
 Website| https://ytake.org/
 
 ### Current Appointment
