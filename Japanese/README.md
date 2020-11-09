@@ -1,69 +1,69 @@
 # COVERSHEET
 ## 1. Personal details
-|||
--|-
-氏名 | 竹内雄一
-国籍 | 日本|
-出生地 | 愛知県
-生年月日 | 1982年9月4日
-性別 | 男
-職場 | 大阪市立大学　大学院医学研究科　神経生理学教室、〒545-8585 大阪市阿倍野区旭町1丁目4番3号
-電話| +81-6-6645-3717
-電子メール| takeuchi.yuichi2@med.osaka-cu.ac.jp
-ウェブサイト| https://ytake.org/
+|              |                                                                                          |
+| ------------ | ---------------------------------------------------------------------------------------- |
+| 氏名         | 竹内雄一                                                                                 |
+| 国籍         | 日本                                                                                     |
+| 出生地       | 愛知県                                                                                   |
+| 生年月日     | 1982年9月4日                                                                             |
+| 性別         | 男                                                                                       |
+| 職場         | 大阪市立大学　大学院医学研究科　神経生理学教室、〒545-8585 大阪市阿倍野区旭町1丁目4番3号 |
+| 電話         | +81-6-6645-3717                                                                          |
+| 電子メール   | takeuchi.yuichi2@med.osaka-cu.ac.jp                                                      |
+| ウェブサイト | https://ytake.org/                                                                       |
 
 ### 現職
-|||
-|-|-|
-01 Sep 2015 – 現在 | 大阪市立大学　大学院医学研究科　特任講師
+|                    |                                          |
+| ------------------ | ---------------------------------------- |
+| 01 Sep 2015 – 現在 | 大阪市立大学　大学院医学研究科　特任講師 |
 
 ## 2. 学歴/資格
 ### 学位
-||||
--|-|-
-2005|学士（薬学）| 名古屋市立大学　薬学部　製薬学科
-2007|修士（薬学）| 名古屋市立大学　大学院薬学研究科　医療機能薬学専攻
-2010|博士（理学）| 総合研究大学院大学　生命科学研究科　生理科学専攻
+|      |              |                                                    |
+| ---- | ------------ | -------------------------------------------------- |
+| 2005 | 学士（薬学） | 名古屋市立大学　薬学部　製薬学科                   |
+| 2007 | 修士（薬学） | 名古屋市立大学　大学院薬学研究科　医療機能薬学専攻 |
+| 2010 | 博士（理学） | 総合研究大学院大学　生命科学研究科　生理科学専攻   |
 
 ### 資格
-|||
--|-
-28 Nov 2005|　薬剤師免許（ No. 399397）
-01 Jan 2016|	生理学エデュケーター（日本生理学会、No. 160018）
-26 Jan 2017|	FELASA C certificate	Federation of European Laboratory Animal Science Associations, No. 63/2017, 035/14
-02 Jan 2018|	Certified Peer Reviewer,	Publons Academy
+|             |                                                                                                         |
+| ----------- | ------------------------------------------------------------------------------------------------------- |
+| 28 Nov 2005 | 薬剤師免許（ No. 399397）                                                                               |
+| 01 Jan 2016 | 生理学エデュケーター（日本生理学会、No. 160018）                                                        |
+| 26 Jan 2017 | FELASA C certificate	Federation of European Laboratory Animal Science Associations, No. 63/2017, 035/14 |
+| 02 Jan 2018 | Certified Peer Reviewer,	Publons Academy                                                                |
 
 ## 3. 職歴
-|||
--|-
-2007–2008 |	生理学研究所　リサーチアシスタント
-2009–2010 |	日本学術振興会　特別研究員
-2010–2015 |	東京女子医科大学　医学部　助教
-2016|	上原記念生命科学財団　リサーチフェロー
-2015–2020 | セゲド大学　医学部　リサーチアシスタントプロフェッサー
+|             |                                        |
+| ----------- | -------------------------------------- |
+| 2007 – 2008 | 生理学研究所　リサーチアシスタント     |
+| 2009 – 2010 | 日本学術振興会　特別研究員             |
+| 2010 – 2015 | 東京女子医科大学　医学部　助教         |
+| 2016        | 上原記念生命科学財団　リサーチフェロー |
+| 2015 – 2020 | セゲド大学　医学部　特任助教           |
 
 ## 4. その他の所属
 ### 所属学会
-|||
--|-
-2005–現在|	日本薬理学会　会員
-2008–現在|	日本神経科学学会　会員
-2010–現在|	日本生理学会　会員
-2010–現在|	北米神経科学学会　会員
-2012–現在|	日本神経回路学会　会員
-2015–現在|	Asia Pacific Neural Network Society,	Member
+|             |                                             |
+| ----------- | ------------------------------------------- |
+| 2005 – 現在 | 日本薬理学会　会員                          |
+| 2008 – 現在 | 日本神経科学学会　会員                      |
+| 2010 – 現在 | 日本生理学会　会員                          |
+| 2010 – 現在 | 北米神経科学学会　会員                      |
+| 2012 – 現在 | 日本神経回路学会　会員                      |
+| 2015 – 現在 | Asia Pacific Neural Network Society,	Member |
 
 ### 委員歴
-|||
--|-
-18 Mar 2020–present|	日本生理学会　評議員
+|                    |                      |
+| ------------------ | -------------------- |
+| 18 Mar 2020 – 現在 | 日本生理学会　評議員 |
 
 ## 5. 受賞歴等
-|||
--|-
-2012|	成茂神経科学研究助成基金　研究賞
-2013|	日本生理学会　若手研究者奨励賞
-2019|	神経行動薬理若手研究者の集い　優秀発表特別賞
+|      |                                              |
+| ---- | -------------------------------------------- |
+| 2012 | 成茂神経科学研究助成基金　研究賞             |
+| 2013 | 日本生理学会　若手研究者奨励賞               |
+| 2019 | 神経行動薬理若手研究者の集い　優秀発表特別賞 |
 
 # 研究
 ## 学術論文（査読有）
@@ -224,70 +224,70 @@ https://doi.org/10.6084/m9.figshare.6160181
 
 
 ## 招待講演
-|||
--|-
-09 Aug 2012| 末梢神経損傷後に生じる脳内神経回路のつなぎ換え機構、ヒューマンサイエンス振興財団 (東京).
-2014|	Invited symposiast, The 37th Annual Meeting of the Japan Neuroscience Society, Yokohama, Japan
-2015|	Large-scale Topographical Reorganization via Afferent Fiber Rewiring in the Somatosensory Thalamus of Mice、セゲド大学、部門公開セミナー: F1000Research 2017, 6:350 (slides) http://doi.org/10.7490/f1000research.1113811.1
-2017|	Invited speaker, MathWorks Asia Research Summit 2017, Tokyo, Japan
-2018|	Invited speaker, PCS 3rd Global Cell Science and Stem Cell Conference, Budapest, Hungary
-04 Sep 2018|	精神・神経疾患のリアルタイム制御にむけて、大阪市立大学、部門公開セミナー
-05 Dec 2018|	神経精神疾患のリアルタイム制御にむけて、日本薬学会東海支部　特別講演会＠名古屋市立大学
-10 Dec 2018|	Real-time closed-loop interventions of epileptic seizures、生理学研究所　部門公開セミナー
-29 Jul 2019|	オシロセラピューティクス：時間特異的な脳活動介入による疾患制御、大阪市立大学、部門公開セミナー
-01 Sep 2019|	精神病態の行動表現型を生じる神経回路動態の逆問題的解明、新学術領域 「マルチスケール精神病態の構成的理解」 第2回領域会議
-05 Sep 2019|	オンデマンド脳活動介入によるてんかん発作の制御とその応用、東京女子医科大学、部門公開セミナー  
-03 Jul 2020| Revealing neuronal network dynamics underlying behavioral phenotypes of psychiatric disorders by solving inverse problems、新学術領域 「マルチスケール精神病態の構成的理解」 第3回領域会議
+|             |                                                                                                                                                                                                                             |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 09 Aug 2012 | 末梢神経損傷後に生じる脳内神経回路のつなぎ換え機構、ヒューマンサイエンス振興財団 (東京).                                                                                                                                    |
+| 2014        | Invited symposiast, The 37th Annual Meeting of the Japan Neuroscience Society, Yokohama, Japan                                                                                                                              |
+| 2015        | Large-scale Topographical Reorganization via Afferent Fiber Rewiring in the Somatosensory Thalamus of Mice、セゲド大学、部門公開セミナー: F1000Research 2017, 6:350 (slides) http://doi.org/10.7490/f1000research.1113811.1 |
+| 2017        | Invited speaker, MathWorks Asia Research Summit 2017, Tokyo, Japan                                                                                                                                                          |
+| 2018        | Invited speaker, PCS 3rd Global Cell Science and Stem Cell Conference, Budapest, Hungary                                                                                                                                    |
+| 04 Sep 2018 | 精神・神経疾患のリアルタイム制御にむけて、大阪市立大学、部門公開セミナー                                                                                                                                                    |
+| 05 Dec 2018 | 神経精神疾患のリアルタイム制御にむけて、日本薬学会東海支部　特別講演会＠名古屋市立大学                                                                                                                                      |
+| 10 Dec 2018 | Real-time closed-loop interventions of epileptic seizures、生理学研究所　部門公開セミナー                                                                                                                                   |
+| 29 Jul 2019 | オシロセラピューティクス：時間特異的な脳活動介入による疾患制御、大阪市立大学、部門公開セミナー                                                                                                                              |
+| 01 Sep 2019 | 精神病態の行動表現型を生じる神経回路動態の逆問題的解明、新学術領域 「マルチスケール精神病態の構成的理解」 第2回領域会議                                                                                                     |
+| 05 Sep 2019 | オンデマンド脳活動介入によるてんかん発作の制御とその応用、東京女子医科大学、部門公開セミナー                                                                                                                                |
+| 03 Jul 2020 | Revealing neuronal network dynamics underlying behavioral phenotypes of psychiatric disorders by solving inverse problems、新学術領域 「マルチスケール精神病態の構成的理解」 第3回領域会議                                  |
 
 ## 一般講演
-|||
--|-
-02 Sep 2006|	マウス神経因性疼痛モデルにおけるgabapentinの上位中枢を介する脊髄内ノルアドレナリン代謝回転促進作用. 第27回鎮痛薬・オピオイドペプチドシンポジウム (和歌山)
-30 Jun 2012|	末梢感覚神経切断による視床内求心性線維のリモデリング. 生理学若手研究者フォーラム「生体機能への挑戦」(東京).
-28 Nov 2012|	末梢神経切断による視床求心性シナプスのリモデリング、生理研シナプス研究会『神経シナプス伝達の時空間ダイナミクス』.
-24 Aug 2013|	生後発達期マウス視床におけるシナプス刈り込みは体性局在地図の先鋭化を担う. 生理学若手研究者フォーラム「生体機能の解明」(東京)
-2019|	The 28th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology, Hyogo, Japan
+|             |                                                                                                                                                           |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 02 Sep 2006 | マウス神経因性疼痛モデルにおけるgabapentinの上位中枢を介する脊髄内ノルアドレナリン代謝回転促進作用. 第27回鎮痛薬・オピオイドペプチドシンポジウム (和歌山) |
+| 30 Jun 2012 | 末梢感覚神経切断による視床内求心性線維のリモデリング. 生理学若手研究者フォーラム「生体機能への挑戦」(東京).                                               |
+| 28 Nov 2012 | 末梢神経切断による視床求心性シナプスのリモデリング、生理研シナプス研究会『神経シナプス伝達の時空間ダイナミクス』.                                         |
+| 24 Aug 2013 | 生後発達期マウス視床におけるシナプス刈り込みは体性局在地図の先鋭化を担う. 生理学若手研究者フォーラム「生体機能の解明」(東京)                              |
+| 2019        | The 28th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology, Hyogo, Japan                                                              |
 
 ## 学術的教育
-|||
--|-
-2005|	生理科学技術トレーニングコース　パッチクランプ法基礎; National Institute for Physiological Sciences, Okazaki, Japan; Daily practice for 1 wk
-2006|	生理科学技術トレーニングコース　スライスパッチクランプ法; National Institute for Physiological Sciences, Okazaki, Japan; Daily practice for 1 wk
-2013|	光計測と操作による先端脳研究 第１３回生理学若手サマースクール, Tokyo, Japan; 1 day session
-2014|	MATLAB基礎; Mathworks Japan, Tokyo, Japan; 3 day practice  |  
-2014|	Diffusion Tensor Imaging Analysis (Linux introduction/DTI TBSS/DTI tractgraphy); Comprehensive Brain Science Network, Tokyo, Japan; 1 day practice
-2017|	FELASA Accredited Education and Training Course, “Animal experiments theory and practice – level C (Ref No.:035/2014)”, Szeged, Hungary, 80 h lectures and practices
-2018|	Publons Academy
+|      |                                                                                                                                                                      |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2005 | 生理科学技術トレーニングコース　パッチクランプ法基礎; National Institute for Physiological Sciences, Okazaki, Japan; Daily practice for 1 wk                         |
+| 2006 | 生理科学技術トレーニングコース　スライスパッチクランプ法; National Institute for Physiological Sciences, Okazaki, Japan; Daily practice for 1 wk                     |
+| 2013 | 光計測と操作による先端脳研究 第１３回生理学若手サマースクール, Tokyo, Japan; 1 day session                                                                           |
+| 2014 | MATLAB基礎; Mathworks Japan, Tokyo, Japan; 3 day practice                                                                                                            |
+| 2014 | Diffusion Tensor Imaging Analysis (Linux introduction/DTI TBSS/DTI tractgraphy); Comprehensive Brain Science Network, Tokyo, Japan; 1 day practice                   |
+| 2017 | FELASA Accredited Education and Training Course, “Animal experiments theory and practice – level C (Ref No.:035/2014)”, Szeged, Hungary, 80 h lectures and practices |
+| 2018 | Publons Academy                                                                                                                                                      |
 
 # 教育
 ## 学部教育
-|||
--|-
-2010–2013|	赤血球膜抵抗試験・凝固時間測定実習の実施・評価; Tokyo Women’s Medical University; 4th year undergraduate students; 2 ×4-hr sessions per wk for 2 wks
-2010–2013|	スパイロメトリー・肺胞換気実習の実施・評価; Tokyo Women’s Medical University; 2nd year undergraduate students; 2 ×4-hr sessions per wk for 3 wks
-2012|	Problem-Based Learning チュートリアル教育; Tokyo Women’s Medical University; 1st year undergraduate students; 2 × 2-hr sessions per wk for 6 wks
-2012–2013|	スパイロメトリー・肺胞換気実習の実施・評価; Tokyo Women’s Medical University; graduate students for biomedical course; 2 ×2-hr sessions in a day
-2013–2014|	Team-Based Learning チュートリアル教育; Tokyo Women’s Medical University; 1st year undergraduate students; 2 × 2-hr sessions per wk for 6 wks
-2013|	基礎配属学生の研究指導; Tokyo Women’s Medical University; 3rd year undergraduate student (Sawako Kamo); Daily mentorship for 3 wks
-2014|	心筋のイオンチャネルシミュレーター実習の実施・評価; Tokyo Women’s Medical University; 2nd year undergraduate students; 2 ×4-hr sessions per wk for 3 wks
-2015|	Problem-Based Learning チュートリアル教育; Tokyo Women’s Medical University; 1st year undergraduate students; 4 × 2-hr sessions
-2016–2020|	医科生理学セミナー I; University of Szeged; 2nd year undergraduate students; 14 × 2-h sessions during the 1st semester
-2016–2020|	医科生理学セミナー II; University of Szeged; 2nd year undergraduate students; 15 × 2-h sessions during the 2nd semester
-2019–2020|	海外実務訓練指導（豊橋科学技術大学）, University of Szeged; 4th year undergraduate students; 8 weeks full-time
+|           |                                                                                                                                                          |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2010–2013 | 赤血球膜抵抗試験・凝固時間測定実習の実施・評価; Tokyo Women’s Medical University; 4th year undergraduate students; 2 ×4-hr sessions per wk for 2 wks     |
+| 2010–2013 | スパイロメトリー・肺胞換気実習の実施・評価; Tokyo Women’s Medical University; 2nd year undergraduate students; 2 ×4-hr sessions per wk for 3 wks         |
+| 2012      | Problem-Based Learning チュートリアル教育; Tokyo Women’s Medical University; 1st year undergraduate students; 2 × 2-hr sessions per wk for 6 wks         |
+| 2012–2013 | スパイロメトリー・肺胞換気実習の実施・評価; Tokyo Women’s Medical University; graduate students for biomedical course; 2 ×2-hr sessions in a day         |
+| 2013–2014 | Team-Based Learning チュートリアル教育; Tokyo Women’s Medical University; 1st year undergraduate students; 2 × 2-hr sessions per wk for 6 wks            |
+| 2013      | 基礎配属学生の研究指導; Tokyo Women’s Medical University; 3rd year undergraduate student (Sawako Kamo); Daily mentorship for 3 wks                       |
+| 2014      | 心筋のイオンチャネルシミュレーター実習の実施・評価; Tokyo Women’s Medical University; 2nd year undergraduate students; 2 ×4-hr sessions per wk for 3 wks |
+| 2015      | Problem-Based Learning チュートリアル教育; Tokyo Women’s Medical University; 1st year undergraduate students; 4 × 2-hr sessions                          |
+| 2016–2020 | 医科生理学セミナー I; University of Szeged; 2nd year undergraduate students; 14 × 2-h sessions during the 1st semester                                   |
+| 2016–2020 | 医科生理学セミナー II; University of Szeged; 2nd year undergraduate students; 15 × 2-h sessions during the 2nd semester                                  |
+| 2019–2020 | 海外実務訓練指導（豊橋科学技術大学）, University of Szeged; 4th year undergraduate students; 8 weeks full-time                                           |
 
 ## 大学院教育
-|||
--|-
-2013|	機能系専攻実習（疼痛経路の機能・構造評価）の実施・評価; Tokyo Women’s Medical University; Tokyo Women’s Medical University; graduate students; Daily practice for a week
-2012–2014|	社会人大学院生対象の呼吸器系実習（スパイロメトリー・肺胞換気）の実施・評価; 4 × 2-h sessions
+|           |                                                                                                                                                                          |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2013      | 機能系専攻実習（疼痛経路の機能・構造評価）の実施・評価; Tokyo Women’s Medical University; Tokyo Women’s Medical University; graduate students; Daily practice for a week |
+| 2012–2014 | 社会人大学院生対象の呼吸器系実習（スパイロメトリー・肺胞換気）の実施・評価; 4 × 2-h sessions                                                                             |
 
 ## 教育関連論文
 1.	竹内雄一、ハンガリーセゲド大学医学部における生理学教育と日本人留学生、日本生理学雑誌 79 (1): 8-15. 2017 Jan. (Peer Reviewed, Japanese).
 
 ## 教育関連トレーニング
-|||
--|-
-2019|	FAOPS2019 & ADInstruments, Teaching Workshop, Kobe, Japan; Daily practice for two days. Kobe, Japan, March 27-28.
+|      |                                                                                                                   |
+| ---- | ----------------------------------------------------------------------------------------------------------------- |
+| 2019 | FAOPS2019 & ADInstruments, Teaching Workshop, Kobe, Japan; Daily practice for two days. Kobe, Japan, March 27-28. |
 
 ## コードリポジトリ
 1.	**Takeuchi Y** (2017) physiology-examiner v1.0.0 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.583685
@@ -299,81 +299,82 @@ https://doi.org/10.6084/m9.figshare.6160181
 # 一般貢献
 ## 論文査読
 ### Pre-publication Peer Reviews
-|||
--|-
-10 Dec 2017|	Neuroscience Research
-28 Sep 2019|	Neuropsychopharmacology Reports
-13 Nov 2019|	Neuropsychopharmacology Reports
+|             |                                  |
+| ----------- | -------------------------------- |
+| 10 Dec 2017 | Neuroscience Research            |
+| 28 Sep 2019 | Neuropsychopharmacology Reports  |
+| 13 Nov 2019 | Neuropsychopharmacology Reports  |
+| 9 Nov 2020  | Annals of Translational Medicine |
 
 ### Post-publication Peer Reviews
-|||
--|-
-2017 | Publons, https://publons.com/publon/462513/
-02 Jan 2018 |	Publons,	https://publons.com/publon/1605916/
-02 Jan 2018 |	Publons,	https://publons.com/publon/1605917/
-02 Jan 2018 |	Publons,	https://publons.com/publon/1605918/
+|             |                                              |
+| ----------- | -------------------------------------------- |
+| 2017        | Publons, https://publons.com/publon/462513/  |
+| 02 Jan 2018 | Publons,	https://publons.com/publon/1605916/ |
+| 02 Jan 2018 | Publons,	https://publons.com/publon/1605917/ |
+| 02 Jan 2018 | Publons,	https://publons.com/publon/1605918/ |
 
 ### シンポジウム企画
-|||
--|-
-29 Jul 2020 | Symposium: Cutting-edge closed-loop and non-invasive brain stimulation technologies for neurological and psychiatric disorders (1S06a). The Japan Neuroscience Society. The 43rd Annual Meeting of the Japan Neuroscience Society  (Kobe)  29 Jul 2020, (Travel Grant: Brain Science Foundation, 250,000 JPY for Eran Stark), (Travel Grant: The Nagai Foundation Tokyo, 250,000 JPY for Mihály Vöröslakos)
+|             |                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 29 Jul 2020 | Symposium: Cutting-edge closed-loop and non-invasive brain stimulation technologies for neurological and psychiatric disorders (1S06a). The Japan Neuroscience Society. The 43rd Annual Meeting of the Japan Neuroscience Society  (Kobe)  29 Jul 2020, (Travel Grant: Brain Science Foundation, 250,000 JPY for Eran Stark), (Travel Grant: The Nagai Foundation Tokyo, 250,000 JPY for Mihály Vöröslakos) |
 
 ### パネリスト等
-|||
--|-
-29 Mar 2019 |	9th FAOPS Congress, Meet the Lectures, Facilitator
+|             |                                                    |
+| ----------- | -------------------------------------------------- |
+| 29 Mar 2019 | 9th FAOPS Congress, Meet the Lectures, Facilitator |
 
 ## トレーニングコース実施
-|||
--|-
-01 Nov 2008 |	Instructor of Slice Patch-Clamp Training Course; National Institute for Physiological Sciences, Okazaki, Japan; Graduate students and Young researchers; Daily practice for 1 week
+|             |                                                                                                                                                                                    |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01 Nov 2008 | Instructor of Slice Patch-Clamp Training Course; National Institute for Physiological Sciences, Okazaki, Japan; Graduate students and Young researchers; Daily practice for 1 week |
 
 ## 研究指導
 ### テクニシャン指導
-|||
-|-|-|
-|2010–2015|	Supervision of technicians; Tokyo| Women’s Medical University; 1st year undergraduate students; Daily mentorship for 12 months
-|2015–present|	Supervision of technicians; University of Szeged; Daily mentorship for 12 months|
+|              |                                                                                                                               |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| 2010–2015    | Supervision of technicians; Tokyo Women’s Medical University; 1st year undergraduate students; Daily mentorship for 12 months |
+| 2015–present | Supervision of technicians; University of Szeged; Daily mentorship for 12 months                                              |
 
 ### 学部学生指導
-|||
-|-|-|
-2011–2012|	Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)
-2013|	Sawako Kamo; Tokyo Women’s Medical University, School of Medicine
-2016–2017|	Yasuko Takai; Faculty of Medicine, University of Szeged
-2016–2017|	Jun Takai; Faculty of Medicine, University of Szeged
-2016–2020|	Tamás Földi; Faculty of Medicine, University of Szeged
-2016–2020|	Márk Harangozó; Faculty of Medicine, University of Szeged
-2019|	Yusei Nakayama; Faculty of Engineering, Toyohashi University of Technology
-2019|	Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology
+|           |                                                                            |
+| --------- | -------------------------------------------------------------------------- |
+| 2011–2012 | Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)         |
+| 2013      | Sawako Kamo; Tokyo Women’s Medical University, School of Medicine          |
+| 2016–2017 | Yasuko Takai; Faculty of Medicine, University of Szeged                    |
+| 2016–2017 | Jun Takai; Faculty of Medicine, University of Szeged                       |
+| 2016–2020 | Tamás Földi; Faculty of Medicine, University of Szeged                     |
+| 2016–2020 | Márk Harangozó; Faculty of Medicine, University of Szeged                  |
+| 2019      | Yusei Nakayama; Faculty of Engineering, Toyohashi University of Technology |
+| 2019      | Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology    |
 
 ## 大学院生指導
-|||
-|-|-|
-2012–2014|	Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)
-2015–2018|	Mihály Vöröslakos; Faculty of Medicine, University of Szeged
-2015–2018|	Anett Nagy; Faculty of Medicine, University of Szeged
-2017–2020|	Lizeth Pedraza; University of Szeged, Department of Physiology
-2019|	Takashi Kikukawa; Graduate School of Pharmaceutical Sciences, Nagoya City University
-2019-2020|	Lívia Barcsai, Faculty of Medicine, University of Szeged
+|           |                                                                                      |
+| --------- | ------------------------------------------------------------------------------------ |
+| 2012–2014 | Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)                   |
+| 2015–2018 | Mihály Vöröslakos; Faculty of Medicine, University of Szeged                         |
+| 2015–2018 | Anett Nagy; Faculty of Medicine, University of Szeged                                |
+| 2017–2020 | Lizeth Pedraza; University of Szeged, Department of Physiology                       |
+| 2019      | Takashi Kikukawa; Graduate School of Pharmaceutical Sciences, Nagoya City University |
+| 2019-2020 | Lívia Barcsai, Faculty of Medicine, University of Szeged                             |
 
 ## チュートリアル教育
-|||
-|-|-|
-2015–2020|	Tutorial of Medical Physiology I; Hungary Medical Office; 2nd year undergraduate students; 14 × 2-h sessions during the 1st semester
-2015–2020|	Tutorial of Medical Physiology II; Hungary Medical Office; 2nd year undergraduate students; 14 × 2-h sessions during the 2nd semester
-2015–2020|	Tutorial of Medical Pharmacology I; Hungary Medical Office; 4th year undergraduate students; 14 × 2-h sessions during the 1st semester
-2015–2020|	Tutorial of Medical Pharmacology II; Hungary Medical Office; 4th year undergraduate students; 14 × 2-h sessions during the 2nd semester
+|           |                                                                                                                                         |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 2015–2020 | Tutorial of Medical Physiology I; Hungary Medical Office; 2nd year undergraduate students; 14 × 2-h sessions during the 1st semester    |
+| 2015–2020 | Tutorial of Medical Physiology II; Hungary Medical Office; 2nd year undergraduate students; 14 × 2-h sessions during the 2nd semester   |
+| 2015–2020 | Tutorial of Medical Pharmacology I; Hungary Medical Office; 4th year undergraduate students; 14 × 2-h sessions during the 1st semester  |
+| 2015–2020 | Tutorial of Medical Pharmacology II; Hungary Medical Office; 4th year undergraduate students; 14 × 2-h sessions during the 2nd semester |
 
 ## 教務関連委員等
-|||
-|-|-|
-2015|	Segment 2 Tutorial Committee Member	School of Medicine, Tokyo Women’s Medical University
-2015|	Tutorial Committee Organizing Member	School of Medicine, Tokyo Women’s Medical University
+|      |                                                                                           |
+| ---- | ----------------------------------------------------------------------------------------- |
+| 2015 | Segment 2 Tutorial Committee Member	School of Medicine, Tokyo Women’s Medical University  |
+| 2015 | Tutorial Committee Organizing Member	School of Medicine, Tokyo Women’s Medical University |
 
 ## アウトリーチ活動
-|||
-|-|-|
-01 Nov 2008|	Open-lab,	National Institute of Physiological Sciences
-20 Sep 2014|	Open-lab,	School of Medicine, Tokyo Women’s Medical University
-26 Nov 2016|	Open-lab,	Department of Physiology, University of Szeged, Hungary
+|             |                                                                   |
+| ----------- | ----------------------------------------------------------------- |
+| 01 Nov 2008 | Open-lab,	National Institute of Physiological Sciences            |
+| 20 Sep 2014 | Open-lab,	School of Medicine, Tokyo Women’s Medical University    |
+| 26 Nov 2016 | Open-lab,	Department of Physiology, University of Szeged, Hungary |
