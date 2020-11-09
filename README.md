@@ -32,7 +32,7 @@
 | 28 Nov 2005 | Pharmacist	Japan, No. 399397                                                                            |
 | 01 Jan 2016 | Physiology Educator	Physiological Society of Japan, No. 160018                                          |
 | 26 Jan 2017 | FELASA C certificate	Federation of European Laboratory Animal Science Associations, No. 63/2017, 035/14 |
-| 02 Jan 2018 | Certified Peer Reviewer,	Publons Academy                                                                |
+| 02 Jan 2018 | Certified Peer Reviewer, Publons Academy                                                                |
 
 ## 3. Professional Appointments
 |           |                                                                                          |
