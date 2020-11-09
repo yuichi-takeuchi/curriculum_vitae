@@ -1,76 +1,76 @@
 # COVERSHEET
 ## 1. Personal details
-|||
--|-
-First / Surnames | Yuichi TAKEUCHI, Ph.D.
-Nationality | Japan |
-Place of Birth | Aichi, Japan
-Date of Birth | 04 Sep 1982
-Gender | Male
-Office Address | Department of Physiology, Osaka City University Graduate School of Medicine, 1 Chome-4-3, Asahimachi, Abeno-ku, Osaka 545-8585, Japan
-Phone| +81-6-6645-3717
-E-mail| takeuchi.yuichi2@med.osaka-cu.ac.jp
-Website| https://ytake.org/
+|                  |                                                                                                                                       |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| First / Surnames | Yuichi TAKEUCHI, Ph.D.                                                                                                                |
+| Nationality      | Japan                                                                                                                                 |
+| Place of Birth   | Aichi, Japan                                                                                                                          |
+| Date of Birth    | 04 Sep 1982                                                                                                                           |
+| Gender           | Male                                                                                                                                  |
+| Office Address   | Department of Physiology, Osaka City University Graduate School of Medicine, 1 Chome-4-3, Asahimachi, Abeno-ku, Osaka 545-8585, Japan |
+| Phone            | +81-6-6645-3717                                                                                                                       |
+| E-mail           | takeuchi.yuichi2@med.osaka-cu.ac.jp                                                                                                   |
+|   Website| https://ytake.org/
 
 ### Current Appointment
-|||
-|-|-|
-01 Sep 2020–present| Specially-Appointed Lecturer, Osaka City University Graduate School of Medicine
+|                     |                                                                                 |
+| ------------------- | ------------------------------------------------------------------------------- |
+| 01 Sep 2020–present | Specially-Appointed Lecturer, Osaka City University Graduate School of Medicine |
 
 
 ## 2. Education/Qualifications
 ### Degrees
-||||
--|-|-
-2005| B.S. in Pharmaceutical Science| Faculty of Pharmaceutical Sciences, Nagoya City University, Nagoya, Japan
-2007| M.S. in Pharmaceutical Science| Graduate School of Pharmaceutical Sciences, Nagoya City University, Nagoya, Japan
-2010 | Ph.D. in Science| Department of Physiological Sciences, School of Life Science, The Graduate University for Advanced Studies (SOKENDAI), Hayama, Japan
+|      |                                |                                                                                                                                      |
+| ---- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2005 | B.S. in Pharmaceutical Science | Faculty of Pharmaceutical Sciences, Nagoya City University, Nagoya, Japan                                                            |
+| 2007 | M.S. in Pharmaceutical Science | Graduate School of Pharmaceutical Sciences, Nagoya City University, Nagoya, Japan                                                    |
+| 2010 | Ph.D. in Science               | Department of Physiological Sciences, School of Life Science, The Graduate University for Advanced Studies (SOKENDAI), Hayama, Japan |
 
 ### Licensures
-|||
--|-
-28 Nov 2005 | Pharmacist	Japan, No. 399397
-01 Jan 2016 |	Physiology Educator	Physiological Society of Japan, No. 160018
-26 Jan 2017 |	FELASA C certificate	Federation of European Laboratory Animal Science Associations, No. 63/2017, 035/14
-02 Jan 2018 |	Certified Peer Reviewer,	Publons Academy
+|             |                                                                                                         |
+| ----------- | ------------------------------------------------------------------------------------------------------- |
+| 28 Nov 2005 | Pharmacist	Japan, No. 399397                                                                            |
+| 01 Jan 2016 | Physiology Educator	Physiological Society of Japan, No. 160018                                          |
+| 26 Jan 2017 | FELASA C certificate	Federation of European Laboratory Animal Science Associations, No. 63/2017, 035/14 |
+| 02 Jan 2018 | Certified Peer Reviewer,	Publons Academy                                                                |
 
 ## 3. Professional Appointments
-|||
--|-
-2007–2008 |	Research Assistant, National Institute of Physiological Sciences, Okazaki, Japan
-2009–2010 |	Research Fellow,	Japan Society for the Promotion of Science, Tokyo, Japan
-2010–2015 |	Assistant Professor, School of Medicine, Tokyo Women’s Medical University, Tokyo, Japan
-2016 |	Research Fellow, The Uehara Memorial Foundation, Japan
-2015–2020  |  Research Assistant Professor,	Faculty of Medicine, University of Szeged, Szeged, Hungary
+|           |                                                                                          |
+| --------- | ---------------------------------------------------------------------------------------- |
+| 2007–2008 | Research Assistant, National Institute of Physiological Sciences, Okazaki, Japan         |
+| 2009–2010 | Research Fellow,	Japan Society for the Promotion of Science, Tokyo, Japan                |
+| 2010–2015 | Assistant Professor, School of Medicine, Tokyo Women’s Medical University, Tokyo, Japan  |
+| 2016      | Research Fellow, The Uehara Memorial Foundation, Japan                                   |
+| 2015–2020 | Research Assistant Professor,	Faculty of Medicine, University of Szeged, Szeged, Hungary |
 
 ## 4. Other Appointments and Affiliations
 ### Professional Societies
-|||
--|-
-2005–present|	Japanese Pharmacological Society,	Member
-2008–present|	The Japan Neuroscience Society,	Member
-2010–present|	The Physiological Society of Japan,	Member
-2010–present|	Society for Neuroscience,	Member
-2012–present|	Japanese Neural Network Society,	Member
-2015–present|	Asia Pacific Neural Network Society,	Member
+|              |                                             |
+| ------------ | ------------------------------------------- |
+| 2005–present | Japanese Pharmacological Society,	Member    |
+| 2008–present | The Japan Neuroscience Society,	Member      |
+| 2010–present | The Physiological Society of Japan,	Member  |
+| 2010–present | Society for Neuroscience,	Member            |
+| 2012–present | Japanese Neural Network Society,	Member     |
+| 2015–present | Asia Pacific Neural Network Society,	Member |
 
 ### Professional Bodies
-|||
--|-
-18 Mar 2020–present|	The Physiological Society of Japan, Board Member
+|                     |                                                  |
+| ------------------- | ------------------------------------------------ |
+| 18 Mar 2020–present | The Physiological Society of Japan, Board Member |
 
 ## 5. Prizes, Awards and other Honors
-|||
--|-
-2006|	First prize of the entrance exam of the Department of Physiological Sciences, School of Life Sciences, The Graduate University for Advanced Studies
-2007|	A total exemption from repayment of two-year scholarship by outstanding results and fulfills, Japan Student Services Organization
-2009|	Research Fellowship, Japan Society for the Promotion of Science
-2009|	A partial exemption from repayment of two-year scholarship by outstanding results and fulfills, Japan Student Services Organization
-2012|	Research award, Narishige Neuroscience Research Foundation
-2013|	First prize of The Science Research Promotion Fund for young researcher, The Promotion and Mutual Aid Corporation for Private School of Japan
-2013|	Incentive Award for Young Scientist, Physiological Society of Japan
-2016|	Research Fellowship, The Uehara Memorial Foundation
-2019|	Special award for excellent presentation, Annual meeting of Young Neurobehavioral Pharmacologists
+|      |                                                                                                                                                     |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2006 | First prize of the entrance exam of the Department of Physiological Sciences, School of Life Sciences, The Graduate University for Advanced Studies |
+| 2007 | A total exemption from repayment of two-year scholarship by outstanding results and fulfills, Japan Student Services Organization                   |
+| 2009 | Research Fellowship, Japan Society for the Promotion of Science                                                                                     |
+| 2009 | A partial exemption from repayment of two-year scholarship by outstanding results and fulfills, Japan Student Services Organization                 |
+| 2012 | Research award, Narishige Neuroscience Research Foundation                                                                                          |
+| 2013 | First prize of The Science Research Promotion Fund for young researcher, The Promotion and Mutual Aid Corporation for Private School of Japan       |
+| 2013 | Incentive Award for Young Scientist, Physiological Society of Japan                                                                                 |
+| 2016 | Research Fellowship, The Uehara Memorial Foundation                                                                                                 |
+| 2019 | Special award for excellent presentation, Annual meeting of Young Neurobehavioral Pharmacologists                                                   |
 
 # REASEARCH/SCHOLARSHIP
 ## Peer Reviewed Publications
@@ -225,71 +225,71 @@ https://doi.org/10.6084/m9.figshare.6160181
 15.	Revealing neuronal network dynamics underlying behavioral phenotypes of psychiatric disorders by solving inverse problems. JSPS, KAKENHI: Grant-in-Aid for Scientific Research on Innovative Areas (Grant no. 19H05224), Role: PI, Period: 2019–2021, Total cost: 5,720,000 JPY
 
 ## Invited Talks
-|||
--|-
-2012|	Invited speaker, Japan Health Sciences Foundation, Tokyo, Japan
-2014|	Invited symposiast, The 37th Annual Meeting of the Japan Neuroscience Society, Yokohama, Japan
-2015|	Invited speaker, University of Szeged, Szeged, Hungary: F1000Research 2017, 6:350 (slides) http://doi.org/10.7490/f1000research.1113811.1
-2017|	Invited speaker, MathWorks Asia Research Summit 2017, Tokyo, Japan
-2018|	Invited speaker, PCS 3rd Global Cell Science and Stem Cell Conference, Budapest, Hungary
-2018|	Invited speaker, Osaka City University, Osaka, Japan
-2018|	Invited speaker, The Pharmaceutical Society of Japan, Tokai Branch @ Nagoya City University, Nagoya, Japan
-2018|	Invited speaker, Seminar @ National Institute of Physiological Sciences
-2019|	Invited speaker, Seminar @ University of Szeged, Szeged, Hungary
-2019|	Invited speaker, Seminar @ Osaka City University, Osaka, Japan
-2019| Invited speaker, Annual Meeting of MEXT Grant-in-Aid for Scientific Research on Innovative Areas (Multiscale Brain)
-2019|	Invited speaker, Seminar @ Tokyo Women’s Medical University, Tokyo, Japan
-2020| Invited speaker, Annual Meeting of MEXT Grant-in-Aid for Scientific Research on Innovative Areas (Multiscale Brain)
+|      |                                                                                                                                           |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2012 | Invited speaker, Japan Health Sciences Foundation, Tokyo, Japan                                                                           |
+| 2014 | Invited symposiast, The 37th Annual Meeting of the Japan Neuroscience Society, Yokohama, Japan                                            |
+| 2015 | Invited speaker, University of Szeged, Szeged, Hungary: F1000Research 2017, 6:350 (slides) http://doi.org/10.7490/f1000research.1113811.1 |
+| 2017 | Invited speaker, MathWorks Asia Research Summit 2017, Tokyo, Japan                                                                        |
+| 2018 | Invited speaker, PCS 3rd Global Cell Science and Stem Cell Conference, Budapest, Hungary                                                  |
+| 2018 | Invited speaker, Osaka City University, Osaka, Japan                                                                                      |
+| 2018 | Invited speaker, The Pharmaceutical Society of Japan, Tokai Branch @ Nagoya City University, Nagoya, Japan                                |
+| 2018 | Invited speaker, Seminar @ National Institute of Physiological Sciences                                                                   |
+| 2019 | Invited speaker, Seminar @ University of Szeged, Szeged, Hungary                                                                          |
+| 2019 | Invited speaker, Seminar @ Osaka City University, Osaka, Japan                                                                            |
+| 2019 | Invited speaker, Annual Meeting of MEXT Grant-in-Aid for Scientific Research on Innovative Areas (Multiscale Brain)                       |
+| 2019 | Invited speaker, Seminar @ Tokyo Women’s Medical University, Tokyo, Japan                                                                 |
+| 2020 | Invited speaker, Annual Meeting of MEXT Grant-in-Aid for Scientific Research on Innovative Areas (Multiscale Brain)                       |
 
 ## Contributed Talks
-|||
--|-
-2006|	The 27th Annual Meeting of Japanese Narcotics Research Conference, Wakayama, Japan
-2012|	Young Researchers’ Forum of Physiology, Tokyo, Japan
-2012|	National Institute for Physiological Sciences, Okazaki, Japan
-2013|	Young Researchers’ Forum of Physiology, Tokyo, Japan
-2019|	The 28th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology, Hyogo, Japan
+|      |                                                                                              |
+| ---- | -------------------------------------------------------------------------------------------- |
+| 2006 | The 27th Annual Meeting of Japanese Narcotics Research Conference, Wakayama, Japan           |
+| 2012 | Young Researchers’ Forum of Physiology, Tokyo, Japan                                         |
+| 2012 | National Institute for Physiological Sciences, Okazaki, Japan                                |
+| 2013 | Young Researchers’ Forum of Physiology, Tokyo, Japan                                         |
+| 2019 | The 28th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology, Hyogo, Japan |
 
 ## Relevant Experience
-|||
--|-
-2005|	Patch-Clamp Training Course; National Institute for Physiological Sciences, Okazaki, Japan; Daily practice for 1 wk
-2006|	Slice Patch-Clamp Training Course; National Institute for Physiological Sciences, Okazaki, Japan; Daily practice for 1 wk
-2013|	Advanced Brain Research by Optical Measurements and Manipulations; The 13th Summer School of Physiological Society of Japan, Tokyo, Japan; 1 day session
-2014|	Matlab Fundamentals; Mathworks Japan, Tokyo, Japan; 3 day practice
-2014|	Diffusion Tensor Imaging Analysis (Linux introduction/DTI TBSS/DTI tractgraphy); Comprehensive Brain Science Network, Tokyo, Japan; 1 day practice
-2017|	FELASA Accredited Education and Training Course, “Animal experiments theory and practice – level C (Ref No.:035/2014)”, Szeged, Hungary, 80 h lectures and practices
-2018|	Publons Academy
+|      |                                                                                                                                                                      |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2005 | Patch-Clamp Training Course; National Institute for Physiological Sciences, Okazaki, Japan; Daily practice for 1 wk                                                  |
+| 2006 | Slice Patch-Clamp Training Course; National Institute for Physiological Sciences, Okazaki, Japan; Daily practice for 1 wk                                            |
+| 2013 | Advanced Brain Research by Optical Measurements and Manipulations; The 13th Summer School of Physiological Society of Japan, Tokyo, Japan; 1 day session             |
+| 2014 | Matlab Fundamentals; Mathworks Japan, Tokyo, Japan; 3 day practice                                                                                                   |
+| 2014 | Diffusion Tensor Imaging Analysis (Linux introduction/DTI TBSS/DTI tractgraphy); Comprehensive Brain Science Network, Tokyo, Japan; 1 day practice                   |
+| 2017 | FELASA Accredited Education and Training Course, “Animal experiments theory and practice – level C (Ref No.:035/2014)”, Szeged, Hungary, 80 h lectures and practices |
+| 2018 | Publons Academy                                                                                                                                                      |
 
 # TEACHING and TRAINING
 ## Teaching Contributions on Undergraduate Courses
-|||
--|-
-2010–2013|	Practical of Hematology (Osmotic fragility and Coagulation cascade); Tokyo Women’s Medical University; 4th year undergraduate students; 2 ×4-hr sessions per wk for 2 wks
-2010–2013|	Practical of Physiology (Spirometry); Tokyo Women’s Medical University; 2nd year undergraduate students; 2 ×4-hr sessions per wk for 3 wks
-2012|	Tutor of Problem Based Learning; Tokyo Women’s Medical University; 1st year undergraduate students; 2 × 2-hr sessions per wk for 6 wks
-2012–2013|	Practical of Physiology (Spirometry); Tokyo Women’s Medical University; graduate students for biomedical course; 2 ×2-hr sessions in a day
-2013–2014|	Tutor of Team-Based Learning; Tokyo Women’s Medical University; 1st year undergraduate students; 2 × 2-hr sessions per wk for 6 wks
-2013|	Supervision of Basic Medical Research; Tokyo Women’s Medical University; 3rd year undergraduate student (Sawako Kamo); Daily mentorship for 3 wks
-2014|	Practical of Physiology (In silico Simulation of Cardiac Ion Channels); Tokyo Women’s Medical University; 2nd year undergraduate students; 2 ×4-hr sessions per wk for 3 wks
-2015|	Problem-Based Learning; Tokyo Women’s Medical University; 1st year undergraduate students; 4 × 2-hr sessions
-2016–2020|	Medical Physiology Seminar I; University of Szeged; 2nd year undergraduate students; 14 × 2-h sessions during the 1st semester
-2016–2020|	Medical Physiology Seminar II; University of Szeged; 2nd year undergraduate students; 15 × 2-h sessions during the 2nd semester
-2019–2020|	Internship training, University of Szeged; 4th year undergraduate students; 8 weeks full-time
+|           |                                                                                                                                                                              |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2010–2013 | Practical of Hematology (Osmotic fragility and Coagulation cascade); Tokyo Women’s Medical University; 4th year undergraduate students; 2 ×4-hr sessions per wk for 2 wks    |
+| 2010–2013 | Practical of Physiology (Spirometry); Tokyo Women’s Medical University; 2nd year undergraduate students; 2 ×4-hr sessions per wk for 3 wks                                   |
+| 2012      | Tutor of Problem Based Learning; Tokyo Women’s Medical University; 1st year undergraduate students; 2 × 2-hr sessions per wk for 6 wks                                       |
+| 2012–2013 | Practical of Physiology (Spirometry); Tokyo Women’s Medical University; graduate students for biomedical course; 2 ×2-hr sessions in a day                                   |
+| 2013–2014 | Tutor of Team-Based Learning; Tokyo Women’s Medical University; 1st year undergraduate students; 2 × 2-hr sessions per wk for 6 wks                                          |
+| 2013      | Supervision of Basic Medical Research; Tokyo Women’s Medical University; 3rd year undergraduate student (Sawako Kamo); Daily mentorship for 3 wks                            |
+| 2014      | Practical of Physiology (In silico Simulation of Cardiac Ion Channels); Tokyo Women’s Medical University; 2nd year undergraduate students; 2 ×4-hr sessions per wk for 3 wks |
+| 2015      | Problem-Based Learning; Tokyo Women’s Medical University; 1st year undergraduate students; 4 × 2-hr sessions                                                                 |
+| 2016–2020 | Medical Physiology Seminar I; University of Szeged; 2nd year undergraduate students; 14 × 2-h sessions during the 1st semester                                               |
+| 2016–2020 | Medical Physiology Seminar II; University of Szeged; 2nd year undergraduate students; 15 × 2-h sessions during the 2nd semester                                              |
+| 2019–2020 | Internship training, University of Szeged; 4th year undergraduate students; 8 weeks full-time                                                                                |
 
 ## Teaching Contributions on Graduate Courses
-|||
--|-
-2013|	Practical of Pain Research (Formalin test and Immunohistochemistry of spinal sections); Tokyo Women’s Medical University; Tokyo Women’s Medical University; graduate students; Daily practice for a week
-2012–2014|	Practical of Respiratory Medicine for Bio-Medical Curriculum; 4 × 2-h sessions
+|           |                                                                                                                                                                                                          |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2013      | Practical of Pain Research (Formalin test and Immunohistochemistry of spinal sections); Tokyo Women’s Medical University; Tokyo Women’s Medical University; graduate students; Daily practice for a week |
+| 2012–2014 | Practical of Respiratory Medicine for Bio-Medical Curriculum; 4 × 2-h sessions                                                                                                                           |
 
 ## Educational Publications
 1.	**Takeuchi Y** (2017) Physiological Education and Japanese Medical Students in University of Szeged. J Physiol Soc Japan 79: 8-15. (Peer Reviewed, Japanese).
 
 ## Relevant Experience
-|||
--|-
-2019|	FAOPS2019 & ADInstruments, Teaching Workshop, Kobe, Japan; Daily practice for two days. Kobe, Japan, March 27-28.
+|      |                                                                                                                   |
+| ---- | ----------------------------------------------------------------------------------------------------------------- |
+| 2019 | FAOPS2019 & ADInstruments, Teaching Workshop, Kobe, Japan; Daily practice for two days. Kobe, Japan, March 27-28. |
 
 ## Code Repositories
 1.	**Takeuchi Y** (2017) physiology-examiner v1.0.0 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.583685
@@ -301,81 +301,83 @@ https://doi.org/10.6084/m9.figshare.6160181
 # GENERAL CONTRIBUTION
 ## Reviews of Research Articles
 ### Pre-publication Peer Reviews
-|||
--|-
-10 Dec 2017|	Neuroscience Research
-28 Sep 2019|	Neuropsychopharmacology Reports
-13 Nov 2019|	Neuropsychopharmacology Reports
+|             |                                  |
+| ----------- | -------------------------------- |
+| 10 Dec 2017 | Neuroscience Research            |
+| 28 Sep 2019 | Neuropsychopharmacology Reports  |
+| 13 Nov 2019 | Neuropsychopharmacology Reports  |
+| 9 Nov 2020  | Annals of Translational Medicine |
+
 
 ### Post-publication Peer Reviews
-|||
--|-
-2017 | Publons, https://publons.com/publon/462513/
-02 Jan 2018 |	Publons,	https://publons.com/publon/1605916/
-02 Jan 2018 |	Publons,	https://publons.com/publon/1605917/
-02 Jan 2018 |	Publons,	https://publons.com/publon/1605918/
+|             |                                              |
+| ----------- | -------------------------------------------- |
+| 2017        | Publons, https://publons.com/publon/462513/  |
+| 02 Jan 2018 | Publons,	https://publons.com/publon/1605916/ |
+| 02 Jan 2018 | Publons,	https://publons.com/publon/1605917/ |
+| 02 Jan 2018 | Publons,	https://publons.com/publon/1605918/ |
 
 ### Symposium organization etc.
-|||
--|-
-29 Jul 2020 | Symposium: Cutting-edge closed-loop and non-invasive brain stimulation technologies for neurological and psychiatric disorders (1S06a). The Japan Neuroscience Society. The 43rd Annual Meeting of the Japan Neuroscience Society  (Kobe)  29 Jul 2020, (Travel Grant: Brain Science Foundation, 250,000 JPY for Eran Stark), (Travel Grant: The Nagai Foundation Tokyo, 250,000 JPY for Mihály Vöröslakos)
+|             |                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 29 Jul 2020 | Symposium: Cutting-edge closed-loop and non-invasive brain stimulation technologies for neurological and psychiatric disorders (1S06a). The Japan Neuroscience Society. The 43rd Annual Meeting of the Japan Neuroscience Society  (Kobe)  29 Jul 2020, (Travel Grant: Brain Science Foundation, 250,000 JPY for Eran Stark), (Travel Grant: The Nagai Foundation Tokyo, 250,000 JPY for Mihály Vöröslakos) |
 
 ### Panelist etc.
-|||
--|-
-29 Mar 2019 |	9th FAOPS Congress, Meet the Lectures, Facilitator
+|             |                                                    |
+| ----------- | -------------------------------------------------- |
+| 29 Mar 2019 | 9th FAOPS Congress, Meet the Lectures, Facilitator |
 
 ## Research Training Course
-|||
--|-
-01 Nov 2008 |	Instructor of Slice Patch-Clamp Training Course; National Institute for Physiological Sciences, Okazaki, Japan; Graduate students and Young researchers; Daily practice for 1 week
+|             |                                                                                                                                                                                    |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01 Nov 2008 | Instructor of Slice Patch-Clamp Training Course; National Institute for Physiological Sciences, Okazaki, Japan; Graduate students and Young researchers; Daily practice for 1 week |
 
 ## Laboratory Supervisory
 ### Technicians
-|||
-|-|-|
-|2010–2015|	Supervision of technicians; Tokyo| Women’s Medical University; 1st year undergraduate students; Daily mentorship for 12 months
-|2015–present|	Supervision of technicians; University of Szeged; Daily mentorship for 12 months|
+|              |                                                                                  |                                                                                            
+| ------------ | -------------------------------------------------------------------------------- |
+| 2010–2015    | Supervision of technicians; Tokyo Women’s Medical University; 1st year undergraduate students; Daily mentorship for 12 months |
+| 2015–present | Supervision of technicians; University of Szeged; Daily mentorship for 12 months |
 
 ### Undergraduate Students
-|||
-|-|-|
-2011–2012|	Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)
-2013|	Sawako Kamo; Tokyo Women’s Medical University, School of Medicine
-2016–2017|	Yasuko Takai; Faculty of Medicine, University of Szeged
-2016–2017|	Jun Takai; Faculty of Medicine, University of Szeged
-2016–2020|	Tamás Földi; Faculty of Medicine, University of Szeged
-2016–2020|	Márk Harangozó; Faculty of Medicine, University of Szeged
-2019|	Yusei Nakayama; Faculty of Engineering, Toyohashi University of Technology
-2019|	Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology
+|           |                                                                            |
+| --------- | -------------------------------------------------------------------------- |
+| 2011–2012 | Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)         |
+| 2013      | Sawako Kamo; Tokyo Women’s Medical University, School of Medicine          |
+| 2016–2017 | Yasuko Takai; Faculty of Medicine, University of Szeged                    |
+| 2016–2017 | Jun Takai; Faculty of Medicine, University of Szeged                       |
+| 2016–2020 | Tamás Földi; Faculty of Medicine, University of Szeged                     |
+| 2016–2020 | Márk Harangozó; Faculty of Medicine, University of Szeged                  |
+| 2019      | Yusei Nakayama; Faculty of Engineering, Toyohashi University of Technology |
+| 2019      | Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology    |
 
 ## Graduate Students
-|||
-|-|-|
-2012–2014|	Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)
-2015–2018|	Mihály Vöröslakos; Faculty of Medicine, University of Szeged
-2015–2018|	Anett Nagy; Faculty of Medicine, University of Szeged
-2017–2020|	Lizeth Pedraza; University of Szeged, Department of Physiology
-2019|	Takashi Kikukawa; Graduate School of Pharmaceutical Sciences, Nagoya City University
-2019-2020|	Lívia Barcsai, Faculty of Medicine, University of Szeged
+|           |                                                                                      |
+| --------- | ------------------------------------------------------------------------------------ |
+| 2012–2014 | Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)                   |
+| 2015–2018 | Mihály Vöröslakos; Faculty of Medicine, University of Szeged                         |
+| 2015–2018 | Anett Nagy; Faculty of Medicine, University of Szeged                                |
+| 2017–2020 | Lizeth Pedraza; University of Szeged, Department of Physiology                       |
+| 2019      | Takashi Kikukawa; Graduate School of Pharmaceutical Sciences, Nagoya City University |
+| 2019-2020 | Lívia Barcsai, Faculty of Medicine, University of Szeged                             |
 
 ## Teaching Contributions
-|||
-|-|-|
-2015–2020|	Tutorial of Medical Physiology I; Hungary Medical Office; 2nd year undergraduate students; 14 × 2-h sessions during the 1st semester
-2015–2020|	Tutorial of Medical Physiology II; Hungary Medical Office; 2nd year undergraduate students; 14 × 2-h sessions during the 2nd semester
-2015–2020|	Tutorial of Medical Pharmacology I; Hungary Medical Office; 4th year undergraduate students; 14 × 2-h sessions during the 1st semester
-2015–2020|	Tutorial of Medical Pharmacology II; Hungary Medical Office; 4th year undergraduate students; 14 × 2-h sessions during the 2nd semester
+|           |                                                                                                                                         |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 2015–2020 | Tutorial of Medical Physiology I; Hungary Medical Office; 2nd year undergraduate students; 14 × 2-h sessions during the 1st semester    |
+| 2015–2020 | Tutorial of Medical Physiology II; Hungary Medical Office; 2nd year undergraduate students; 14 × 2-h sessions during the 2nd semester   |
+| 2015–2020 | Tutorial of Medical Pharmacology I; Hungary Medical Office; 4th year undergraduate students; 14 × 2-h sessions during the 1st semester  |
+| 2015–2020 | Tutorial of Medical Pharmacology II; Hungary Medical Office; 4th year undergraduate students; 14 × 2-h sessions during the 2nd semester |
 
 ## Teaching Committee and Organization
-|||
-|-|-|
-2015|	Segment 2 Tutorial Committee Member	School of Medicine, Tokyo Women’s Medical University
-2015|	Tutorial Committee Organizing Member	School of Medicine, Tokyo Women’s Medical University
+|      |                                                                                           |
+| ---- | ----------------------------------------------------------------------------------------- |
+| 2015 | Segment 2 Tutorial Committee Member	School of Medicine, Tokyo Women’s Medical University |
+| 2015 | Tutorial Committee Organizing Member	School of Medicine, Tokyo Women’s Medical University |
 
 ## Outreach activities
-|||
-|-|-|
-01 Nov 2008|	Open-lab,	National Institute of Physiological Sciences
-20 Sep 2014|	Open-lab,	School of Medicine, Tokyo Women’s Medical University
-26 Nov 2016|	Open-lab,	Department of Physiology, University of Szeged, Hungary
+|             |                                                                   |
+| ----------- | ----------------------------------------------------------------- |
+| 01 Nov 2008 | Open-lab,	National Institute of Physiological Sciences            |
+| 20 Sep 2014 | Open-lab,	School of Medicine, Tokyo Women’s Medical University    |
+| 26 Nov 2016 | Open-lab,	Department of Physiology, University of Szeged, Hungary |
