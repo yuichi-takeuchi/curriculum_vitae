@@ -55,9 +55,10 @@
 | 2015–present | Asia Pacific Neural Network Society,	Member |
 
 ### Professional Bodies
-|                     |                                                  |
-| ------------------- | ------------------------------------------------ |
-| 18 Mar 2020–present | The Physiological Society of Japan, Board Member |
+|                          |                                                  |
+| ------------------------ | ------------------------------------------------ |
+| 18 Mar 2020–present      | The Physiological Society of Japan, Board Member |
+| 20 Nov 2020–presentation | Front Behav Neurosci, Guest Associate Editor     | 
 
 ## 5. Prizes, Awards and other Honors
 |      |                                                                                                                                                     |
@@ -299,6 +300,13 @@ https://doi.org/10.6084/m9.figshare.6160181
 2. Harangozó M (2018) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése sejtvonalspecifikus ”proxy” ingerléssel. Nov 14th Co-Advisor
 
 # GENERAL CONTRIBUTION
+## Editorial Contributions
+### Research Topic
+|             |                                      |                                                                           |
+| ----------- | ------------------------------------ | ------------------------------------------------------------------------- |
+| 20 Nov 2020 | Frontiers in Behavioral Neuroscience | [Oscillotherapeutics](https://www.frontiersin.org/research-topics/17388/) |
+
+
 ## Reviews of Research Articles
 ### Pre-publication Peer Reviews
 |             |                                  |

@@ -54,9 +54,10 @@
 | 2015 – 現在 | Asia Pacific Neural Network Society,	Member |
 
 ### 委員歴
-|                    |                      |
-| ------------------ | -------------------- |
-| 18 Mar 2020 – 現在 | 日本生理学会　評議員 |
+|                    |                                      |
+| ------------------ | ------------------------------------ |
+| 18 Mar 2020 – 現在 | 日本生理学会　評議員                 |
+| 20 Nov 2020 – 現在 | Front Behav Neurosci、ゲスト編集委員 | 
 
 ## 5. 受賞歴等
 |      |                                              |
@@ -297,6 +298,12 @@ https://doi.org/10.6084/m9.figshare.6160181
 2. Harangozó M (2018) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése sejtvonalspecifikus ”proxy” ingerléssel. Nov 14th Co-Advisor
 
 # 一般貢献
+## 雑誌編集
+### Research Topic
+|             |                                      |                                                                           |
+| ----------- | ------------------------------------ | ------------------------------------------------------------------------- |
+| 20 Nov 2020 | Frontiers in Behavioral Neuroscience | [Oscillotherapeutics](https://www.frontiersin.org/research-topics/17388/) |
+
 ## 論文査読
 ### Pre-publication Peer Reviews
 |             |                                  |
