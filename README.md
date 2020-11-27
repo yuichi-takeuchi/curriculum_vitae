@@ -247,11 +247,11 @@ https://doi.org/10.6084/m9.figshare.6160181
 | ---- | --------------------------------------------------------------------------------------------------------- |
 | 2006 | The 27th Annual Meeting of Japanese Narcotics Research Conference, Wakayama, Japan                        |
 | 2012 | Young Researchers’ Forum of Physiology, Tokyo, Japan                                                      |
-| 2012 | National Institute for Physiological Sciences, Okazaki, Japan                                             |
+| 2012 | Research forum, National Institute for Physiological Sciences, Okazaki, Japan                                             |
 | 2013 | Young Researchers’ Forum of Physiology, Tokyo, Japan                                                      |
 | 2019 | The 28th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology, Hyogo, Japan              |
 | 2020 | The 29th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology, Yokohama, Japan (virtual) |
-| 2020 | National Institute for Physiological Sciences, Okazaki, Japan (virtual)                                   |
+| 2020 | Research forum, National Institute for Physiological Sciences, Okazaki, Japan (virtual)                                   |
 
 ## Relevant Experience
 |      |                                                                                                                                                                      |
