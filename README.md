@@ -94,7 +94,7 @@
 16. Niimi Y, Matsumine H, **Takeuchi Y**, Osaki H, Tsunoda S., Miyata M, Yamato M, Sakurai H, A collagen-coated PGA conduit for interpositional-jump graft with end-to-side neurorrhaphy for treating facial nerve paralysis in rat. Microsurgery 39 (1): 70-80. 08 Jan 2018. DOI: https://doi.org/10.1002/micr.30291
 17. Narushima M, Yagasaki Y, **Takeuchi Y**, Aiba A, Miyata M, The metabotropic glutamate receptor subtype 1 regulates development and maintenance of lemniscal synaptic connectivity in the somatosensory thalamus. PLoS ONE 14 (12): e0226820. 27 Dec 2019. DOI: https://doi.org/10.1371/journal.pone.0226820
 18. Nagumo Y, Ueta Y, Nakayama H, Osaki H, **Takeuchi Y**, Uesaka N, Kano M, Miyata M, Tonic GABAergic inhibition is essential for nerve injury-induced afferent remodeling in the somatosensory thalamus and associated ectopic sensations. Cell Rep 31: 107797. 23 Jun 2020. DOI: https://doi.org/10.1016/j.celrep.2020.107797
-19. **Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Li Q, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. Brain (Oxford), in press
+19. **Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Li Q, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. Brain, in press. DOI: https://doi.org/10.1093/brain/awaa450
 20. Yasunaga H, Takagi T, Shinko D, Nakayama Y, **Takeuchi Y**, Nishikawa A, Loesing A, Ohsawa M, Sekiguchi H, Development of a neural probe integrated with high-efficiency MicroLEDs for in vivo application. Jpn J Appl Phys 60: 016503. 16 Dec 2020.
 
 ### Review
