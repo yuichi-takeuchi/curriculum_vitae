@@ -227,6 +227,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 13.	On-demand transcranial interventions of epileptic seizures. Life Science Foundation, Research Grant, Role: PI, Period: 2019–2020, Total cost: 1,000,000 JPY
 14.	Development of a quantification method of seizure susceptibility using brain-wide electrical spatiotemporal dynamics. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (B) (Grant no.19H03550), Role: PI, Period: 2019–2024, Total cost: 17,160,000 JPY
 15.	Revealing neuronal network dynamics underlying behavioral phenotypes of psychiatric disorders by solving inverse problems. JSPS, KAKENHI: Grant-in-Aid for Scientific Research on Innovative Areas (Grant no. 19H05224), Role: PI, Period: 2019–2021, Total cost: 5,720,000 JPY
+16. Development of a quantification method of seizure susceptibility using brain-wide electrical spatiotemporal dynamics. Japanese Neural Network Society, Research Grant, Role: PI, Period: 2021, Total cost: 300,000 JPY
 
 ## Invited Talks
 |      |                                                                                                                                           |
