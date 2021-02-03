@@ -242,6 +242,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 01 Sep 2019 | 精神病態の行動表現型を生じる神経回路動態の逆問題的解明、新学術領域 「マルチスケール精神病態の構成的理解」 第2回領域会議                                                                                                     |
 | 05 Sep 2019 | オンデマンド脳活動介入によるてんかん発作の制御とその応用、東京女子医科大学、部門公開セミナー                                                                                                                                |
 | 03 Jul 2020 | Revealing neuronal network dynamics underlying behavioral phenotypes of psychiatric disorders by solving inverse problems、新学術領域 「マルチスケール精神病態の構成的理解」 第3回領域会議                                  |
+| 03 Feb 2021 | オンデマンド脳活動介入によるてんかん発作制御とその応用、新潟大学脳研究所、特別例会                                                                                                                                                                         |
 
 ## 一般講演
 |             |                                                                                                                                                           |
