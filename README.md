@@ -96,7 +96,7 @@
 18. Nagumo Y, Ueta Y, Nakayama H, Osaki H, **Takeuchi Y**, Uesaka N, Kano M, Miyata M, Tonic GABAergic inhibition is essential for nerve injury-induced afferent remodeling in the somatosensory thalamus and associated ectopic sensations. Cell Rep 31: 107797. 23 Jun 2020. DOI: https://doi.org/10.1016/j.celrep.2020.107797
 19. Yasunaga H, Takagi T, Shinko D, Nakayama Y, **Takeuchi Y**, Nishikawa A, Loesing A, Ohsawa M, Sekiguchi H, Development of a neural probe integrated with high-efficiency MicroLEDs for in vivo application. Jpn J Appl Phys 60: 016503. 16 Dec 2020. DOI: https://doi.org/10.35848/1347-4065/abcffa
 20. **Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Li Q, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. Brain, awaa450. 27 Jan 2021. DOI: https://doi.org/10.1093/brain/awaa450
-21. Robinson KC, Kemeny LV, Fell GL, Hermann AL, Allouche J, Ding W, Yekkirala A, Hsiao JJ, Su MY, Theodosakis N, Kozák G, **Takeuchi Y**, Shen S, Berényi A, Mao J, Woolf CJ, Fisher DE. Sci Adv, in press.
+21. Robinson KC, Kemeny LV, Fell GL, Hermann AL, Allouche J, Ding W, Yekkirala A, Hsiao JJ, Su MY, Theodosakis N, Kozák G, **Takeuchi Y**, Shen S, Berényi A, Mao J, Woolf CJ, Fisher DE, Reduced MC4R signaling alters nociceptive thresholds associated with red hair. Sci Adv, in press.
 
 ### Review
 1. Tanabe M, Takasu K, **Takeuchi Y**, Ono H, Pain relief by gabapentin and pregabalin via supraspinal mechanisms after peripheral nerve injury. J Neurosci Res 86 (15): 3258-3264. 15 Nov 2008. DOI: https://doi.org/10.1002/jnr.21786
