@@ -166,9 +166,10 @@
 24.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Real-time control of epileptic seizures via on-demand deep brain stimulation. The 28th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology. Hyogo, Japan. Mar 13, 2019. (Abstract No. 3) Symposium
 25.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, A closed-loop proxy-intervention of epileptic seizures. Jisedai-Nou Symposium. Tokyo, Japan. Dec 18-20, 2019. (Byotai No. 7) Poster
 26. **Takeuchi Y**, Time- and space-targeted intervention of brain activities for control of epilepsy. The 29th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology. Yokohama, Japan. 15 Mar 2020. Oral
-27.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epilepsy seizures in rats. The 93th Annual Meeting of the Japan Pharmacological Society. Yokohama, Japan. Mar 16-18, 2020. (Abstract No. 3-O-103) Oral
+27.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epilepsy seizures in rats. The 93rd Annual Meeting of the Japan Pharmacological Society. Yokohama, Japan. Mar 16-18, 2020. (Abstract No. 3-O-103) Oral
 28. Pedraza L, Sierra R, **Takeuchi Y**, Kozák G, Peijin A, Berényi A, Controlling fear expression through closed-loop intervention: Sharp-waves ripples triggering medial forebrain bundle stimulation enhance extinction and induce long-lasting fear attenuation . The 43rd Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 29–Aug 1, 2020.  (Abstract No. 1P-165) Poster
 29. **Takeuchi Y**, On-demand interventions of epileptic seizures and beyond. The 43rd Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 29–Aug 1, 2020.  (Abstract No. 1S06a-03) Oral
+30. **Takeuchi Y**, Closed-loop stimulation of the medial septum terminates epileptic seizures. The 94th Annual Meeting of the Japan Pharmacological Society. Sapporo, Japan. Mar 8–10, 2020. (Abstract No. 3-O-B2-4) Oral
 
 ### 随筆
 1. 竹内雄一、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10-11,  2013
