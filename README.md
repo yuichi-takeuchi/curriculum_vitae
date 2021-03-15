@@ -55,10 +55,11 @@
 | 2015–present | Asia Pacific Neural Network Society,	Member |
 
 ### Professional Bodies
-|                          |                                                  |
-| ------------------------ | ------------------------------------------------ |
-| 18 Mar 2020–present      | The Physiological Society of Japan, Board Member |
-| 20 Nov 2020–presentation | Front Behav Neurosci, Guest Associate Editor     |
+|                     |                                                  |
+| ------------------- | ------------------------------------------------ |
+| 18 Mar 2020–present | The Physiological Society of Japan, Board Member |
+| 20 Nov 2020–present | Front Behav Neurosci, Guest Associate Editor     |
+| 15 Mar 2021–present | Japanese Pharmacological Society, Board Member   | 
 
 ## 5. Prizes, Awards and other Honors
 |      |                                                                                                                                                     |
