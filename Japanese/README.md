@@ -58,7 +58,7 @@
 | ------------------ | ------------------------------------ |
 | 18 Mar 2020 – 現在 | 日本生理学会　評議員                 |
 | 20 Nov 2020 – 現在 | Front Behav Neurosci、ゲスト編集委員 |
-| 15 Mar 2021 – 現在 | 日本薬理学会　学術評議員             | 
+| 15 Mar 2021 – 現在 | 日本薬理学会　学術評議員             |
 
 ## 5. 受賞歴等
 |      |                                              |
@@ -171,6 +171,7 @@
 28. Pedraza L, Sierra R, **Takeuchi Y**, Kozák G, Peijin A, Berényi A, Controlling fear expression through closed-loop intervention: Sharp-waves ripples triggering medial forebrain bundle stimulation enhance extinction and induce long-lasting fear attenuation . The 43rd Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 29–Aug 1, 2020.  (Abstract No. 1P-165) Poster
 29. **Takeuchi Y**, On-demand interventions of epileptic seizures and beyond. The 43rd Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 29–Aug 1, 2020.  (Abstract No. 1S06a-03) Oral
 30. **Takeuchi Y**, Closed-loop stimulation of the medial septum terminates epileptic seizures. The 94th Annual Meeting of the Japan Pharmacological Society. Sapporo, Japan. Mar 8–10, 2020. (Abstract No. 3-O-B2-4) Oral
+31. **Takeuchi Y**, Closed-loop brain stimulation for epileptic seizures and beyond. The 98th Annual Meeting of the Physiological Society of Japan. Nagoya, Japan. Mar 28–30, 2021. (Abstract No. OP15-2) Oral
 
 ### 随筆
 1. 竹内雄一、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10-11,  2013
