@@ -1,3 +1,4 @@
+2021年4月11日現在
 # COVERSHEET
 ## 1. Personal details
 |              |                                                                                          |
@@ -61,11 +62,11 @@
 | 15 Mar 2021 – 現在 | 日本薬理学会　学術評議員             |
 
 ## 5. 受賞歴等
-|      |                                              |
-| ---- | -------------------------------------------- |
-| 2012 | 成茂神経科学研究助成基金　研究賞             |
-| 2013 | 日本生理学会　若手研究者奨励賞               |
-| 2019 | 神経行動薬理若手研究者の集い　優秀発表特別賞 |
+|             |                                              |
+| ----------- | -------------------------------------------- |
+| 20 Sep 2012 | 成茂神経科学研究助成基金　研究賞             |
+| 24 Aug 2013 | 日本生理学会　若手研究者奨励賞               |
+| 13 Mar 2019 | 神経行動薬理若手研究者の集い　優秀発表特別賞 |
 
 # 研究
 ## 学術論文（査読有）
@@ -232,33 +233,33 @@ https://doi.org/10.6084/m9.figshare.6160181
 17. 病気につながる血管周囲の微小炎症を標的とする量子技術とニューロモデュレーション医療による未病時治療法の開発（分担）、令和３–5年度、日本医療研究開発機構 ムーンショット型研究開発事業：ムーンショット目標７、26,000千円
 
 ## 招待講演
-|             |                                                                                                                                                                                                                             |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 09 Aug 2012 | 末梢神経損傷後に生じる脳内神経回路のつなぎ換え機構、ヒューマンサイエンス振興財団 (東京).                                                                                                                                    |
-| 2014        | Invited symposiast, The 37th Annual Meeting of the Japan Neuroscience Society, Yokohama, Japan                                                                                                                              |
-| 2015        | Large-scale Topographical Reorganization via Afferent Fiber Rewiring in the Somatosensory Thalamus of Mice、セゲド大学、部門公開セミナー: F1000Research 2017, 6:350 (slides) http://doi.org/10.7490/f1000research.1113811.1 |
-| 2017        | Invited speaker, MathWorks Asia Research Summit 2017, Tokyo, Japan                                                                                                                                                          |
-| 2018        | Invited speaker, PCS 3rd Global Cell Science and Stem Cell Conference, Budapest, Hungary                                                                                                                                    |
-| 04 Sep 2018 | 精神・神経疾患のリアルタイム制御にむけて、大阪市立大学、部門公開セミナー                                                                                                                                                    |
-| 05 Dec 2018 | 神経精神疾患のリアルタイム制御にむけて、日本薬学会東海支部　特別講演会＠名古屋市立大学                                                                                                                                      |
-| 10 Dec 2018 | Real-time closed-loop interventions of epileptic seizures、生理学研究所　部門公開セミナー                                                                                                                                   |
-| 29 Jul 2019 | オシロセラピューティクス：時間特異的な脳活動介入による疾患制御、大阪市立大学、部門公開セミナー                                                                                                                              |
-| 01 Sep 2019 | 精神病態の行動表現型を生じる神経回路動態の逆問題的解明、新学術領域 「マルチスケール精神病態の構成的理解」 第2回領域会議                                                                                                     |
-| 05 Sep 2019 | オンデマンド脳活動介入によるてんかん発作の制御とその応用、東京女子医科大学、部門公開セミナー                                                                                                                                |
-| 03 Jul 2020 | Revealing neuronal network dynamics underlying behavioral phenotypes of psychiatric disorders by solving inverse problems、新学術領域 「マルチスケール精神病態の構成的理解」 第3回領域会議                                  |
-| 03 Feb 2021 | オンデマンド脳活動介入によるてんかん発作制御とその応用、新潟大学脳研究所、特別例会                                                                                                                                                                         |
+|             |                                                                                                                 |
+| ----------- | --------------------------------------------------------------------------------------------------------------- |
+| 09 Aug 2012 | ヒューマンサイエンス振興財団、東京                                                                              |
+| 11 Sep 2014 | 第37回日本神経科学大会、横浜                                                                                    |
+| 19 Jan 2015 | セゲド大学、部門公開セミナー: F1000Research 2017, 6:350 (slides) http://doi.org/10.7490/f1000research.1113811.1 |
+| 02 Nov 2017 | MathWorks Asia Research Summit 2017, Tokyo, Japan                                                               |
+| 14 Jul 2018 | PCS 3rd Global Cell Science and Stem Cell Conference, Budapest, Hungary                                         |
+| 04 Sep 2018 | 大阪市立大学医学部、部門公開セミナー                                                                            |
+| 05 Dec 2018 | 日本薬学会東海支部　特別講演会＠名古屋市立大学                                                                  |
+| 10 Dec 2018 | 生理学研究所、部門公開セミナー                                                                                  |
+| 29 Jul 2019 | 大阪市立大学医学部、部門公開セミナー                                                                            |
+| 05 Sep 2019 | 東京女子医科大学医学部、部門公開セミナー                                                                        |
+| 03 Feb 2021 | 新潟大学脳研究所、特別例会                                                                                      |
+| 28 Apr 2021 | 京都大学医学部脳機能統合センター、部門公開セミナー                                                              |
+| 28 Jul 2021 | 第44回日本神経科学大会、神戸                                                                                    |
 
 ## 一般講演
-|             |                                                                                                                                                           |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 02 Sep 2006 | マウス神経因性疼痛モデルにおけるgabapentinの上位中枢を介する脊髄内ノルアドレナリン代謝回転促進作用. 第27回鎮痛薬・オピオイドペプチドシンポジウム (和歌山) |
-| 30 Jun 2012 | 末梢感覚神経切断による視床内求心性線維のリモデリング. 生理学若手研究者フォーラム「生体機能への挑戦」(東京).                                               |
-| 28 Nov 2012 | 末梢神経切断による視床求心性シナプスのリモデリング、生理研シナプス研究会『神経シナプス伝達の時空間ダイナミクス』.                                         |
-| 24 Aug 2013 | 生後発達期マウス視床におけるシナプス刈り込みは体性局在地図の先鋭化を担う. 生理学若手研究者フォーラム「生体機能の解明」(東京)                              |
-| 13 Mar 2019 | 第28回神経行動薬理若手研究者の集い（兵庫）                                                                                                                |
-| 18 Mar 2020 | 第29回神経行動薬理若手研究者の集い（横浜）                                                                                                                |
-| 18 Nov 2020 | 生理研研究会 第2回「力学系の視点からの脳・神経回路の理解」                                                                                                |
-| 14 Jan 2021            | 大阪市立大学 第４回 ４研究センター合同セミナー                                                                                                                                                          |
+|             |                                                                        |
+| ----------- | ---------------------------------------------------------------------- |
+| 02 Sep 2006 | 第27回鎮痛薬・オピオイドペプチドシンポジウム、和歌山                   |
+| 30 Jun 2012 | 生理学若手研究者フォーラム「生体機能への挑戦」、東京                   |
+| 28 Nov 2012 | 生理研シナプス研究会『神経シナプス伝達の時空間ダイナミクス』、岡崎     |
+| 24 Aug 2013 | 生理学若手研究者フォーラム「生体機能の解明」、東京                     |
+| 13 Mar 2019 | 第28回神経行動薬理若手研究者の集い、兵庫                               |
+| 18 Mar 2020 | 第29回神経行動薬理若手研究者の集い、横浜                               |
+| 18 Nov 2020 | 生理研研究会 第2回「力学系の視点からの脳・神経回路の理解」、オンライン |
+| 14 Jan 2021 | 大阪市立大学 第４回 ４研究センター合同セミナー、大阪                   |
 
 ## 学術的教育
 |      |                                                                                                                                                                      |
@@ -305,8 +306,11 @@ https://doi.org/10.6084/m9.figshare.6160181
 1.	**Takeuchi Y** (2017) physiology-examiner v1.0.0 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.583685
 
 ## MD/PhDコースアドバイザー
-1. Harangozó M and Földi T (2017) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia rohamainak közvetett csillapítása a neuromodulátoros rendszerek optogenetikai modulációjával. Co-Advisor
-2. Harangozó M (2018) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése sejtvonalspecifikus ”proxy” ingerléssel. Nov 14th Co-Advisor
+1. Harangozó M and Földi T (2017) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia rohamainak közvetett csillapítása a neuromodulátoros rendszerek optogenetikai modulációjával. 15 Nov 2017, Szeged, TDK.  Co-Advisor
+2. Harangozó M (2018) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése sejtvonalspecifikus ”proxy” ingerléssel. 14 Nov 2018, Szeged, TDK. Co-Advisor
+3. Harangozó M (2019) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése sejtvonalspecifikus ”proxy” ingerléssel. 25 Apr 2019, Debrecen, OTDK. Co-Advisor
+4. Harangozó M (2019) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése a mediális szeptum elektromos ingerlésével. 14 Nov 2019, Szeged, TDK. Co-Advisor
+5. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése a mediális szeptum elektromos ingerlésével. 6 Apr 2021, Szeged, OTDK. Co-Advisor
 
 # 一般貢献
 ## 雑誌編集
@@ -350,10 +354,11 @@ https://doi.org/10.6084/m9.figshare.6160181
 
 ## 研究指導
 ### テクニシャン指導
-|              |                                                                                                                               |
-| ------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| 2010–2015    | Supervision of technicians; Tokyo Women’s Medical University; 1st year undergraduate students; Daily mentorship for 12 months |
-| 2015–present | Supervision of technicians; University of Szeged; Daily mentorship for 12 months                                              |
+|           |                                                                                                                               |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 2010–2015 | Supervision of technicians; Tokyo Women’s Medical University; 1st year undergraduate students; Daily mentorship for 12 months |
+| 2015–2020 | Supervision of technicians; University of Szeged; Daily mentorship for 12 months                                              |
+| 2020–2021 | Supervision of technicians; Osaka City University; Daily mentorship for 12 months                                             |
 
 ### 学部学生指導
 |           |                                                                            |
@@ -365,7 +370,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2016–2020 | Tamás Földi; Faculty of Medicine, University of Szeged                     |
 | 2016–2020 | Márk Harangozó; Faculty of Medicine, University of Szeged                  |
 | 2019      | Yusei Nakayama; Faculty of Engineering, Toyohashi University of Technology |
-| 2019      | Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology    |
+| 2020      | Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology    |
 
 ## 大学院生指導
 |           |                                                                                      |
@@ -375,7 +380,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2015–2018 | Anett Nagy; Faculty of Medicine, University of Szeged                                |
 | 2017–2020 | Lizeth Pedraza; University of Szeged, Department of Physiology                       |
 | 2019      | Takashi Kikukawa; Graduate School of Pharmaceutical Sciences, Nagoya City University |
-| 2019-2020 | Lívia Barcsai, Faculty of Medicine, University of Szeged                             |
+| 2019–2020 | Lívia Barcsai, Faculty of Medicine, University of Szeged                             |
 
 ## チュートリアル教育
 |           |                                                                                                                                         |

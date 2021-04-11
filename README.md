@@ -1,3 +1,4 @@
+Updated on 11 Apr 2021
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                                       |
@@ -253,16 +254,16 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2021 | Invited speaker, Seminar @ Brain Research Institute, Niigata University, Niigata, Japan                                                   |
 
 ## Contributed Talks
-|      |                                                                                                           |
-| ---- | --------------------------------------------------------------------------------------------------------- |
-| 2006 | The 27th Annual Meeting of Japanese Narcotics Research Conference, Wakayama, Japan                        |
-| 2012 | Young Researchers’ Forum of Physiology, Tokyo, Japan                                                      |
-| 2012 | Research forum, National Institute for Physiological Sciences, Okazaki, Japan                             |
-| 2013 | Young Researchers’ Forum of Physiology, Tokyo, Japan                                                      |
-| 2019 | The 28th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology, Hyogo, Japan              |
-| 2020 | The 29th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology, Yokohama, Japan (virtual) |
-| 2020 | Research forum, National Institute for Physiological Sciences, Okazaki, Japan (virtual)                   |
-| 2021 | Research forum, Osaka City University, Osaka, Japan                                                       |
+|      |                                                                                                          |
+| ---- | -------------------------------------------------------------------------------------------------------- |
+| 2006 | The 27th Annual Meeting of Japanese Narcotics Research Conference, Wakayama, Japan                       |
+| 2012 | Young Researchers’ Forum of Physiology, Tokyo, Japan                                                     |
+| 2012 | Research forum, National Institute for Physiological Sciences, Okazaki, Japan                            |
+| 2013 | Young Researchers’ Forum of Physiology, Tokyo, Japan                                                     |
+| 2019 | The 28th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology, Hyogo, Japan             |
+| 2020 | The 29th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology, Yokohama, Japan (online) |
+| 2020 | Research forum, National Institute for Physiological Sciences, Okazaki, Japan (online)                   |
+| 2021 | Research forum, Osaka City University, Osaka, Japan                                                      |
 
 ## Relevant Experience
 |      |                                                                                                                                                                      |
@@ -309,8 +310,11 @@ https://doi.org/10.6084/m9.figshare.6160181
 1.	**Takeuchi Y** (2017) physiology-examiner v1.0.0 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.583685
 
 ## MD/PhD course Advisor
-1. Harangozó M and Földi T (2017) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia rohamainak közvetett csillapítása a neuromodulátoros rendszerek optogenetikai modulációjával. Co-Advisor
-2. Harangozó M (2018) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése sejtvonalspecifikus ”proxy” ingerléssel. Nov 14th Co-Advisor
+1. Harangozó M and Földi T (2017) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia rohamainak közvetett csillapítása a neuromodulátoros rendszerek optogenetikai modulációjával. 15 Nov 2017, Szeged, TDK.  Co-Advisor
+2. Harangozó M (2018) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése sejtvonalspecifikus ”proxy” ingerléssel. 14 Nov 2018, Szeged, TDK. Co-Advisor
+3. Harangozó M (2019) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése sejtvonalspecifikus ”proxy” ingerléssel. 25 Apr 2019, Debrecen, OTDK. Co-Advisor
+4. Harangozó M (2019) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése a mediális szeptum elektromos ingerlésével. 14 Nov 2019, Szeged, TDK. Co-Advisor
+5. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése a mediális szeptum elektromos ingerlésével. 6 Apr 2021, Szeged, OTDK. Co-Advisor
 
 # GENERAL CONTRIBUTION
 ## Editorial Contributions
@@ -356,10 +360,11 @@ https://doi.org/10.6084/m9.figshare.6160181
 
 ## Laboratory Supervisory
 ### Technicians
-|              |                                                                                  |                                                                                            
-| ------------ | -------------------------------------------------------------------------------- |
-| 2010–2015    | Supervision of technicians; Tokyo Women’s Medical University; 1st year undergraduate students; Daily mentorship for 12 months |
-| 2015–present | Supervision of technicians; University of Szeged; Daily mentorship for 12 months |
+|           |                                                                                                                               |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 2010–2015 | Supervision of technicians; Tokyo Women’s Medical University; 1st year undergraduate students; Daily mentorship for 12 months |
+| 2015–2020 | Supervision of technicians; University of Szeged; Daily mentorship for 12 months                                              |
+| 2020–2021 | Supervision of technicians; Osaka City University; Daily mentorship for 12 months                                             |
 
 ### Undergraduate Students
 |           |                                                                            |
@@ -371,7 +376,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2016–2020 | Tamás Földi; Faculty of Medicine, University of Szeged                     |
 | 2016–2020 | Márk Harangozó; Faculty of Medicine, University of Szeged                  |
 | 2019      | Yusei Nakayama; Faculty of Engineering, Toyohashi University of Technology |
-| 2019      | Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology    |
+| 2020      | Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology    |
 
 ## Graduate Students
 |           |                                                                                      |
@@ -381,7 +386,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2015–2018 | Anett Nagy; Faculty of Medicine, University of Szeged                                |
 | 2017–2020 | Lizeth Pedraza; University of Szeged, Department of Physiology                       |
 | 2019      | Takashi Kikukawa; Graduate School of Pharmaceutical Sciences, Nagoya City University |
-| 2019-2020 | Lívia Barcsai, Faculty of Medicine, University of Szeged                             |
+| 2019–2020 | Lívia Barcsai, Faculty of Medicine, University of Szeged                             |
 
 ## Teaching Contributions
 |           |                                                                                                                                         |
