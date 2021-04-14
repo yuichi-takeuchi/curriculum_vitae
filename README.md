@@ -280,9 +280,9 @@ https://doi.org/10.6084/m9.figshare.6160181
 ## Teaching Contributions on Undergraduate Courses
 |           |                                                                                                                                                                              |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2010–2013 | Practical of Hematology (Osmotic fragility and Coagulation cascade); Tokyo Women’s Medical University; 4th year undergraduate students; 2 ×4-hr sessions per wk for 2 wks    |
-| 2010–2013 | Practical of Physiology (Spirometry); Tokyo Women’s Medical University; 2nd year undergraduate students; 2 ×4-hr sessions per wk for 3 wks                                   |
-| 2012      | Tutor of Problem Based Learning; Tokyo Women’s Medical University; 1st year undergraduate students; 2 × 2-hr sessions per wk for 6 wks                                       |
+| FY2010–2013 | Practical of Hematology (Osmotic fragility and Coagulation cascade); Tokyo Women’s Medical University; 4th year undergraduate students; 2 ×4-hr sessions per wk for 2 wks    |
+| FY2010–2014 | Practical of Physiology (Spirometry); Tokyo Women’s Medical University; 2nd year undergraduate students; 2 ×4-hr sessions per wk for 3 wks                                   |
+| FY2012      | Tutor of Problem Based Learning; Tokyo Women’s Medical University; 1st year undergraduate students; 2 × 2-hr sessions per wk for 6 wks                                       |
 | 2012–2013 | Practical of Physiology (Spirometry); Tokyo Women’s Medical University; graduate students for biomedical course; 2 ×2-hr sessions in a day                                   |
 | 2013–2014 | Tutor of Team-Based Learning; Tokyo Women’s Medical University; 1st year undergraduate students; 2 × 2-hr sessions per wk for 6 wks                                          |
 | 2013      | Supervision of Basic Medical Research; Tokyo Women’s Medical University; 3rd year undergraduate student (Sawako Kamo); Daily mentorship for 3 wks                            |
@@ -292,29 +292,83 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2016–2020 | Medical Physiology Seminar II; University of Szeged; 2nd year undergraduate students; 15 × 2-h sessions during the 2nd semester                                              |
 | 2019–2020 | Internship training, University of Szeged; 4th year undergraduate students; 8 weeks full-time                                                                                |
 
-## Teaching Contributions on Graduate Courses
-|           |                                                                                                                                                                                                          |
-| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2013      | Practical of Pain Research (Formalin test and Immunohistochemistry of spinal sections); Tokyo Women’s Medical University; Tokyo Women’s Medical University; graduate students; Daily practice for a week |
-| 2012–2014 | Practical of Respiratory Medicine for Bio-Medical Curriculum; 4 × 2-h sessions                                                                                                                           |
-
 ## Educational Publications
 1.	**Takeuchi Y** (2017) Physiological Education and Japanese Medical Students in University of Szeged. J Physiol Soc Japan 79: 8-15. (Peer Reviewed, Japanese).
 
-## Relevant Experience
+
+### Teaching Committee and Organization
+|        |                                                                                           |
+| ------ | ----------------------------------------------------------------------------------------- |
+| FY2015 | Segment 2 Tutorial Committee Member	School of Medicine, Tokyo Women’s Medical University  |
+| FY2015 | Tutorial Committee Organizing Member	School of Medicine, Tokyo Women’s Medical University |
+
+### Undergraduate Students Taught for Research Training
+|           |                                                                            |
+| --------- | -------------------------------------------------------------------------- |
+| FY2011    | Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)         |
+| FY2013    | Sawako Kamo; Tokyo Women’s Medical University, School of Medicine          |
+| 2016      | Yasuko Takai; Faculty of Medicine, University of Szeged                    |
+| 2016      | Jun Takai; Faculty of Medicine, University of Szeged                       |
+| 2016–2020 | Tamás Földi; Faculty of Medicine, University of Szeged                     |
+| 2016–2020 | Márk Harangozó; Faculty of Medicine, University of Szeged                  |
+| FY2019    | Yusei Nakayama; Faculty of Engineering, Toyohashi University of Technology |
+| FY2020    | Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology    |
+
+### Relevant Experience
 |      |                                                                                                                   |
 | ---- | ----------------------------------------------------------------------------------------------------------------- |
 | 2019 | FAOPS2019 & ADInstruments, Teaching Workshop, Kobe, Japan; Daily practice for two days. Kobe, Japan, March 27-28. |
 
-## Code Repositories
+### Educational Code Repositories
 1.	**Takeuchi Y** (2017) physiology-examiner v1.0.0 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.583685
 
-## MD/PhD course Advisor
+### MD/PhD course Advisor
 1. Harangozó M and Földi T (2017) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia rohamainak közvetett csillapítása a neuromodulátoros rendszerek optogenetikai modulációjával. 15 Nov 2017, Szeged, TDK.  Co-Advisor
-2. Harangozó M (2018) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése sejtvonalspecifikus ”proxy” ingerléssel. 14 Nov 2018, Szeged, TDK. Co-Advisor
-3. Harangozó M (2019) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése sejtvonalspecifikus ”proxy” ingerléssel. 25 Apr 2019, Debrecen, OTDK. Co-Advisor
-4. Harangozó M (2019) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése a mediális szeptum elektromos ingerlésével. 14 Nov 2019, Szeged, TDK. Co-Advisor
-5. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése a mediális szeptum elektromos ingerlésével. 6 Apr 2021, Szeged, OTDK. Co-Advisor
+1. Harangozó M (2018) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése sejtvonalspecifikus ”proxy” ingerléssel. 14 Nov 2018, Szeged, TDK. Co-Advisor
+1. Harangozó M (2019) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése sejtvonalspecifikus ”proxy” ingerléssel. 25 Apr 2019, Debrecen, OTDK. Co-Advisor
+1. Harangozó M (2019) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése a mediális szeptum elektromos ingerlésével. 14 Nov 2019, Szeged, TDK. Co-Advisor
+s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése a mediális szeptum elektromos ingerlésével. 6 Apr 2021, Szeged, OTDK. Co-Advisor
+
+## Teaching Contributions on Graduate Courses
+|           |                                                                                                                                                                                                          |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| FY2013      | Practical of Pain Research (Formalin test and Immunohistochemistry of spinal sections); Tokyo Women’s Medical University; Tokyo Women’s Medical University; graduate students; Daily practice for a week |
+| FY2012–2014 | Practical of Respiratory Medicine for Bio-Medical Curriculum; 4 × 2-h sessions                                                                                                                           |
+
+### Graduate Students
+|             |                                                                                      |
+| ----------- | ------------------------------------------------------------------------------------ |
+| FY2012–2013 | Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)                   |
+| 2015–2018   | Mihály Vöröslakos; Faculty of Medicine, University of Szeged                         |
+| 2015–2018   | Anett Nagy; Faculty of Medicine, University of Szeged                                |
+| 2017–2020   | Lizeth Pedraza; University of Szeged, Department of Physiology                       |
+| FY2019      | Takashi Kikukawa; Graduate School of Pharmaceutical Sciences, Nagoya City University |
+| 2019–2020   | Lívia Barcsai, Faculty of Medicine, University of Szeged                             |
+
+## Teaching Materials Prepared
+|             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| FY2010      | Text for Physiology Practice (Blood) @ Tokyo Women's Medial University                                                                                                                                                                                                                                                                                                                                                                                                            |
+| FY2010      | Text for Physiology Practice (Cardiovascular system) @ Tokyo Women's Medial University                                                                                                                                                                                                                                                                                                                                                                                            |
+| FY2010      | Text for Physiology Practice (Respiratory system) @ Tokyo Women's Medial University                                                                                                                                                                                                                                                                                                                                                                                               |
+| FY2012      | Text for Physiology Practice (Respiratory system) @ Tokyo Women's Medial University Graduate School of Medicine                                                                                                                                                                                                                                                                                                                                                                   |
+| FY2013      | Text for Physiology Practice  (Somatosensory system) @ Tokyo Women's Medical University Graduate School of Medicine                                                                                                                                                                                                                                                                                                                                                               |
+| FY2015      | Objectives and Tutor Guide for PBL Tutorial (Physiology) @ Tokyo Women's Medical University                                                                                                                                                                                                                                                                                                                                                                                       |
+| FY2015      | Objectives and Tutor Guide for TBL Tutorial (Physiology) @ Tokyo Women's Medical University                                                                                                                                                                                                                                                                                                                                                                                       |
+| FY2015/2016 | Lecture Slides for Physiology Seminar I  @ University of Szeged: 1: Control theory; 2:Membrane, Receptor, Signal transduction; 3. Autonomic system, Somatic nerves; 4: Muscles; 5: Body fluid, Blood, Immune system; 6: Coagulation, Synapses; 7. Respiration; 8: Heart; 9: Circulation; 10: Kidney.                                                                                                                                                                              |
+| FY2015/2016 | Lecture Slides for Physiology Seminar II @ University of Szeged: 1: Gastrointestinal tract; 2: Nutrition, Energy; 3: Endocrine system 1; 4: Endocrine system 2; 5: Sports physiology, Thermoregulation; 6: Reproduction; 7: Central circulation, Somatosensory system; 8: Hearing, Vision, Chemical senses; 9: Motor system; 10: Hypothalamus, Higher brain functions.                                                                                                            |
+| FY2015/2016 | ecture Slides for Pharmacology Seminar @ University of Szeged: 1: General theory; 2: Autonomic nervous system, Neuromuscular junction, Smooth muscles, NSAIDs; 3: Autacoids, Glucocorticoids, Asthma, Local anesthetics; 4: Chemotherapy I, 5: Chemotherapy II; 6: Central nervous system I; 7: Central nervous system II; 8: Cardiovascular system I; 9: Cardiovascular system II; 10: Diabetes, Hormone, Immunopharmacology, Vitamins; 11: Gastrointestinal system, Toxicology. |
+| FY2016/2017 | Lecture Slides for Orientation of Graduate Theses @ University of Szeged                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+
+## Other Teaching Contributions
+|           |                                                                                                                                         |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 2015–2020 | Tutorial of Medical Physiology I; Hungary Medical Office; 2nd year undergraduate students; 14 × 2-h sessions during the 1st semester    |
+| 2015–2020 | Tutorial of Medical Physiology II; Hungary Medical Office; 2nd year undergraduate students; 14 × 2-h sessions during the 2nd semester   |
+| 2015–2020 | Tutorial of Medical Pharmacology I; Hungary Medical Office; 4th year undergraduate students; 14 × 2-h sessions during the 1st semester  |
+| 2015–2020 | Tutorial of Medical Pharmacology II; Hungary Medical Office; 4th year undergraduate students; 14 × 2-h sessions during the 2nd semester |
+
 
 # GENERAL CONTRIBUTION
 ## Editorial Contributions
@@ -322,7 +376,6 @@ https://doi.org/10.6084/m9.figshare.6160181
 |             |                                      |                                                                           |
 | ----------- | ------------------------------------ | ------------------------------------------------------------------------- |
 | 20 Nov 2020 | Frontiers in Behavioral Neuroscience | [Oscillotherapeutics](https://www.frontiersin.org/research-topics/17388/) |
-
 
 ## Reviews of Research Articles
 ### Pre-publication Peer Reviews
@@ -333,7 +386,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 13 Nov 2019 | Neuropsychopharmacology Reports  |
 | 9 Nov 2020  | Annals of Translational Medicine |
 | 27 Feb 2021 | Translational Neuroscience       |
-
+| 14 Apr 2021 | Translational Neuroscience       |
 
 ### Post-publication Peer Reviews
 |             |                                              |
@@ -365,42 +418,6 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2010–2015 | Supervision of technicians; Tokyo Women’s Medical University; 1st year undergraduate students; Daily mentorship for 12 months |
 | 2015–2020 | Supervision of technicians; University of Szeged; Daily mentorship for 12 months                                              |
 | 2020–2021 | Supervision of technicians; Osaka City University; Daily mentorship for 12 months                                             |
-
-### Undergraduate Students
-|           |                                                                            |
-| --------- | -------------------------------------------------------------------------- |
-| 2011–2012 | Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)         |
-| 2013      | Sawako Kamo; Tokyo Women’s Medical University, School of Medicine          |
-| 2016–2017 | Yasuko Takai; Faculty of Medicine, University of Szeged                    |
-| 2016–2017 | Jun Takai; Faculty of Medicine, University of Szeged                       |
-| 2016–2020 | Tamás Földi; Faculty of Medicine, University of Szeged                     |
-| 2016–2020 | Márk Harangozó; Faculty of Medicine, University of Szeged                  |
-| 2019      | Yusei Nakayama; Faculty of Engineering, Toyohashi University of Technology |
-| 2020      | Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology    |
-
-## Graduate Students
-|           |                                                                                      |
-| --------- | ------------------------------------------------------------------------------------ |
-| 2012–2014 | Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)                   |
-| 2015–2018 | Mihály Vöröslakos; Faculty of Medicine, University of Szeged                         |
-| 2015–2018 | Anett Nagy; Faculty of Medicine, University of Szeged                                |
-| 2017–2020 | Lizeth Pedraza; University of Szeged, Department of Physiology                       |
-| 2019      | Takashi Kikukawa; Graduate School of Pharmaceutical Sciences, Nagoya City University |
-| 2019–2020 | Lívia Barcsai, Faculty of Medicine, University of Szeged                             |
-
-## Teaching Contributions
-|           |                                                                                                                                         |
-| --------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 2015–2020 | Tutorial of Medical Physiology I; Hungary Medical Office; 2nd year undergraduate students; 14 × 2-h sessions during the 1st semester    |
-| 2015–2020 | Tutorial of Medical Physiology II; Hungary Medical Office; 2nd year undergraduate students; 14 × 2-h sessions during the 2nd semester   |
-| 2015–2020 | Tutorial of Medical Pharmacology I; Hungary Medical Office; 4th year undergraduate students; 14 × 2-h sessions during the 1st semester  |
-| 2015–2020 | Tutorial of Medical Pharmacology II; Hungary Medical Office; 4th year undergraduate students; 14 × 2-h sessions during the 2nd semester |
-
-## Teaching Committee and Organization
-|      |                                                                                           |
-| ---- | ----------------------------------------------------------------------------------------- |
-| 2015 | Segment 2 Tutorial Committee Member	School of Medicine, Tokyo Women’s Medical University |
-| 2015 | Tutorial Committee Organizing Member	School of Medicine, Tokyo Women’s Medical University |
 
 ## Outreach activities
 |             |                                                                   |

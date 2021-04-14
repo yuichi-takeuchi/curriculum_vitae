@@ -274,43 +274,93 @@ https://doi.org/10.6084/m9.figshare.6160181
 
 # 教育
 ## 学部教育
-|           |                                                                                                                                                          |
-| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2010–2013 | 赤血球膜抵抗試験・凝固時間測定実習の実施・評価; Tokyo Women’s Medical University; 4th year undergraduate students; 2 ×4-hr sessions per wk for 2 wks     |
-| 2010–2013 | スパイロメトリー・肺胞換気実習の実施・評価; Tokyo Women’s Medical University; 2nd year undergraduate students; 2 ×4-hr sessions per wk for 3 wks         |
-| 2012      | Problem-Based Learning チュートリアル教育; Tokyo Women’s Medical University; 1st year undergraduate students; 2 × 2-hr sessions per wk for 6 wks         |
-| 2012–2013 | スパイロメトリー・肺胞換気実習の実施・評価; Tokyo Women’s Medical University; graduate students for biomedical course; 2 ×2-hr sessions in a day         |
-| 2013–2014 | Team-Based Learning チュートリアル教育; Tokyo Women’s Medical University; 1st year undergraduate students; 2 × 2-hr sessions per wk for 6 wks            |
-| 2013      | 基礎配属学生の研究指導; Tokyo Women’s Medical University; 3rd year undergraduate student (Sawako Kamo); Daily mentorship for 3 wks                       |
-| 2014      | 心筋のイオンチャネルシミュレーター実習の実施・評価; Tokyo Women’s Medical University; 2nd year undergraduate students; 2 ×4-hr sessions per wk for 3 wks |
-| 2015      | Problem-Based Learning チュートリアル教育; Tokyo Women’s Medical University; 1st year undergraduate students; 4 × 2-hr sessions                          |
-| 2016–2020 | 医科生理学セミナー I; University of Szeged; 2nd year undergraduate students; 14 × 2-h sessions during the 1st semester                                   |
-| 2016–2020 | 医科生理学セミナー II; University of Szeged; 2nd year undergraduate students; 15 × 2-h sessions during the 2nd semester                                  |
-| 2019–2020 | 海外実務訓練指導（豊橋科学技術大学）, University of Szeged; 4th year undergraduate students; 8 weeks full-time                                           |
+|             |                                                                                                                                                                                                  |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| FY2010–2013 | 血液・造血器系実習：東京女子医科大学医学部において、赤血球膜抵抗試験・凝固時間測定実習の実施・評価を担当した。 （4～8コマ／年）                                                                  |
+| FY2010–2014 | 呼吸器系１実習：東京女子医科大学医学部において、スパイロメトリー・肺胞換気実習の実施・評価を担当した。（18コマ／年）                                                                             |
+| FY2010–2014 | 循環器系１実習：東京女子医科大学医学部において、心筋のイオンチャネルシミュレーター実習の実施・評価を担当した。（12～18コマ／年）                                                                 |
+| FY2011–2021 | 配属学生の研究指導： 東京女子医科大学およびセゲド大学において、配属医学生の研究指導を担当した。（計6名）                                                                                         |
+| FY2012      | Problem-Based Learning チュートリアル教育： 東京女子医科大学におけるチュートリアル教育の一環として、医学部医学科２年次学生のTBLチュートリアルの担当・実施・評価を行った。（生理学、計8コマ／年） |
+| FY2013–2014 | Team-Based Learning チュートリアル教育：東京女子医科大学におけるチュートリアル教育の一環として、医学部医学科２年次学生のTBLチュートリアルの担当・実施・評価を行った。（生理学、計8コマ／年）     |
+| FY2016–2020 | 医科生理学セミナー I： セゲド大学医学部において、医学部2回生を対象に生理学セミナー（英語コース、前期）を担当した。 14 × 2 h sessions during the 1st semester                                     |
+| FY2016–2020 | 医科生理学セミナー II： セゲド大学医学部において、医学部2回生を対象に生理学セミナー（英語コース、後期）を担当した。 15 × 2 h sessions during the 2nd semester                                    |
+| FY2019–2020 | 海外実務訓練指導（豊橋科学技術大学）：豊橋科学技術大学 電気・電気情報工学系の学部生を短期インターンシップ生として2ヶ月間受け入れ、卒業研究の指導を行った。（計2名）                              |
 
-## 大学院教育
-|           |                                                                                                                                                                          |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2013      | 機能系専攻実習（疼痛経路の機能・構造評価）の実施・評価; Tokyo Women’s Medical University; Tokyo Women’s Medical University; graduate students; Daily practice for a week |
-| 2012–2014 | 社会人大学院生対象の呼吸器系実習（スパイロメトリー・肺胞換気）の実施・評価; 4 × 2-h sessions                                                                             |
+### 教育方法の実践例
+|        |                                                                                                                                                                                                                     |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2017 | セゲド大学における生理学教育の実態調査：ハンガリーセゲド大学医学部における生理学教育を日本の教育と比較するため、現地でアンケート調査を行い、その結果を日本生理学雑誌に寄稿した。日本生理学雑誌 79(1): 8-15, 2017. |
 
-## 教育関連論文
-1.	竹内雄一、ハンガリーセゲド大学医学部における生理学教育と日本人留学生、日本生理学雑誌 79 (1): 8-15. 2017 Jan. (Peer Reviewed, Japanese).
+### 教務関連委員等
+|        |                                                     |
+| ------ | --------------------------------------------------- |
+| FY2015 | Segment 2 チュートリアル委員 東京女子医科大学医学部 |
+| FY2015 | チューター養成委員  東京女子医科大学医学部          |
 
-## 教育関連トレーニング
+### 研究指導した学部学生
+|           |                                                                                               |
+| --------- | --------------------------------------------------------------------------------------------- |
+| FY2011    | 内田萌衣、早稲田大学 先進理工学部、卒業研究指導 (@Tokyo Women’s Medical University)           |
+| FY2013    | 加茂沢子、東京女子医科大学 医学部、基礎配属・研究指導                                         |
+| 2016      | Yasuko Takai; Faculty of Medicine, University of Szeged                                       |
+| 2016      | Jun Takai; Faculty of Medicine, University of Szeged                                          |
+| 2016–2020 | Tamás Földi; Faculty of Medicine, University of Szeged                                        |
+| 2016–2020 | Márk Harangozó; Faculty of Medicine, University of Szeged                                     |
+| FY2019    | 中山雄晟、豊橋科学技術大学 電気・電子情報工学系、インターンシップ受入 (@University of Szeged) |
+| FY2020    | 大屋翔、豊橋科学技術大学 電気・電子情報工学系、インターンシップ受入 (@University of Szeged)   |
+
+### 教育関連トレーニング
 |      |                                                                                                                   |
 | ---- | ----------------------------------------------------------------------------------------------------------------- |
 | 2019 | FAOPS2019 & ADInstruments, Teaching Workshop, Kobe, Japan; Daily practice for two days. Kobe, Japan, March 27-28. |
 
-## コードリポジトリ
+### 教育関連コードリポジトリ
 1.	**Takeuchi Y** (2017) physiology-examiner v1.0.0 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.583685
 
-## MD/PhDコースアドバイザー
+### MD/PhDコース学生の研究指導
 1. Harangozó M and Földi T (2017) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia rohamainak közvetett csillapítása a neuromodulátoros rendszerek optogenetikai modulációjával. 15 Nov 2017, Szeged, TDK.  Co-Advisor
 2. Harangozó M (2018) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése sejtvonalspecifikus ”proxy” ingerléssel. 14 Nov 2018, Szeged, TDK. Co-Advisor
 3. Harangozó M (2019) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése sejtvonalspecifikus ”proxy” ingerléssel. 25 Apr 2019, Debrecen, OTDK. Co-Advisor
 4. Harangozó M (2019) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése a mediális szeptum elektromos ingerlésével. 14 Nov 2019, Szeged, TDK. Co-Advisor
 5. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése a mediális szeptum elektromos ingerlésével. 6 Apr 2021, Szeged, OTDK. Co-Advisor
+
+## 大学院教育
+|             |                                                                                                                                                                               |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| FY2011–2020 | 大学院生の研究指導。東京女子医科大学およびセゲド大学において、医学系大学院生の研究指導を担当した。（計6名）                                                                   |
+| FY2013      | 大学院実習: 東京女子医科大学大学院医学研究科において、機能系専攻実習（疼痛経路の機能・構造評価）の実施・評価を担当した。（30コマ）            |
+| FY2012–2014 | 大学院実習：東京女子医科大学大学院医学研究科において、社会人大学院生対象の呼吸器系実習（スパイロメトリー・肺胞換気）の実施・評価を行った。（4コマ／年） |
+
+### 研究指導した大学院生
+|             |                                                                                          |
+| ----------- | ---------------------------------------------------------------------------------------- |
+| FY2012–2013 | 内田萌衣、早稲田大学 先進理工学研究科、修士研究指導 (@ Tokyo Women’s Medical University) |
+| 2015–2018   | Mihály Vöröslakos; Faculty of Medicine, University of Szeged                             |
+| 2015–2018   | Anett Nagy; Faculty of Medicine, University of Szeged                                    |
+| 2017–2020   | Lizeth Pedraza; University of Szeged, Department of Physiology                           |
+| FY2019      | 菊川孝、名古屋市立大学 大学院薬学研究科、研究指導 (@University of Szeged)                |
+| 2019–2020   | Lívia Barcsai, Faculty of Medicine, University of Szeged                                 |
+
+## 作成した教材
+|             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| FY2010      | 実習書、科目：血液・造血器系実習（東京女子医科大学医学部）。赤血球膜抵抗試験・凝固時間測定等の実習書執筆の部分担当。４年次対象。                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| FY2010      | 実習書、科目：循環器系１実習（東京女子医科大学医学部）。心筋シミュレーター（京都モデル）を用いたシミュレーションの実習書執筆の部分担当。２年次対象。                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| FY2010      | 実習書、科目：呼吸器系１実習（東京女子医科大学医学部）。スパイロメトリー測定の実習書執筆の部分担当。２年次対象。                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| FY2012      | 実習書、科目：呼吸器系実習（東京女子医科大学大学院医学研究科）。スパイロメトリー・肺胞換気の実習書執筆の部分担当。医学研究科大学院生対象。                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| FY2013      | 実習書、科目：機能系専攻実習（東京女子医科大学大学院医学研究科）。疼痛回路の機能・形態解析（ラットのホルマリンテストと脊髄疼痛経路組織標本の免疫組織科学染色）の実習書の部分担当。医学研究科大学院生対象。                                                                                                                                                                                                                                                                                                                                                                       |
+| FY2015      | PBLチュートリアル課題、科目：生理学（東京女子医科大学医学部）。PBLチュートリアル教育における課題作成。２年次対象。                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| FY2015      | TBLチュートリアル課題、科目：生理学（東京女子医科大学医学部）。TBLチュートリアル教育における課題作成。２年次対象。                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| FY2015/2016 | Physiologyセミナー用スライド（前期）、科目： Medical Physiology I (University of Szeged)。生理学前期の講義スライド（10回分）。1: Control theory; 2:Membrane, Receptor, Signal transduction; 3. Autonomic system, Somatic nerves; 4: Muscles; 5: Body fluid, Blood, Immune system; 6: Coagulation, Synapses; 7. Respiration; 8: Heart; 9: Circulation; 10: Kidney. 医学部英語コース２年次対象。                                                                                                                                                                                   |
+| FY2015/2016 | Physiologyセミナー用スライド（後期）、科目： Medical Physiology II (University of Szeged)。生理学後期の講義スライド（10回分）。1: Gastrointestinal tract; 2: Nutrition, Energy; 3: Endocrine system 1; 4: Endocrine system 2; 5: Sports physiology, Thermoregulation; 6: Reproduction; 7: Central circulation, Somatosensory system; 8: Hearing, Vision, Chemical senses; 9: Motor system; 10: Hypothalamus, Higher brain functions. 医学部英語コース２年次対象。                                                                                                                |
+| FY2015/2016 | Pharmacologyセミナー用スライド、科目: Medical Pharmacology (University of Szeged)。薬理学の講義スライド（前後期合わせて11回分）。1: General theory; 2: Autonomic nervous system, Neuromuscular junction, Smooth muscles, NSAIDs; 3: Autacoids, Glucocorticoids, Asthma, Local anesthetics; 4: Chemotherapy I, 5: Chemotherapy II; 6: Central nervous system I; 7: Central nervous system II; 8: Cardiovascular system I; 9: Cardiovascular system II; 10: Diabetes, Hormone, Immunopharmacology, Vitamins; 11: Gastrointestinal system, Toxicology. 医学部英語コース４年次対象。 |
+| FY2016/2017 | 卒業論文・科学論文の書き方講義スライド、科目：卒業論文（University of Szeged）。卒業研究の実施に関するオリエンテーション講義スライド。セゲド大学医学部の4－6年次対象。                                                                                                                                                                                                                                                                                                                                                                                                           |
+
+## その他教育上の能力に関する事項
+|             |                                                                                                                               |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| FY2015–2020 | 生理学セミナー：ハンガリー医科大学事務局において、セゲド大学医学部学生を対象に生理学セミナーを担当した。（100時間／年） |
+| FY2015–2020 | 薬理学セミナー：ハンガリー医科大学事務局において、セゲド大学医学部学生を対象に薬理学セミナーを担当した。（30時間／年）  |
 
 # 一般貢献
 ## 雑誌編集
@@ -326,8 +376,9 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 10 Dec 2017 | Neuroscience Research            |
 | 28 Sep 2019 | Neuropsychopharmacology Reports  |
 | 13 Nov 2019 | Neuropsychopharmacology Reports  |
-| 9 Nov 2020  | Annals of Translational Medicine |
+| 09 Nov 2020 | Annals of Translational Medicine |
 | 27 Feb 2021 | Translational Neuroscience       |
+| 14 Apr 2021 | Translational Neuroscience       |
 
 ### Post-publication Peer Reviews
 |             |                                              |
@@ -359,42 +410,6 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2010–2015 | Supervision of technicians; Tokyo Women’s Medical University; 1st year undergraduate students; Daily mentorship for 12 months |
 | 2015–2020 | Supervision of technicians; University of Szeged; Daily mentorship for 12 months                                              |
 | 2020–2021 | Supervision of technicians; Osaka City University; Daily mentorship for 12 months                                             |
-
-### 学部学生指導
-|           |                                                                            |
-| --------- | -------------------------------------------------------------------------- |
-| 2011–2012 | Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)         |
-| 2013      | Sawako Kamo; Tokyo Women’s Medical University, School of Medicine          |
-| 2016–2017 | Yasuko Takai; Faculty of Medicine, University of Szeged                    |
-| 2016–2017 | Jun Takai; Faculty of Medicine, University of Szeged                       |
-| 2016–2020 | Tamás Földi; Faculty of Medicine, University of Szeged                     |
-| 2016–2020 | Márk Harangozó; Faculty of Medicine, University of Szeged                  |
-| 2019      | Yusei Nakayama; Faculty of Engineering, Toyohashi University of Technology |
-| 2020      | Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology    |
-
-## 大学院生指導
-|           |                                                                                      |
-| --------- | ------------------------------------------------------------------------------------ |
-| 2012–2014 | Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)                   |
-| 2015–2018 | Mihály Vöröslakos; Faculty of Medicine, University of Szeged                         |
-| 2015–2018 | Anett Nagy; Faculty of Medicine, University of Szeged                                |
-| 2017–2020 | Lizeth Pedraza; University of Szeged, Department of Physiology                       |
-| 2019      | Takashi Kikukawa; Graduate School of Pharmaceutical Sciences, Nagoya City University |
-| 2019–2020 | Lívia Barcsai, Faculty of Medicine, University of Szeged                             |
-
-## チュートリアル教育
-|           |                                                                                                                                         |
-| --------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 2015–2020 | Tutorial of Medical Physiology I; Hungary Medical Office; 2nd year undergraduate students; 14 × 2-h sessions during the 1st semester    |
-| 2015–2020 | Tutorial of Medical Physiology II; Hungary Medical Office; 2nd year undergraduate students; 14 × 2-h sessions during the 2nd semester   |
-| 2015–2020 | Tutorial of Medical Pharmacology I; Hungary Medical Office; 4th year undergraduate students; 14 × 2-h sessions during the 1st semester  |
-| 2015–2020 | Tutorial of Medical Pharmacology II; Hungary Medical Office; 4th year undergraduate students; 14 × 2-h sessions during the 2nd semester |
-
-## 教務関連委員等
-|      |                                                                                           |
-| ---- | ----------------------------------------------------------------------------------------- |
-| 2015 | Segment 2 Tutorial Committee Member	School of Medicine, Tokyo Women’s Medical University  |
-| 2015 | Tutorial Committee Organizing Member	School of Medicine, Tokyo Women’s Medical University |
 
 ## アウトリーチ活動
 |             |                                                                   |
