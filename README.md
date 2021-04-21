@@ -251,6 +251,8 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2019 | Invited speaker, Seminar @ Tokyo Women’s Medical University, Tokyo, Japan                                                                 |
 | 2020 | Invited speaker, Annual Meeting of MEXT Grant-in-Aid for Scientific Research on Innovative Areas (Multiscale Brain)                       |
 | 2021 | Invited speaker, Seminar @ Brain Research Institute, Niigata University, Niigata, Japan                                                   |
+| 2021 | Invited speaker, Seminar @ Synchro-Biology, virtual                                                                                       |
+| 2021 | Invited symposiast, The 44th Annual Meeting of the Japan Neuroscience Society, Kobe, Japan                                                | 
 
 ## Contributed Talks
 |      |                                                                                                          |
