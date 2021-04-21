@@ -144,7 +144,6 @@ Updated on 11 Apr 2021
 16.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, A closed-loop proxy-intervention of epileptic seizures. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 89) Poster
 17.	Narushima M, Yagasaki Y, **Takeuchi Y**, Aiba A, Miyata M, The metabotropic glutamate receptor subtype 1 regulates development and maintenance of lemniscal synaptic connectivity through cortical activity in the somatosensory thalamus. FENS Meeting 2020. Glasgow, U. K. Jul 11–15, 2020.
 18. Pedraza L, Sierra R, **Takeuchi Y**, Kozák G, Peijin A, Berényi A, Controlling fear expression through closed-loop intervention: Sharp-waves ripples triggering medial forebrain bundle stimulation enhance extinction and induce long-lasting fear attenuation. FENS Meeting 2020. Glasgow, U. K. Jul 11–15, 2020.
-19.
 
 ### Abstract (Domestic)
 1.	**Takeuchi Y**, Tanabe M, Honda M, Ono H, Gabapentin supraspinally accelerates spinal noradrenalin turnover in a murine neuropathic pain model. The 79th Annual Meeting of The Japanese Pharmacological Society. Yokohama, Japan. Mar 8-10, 2006. (Abstract No. P3K-64) Poster
