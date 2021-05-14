@@ -381,6 +381,12 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | ----------- | ------------------------------------ | ------------------------------------------------------------------------- |
 | 20 Nov 2020 | Frontiers in Behavioral Neuroscience | [Oscillotherapeutics](https://www.frontiersin.org/research-topics/17388/) |
 
+### Handling Editor
+|             |                                      |                                                                      |
+| ----------- | ------------------------------------ | -------------------------------------------------------------------- |
+| 14 May 2021 | Frontiers in Behavioral Neuroscience | [Wada M et al.](https://doi.org/10.3389/fnbeh.2021.680206/)          |
+| 14 May 2021 | Frontiers in Behavioral Neuroscience | [Okonogi T and Sasaki T](https://doi.org/10.3389/fnbeh.2021.698753/) |
+
 ## Reviews of Research Articles
 ### Pre-publication Peer Reviews
 |             |                                  |
