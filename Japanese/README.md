@@ -109,7 +109,8 @@
 5. 竹内雄一、タウ・バイオロジー：神経精神疾患のリアルタイム制御に向けて、細胞 53 (1): 50–53, 2021.1. 北隆館
 
 ### プレプリント
-1.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. bioRxiv 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
+1. **Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. bioRxiv 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
+2. **Takeuchi Y**, Nagy A, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A. The medial septum as a potential target for treating brain disorders associated with oscillopathies. Preprints 2021, 2021050317. DOI: https://doi.org/10.20944/preprints202105.0317.v1
 
 ### 紀要、報告書
 1. 竹内雄一、内田萌衣、宮田麻理子、末梢神経損傷による視床内求心性線維再配線現象の神経解剖学的および機能的解析、東京女子医科大学総合研究所紀要 32: 20-21, 170, 2012年

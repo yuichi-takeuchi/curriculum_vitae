@@ -116,7 +116,8 @@ Updated on 11 Apr 2021
 5. **Takeuchi Y**, Tau biology: Toward real-time control of neuropsychiatric disorders. The cells 53 (1): 50–53. Jan 2021. Hokuryukan. (Invited, Japanese)
 
 ### Preprints
-1.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. bioRxiv 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
+1. **Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. bioRxiv 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
+2. **Takeuchi Y**, Nagy A, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A. The medial septum as a potential target for treating brain disorders associated with oscillopathies. Preprints 2021, 2021050317. DOI: https://doi.org/10.20944/preprints202105.0317.v1
 
 ### Proceedings and Reports
 1.	**Takeuchi Y**, Uchida M, Miyata M, Neuroanatomical and physiological analyses of afferent fiber rewiring in the ventrobasal thalamus of mice after peripheral nerve injury. Proceedings of Tokyo Women’s Medical University Medical Institute 32: 20-21. 2012. (Japanese)
