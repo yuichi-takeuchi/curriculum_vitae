@@ -1,4 +1,4 @@
-2021年4月11日現在
+2021年5月24日現在
 # COVERSHEET
 ## 1. Personal details
 |              |                                                                                          |
@@ -101,12 +101,13 @@
 **Takeuchi Y**, Developmental and peripheral nerve injury-induced changes of afferent synapses in the somatosensory thalamus. The Graduate University for Advanced Studies, Kanagawa, Japan. 24 Mar 2010.
 
 ## その他の出版物
-### 著書
-1. 宮田麻理子、竹内雄一、身体イメージの神経生理学：身体地図のリモデリング、Clinical Neurosci 29 (8): 895-899, 2011.8. 中外医学社
+### 著書等
+1. 宮田麻理子、竹内雄一、身体イメージの神経生理学：身体地図のリモデリング、Clin Neurosci 29 (8): 895-899, 2011.8. 中外医学社
 2. 竹内雄一、てんかんの進歩：てんかん発作のオンデマンド制御法と発作感受性定量法の開発、Medical Science Digest 46 (2): 118-120, 2020.2. 北隆館
 3. 竹内雄一、神経精神疾患のイメージング：精神疾患の行動表現型を生じる神経回路ダイナミクスの解明、Medical Science Digest 46 (6): 906-909, 2020.6. 北隆館
 4. 竹内雄一、神経難病の治療開発update：てんかん発作のオンデマンド介入法と発作感受性定量法の開発、BIO Clinica 35 (9): 771-774, 2020.8. 北隆館
 5. 竹内雄一、タウ・バイオロジー：神経精神疾患のリアルタイム制御に向けて、細胞 53 (1): 50–53, 2021.1. 北隆館
+6. 竹内雄一、動的ヘテラルキー：オシレーション治療、Clin Neurosci 39 (7): in press, 2021.7. 中外医学社
 
 ### プレプリント
 1. **Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. bioRxiv 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
