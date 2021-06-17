@@ -236,6 +236,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 15.	Revealing neuronal network dynamics underlying behavioral phenotypes of psychiatric disorders by solving inverse problems. JSPS, KAKENHI: Grant-in-Aid for Scientific Research on Innovative Areas (Grant no. 19H05224), Role: PI, Period: 2019–2021, Total cost: 5,720,000 JPY
 16. Development of a quantification method of seizure susceptibility using brain-wide electrical spatiotemporal dynamics. Japanese Neural Network Society, Research Grant, Role: PI, Period: 2021, Total cost: 300,000 JPY
 17. Moonshot Goal 7. Japan Agency for Medical Research and Development, Moonshot Research and Development Program, Role: co-PI, Period: 2021–2024, Total cost: 26,000,000 JPY
+18. Osaka City: OCU Strategic Research Grant 2021 for Young Scientists, Identification and regulation of pathological brain activity patterns that govern impulsive/compulsive decision-making. Role: PI, Total cost: 1,000 k JPY
 
 ## Invited Talks
 |      |                                                                                                                                           |
