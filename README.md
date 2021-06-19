@@ -103,7 +103,7 @@ Updated on 14 June 2021
 ### Review
 1. Tanabe M, Takasu K, **Takeuchi Y**, Ono H, Pain relief by gabapentin and pregabalin via supraspinal mechanisms after peripheral nerve injury. J Neurosci Res 86 (15): 3258-3264. 15 Nov 2008. DOI: https://doi.org/10.1002/jnr.21786
 2. **Takeuchi Y**\* and Berényi A\*, Oscillotherapeutics – Time-targeted interventions in epilepsy and beyond. Neurosci Res 152: 87-107. 16 Jan 2020. DOI: https://doi.org/10.1016/j.neures.2020.01.002
-3. **Takeuchi Y**\*, Nagy AJ, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. Front Neural Circuits, *in press*. 14 Jun 2014. DOI: https://doi.org/10.3389/fncir.2021.701080
+3. **Takeuchi Y**\*, Nagy AJ, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. Front Neural Circuits, *in press*. 14 Jun 2021. DOI: https://doi.org/10.3389/fncir.2021.701080
 
 ### Thesis for Doctoral Degree
 **Takeuchi Y**, Developmental and peripheral nerve injury-induced changes of afferent synapses in the somatosensory thalamus. The Graduate University for Advanced Studies, Kanagawa, Japan. 24 Mar 2010.
