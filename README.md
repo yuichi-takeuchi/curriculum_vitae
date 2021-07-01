@@ -115,7 +115,7 @@ Updated on 14 June 2021
 3. **Takeuchi Y**, Imaging of neuropsychiatric disorders: Revealing neuronal network dynamics underlying behavioral phenotypes of psychiatric disorders. Medical Science Digest 46 (6): 906-909. Jun 2020. Hokuryukan. (Invited, Japanese)
 4. **Takeuchi Y**, Updates in novel therapies against neurodegenerative diseases: Development of on-demand interventions of epileptic seizures and a quantitative method of seizure susceptibility. BIO Clinica 35 (9): 771-774. Aug 2020. Hokuryukan. (Invited, Japanese)
 5. **Takeuchi Y**, Tau biology: Toward real-time control of neuropsychiatric disorders. The cells 53 (1): 50–53. Jan 2021. Hokuryukan. (Invited, Japanese)
-6. **Takeuchi Y**, Dynamic heterarchy：Oscillotherapeutics. Clin Neurosci 39 (7): in press. Jul 2021. Chugai-igakusha. (Invited, Japanese)
+6. **Takeuchi Y**, Dynamic heterarchy：Oscillotherapeutics. Clin Neurosci 39 (7): 847–851. Jul 2021. Chugai-igakusha. (Invited, Japanese)
 
 ### Preprints
 1. **Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. bioRxiv 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
