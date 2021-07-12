@@ -238,7 +238,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 17. Moonshot Goal 7. Japan Agency for Medical Research and Development, Moonshot Research and Development Program, Role: co-PI, Period: 2021–2024, Total cost: 26,000,000 JPY
 18. Identification and regulation of pathological brain activity patterns that govern impulsive/compulsive decision-making. Osaka City: OCU Strategic Research Grant 2021 for Young Scientists, Role: PI, Total cost: 1,000 k JPY
 19. On-demand intervention of brain activities for controlling epilepsy. Takeda Science Foundation. Role: PI, Total cost: 1,000 k JPY
-20. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Pioneering), Role: co-PI, Period: 2021–2023, Total cost: 150,000 JPY
+20. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Pioneering) (Grant no. 21K19745), Role: co-PI, Period: 2021–2023, Total cost: 150,000 JPY
 
 ## Invited Talks
 |      |                                                                                                                                           |
