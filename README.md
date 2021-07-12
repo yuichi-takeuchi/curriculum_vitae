@@ -260,6 +260,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2021 | Invited speaker, Seminar @ Human Brain Research Center, Kyoto University, Kyoto, Japan                                                    |
 | 2021 | Invited speaker, Seminar @ Synchro-Biology, virtual                                                                                       |
 | 2021 | Invited symposiast, The 44th Annual Meeting of the Japan Neuroscience Society, Kobe, Japan                                                |
+| 2021 | Invited symposiast, The 51st Annual Meeting of the Japanese Society of Clinical Neurophysiology, Sendai, Japan                                                                                                                                          |
 
 
 ## Contributed Talks
