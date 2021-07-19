@@ -392,6 +392,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | ----------- | ------------------------------------ | -------------------------------------------------------------------- |
 | 14 May 2021 | Frontiers in Behavioral Neuroscience | [Wada M et al.](https://doi.org/10.3389/fnbeh.2021.680206/)          |
 | 14 May 2021 | Frontiers in Behavioral Neuroscience | [Okonogi T and Sasaki T](https://doi.org/10.3389/fnbeh.2021.698753/) |
+| 28 Jun 2021 | Frontiers in Behavioral Neuroscience | [Tomar A et al.](https://doi.org/10.3389/fnbeh.2021.710725)          |
 
 ## Reviews of Research Articles
 ### Pre-publication Peer Reviews

@@ -383,6 +383,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | ----------- | ------------------------------------ | -------------------------------------------------------------------- |
 | 14 May 2021 | Frontiers in Behavioral Neuroscience | [Wada M et al.](https://doi.org/10.3389/fnbeh.2021.680206/)          |
 | 14 May 2021 | Frontiers in Behavioral Neuroscience | [Okonogi T and Sasaki T](https://doi.org/10.3389/fnbeh.2021.698753/) |
+| 28 Jun 2021 | Frontiers in Behavioral Neuroscience | [Tomar A et al.](https://doi.org/10.3389/fnbeh.2021.710725)          |
 
 ## 論文査読
 ### Pre-publication Peer Reviews
