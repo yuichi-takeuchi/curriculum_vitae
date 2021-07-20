@@ -364,6 +364,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2015/2016 | Physiologyセミナー用スライド（後期）、科目： Medical Physiology II (University of Szeged)。生理学後期の講義スライド（10回分）。1: Gastrointestinal tract; 2: Nutrition, Energy; 3: Endocrine system 1; 4: Endocrine system 2; 5: Sports physiology, Thermoregulation; 6: Reproduction; 7: Central circulation, Somatosensory system; 8: Hearing, Vision, Chemical senses; 9: Motor system; 10: Hypothalamus, Higher brain functions. 医学部英語コース２年次対象。                                                                                                                |
 | FY2015/2016 | Pharmacologyセミナー用スライド、科目: Medical Pharmacology (University of Szeged)。薬理学の講義スライド（前後期合わせて11回分）。1: General theory; 2: Autonomic nervous system, Neuromuscular junction, Smooth muscles, NSAIDs; 3: Autacoids, Glucocorticoids, Asthma, Local anesthetics; 4: Chemotherapy I, 5: Chemotherapy II; 6: Central nervous system I; 7: Central nervous system II; 8: Cardiovascular system I; 9: Cardiovascular system II; 10: Diabetes, Hormone, Immunopharmacology, Vitamins; 11: Gastrointestinal system, Toxicology. 医学部英語コース４年次対象。 |
 | FY2016/2017 | 卒業論文・科学論文の書き方講義スライド、科目：卒業論文（University of Szeged）。卒業研究の実施に関するオリエンテーション講義スライド。セゲド大学医学部の4－6年次対象。                                                                                                                                                                                                                                                                                                                                                                                                           |
+| FY2021      | 脳科学入門（IV)「脳の分子生物学」、先端脳科学研究の講義スライド                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 
 
 ## その他教育上の能力に関する事項
 |             |                                                                                                                               |
@@ -384,7 +385,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 14 May 2021 | Frontiers in Behavioral Neuroscience | [Wada M et al.](https://doi.org/10.3389/fnbeh.2021.680206/)          |
 | 14 May 2021 | Frontiers in Behavioral Neuroscience | [Okonogi T and Sasaki T](https://doi.org/10.3389/fnbeh.2021.698753/) |
 | 28 Jun 2021 | Frontiers in Behavioral Neuroscience | [Tomar A et al.](https://doi.org/10.3389/fnbeh.2021.710725)          |
-| 19 Jul 2021 | Frontiers in Human Neuroscience      | [Nakajima A et al.](https://doi.org/10.3389/fnhum.2021.702961)       | 
+| 19 Jul 2021 | Frontiers in Human Neuroscience      | [Nakajima A et al.](https://doi.org/10.3389/fnhum.2021.702961)       |
 
 ## 論文査読
 ### Pre-publication Peer Reviews
