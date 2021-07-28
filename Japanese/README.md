@@ -1,4 +1,4 @@
-2021年7月10日現在
+2021年7月28日現在
 # COVERSHEET
 ## 1. Personal details
 |              |                                                                                          |
@@ -176,6 +176,7 @@
 29. **Takeuchi Y**, On-demand interventions of epileptic seizures and beyond. The 43rd Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 29–Aug 1, 2020.  (Abstract No. 1S06a-03) Oral
 30. **Takeuchi Y**, Closed-loop stimulation of the medial septum terminates epileptic seizures. The 94th Annual Meeting of the Japan Pharmacological Society. Sapporo, Japan. Mar 8–10, 2020. (Abstract No. 3-O-B2-4) Oral
 31. **Takeuchi Y**, Closed-loop brain stimulation for epileptic seizures and beyond. The 98th Annual Meeting of the Physiological Society of Japan. Nagoya, Japan. Mar 28–30, 2021. (Abstract No. OP15-2) Oral
+32. **Takeuchi Y**, Closed-loop stimulation of the medial septum terminates epileptic seizures. The 44th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 28–31, 2021. (Abstract No. 1S04m-3) Symposium
 
 ### 随筆
 1. 竹内雄一、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10-11,  2013
@@ -364,7 +365,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2015/2016 | Physiologyセミナー用スライド（後期）、科目： Medical Physiology II (University of Szeged)。生理学後期の講義スライド（10回分）。1: Gastrointestinal tract; 2: Nutrition, Energy; 3: Endocrine system 1; 4: Endocrine system 2; 5: Sports physiology, Thermoregulation; 6: Reproduction; 7: Central circulation, Somatosensory system; 8: Hearing, Vision, Chemical senses; 9: Motor system; 10: Hypothalamus, Higher brain functions. 医学部英語コース２年次対象。                                                                                                                |
 | FY2015/2016 | Pharmacologyセミナー用スライド、科目: Medical Pharmacology (University of Szeged)。薬理学の講義スライド（前後期合わせて11回分）。1: General theory; 2: Autonomic nervous system, Neuromuscular junction, Smooth muscles, NSAIDs; 3: Autacoids, Glucocorticoids, Asthma, Local anesthetics; 4: Chemotherapy I, 5: Chemotherapy II; 6: Central nervous system I; 7: Central nervous system II; 8: Cardiovascular system I; 9: Cardiovascular system II; 10: Diabetes, Hormone, Immunopharmacology, Vitamins; 11: Gastrointestinal system, Toxicology. 医学部英語コース４年次対象。 |
 | FY2016/2017 | 卒業論文・科学論文の書き方講義スライド、科目：卒業論文（University of Szeged）。卒業研究の実施に関するオリエンテーション講義スライド。セゲド大学医学部の4－6年次対象。                                                                                                                                                                                                                                                                                                                                                                                                           |
-| FY2021      | 脳科学入門（IV)「脳の分子生物学」、先端脳科学研究の講義スライド                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 
+| FY2021      | 脳科学入門（IV)「脳の分子生物学」、先端脳科学研究の講義スライド                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 ## その他教育上の能力に関する事項
 |             |                                                                                                                               |

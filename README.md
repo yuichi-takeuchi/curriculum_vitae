@@ -1,4 +1,4 @@
-Updated on 12 July 2021
+Updated on 28 Jul 2021
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                                       |
@@ -180,6 +180,7 @@ Updated on 12 July 2021
 29. **Takeuchi Y**, On-demand interventions of epileptic seizures and beyond. The 43rd Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 29–Aug 1, 2020.  (Abstract No. 1S06a-03) Oral
 30. **Takeuchi Y**, Closed-loop stimulation of the medial septum terminates epileptic seizures. The 94th Annual Meeting of the Japan Pharmacological Society. Sapporo, Japan. Mar 8–10, 2021. (Abstract No. 3-O-B2-4) Oral
 31. **Takeuchi Y**, Closed-loop brain stimulation for epileptic seizures and beyond. The 98th Annual Meeting of the Physiological Society of Japan. Nagoya, Japan. Mar 28–30, 2021. (Abstract No. OP15-2) Oral
+32. **Takeuchi Y**, Closed-loop stimulation of the medial septum terminates epileptic seizures. The 44th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 28–31, 2021. (Abstract No. 1S04m-3) Symposium
 
 ### Scientific Essays
 1.	**Takeuchi Y** (2013) Report of the 36th Annual Meeting of Japanese Neuroscience Society. Neuroscience News of the Japan Neuroscience Society 195: 10. (Japanese)
