@@ -1,4 +1,4 @@
-Updated on 28 Jul 2021
+Updated on 01 Aug 2021
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                                       |
@@ -8,15 +8,15 @@ Updated on 28 Jul 2021
 | Place of Birth   | Aichi, Japan                                                                                                                          |
 | Date of Birth    | 04 Sep 1982                                                                                                                           |
 | Gender           | Male                                                                                                                                  |
-| Office Address   | Department of Physiology, Osaka City University Graduate School of Medicine, 1 Chome-4-3, Asahimachi, Abeno-ku, Osaka 545-8585, Japan |
-| Phone            | +81-6-6645-3717                                                                                                                       |
-| E-mail           | takeuchi.yuichi2@med.osaka-cu.ac.jp                                                                                                   |
+| Office Address   | Department of Pharmacology, Graduate School of Pharmaceutical Sciences, Nishi 6 Chome, Kita 12 Jo, Kita Ward, Sapporo, Hokkaido 060-0812, Japan |
+| Phone            | +81-01-706-3246                                                                                                                       |
+| E-mail           | yuichi-takeuchi@umin.net                                                                                                   |
 |   Website| https://ytake.org/
 
 ### Current Appointment
-|                     |                                                                                 |
-| ------------------- | ------------------------------------------------------------------------------- |
-| 01 Sep 2020–present | Specially-Appointed Lecturer, Osaka City University Graduate School of Medicine |
+|                     |                                                                                       |
+| ------------------- | ------------------------------------------------------------------------------------- |
+| 01 Aug 2021–present | Associated Professor, Graduate School of Pharmaceutical Sciences, Hokkaido University |
 
 
 ## 2. Education/Qualifications
@@ -43,6 +43,7 @@ Updated on 28 Jul 2021
 | 2010–2015 | Assistant Professor, School of Medicine, Tokyo Women’s Medical University, Tokyo, Japan  |
 | 2016      | Research Fellow, The Uehara Memorial Foundation, Japan                                   |
 | 2015–2020 | Research Assistant Professor,	Faculty of Medicine, University of Szeged, Szeged, Hungary |
+| 2020–2021 | Specially-Appointed Lecturer, Osaka City University Graduate School of Medicine           |
 
 ## 4. Other Appointments and Affiliations
 ### Professional Societies
