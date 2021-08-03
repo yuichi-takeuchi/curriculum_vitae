@@ -1,17 +1,18 @@
 Updated on 01 Aug 2021
 # COVERSHEET
 ## 1. Personal details
-|                  |                                                                                                                                       |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| First / Surnames | Yuichi TAKEUCHI, Ph.D.                                                                                                                |
-| Nationality      | Japan                                                                                                                                 |
-| Place of Birth   | Aichi, Japan                                                                                                                          |
-| Date of Birth    | 04 Sep 1982                                                                                                                           |
-| Gender           | Male                                                                                                                                  |
+|                  |                                                                                                                                                 |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| First / Surnames | Yuichi TAKEUCHI, Ph.D.                                                                                                                          |
+| Nationality      | Japan                                                                                                                                           |
+| Place of Birth   | Aichi, Japan                                                                                                                                    |
+| Date of Birth    | 04 Sep 1982                                                                                                                                     |
+| Gender           | Male                                                                                                                                            |
 | Office Address   | Department of Pharmacology, Graduate School of Pharmaceutical Sciences, Nishi 6 Chome, Kita 12 Jo, Kita Ward, Sapporo, Hokkaido 060-0812, Japan |
-| Phone            | +81-01-706-3246                                                                                                                       |
-| E-mail           | yuichi-takeuchi@umin.net                                                                                                   |
-|   Website| https://ytake.org/
+| Phone            | +81-11-706-3248                                                                                                                                 |
+| Fax              | +81-11-706-4987                                                                                                                                 |
+| E-mail           | ytake@pharm.hokudai.ac.jp                                                                                                                       |
+| Website          | https://ytake.org/                                                                                                                              |
 
 ### Current Appointment
 |                     |                                                                                       |
