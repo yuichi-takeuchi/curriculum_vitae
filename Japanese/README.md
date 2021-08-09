@@ -337,11 +337,13 @@ https://doi.org/10.6084/m9.figshare.6160181
 5. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése a mediális szeptum elektromos ingerlésével. 6 Apr 2021, Szeged, OTDK. Co-Advisor
 
 ## 大学院教育
-|             |                                                                                                                                                                               |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| FY2011–2020 | 大学院生の研究指導。東京女子医科大学およびセゲド大学において、医学系大学院生の研究指導を担当した。（計6名）                                                                   |
-| FY2013      | 大学院実習: 東京女子医科大学大学院医学研究科において、機能系専攻実習（疼痛経路の機能・構造評価）の実施・評価を担当した。（30コマ）            |
+|             |                                                                                                                                                         |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| FY2011–2020 | 大学院生の研究指導。東京女子医科大学およびセゲド大学において、医学系大学院生の研究指導を担当した。（計6名）                                             |
+| FY2013      | 大学院実習: 東京女子医科大学大学院医学研究科において、機能系専攻実習（疼痛経路の機能・構造評価）の実施・評価を担当した。（30コマ）                      |
 | FY2012–2014 | 大学院実習：東京女子医科大学大学院医学研究科において、社会人大学院生対象の呼吸器系実習（スパイロメトリー・肺胞換気）の実施・評価を行った。（4コマ／年） |
+| FY2021      | 脳科学入門＠北海道大学大学院薬学研究院                                                                                                                  |
+| FY2021      | 医療薬学特論＠北海道大学大学院薬学研究院                                                                                                                                                        |
 
 ### 研究指導した大学院生
 |             |                                                                                          |
@@ -368,6 +370,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2015/2016 | Pharmacologyセミナー用スライド、科目: Medical Pharmacology (University of Szeged)。薬理学の講義スライド（前後期合わせて11回分）。1: General theory; 2: Autonomic nervous system, Neuromuscular junction, Smooth muscles, NSAIDs; 3: Autacoids, Glucocorticoids, Asthma, Local anesthetics; 4: Chemotherapy I, 5: Chemotherapy II; 6: Central nervous system I; 7: Central nervous system II; 8: Cardiovascular system I; 9: Cardiovascular system II; 10: Diabetes, Hormone, Immunopharmacology, Vitamins; 11: Gastrointestinal system, Toxicology. 医学部英語コース４年次対象。 |
 | FY2016/2017 | 卒業論文・科学論文の書き方講義スライド、科目：卒業論文（University of Szeged）。卒業研究の実施に関するオリエンテーション講義スライド。セゲド大学医学部の4－6年次対象。                                                                                                                                                                                                                                                                                                                                                                                                           |
 | FY2021      | 脳科学入門（IV)「脳の分子生物学」、先端脳科学研究の講義スライド                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| FY2021      | 医療薬学特論＠北海道大学大学院薬学研究院の講義スライド                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 ## その他教育上の能力に関する事項
 |             |                                                                                                                               |
