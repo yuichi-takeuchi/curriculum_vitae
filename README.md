@@ -375,7 +375,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | FY2015/2016 | ecture Slides for Pharmacology Seminar @ University of Szeged: 1: General theory; 2: Autonomic nervous system, Neuromuscular junction, Smooth muscles, NSAIDs; 3: Autacoids, Glucocorticoids, Asthma, Local anesthetics; 4: Chemotherapy I, 5: Chemotherapy II; 6: Central nervous system I; 7: Central nervous system II; 8: Cardiovascular system I; 9: Cardiovascular system II; 10: Diabetes, Hormone, Immunopharmacology, Vitamins; 11: Gastrointestinal system, Toxicology. |
 | FY2016/2017 | Lecture Slides for Orientation of Graduate Theses @ University of Szeged                                                                                                                                                                                                                                                                                                                                                                                                          |
 | FY2021      | Lecture Slides of Primer of Neuroscience (IV) for Graduate School of Hokkaido University                                                                                                                                                                                                                                                                                                                                                                                          |
-| FY2021      | Lecture Slides for Clinical Pharmacy for Graduate School of Hokkaido University                                                                                                                                                                                                                                                                                                                                                                                                   | 
+| FY2021      | Lecture Slides for Clinical Pharmacy for Graduate School of Hokkaido University                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 
 ## Other Teaching Contributions
@@ -397,8 +397,8 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 ### Handling Editor
 |             |                                      |                                                                      |
 | ----------- | ------------------------------------ | -------------------------------------------------------------------- |
-| 14 May 2021 | Frontiers in Behavioral Neuroscience | [Wada M et al.](https://doi.org/10.3389/fnbeh.2021.680206/)          |
-| 14 May 2021 | Frontiers in Behavioral Neuroscience | [Okonogi T and Sasaki T](https://doi.org/10.3389/fnbeh.2021.698753/) |
+| 14 May 2021 | Frontiers in Behavioral Neuroscience | [Wada M et al.](https://doi.org/10.3389/fnbeh.2021.680206)          |
+| 14 May 2021 | Frontiers in Behavioral Neuroscience | [Okonogi T and Sasaki T](https://doi.org/10.3389/fnbeh.2021.698753) |
 | 28 Jun 2021 | Frontiers in Behavioral Neuroscience | [Tomar A et al.](https://doi.org/10.3389/fnbeh.2021.710725)          |
 | 19 Jul 2021 | Frontiers in Human Neuroscience      | [Nakajima A et al.](https://doi.org/10.3389/fnhum.2021.702961)       |
 
