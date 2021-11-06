@@ -277,6 +277,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2020 | The 29th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology, Yokohama, Japan (online) |
 | 2020 | Research forum, National Institute for Physiological Sciences, Okazaki, Japan (online)                   |
 | 2021 | Research forum, Osaka City University, Osaka, Japan                                                      |
+| 2021 | The 8th Japan BMI Research forum (online)                                                                |
 
 ## Relevant Experience
 |      |                                                                                                                                                                      |
