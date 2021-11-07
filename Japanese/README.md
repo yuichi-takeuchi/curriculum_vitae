@@ -123,20 +123,20 @@
 4. 竹内雄一、宮田麻理子、視床回路改編機構の神経解剖学的解析（２）、東京女子医科大学総合研究所紀要 34:16, 2014年11月30日
 5. 宮田麻理子、松峯元、佐々木亮、渡辺頼勝、竹内雄一、大和雅之、櫻井浩之、末梢神経再生術における神経再生能の機能評価、東京女子医科大学雑誌 84:130, 2014年8月25日
 6. 竹内雄一、計算機-生体ハイブリッド神経回路を用いた病態脳における異常な情報伝達機構の解明、カシオ科学振興財団 研究助成成果報告論文集（平成26年度）
-7. 竹内雄一、宮田麻理子、視床回路改編機構の神経解剖学的解析（３）、東京女子医科大学総合研究所紀要 36: 22-23, 2017年2月27日
+7. 竹内雄一、宮田麻理子、視床回路改編機構の神経解剖学的解析（３）、東京女子医科大学総合研究所紀要 36: 22–23, 2017年2月27日
 8. 竹内雄一、難治性てんかんをオンデマンドかつ非侵襲的に制御する臨床技術の開発、かなえ医薬振興財団2018年度研究業績集（第47集）：40．
 
 ### 国際学会発表
 1.	Tanabe M, **Takeuchi Y**, Takasu K, Ono H, Pregabalin supraspinally activates the descending noradrenergic pain inhibitory system after peripheral nerve injury. The 2nd International Congress on Neuropathic Pain. Berlin, Germany. June 7-10, 2007. (Abstract No. 166) Poster
-2.	Nagumo Y, **Takeuchi Y**, Kawakami Y, Imoto K, Miyata M, Role of nicotinic acetylcholine receptors on synaptic transmission in the ventrobasal thalamic complex. The 36th Congress of the International Union of Physiological Sciences. Kyoto, Japan. July 27 - Aug 1, 2009. (Abstract No. P1AM-9-1) Poster
+2.	Nagumo Y, **Takeuchi Y**, Kawakami Y, Imoto K, Miyata M, Role of nicotinic acetylcholine receptors on synaptic transmission in the ventrobasal thalamic complex. The 36th Congress of the International Union of Physiological Sciences. Kyoto, Japan. Jul 27 - Aug 1, 2009. (Abstract No. P1AM-9-1) Poster
 3.	**Takeuchi Y**, Nagumo Y, Katayama Y, Imoto K, Kawakami Y, Miyata M, Transection of the infraorbital nerve induces rewiring of afferent fibers in the somatosensory thalamus of mice. The 40th SfN Annual Meeting. San Diego, CA, U.S.A. Nov 13-17, 2010. (Abstract No. 377.9) Poster
 4.	Nagumo Y, **Takeuchi Y**, Imoto K, Miyata M, Synapse- and subtype-specific modulation of synaptic transmission by nicotinic acetylcholine receptors in the ventrobasal thalamus of juvenile mice. The 40th SfN Annual Meeting. San Diego, CA, U.S.A. Nov 13-17, 2010. (Abstract No. 442.7) Poster
-5.	**Takeuchi Y**, Nagumo Y, Miyata M, Peripheral sensory nerve transection-induced remodeling of afferent synapses in the somatosensory thalamus of mice. The 8th IBRO World Congress of Neuroscience. Florence, Italy. July 14-18, 2011. (Abstract No. D063) Poster
-6.	Miyata M and **Takeuchi Y**, Large-scale somatotopic refinement by synapse elimination in the whisker sensory thalamus of developing mice. The 9th FENS Forum of Neuroscience. Milan, Italy. July 5–9, 2014. (Abstract No. FENS-1305) Poster
-7.	**Takeuchi Y**, Katayama Y, and Miyata M, Functional synapse elimination plays a role in large-scale somatotopic refinement in the sensory thalamus of developing mice. The 44th SfN Annual Meeting. Washington, DC, U.S.A. Nov 15–19, 2014. (Abstract No. 398.04) Poster
-8.	Vöröslakos M, Brinyiczki K, Zombori T, **Takeuchi Y**, Oliva A, Fernández-Ruiz A, Iványi B, Buzsáki G, Berényi A, Spatially focused, non-invasive, fast pulse electrical stimulation of the brain. The 46thSfN Annual Meeting. San Diego, U.S.A. Nov 12–16, 2016. (Abstract No. 591.16) Poster
-9.	Nagy A, **Takeuchi Y**, Berényi A, Processing of passive and motion-induced visual percepts in the rat dorsomedial striatum. The 47thSfN Annual Meeting. Washington DC, U.S.A. Nov 11–15, 2017. (Abstract No. 313.14) Poster
-10.	**Takeuchi Y**, Electrophysiological Evaluations of Reorganized Nervous Systems. The PCS 3rd Global Cell Science and Stem Cell Conference. Budapest, Hungary. July 14–15, 2018. (Abstract No. 2 in Stem Cell and Stem Cell Therapy) Oral, Invited
+5.	**Takeuchi Y**, Nagumo Y, Miyata M, Peripheral sensory nerve transection-induced remodeling of afferent synapses in the somatosensory thalamus of mice. The 8th IBRO World Congress of Neuroscience. Florence, Italy. Jul 14-18, 2011. (Abstract No. D063) Poster
+6.	Miyata M and **Takeuchi Y**, Large-scale somatotopic refinement by synapse elimination in the whisker sensory thalamus of developing mice. The 9th FENS Forum of Neuroscience. Milan, Italy. Jul 5–9, 2014. (Abstract No. FENS-1305) Poster
+7.	**Takeuchi Y**, Katayama Y, and Miyata M, Functional synapse elimination plays a role in large-scale somatotopic refinement in the sensory thalamus of developing mice. The 44th SfN Annual Meeting. Washington DC, U.S.A. Nov 15–19, 2014. (Abstract No. 398.04) Poster
+8.	Vöröslakos M, Brinyiczki K, Zombori T, **Takeuchi Y**, Oliva A, Fernández-Ruiz A, Iványi B, Buzsáki G, Berényi A, Spatially focused, non-invasive, fast pulse electrical stimulation of the brain. The 46th SfN Annual Meeting. San Diego, U.S.A. Nov 12–16, 2016. (Abstract No. 591.16) Poster
+9.	Nagy A, **Takeuchi Y**, Berényi A, Processing of passive and motion-induced visual percepts in the rat dorsomedial striatum. The 47th SfN Annual Meeting. Washington DC, U.S.A. Nov 11–15, 2017. (Abstract No. 313.14) Poster
+10.	**Takeuchi Y**, Electrophysiological Evaluations of Reorganized Nervous Systems. The PCS 3rd Global Cell Science and Stem Cell Conference. Budapest, Hungary. Jul 14–15, 2018. (Abstract No. 2 in Stem Cell and Stem Cell Therapy) Oral, Invited
 11.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum alleviates temporal lobe epilepsy in rats. The 49th NIPS International Symposium. Okazaki, Japan. Dec 5–8, 2018. (Abstract No. P24) Poster
 12.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Automated, closed-loop stimulation of the medial septum alleviates temporal lobe epilepsy in rats. The 9th FAOPS Congress. Kobe, Japan. Mar 28–31, 2019 (Abstract No. 1P-281) Poster
 13.	Nagy A, **Takeuchi Y**, Berényi A, Coding of self-motion-induced and self-independent visual motion in the rat dorsomedial striatum. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 84) Poster
@@ -151,8 +151,8 @@
 2.	**Takeuchi Y**, Ono H, Tanabe M, Pregabalin supraspinally activates the descending noradrenergic pain inhibitory system after peripheral nerve injury. The 80th Annual Meeting of The Japanese Pharmacological Society. Nagoya, Japan. Mar 14–16, 2007. (Abstract No. P1-039) Poster
 3.	Nagumo Y, **Takeuchi Y**, Imoto K, Kawakami Y, Miyata M, Role of acetylcholine on sensory synaptic transmission in the mouse ventrobasal thalamus. The 81th Annual Meeting of The Japanese Pharmacological Society. Yokohama, Japan. Mar 17–19, 2008. (Abstract No. P2I-72) Poster
 4.	Miyata M, Nagumo Y, **Takeuchi Y**, Imoto K, Kawakami Y, Acetylcholine distinctly regulates on synaptic transmission in the ventrobasal thalamus. The 85th Annual Meeting of the Physiological Society of Japan. Tokyo, Japan. Mar 25–27, 2008. (Abstract No. 2P-F-047) Poster
-5.	**Takeuchi Y**, Imoto K, Miyata M, Development of lemniscus synapses on the mice ventrobasal thalamus. The 31st Annual Meeting of the Japan Neuroscience Society. Tokyo, Japan. July 9–11, 2008. (Abstract No. P3-e20) Poster
-6.	Nagumo Y, **Takeuchi Y**, Kawakami Y, Imoto K, Miyata M, Neuromodulatory effect of acetylcholine on synaptic transmissions in the ventrobasal thalamic nucleus. The 31st Annual Meeting of the Japan Neuroscience Society. Tokyo, Japan. July 9–11, 2008. (Abstract No. P3-c15) Poster
+5.	**Takeuchi Y**, Imoto K, Miyata M, Development of lemniscus synapses on the mice ventrobasal thalamus. The 31st Annual Meeting of the Japan Neuroscience Society. Tokyo, Japan. Jul 9–11, 2008. (Abstract No. P3-e20) Poster
+6.	Nagumo Y, **Takeuchi Y**, Kawakami Y, Imoto K, Miyata M, Neuromodulatory effect of acetylcholine on synaptic transmissions in the ventrobasal thalamic nucleus. The 31st Annual Meeting of the Japan Neuroscience Society. Tokyo, Japan. Jul 9–11, 2008. (Abstract No. P3-c15) Poster
 7.	**Takeuchi Y**, Imoto K, Miyata M, Transection of infraorbital nerve induces multiple innervations of lemniscal fibers onto the relay neuron in the adult mice somatosensory thalamus. The 32nd Annual Meeting of the Japan Neuroscience Society. Nagoya, Japan. Sep 16–18, 2009. (Abstract No. P2-b30) Poster
 8.	**Takeuchi Y**, Nagumo Y, Katayama Y, Imoto K, Kawakami Y, Miyata M, Peripheral nerve transection-induced remodeling of afferent synapses in the somatosensory thalamus of mice. The 33rd Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Sep 2–4, 2010. (Abstract No. P3-b05) Poster
 9.	Miyata M and **Takeuchi Y**, Synaptic rewiring and compositional changes in glutamate receptors at thalamic lemniscal synapses in the developmental process. The 88th Annual Meeting of the Physiological Society of Japan. Yokohama, Japan. Mar 28–30, 2011. (Abstract No. P1-C-2-3) Symposium
@@ -166,9 +166,9 @@
 17.	**Takeuchi Y**, Katayama Y, Miyata M, A neural circuit mechanism of large-scale somatotopic reorganization in the thalamus after transection of the whisker sensory nerve of mice. The 37th Annual Meeting of the Japan Neuroscience Society. Yokohama, Japan. Sep 11–13, 2014. (Abstract No. P2-173) Poster
 18.	**Takeuchi Y**, Nagumo Y, Osaki H, Miyata M, Peripheral nerve injury changes neuronal firing patterns in the somatosensory thalamus of unanesthetized mice. The 92nd Annual Meeting of the Physiological Society of Japan. Kobe, Japan. Mar 21–23, 2015. (Abstract No. P3-182) Poster
 19.	Nagumo Y, **Takeuchi Y**, Osaki H, Miyata M, Enhanced tonic GABA currents after peripheral nerve injury contribute to inhibition of neuronal activity and subsequent remodeling of medial lemniscal fibers in the somatosensory thalamus. The 92nd Annual Meeting of the Physiological Society of Japan. Kobe, Japan. Mar 21–23, 2015. (Abstract No. P3-205) Poster
-20.	**Takeuchi Y**, Nagumo Y, Osaki H, Katayama Y, Miyata M, Large-scale somatotopic reorganization associated with afferent fiber rewiring in the whisker sensory thalamus. The 38th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. July 28–31, 2015. (Abstract No. 3P217) Poster
-21.	Nagumo Y, **Takeuchi Y**, Miyata M, Remodeling of somatosensory thalamic neural circuit and allodynia‒like mechanical hypersensitivity after the peripheral nerve. The 38th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. July 28–31, 2015. (Abstract No. 3P224) Poster
-22.	Miyata M, **Takeuchi Y**, Katayama Y. Large‒scale somatotopic refinement via experience‒dependent synapse elimination in the whisker sensory thalamus. The 38th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. July 28–31, 2015. (Abstract No. 2S09p-1) Symposium
+20.	**Takeuchi Y**, Nagumo Y, Osaki H, Katayama Y, Miyata M, Large-scale somatotopic reorganization associated with afferent fiber rewiring in the whisker sensory thalamus. The 38th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 28–31, 2015. (Abstract No. 3P217) Poster
+21.	Nagumo Y, **Takeuchi Y**, Miyata M, Remodeling of somatosensory thalamic neural circuit and allodynia‒like mechanical hypersensitivity after the peripheral nerve. The 38th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 28–31, 2015. (Abstract No. 3P224) Poster
+22.	Miyata M, **Takeuchi Y**, Katayama Y, Large‒scale somatotopic refinement via experience‒dependent synapse elimination in the whisker sensory thalamus. The 38th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 28–31, 2015. (Abstract No. 2S09p-1) Symposium
 23.	Miyata M, **Takeuchi Y**, Osaki H, Large-scale somatotopic reorganization with afferent fiber remodeling in the mice whisker sensory thalamus after peripheral sensory nerve injury. The 93rd Annual Meeting of the Physiological Society of Japan. Sapporo, Japan. Mar 22–24, 2016. (Abstract No. 2P-078) Poster
 24.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Real-time control of epileptic seizures via on-demand deep brain stimulation. The 28th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology. Hyogo, Japan. Mar 13, 2019. (Abstract No. 3) Symposium
 25.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, A closed-loop proxy-intervention of epileptic seizures. Jisedai-Nou Symposium. Tokyo, Japan. Dec 18–20, 2019. (Byotai No. 7) Poster
@@ -347,14 +347,15 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2021      | 医療薬学特論＠北海道大学大学院薬学研究院                                                                                                                                                        |
 
 ### 研究指導した大学院生
-|             |                                                                                          |
-| ----------- | ---------------------------------------------------------------------------------------- |
-| FY2012–2013 | 内田萌衣、早稲田大学 先進理工学研究科、修士研究指導 (@ Tokyo Women’s Medical University) |
-| 2015–2018   | Mihály Vöröslakos; Faculty of Medicine, University of Szeged                             |
-| 2015–2018   | Anett Nagy; Faculty of Medicine, University of Szeged                                    |
-| 2017–2020   | Lizeth Pedraza; University of Szeged, Department of Physiology                           |
-| FY2019      | 菊川孝、名古屋市立大学 大学院薬学研究科、研究指導 (@University of Szeged)                |
-| 2019–2020   | Lívia Barcsai, Faculty of Medicine, University of Szeged                                 |
+|             |                                                                                                                              |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| FY2012–2013 | 内田萌衣、早稲田大学 先進理工学研究科、修士研究指導 (@ Tokyo Women’s Medical University)                                     |
+| 2015–2016   | Azahara Gonzalez Oliva; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/3145/) |
+| 2015–2018   | Mihály Vöröslakos; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/10538/)     |
+| 2015–2018   | Anett Nagy; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/10496/)            |
+| 2017–2020   | Lizeth Pedraza; Faculty of Medicine, University of Szeged                                                                    |
+| FY2019      | 菊川孝、名古屋市立大学 大学院薬学研究科、研究指導 (@University of Szeged)                                                    |
+| 2019–2020   | Lívia Barcsai, Faculty of Medicine, University of Szeged                                                                     |
 
 ## 作成した教材
 |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
