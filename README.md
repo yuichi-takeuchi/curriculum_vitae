@@ -327,6 +327,8 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2016–2020 | Márk Harangozó; Faculty of Medicine, University of Szeged                  |
 | FY2019    | Yusei Nakayama; Faculty of Engineering, Toyohashi University of Technology |
 | FY2020    | Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology    |
+| FY2021    | Kota Itagaki; Faculty of Pharmaceutical Sciences, Hokkaido University      |
+| FY2021    | Kaede Yoshida; Faculty of Pharmaceutical Sciences, Hokkaido University     | 
 
 ### Relevant Experience
 |      |                                                                                                                   |

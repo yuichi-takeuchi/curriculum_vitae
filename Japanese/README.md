@@ -321,6 +321,8 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2016–2020 | Márk Harangozó; Faculty of Medicine, University of Szeged                                     |
 | FY2019    | 中山雄晟、豊橋科学技術大学 電気・電子情報工学系、インターンシップ受入 (@University of Szeged) |
 | FY2020    | 大屋翔、豊橋科学技術大学 電気・電子情報工学系、インターンシップ受入 (@University of Szeged)   |
+| FY2021    | 板垣航太、北海道大学薬学部                                                                    |
+| FY2021    | 吉田楓、北海道大学薬学部                                                                      |
 
 ### 教育関連トレーニング
 |      |                                                                                                                   |
