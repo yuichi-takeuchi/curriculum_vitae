@@ -328,7 +328,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2019    | Yusei Nakayama; Faculty of Engineering, Toyohashi University of Technology |
 | FY2020    | Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology    |
 | FY2021    | Kota Itagaki; Faculty of Pharmaceutical Sciences, Hokkaido University      |
-| FY2021    | Kaede Yoshida; Faculty of Pharmaceutical Sciences, Hokkaido University     | 
+| FY2021    | Kaede Yoshida; Faculty of Pharmaceutical Sciences, Hokkaido University     |
 
 ### Relevant Experience
 |      |                                                                                                                   |
@@ -416,6 +416,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 9 Nov 2020  | Annals of Translational Medicine |
 | 27 Feb 2021 | Translational Neuroscience       |
 | 14 Apr 2021 | Translational Neuroscience       |
+| 19 Nov 2021 | Frontiers in Human Neuroscience  | 
 
 ### Post-publication Peer Reviews
 |             |                                              |
