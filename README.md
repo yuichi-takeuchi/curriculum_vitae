@@ -399,12 +399,13 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 20 Nov 2020 | Frontiers in Behavioral Neuroscience | [Oscillotherapeutics](https://www.frontiersin.org/research-topics/17388/) |
 
 ### Handling Editor
-|             |                                      |                                                                      |
-| ----------- | ------------------------------------ | -------------------------------------------------------------------- |
-| 14 May 2021 | Frontiers in Behavioral Neuroscience | [Wada M et al.](https://doi.org/10.3389/fnbeh.2021.680206)          |
-| 14 May 2021 | Frontiers in Behavioral Neuroscience | [Okonogi T and Sasaki T](https://doi.org/10.3389/fnbeh.2021.698753) |
-| 28 Jun 2021 | Frontiers in Behavioral Neuroscience | [Tomar A et al.](https://doi.org/10.3389/fnbeh.2021.710725)          |
-| 19 Jul 2021 | Frontiers in Human Neuroscience      | [Nakajima A et al.](https://doi.org/10.3389/fnhum.2021.702961)       |
+|             |                                      |                                                                        |
+| ----------- | ------------------------------------ | ---------------------------------------------------------------------- |
+| 14 May 2021 | Frontiers in Behavioral Neuroscience | [Wada M et al.](https://doi.org/10.3389/fnbeh.2021.680206)             |
+| 14 May 2021 | Frontiers in Behavioral Neuroscience | [Okonogi T and Sasaki T](https://doi.org/10.3389/fnbeh.2021.698753)    |
+| 28 Jun 2021 | Frontiers in Behavioral Neuroscience | [Tomar A et al.](https://doi.org/10.3389/fnbeh.2021.710725)            |
+| 19 Jul 2021 | Frontiers in Human Neuroscience      | [Nakajima A et al.](https://doi.org/10.3389/fnhum.2021.702961)         |
+| 25 Nov 2021 | Frontiers in Behavioral Neuroscience | [Mokhothu TM and Tanaka KZ](https://doi.org/10.3389/fnbeh.2021.785328) |
 
 ## Reviews of Research Articles
 ### Pre-publication Peer Reviews
@@ -416,7 +417,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 9 Nov 2020  | Annals of Translational Medicine |
 | 27 Feb 2021 | Translational Neuroscience       |
 | 14 Apr 2021 | Translational Neuroscience       |
-| 19 Nov 2021 | Frontiers in Human Neuroscience  | 
+| 19 Nov 2021 | Frontiers in Human Neuroscience  |
 
 ### Post-publication Peer Reviews
 |             |                                              |
