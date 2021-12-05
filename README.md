@@ -29,12 +29,13 @@ Updated on 07 Nov 2021
 | 2010 | Ph.D. in Science               | Department of Physiological Sciences, School of Life Science, The Graduate University for Advanced Studies (SOKENDAI), Hayama, Japan |
 
 ### Licensures
-|             |                                                                                                         |
-| ----------- | ------------------------------------------------------------------------------------------------------- |
-| 28 Nov 2005 | Pharmacist	Japan, No. 399397                                                                            |
-| 01 Jan 2016 | Physiology Educator	Physiological Society of Japan, No. 160018                                          |
-| 26 Jan 2017 | FELASA C certificate	Federation of European Laboratory Animal Science Associations, No. 63/2017, 035/14 |
-| 02 Jan 2018 | Certified Peer Reviewer, Publons Academy                                                                |
+|             |                                                                                                          |
+| ----------- | -------------------------------------------------------------------------------------------------------- |
+| 28 Nov 2005 | Pharmacist, Japan, No. 399397                                                                            |
+| 01 Jan 2016 | Physiology Educator, Physiological Society of Japan, No. 160018                                          |
+| 26 Jan 2017 | FELASA C certificate, Federation of European Laboratory Animal Science Associations, No. 63/2017, 035/14 |
+| 02 Jan 2018 | Certified Peer Reviewer, Publons Academy                                                                 |
+| 25 Nov 2021 | Pharmacology Educator, The Japanese Pharmacological Society, No. 0539                                    |
 
 ## 3. Professional Appointments
 |           |                                                                                          |

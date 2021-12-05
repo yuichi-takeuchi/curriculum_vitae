@@ -34,6 +34,7 @@
 | 01 Jan 2016 | 生理学エデュケーター（日本生理学会、No. 160018）                                                        |
 | 26 Jan 2017 | FELASA C certificate	Federation of European Laboratory Animal Science Associations, No. 63/2017, 035/14 |
 | 02 Jan 2018 | Certified Peer Reviewer,	Publons Academy                                                                |
+| 25 Nov 2021 | 薬理学エデュケーター（日本薬理学会、No. 0539）                                                          | 
 
 ## 3. 職歴
 |             |                                          |
@@ -396,7 +397,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 14 May 2021 | Frontiers in Behavioral Neuroscience | [Okonogi T and Sasaki T](https://doi.org/10.3389/fnbeh.2021.698753)    |
 | 28 Jun 2021 | Frontiers in Behavioral Neuroscience | [Tomar A et al.](https://doi.org/10.3389/fnbeh.2021.710725)            |
 | 19 Jul 2021 | Frontiers in Human Neuroscience      | [Nakajima A et al.](https://doi.org/10.3389/fnhum.2021.702961)         |
-| 25 Nov 2021 | Frontiers in Behavioral Neuroscience | [Mokhothu TM and Tanaka KZ](https://doi.org/10.3389/fnbeh.2021.785328) | 
+| 25 Nov 2021 | Frontiers in Behavioral Neuroscience | [Mokhothu TM and Tanaka KZ](https://doi.org/10.3389/fnbeh.2021.785328) |
 
 ## 論文査読
 ### Pre-publication Peer Reviews
