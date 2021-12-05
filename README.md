@@ -1,4 +1,4 @@
-Updated on 07 Nov 2021
+Updated on Dec 5th, 2021
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                                                 |
@@ -363,7 +363,8 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 2015–2018   | Anett Nagy; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/10496/)            |
 | 2017–2020   | Lizeth Pedraza; University of Szeged, Department of Physiology                                                               |
 | FY2019      | Takashi Kikukawa; Graduate School of Pharmaceutical Sciences, Nagoya City University                                         |
-| 2019–2020   | Lívia Barcsai, Faculty of Medicine, University of Szeged                                                                     |
+| 2019–2020   | Lívia Barcsai; Faculty of Medicine, University of Szeged                                                                     |
+| FY2021      | Yumi Hamasaki; Hokkaido University                                                                                           |
 
 ## Teaching Materials Prepared
 |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

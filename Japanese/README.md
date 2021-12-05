@@ -1,4 +1,4 @@
-2021年11月7日現在
+2021年12月5日現在
 # COVERSHEET
 ## 1. Personal details
 |              |                                                                                   |
@@ -34,7 +34,7 @@
 | 01 Jan 2016 | 生理学エデュケーター（日本生理学会、No. 160018）                                                        |
 | 26 Jan 2017 | FELASA C certificate	Federation of European Laboratory Animal Science Associations, No. 63/2017, 035/14 |
 | 02 Jan 2018 | Certified Peer Reviewer,	Publons Academy                                                                |
-| 25 Nov 2021 | 薬理学エデュケーター（日本薬理学会、No. 0539）                                                          | 
+| 25 Nov 2021 | 薬理学エデュケーター（日本薬理学会、No. 0539）                                                          |
 
 ## 3. 職歴
 |             |                                          |
@@ -359,6 +359,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2017–2020   | Lizeth Pedraza; Faculty of Medicine, University of Szeged                                                                    |
 | FY2019      | 菊川孝、名古屋市立大学 大学院薬学研究科、研究指導 (@University of Szeged)                                                    |
 | 2019–2020   | Lívia Barcsai, Faculty of Medicine, University of Szeged                                                                     |
+| FY2021      | 濱崎友美、北海道大学大学院薬学研究院                                                                                         |
 
 ## 作成した教材
 |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
