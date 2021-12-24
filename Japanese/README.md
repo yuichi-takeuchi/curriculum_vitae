@@ -1,4 +1,4 @@
-2021年12月21日現在
+2021年12月24日現在
 # COVERSHEET
 ## 1. Personal details
 |              |                                                                                   |
@@ -395,11 +395,12 @@ https://doi.org/10.6084/m9.figshare.6160181
 ### Handling Editor
 |             |                                      |                                                                        |
 | ----------- | ------------------------------------ | ---------------------------------------------------------------------- |
-| 14 May 2021 | Frontiers in Behavioral Neuroscience | [Wada M et al.](https://doi.org/10.3389/fnbeh.2021.680206)             |
+| 14 May 2021 | Frontiers in Behavioral Neuroscience | [Wada M et al](https://doi.org/10.3389/fnbeh.2021.680206)              |
 | 14 May 2021 | Frontiers in Behavioral Neuroscience | [Okonogi T and Sasaki T](https://doi.org/10.3389/fnbeh.2021.698753)    |
-| 28 Jun 2021 | Frontiers in Behavioral Neuroscience | [Tomar A et al.](https://doi.org/10.3389/fnbeh.2021.710725)            |
-| 19 Jul 2021 | Frontiers in Human Neuroscience      | [Nakajima A et al.](https://doi.org/10.3389/fnhum.2021.702961)         |
+| 28 Jun 2021 | Frontiers in Behavioral Neuroscience | [Tomar A et al](https://doi.org/10.3389/fnbeh.2021.710725)             |
+| 19 Jul 2021 | Frontiers in Human Neuroscience      | [Nakajima A et al](https://doi.org/10.3389/fnhum.2021.702961)          |
 | 25 Nov 2021 | Frontiers in Behavioral Neuroscience | [Mokhothu TM and Tanaka KZ](https://doi.org/10.3389/fnbeh.2021.785328) |
+| 24 Dec 2021 | Frontiers in Behavioral Neuroscience | [Acerbo E et al](https://doi.org/10.3389/fnbeh.2021.774999)            |
 
 ## 論文査読
 ### Pre-publication Peer Reviews
