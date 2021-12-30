@@ -445,6 +445,12 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | ----------- | -------------------------------------------------- |
 | 29 Mar 2019 | 9th FAOPS Congress, Meet the Lectures, Facilitator |
 
+## Reviews of Research Grants
+### UKRI – UK Research and Innovation
+|              |                                                        |
+| ------------ | ------------------------------------------------------ |
+| 2021–present | Biotechnology and Biological Sciences Research Council |
+
 ## Research Training Course
 |             |                                                                                                                                                                                    |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
