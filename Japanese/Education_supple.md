@@ -74,22 +74,10 @@
 - 医科生理学（第２学年）２８コマ
 - 豊橋科学技術大学　電気・電気情報工学系　海外実務訓練指導（大屋翔）
 
-## 学生指導
-### 学部・MD/PhDコース
-1.	内田萌衣、早稲田大学 先進理工学部、卒業論文指導　（平成23年度）
-2.	加茂沢子、東京女子医科大学 医学部、基礎配属・研究指導　（平成25年度
-3.	Yasuko Takai, Faculty of Medicine, University of Szeged (2016-2017)
-4.	Jun Takai, Faculty of Medicine, University of Szeged (2016-2017)
-5.	Tamás Földi, Faculty of Medicine, University of Szeged (2016-present)
-6.	Márk Harangozó, Faculty of Medicine, University of Szeged (2016-present)
-7.	中山雄晟、豊橋科学技術大学 電気・電子情報工学系、インターンシップ　（平成30年度）
-8.	大屋翔、豊橋科学技術大学 電気・電子情報工学系、インターンシップ　（令和元年度）
-
-### 博士前期課程
-1.	内田萌衣、早稲田大学　先進理工学研究科、修士論文　（平成24－25年度）
-博士後期課程
-1.	Miháy Vöröslakos, Faculty of Medicine, University of Szeged (2015-2018)
-2.	Anett Nagy, Faculty of Medicine, University of Szeged (2015-2018)
-3.	Lizeth Pedraza, Faculty of Medicine, University of Szeged (2017-present)
-4.	菊川孝、名古屋市立大学 薬学研究科、研究指導　（令和元年度）
-5.	Lívia Barcsai, Faculty of Medicine, University of Szeged (2019-present)
+## FY2021（北海道大学大学院薬学研究院）
+### 大学院
+- 脳科学入門IV（２コマ）
+- 医療薬学特論（２コマ）
+### 学部
+- 薬理学IV（14コマ）
+- 先端生物学実験法II（4コマ）
