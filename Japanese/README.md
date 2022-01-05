@@ -8,7 +8,7 @@
 | 出生地       | 愛知県                                                                              |
 | 生年月日     | 1982年9月4日                                                                        |
 | 性別         | 男                                                                                  |
-| 職場         | 北海道大学 大学院薬学研究院 薬理学研究室、〒060-0812　北海道札幌市北区北12条西6丁目 | 
+| 職場         | 北海道大学 大学院薬学研究院 薬理学研究室、〒060-0812　北海道札幌市北区北12条西6丁目 |
 | 電話         | +81-11-706-3248                                                                     |
 | ファックス   | +81-11-706-4987                                                                     |
 | 電子メール   | ytake@pharm.hokudai.ac.jp                                                           |
@@ -181,6 +181,9 @@
 31. **Takeuchi Y**, Closed-loop brain stimulation for epileptic seizures and beyond. The 98th Annual Meeting of the Physiological Society of Japan. Nagoya, Japan. Mar 28–30, 2021. (Abstract No. OP15-2) Oral
 32. **Takeuchi Y**, Closed-loop stimulation of the medial septum terminates epileptic seizures. The 44th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 28–31, 2021. (Abstract No. 1S04m-3) Symposium
 33. **Takeuchi Y**, Closed-loop brain stimulation for controlling epileptic seizures. The 51st Annual Meeting of the Japanese Society of Clinical Neurophysiology. Sendai, Japan. Dec 16–18, 2021. (Abstract No. SP9-2) Symposium
+34. **Takeuchi Y**, Li Q, Berényi A, Minami M, Decoding and quantification of seizure susceptibility with cross-regional oscillatory brain activity patterns in a rat model of temporal lobe epilepsy. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. Poster
+35. Chan M, Li Q, Horváth G, Berényi A, Minami M, **Takeuchi Y**, Reduced operant task engagement and altered neural oscillations in a triple-hit rat model of schizophrenia. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. Poster
+36. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, **Takeuchi Y**, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. Poster
 
 ### 随筆
 1. 竹内雄一、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10–11,  2013
@@ -416,7 +419,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 09 Nov 2020 | Annals of Translational Medicine |
 | 27 Feb 2021 | Translational Neuroscience       |
 | 14 Apr 2021 | Translational Neuroscience       |
-| 19 Nov 2021 | Frontiers in Human Neuroscience  |
+| 19 Nov 2021 | Frontiers in Human Neuroscience ([Link](https://doi.org/10.3389/fnhum.2021.770678)) |
 
 ### Post-publication Peer Reviews
 |             |                                              |

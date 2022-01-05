@@ -185,6 +185,9 @@ Updated on Dec 30th, 2021
 31. **Takeuchi Y**, Closed-loop brain stimulation for epileptic seizures and beyond. The 98th Annual Meeting of the Physiological Society of Japan. Nagoya, Japan. Mar 28–30, 2021. (Abstract No. OP15-2) Oral
 32. **Takeuchi Y**, Closed-loop stimulation of the medial septum terminates epileptic seizures. The 44th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 28–31, 2021. (Abstract No. 1S04m-3) Symposium
 33. **Takeuchi Y**, Closed-loop brain stimulation for controlling epileptic seizures. The 51st Annual Meeting of the Japanese Society of Clinical Neurophysiology. Sendai, Japan. Dec 16–18, 2021. (Abstract No. SP9-2) Symposium
+34. **Takeuchi Y**, Li Q, Berényi A, Minami M, Decoding and quantification of seizure susceptibility with cross-regional oscillatory brain activity patterns in a rat model of temporal lobe epilepsy. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. Poster
+35. Chan M, Li Q, Horváth G, Berényi A, Minami M, **Takeuchi Y**, Reduced operant task engagement and altered neural oscillations in a triple-hit rat model of schizophrenia. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. Poster
+36. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, **Takeuchi Y**, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. Poster
 
 ### Scientific Essays
 1.	**Takeuchi Y** (2013) Report of the 36th Annual Meeting of Japanese Neuroscience Society. Neuroscience News of the Japan Neuroscience Society 195: 10. (Japanese)
@@ -425,7 +428,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 9 Nov 2020  | Annals of Translational Medicine |
 | 27 Feb 2021 | Translational Neuroscience       |
 | 14 Apr 2021 | Translational Neuroscience       |
-| 19 Nov 2021 | Frontiers in Human Neuroscience  |
+| 19 Nov 2021 | Frontiers in Human Neuroscience ([Link](https://doi.org/10.3389/fnhum.2021.770678)) |
 
 ### Post-publication Peer Reviews
 |             |                                              |
