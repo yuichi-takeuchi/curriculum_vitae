@@ -1,4 +1,4 @@
-2022年1月13日現在
+2022年1月22日現在
 # COVERSHEET
 ## 1. Personal details
 |              |                                                                                     |
@@ -139,14 +139,15 @@
 9.	Nagy A, **Takeuchi Y**, Berényi A, Processing of passive and motion-induced visual percepts in the rat dorsomedial striatum. The 47th SfN Annual Meeting. Washington DC, U.S.A. Nov 11–15, 2017. (Abstract No. 313.14) Poster
 10.	**Takeuchi Y**, Electrophysiological Evaluations of Reorganized Nervous Systems. The PCS 3rd Global Cell Science and Stem Cell Conference. Budapest, Hungary. Jul 14–15, 2018. (Abstract No. 2 in Stem Cell and Stem Cell Therapy) Oral, Invited
 11.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum alleviates temporal lobe epilepsy in rats. The 49th NIPS International Symposium. Okazaki, Japan. Dec 5–8, 2018. (Abstract No. P24) Poster
-12.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Automated, closed-loop stimulation of the medial septum alleviates temporal lobe epilepsy in rats. The 9th FAOPS Congress. Kobe, Japan. Mar 28–31, 2019 (Abstract No. 1P-281) Poster
-13.	Nagy A, **Takeuchi Y**, Berényi A, Coding of self-motion-induced and self-independent visual motion in the rat dorsomedial striatum. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 84) Poster
+12.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Automated, closed-loop stimulation of the medial septum alleviates temporal lobe epilepsy in rats. The 9th FAOPS Congress. Kobe, Japan. Mar 28–31, 2019. (Abstract No. 1P-281) Poster
+13.	Nagy A, **Takeuchi Y**, Berényi A, Coding of self-motion-induced and self-independent visual motion in the rat dorsomedial striatum. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020. (No. 84) Poster
 14.	Pedraza L, Sierra R, **Takeuchi Y**, Kozák G, Peijin A, Barcsai L, Berényi A, CLOSED-LOOP MANIPULATION OF HIPPOCAMPAL RIPPLES REDUCE PERSISTENT FEAR EXPRESSION IN ANIMAL MODEL OF POSTTRAUMATIC-STRESS DISORDER. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 86) Poster
-15.	Li Q, **Takeuchi Y**, Kozák G, Ohsawa M, Harangozó M, Berényi A, The functional role of altered olfactory network synchrony in the development of depression. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 87) Poster
-16.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, A closed-loop proxy-intervention of epileptic seizures. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 89) Poster
+15.	Li Q, **Takeuchi Y**, Kozák G, Ohsawa M, Harangozó M, Berényi A, The functional role of altered olfactory network synchrony in the development of depression. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020. (No. 87) Poster
+16.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, A closed-loop proxy-intervention of epileptic seizures. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020. (No. 89) Poster
 17.	Narushima M, Yagasaki Y, **Takeuchi Y**, Aiba A, Miyata M, The metabotropic glutamate receptor subtype 1 regulates development and maintenance of lemniscal synaptic connectivity through cortical activity in the somatosensory thalamus. FENS Meeting 2020. Glasgow, U. K. Jul 11–15, 2020.
 18. Pedraza L, Sierra R, **Takeuchi Y**, Kozák G, Peijin A, Berényi A, Controlling fear expression through closed-loop intervention: Sharp-waves ripples triggering medial forebrain bundle stimulation enhance extinction and induce long-lasting fear attenuation. FENS Meeting 2020. Glasgow, U. K. Jul 11–15, 2020.
-19. Li Q, **Takeuchi Y**, Wang J, BArcsai L, Pedraza KL, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Lőrincz ML, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression. IBRO Workshop 2022. Budapest, Hungary. Jan 27, 28, 2022. Poster
+19. Li Q, **Takeuchi Y**, Wang J, Barcsai L, Pedraza KL, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Lőrincz ML, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression. IBRO Workshop 2022. Budapest, Hungary. Jan 27, 28, 2022. (P3.21) Poster
+20. Barcsai L, Sierra R, Pedraza L, Lakos B, Pejin A, Kozák G, **Takeuchi Y**, Földi T, Lőrincz M, Berényi A, Controlling pathological fear expression through closed-loop brain stimulation. IBRO Workshop 2022. Budapest, Hungary. Jan 27, 28, 2022. (P5.28) Poster
 
 ### 国内学会発表
 1.	**Takeuchi Y**, Tanabe M, Honda M, Ono H, Gabapentin supraspinally accelerates spinal noradrenalin turnover in a murine neuropathic pain model. The 79th Annual Meeting of The Japanese Pharmacological Society. Yokohama, Japan. Mar 8–10, 2006. (Abstract No. P3K-64) Poster
@@ -413,15 +414,16 @@ https://doi.org/10.6084/m9.figshare.6160181
 
 ## 論文査読
 ### Pre-publication Peer Reviews
-|             |                                  |
-| ----------- | -------------------------------- |
-| 10 Dec 2017 | Neuroscience Research            |
-| 28 Sep 2019 | Neuropsychopharmacology Reports  |
-| 13 Nov 2019 | Neuropsychopharmacology Reports  |
-| 09 Nov 2020 | Annals of Translational Medicine |
-| 27 Feb 2021 | Translational Neuroscience       |
-| 14 Apr 2021 | Translational Neuroscience       |
+|             |                                                                                     |
+| ----------- | ----------------------------------------------------------------------------------- |
+| 10 Dec 2017 | Neuroscience Research                                                               |
+| 28 Sep 2019 | Neuropsychopharmacology Reports                                                     |
+| 13 Nov 2019 | Neuropsychopharmacology Reports                                                     |
+| 09 Nov 2020 | Annals of Translational Medicine                                                    |
+| 27 Feb 2021 | Translational Neuroscience                                                          |
+| 14 Apr 2021 | Translational Neuroscience                                                          |
 | 19 Nov 2021 | Frontiers in Human Neuroscience ([Link](https://doi.org/10.3389/fnhum.2021.770678)) |
+| 28 Jan 2022 | Neurology and Clinical Neuroscience                                                 |
 
 ### Post-publication Peer Reviews
 |             |                                              |
