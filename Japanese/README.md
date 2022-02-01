@@ -1,4 +1,4 @@
-2022年1月22日現在
+2022年2月1日現在
 # COVERSHEET
 ## 1. Personal details
 |              |                                                                                     |
@@ -86,10 +86,10 @@
 10. Matsumine H, Sasaki R, **Takeuchi Y**, Watanabe Y, Niimi Y, Sakurai H, Miyata M, Yamato M, Unilateral multiple facial-nerve branch reconstruction using "end-to-side loop graft "supercharged by hypoglossal nerve. Plast Reconstr Surg Glob Open 2 (10): e240. 07 Nov 2014. DOI: https://doi.org/10.1097/GOX.0000000000000206
 11. Niimi Y, Matsumine H, **Takeuchi Y**, Sasaki R, Watanabe Y, Yamato M, Miyata M, Sakurai H, Effectively axonal-supercharged interpositional-jump graft with an artificial nerve-conduit for rat facial nerve paralysis model. Plast Reconstr Surg Glob Open 3 (6): e416. 08 Jul 2015. DOI: https://doi.org/10.1097/GOX.0000000000000397
 12. **Takeuchi Y**, Osaki H, Yagasaki Y, Katayama Y, Miyata M, Afferent fiber remodeling in the somatosensory thalamus of mice as a neural basis of somatotopic reorganization in the brain and ectopic mechanical hypersensitivity after peripheral sensory nerve injury. eNeuro 4 (2): e0345-16.2017. 23 May 2017. DOI: https://doi.org/10.1523/ENEURO.0345-16.2017
-13. Vöröslakos M, **Takeuchi Y**, Brinyiczki K, Zombori T, Oliva A, Fernández-Ruiz A, Kozák G, Kincses Z T, Iványi B, Buzsáki G, Berényi A, Direct effects of transcranial electric stimulation on brain circuits in rats and humans. Nat Commun 9 (1): 483. 20 Feb 2018. DOI: https://doi.org/10.1038/s41467-018-02928-3
-14. **Takeuchi Y***, Osaki H, Matsumine H, Niimi Y, Sasaki R, Miyata M, A method package for electrophysiological evaluation of reconstructed or regenerated facial nerves in rodents. MethodsX 5: 283-298. 30 Mar 2018. DOI: https://doi.org/10.1016/j.mex.2018.03.007
-15. Nagy A, **Takeuchi Y**, Berényi A, Coding of self-motion induced and self-independent visual motion in the rat dorsomedial striatum. PLoS Biol 16 (6): e2004712. 25 Jun 2018. DOI: https://doi.org/10.1371/journal.pbio.2004712
-16. Niimi Y, Matsumine H, **Takeuchi Y**, Osaki H, Tsunoda S., Miyata M, Yamato M, Sakurai H, A collagen-coated PGA conduit for interpositional-jump graft with end-to-side neurorrhaphy for treating facial nerve paralysis in rat. Microsurgery 39 (1): 70-80. 08 Jan 2018. DOI: https://doi.org/10.1002/micr.30291
+13. Niimi Y, Matsumine H, **Takeuchi Y**, Osaki H, Tsunoda S., Miyata M, Yamato M, Sakurai H, A collagen-coated PGA conduit for interpositional-jump graft with end-to-side neurorrhaphy for treating facial nerve paralysis in rat. Microsurgery 39 (1): 70-80. 08 Jan 2018. DOI: https://doi.org/10.1002/micr.30291
+14. Vöröslakos M, **Takeuchi Y**, Brinyiczki K, Zombori T, Oliva A, Fernández-Ruiz A, Kozák G, Kincses Z T, Iványi B, Buzsáki G, Berényi A, Direct effects of transcranial electric stimulation on brain circuits in rats and humans. Nat Commun 9 (1): 483. 20 Feb 2018. DOI: https://doi.org/10.1038/s41467-018-02928-3
+15. **Takeuchi Y***, Osaki H, Matsumine H, Niimi Y, Sasaki R, Miyata M, A method package for electrophysiological evaluation of reconstructed or regenerated facial nerves in rodents. MethodsX 5: 283-298. 30 Mar 2018. DOI: https://doi.org/10.1016/j.mex.2018.03.007
+16. Nagy A, **Takeuchi Y**, Berényi A, Coding of self-motion induced and self-independent visual motion in the rat dorsomedial striatum. PLoS Biol 16 (6): e2004712. 25 Jun 2018. DOI: https://doi.org/10.1371/journal.pbio.2004712
 17. Narushima M, Yagasaki Y, **Takeuchi Y**, Aiba A, Miyata M, The metabotropic glutamate receptor subtype 1 regulates development and maintenance of lemniscal synaptic connectivity in the somatosensory thalamus. PLoS ONE 14 (12): e0226820. 27 Dec 2019. DOI: https://doi.org/10.1371/journal.pone.0226820
 18. Nagumo Y, Ueta Y, Nakayama H, Osaki H, **Takeuchi Y**, Uesaka N, Kano M, Miyata M, Tonic GABAergic inhibition is essential for nerve injury-induced afferent remodeling in the somatosensory thalamus and associated ectopic sensations. Cell Rep 31 (12): 107797. 23 Jun 2020. DOI: https://doi.org/10.1016/j.celrep.2020.107797
 19. Yasunaga H, Takagi T, Shinko D, Nakayama Y, **Takeuchi Y**, Nishikawa A, Loesing A, Ohsawa M, Sekiguchi H, Development of a neural probe integrated with high-efficiency MicroLEDs for in vivo application. Jpn J Appl Phys 60 (1): 016503. 16 Dec 2020. DOI: https://doi.org/10.35848/1347-4065/abcffa
@@ -106,12 +106,13 @@
 
 ## その他の出版物
 ### 著書等
-1. 宮田麻理子、竹内雄一、身体イメージの神経生理学：身体地図のリモデリング、Clin Neurosci 29 (8): 895-899, 2011.8. 中外医学社
-2. 竹内雄一、てんかんの進歩：てんかん発作のオンデマンド制御法と発作感受性定量法の開発、Medical Science Digest 46 (2): 118-120, 2020.2. 北隆館
-3. 竹内雄一、神経精神疾患のイメージング：精神疾患の行動表現型を生じる神経回路ダイナミクスの解明、Medical Science Digest 46 (6): 906-909, 2020.6. 北隆館
-4. 竹内雄一、神経難病の治療開発update：てんかん発作のオンデマンド介入法と発作感受性定量法の開発、BIO Clinica 35 (9): 771-774, 2020.8. 北隆館
+1. 宮田麻理子、竹内雄一、身体イメージの神経生理学：身体地図のリモデリング、Clin Neurosci 29 (8): 895–899, 2011.8. 中外医学社
+2. 竹内雄一、てんかんの進歩：てんかん発作のオンデマンド制御法と発作感受性定量法の開発、Medical Science Digest 46 (2): 118–120, 2020.2. 北隆館
+3. 竹内雄一、神経精神疾患のイメージング：精神疾患の行動表現型を生じる神経回路ダイナミクスの解明、Medical Science Digest 46 (6): 906–909, 2020.6. 北隆館
+4. 竹内雄一、神経難病の治療開発update：てんかん発作のオンデマンド介入法と発作感受性定量法の開発、BIO Clinica 35 (9): 771–774, 2020.8. 北隆館
 5. 竹内雄一、タウ・バイオロジー：神経精神疾患のリアルタイム制御に向けて、細胞 53 (1): 50–53, 2021.1. 北隆館
 6. 竹内雄一、動的ヘテラルキー：オシレーション治療、Clin Neurosci 39 (7): 847–851, 2021.7. 中外医学社
+7. 竹内雄一、関和彦、超音波と神経疾患－How useful?：超音波ニューロモデュレーション、Clin Neurosci 40 (2): 249–253, 2022.2. 中外医学社
 
 ### プレプリント
 1. **Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. bioRxiv 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
