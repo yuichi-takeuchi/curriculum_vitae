@@ -1,4 +1,4 @@
-Updated on Feb 11th, 2022
+Updated on Apr 2nd, 2022
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -15,9 +15,10 @@ Updated on Feb 11th, 2022
 | Website          | https://ytake.org/                                                                                                            |
 
 ### Current Appointment
-|                     |                                                                               |
-| ------------------- | ----------------------------------------------------------------------------- |
-| 01 Aug 2021–present | Associated Professor, Faculty of Pharmaceutical Sciences, Hokkaido University |
+|                     |                                                                                 |
+| ------------------- | ------------------------------------------------------------------------------- |
+| 01 Aug 2021–present | Associated Professor, Faculty of Pharmaceutical Sciences, Hokkaido University   |
+| 01 Jan 2022–present | Visiting Research Fellow, National Institute for Quantum Science and Technology |
 
 
 ## 2. Education/Qualifications
@@ -45,7 +46,9 @@ Updated on Feb 11th, 2022
 | 2010–2015 | Assistant Professor, School of Medicine, Tokyo Women’s Medical University, Tokyo, Japan  |
 | 2016      | Research Fellow, The Uehara Memorial Foundation, Japan                                   |
 | 2015–2020 | Research Assistant Professor,	Faculty of Medicine, University of Szeged, Szeged, Hungary |
-| 2020–2021 | Specially-Appointed Lecturer, Osaka City University Graduate School of Medicine           |
+| 2015–2020 | Visiting Lecturer, Hungarian Medical Universities                                        |
+| 2020–2021 | Specially-Appointed Lecturer, Osaka City University Graduate School of Medicine          |
+| 2018–2022 | Research Fellow, Graduate School of Pharmaceutical Sciences, Nagoya City University      |
 
 ## 4. Other Appointments and Affiliations
 ### Professional Societies
