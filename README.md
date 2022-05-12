@@ -444,6 +444,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 14 Apr 2021 | Translational Neuroscience                                                          |
 | 19 Nov 2021 | Frontiers in Human Neuroscience ([Link](https://doi.org/10.3389/fnhum.2021.770678)) |
 | 28 Jan 2022 | Neurology and Clinical Neuroscience                                                 |
+| 06 May 2022 | Applied Artificial Intelligence                                                     |
 
 ### Post-publication Peer Reviews
 |             |                                              |
