@@ -1,4 +1,4 @@
-Updated on Apr 6th, 2022
+Updated on May 12th, 2022
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -278,6 +278,8 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2021 | Invited symposiast, The 44th Annual Meeting of the Japan Neuroscience Society, Kobe, Japan                                                |
 | 2021 | Invited symposiast, The 51st Annual Meeting of the Japanese Society of Clinical Neurophysiology, Sendai, Japan                            |
 | 2021 | Invited speaker, Seminar @ Tohoku University, Sendai, Japan                                                                               |
+| 2022 | Invited speaker, Seminar @ National Institute of Quantum Science and Technology, Chiba, Japan                                             |
+| 2022 | Invited speaker, Seminar @ Human Brain Research Center, Kyoto University, Kyoto, Japan                                                    |
 
 
 ## Contributed Talks
@@ -322,6 +324,8 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2021–present | Pharmacology IV；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 7 x 2 h sessions during the 2nd semester                         |
 | FY2021–present | Methods in Life Science II; Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 2 x 2 h sessions during the 2nd semester              |
 | FY2021–present | Laboratory Exercise of Analytical Chemistry; Hokkaido University, school of pharmaceutical sciences and pharmacy, 2nd year undergraduate students, 4 x 4 h sessions in the 2nd semester |
+| FY2021–present | Pharmacology II；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                         |
+| FY2021–present | Pharmacology III；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                         |
 
 ## Educational Publications
 1.	**Takeuchi Y** (2017) Physiological Education and Japanese Medical Students in University of Szeged. J Physiol Soc Japan 79: 8-15. (Peer Reviewed, Japanese).
@@ -335,18 +339,18 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2021 | Admission committee, Hokkaido University                                                  |
 
 ### Undergraduate Students Taught for Research Training
-|           |                                                                            |
-| --------- | -------------------------------------------------------------------------- |
-| FY2011    | Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)         |
-| FY2013    | Sawako Kamo; Tokyo Women’s Medical University, School of Medicine          |
-| 2016      | Yasuko Takai; Faculty of Medicine, University of Szeged                    |
-| 2016      | Jun Takai; Faculty of Medicine, University of Szeged                       |
-| 2016–2020 | Tamás Földi; Faculty of Medicine, University of Szeged                     |
-| 2016–2020 | Márk Harangozó; Faculty of Medicine, University of Szeged                  |
-| FY2019    | Yusei Nakayama; Faculty of Engineering, Toyohashi University of Technology |
-| FY2020    | Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology    |
-| FY2021    | Kota Itagaki; Faculty of Pharmaceutical Sciences, Hokkaido University      |
-| FY2021    | Kaede Yoshida; Faculty of Pharmaceutical Sciences, Hokkaido University     |
+|                |                                                                            |
+| -------------- | -------------------------------------------------------------------------- |
+| FY2011         | Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)         |
+| FY2013         | Sawako Kamo; Tokyo Women’s Medical University, School of Medicine          |
+| 2016           | Yasuko Takai; Faculty of Medicine, University of Szeged                    |
+| 2016           | Jun Takai; Faculty of Medicine, University of Szeged                       |
+| 2016–2020      | Tamás Földi; Faculty of Medicine, University of Szeged                     |
+| 2016–2020      | Márk Harangozó; Faculty of Medicine, University of Szeged                  |
+| FY2019         | Yusei Nakayama; Faculty of Engineering, Toyohashi University of Technology |
+| FY2020         | Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology    |
+| FY2021–present | Kota Itagaki; Faculty of Pharmaceutical Sciences, Hokkaido University      |
+| FY2021–present | Kaede Yoshida; Faculty of Pharmaceutical Sciences, Hokkaido University     |
 
 ### Relevant Experience
 |      |                                                                                                                   |
@@ -364,12 +368,14 @@ https://doi.org/10.6084/m9.figshare.6160181
 s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése a mediális szeptum elektromos ingerlésével. 6 Apr 2021, Szeged, OTDK. Co-Advisor
 
 ## Teaching Contributions on Graduate Courses
-|             |                                                                                                                                                                                                          |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| FY2013      | Practical of Pain Research (Formalin test and Immunohistochemistry of spinal sections); Tokyo Women’s Medical University; Tokyo Women’s Medical University; graduate students; Daily practice for a week |
-| FY2012–2014 | Practical of Respiratory Medicine for Bio-Medical Curriculum; 4 × 2-h sessions                                                                                                                           |
-| FY2021      | Primer of Brain Sciences; Hokkaido University; graduate students                                                                                                                                         |
-| FY2021      | Lectures for Clinical Pharmacy; Hokkaido University                                                                                                                                                                                                         |
+|             |                                                                                                                                                                               |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| FY2013      | Pain Research, Practice (Formalin test and Immunohistochemistry of spinal sections); Graduate school of medicine, Tokyo Women’s Medical University; Daily practice for a week |
+| FY2012–2014 | Respiratory Medicine for Bio-Medical Curriculum, Practice; Graduate school of medicine, Tokyo Women’s Medical University; 4 × 2 h sessions                                    |
+| FY2021      | Basic Brain Science IV : Molecular and Cellular basis of Neurotransmission, Lecture; Graduate School of Life Science, Hokkaido University                                                                                    |
+| FY2021      | Pharmaceutical Science, Lecture; Hokkaido University                                                                                                                          |
+| FY2022      | Brain Science I, Lecture; Hokkaido University                                                                                                                                 |
+| FY2022      | Brain Science I, Practice; Hokkaido University                                                                                                                                |
 
 ### Graduate Students
 |             |                                                                                                                              |
@@ -381,7 +387,6 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 2017–2020   | Lizeth Pedraza; University of Szeged, Department of Physiology                                                               |
 | FY2019      | Takashi Kikukawa; Graduate School of Pharmaceutical Sciences, Nagoya City University                                         |
 | 2019–2020   | Lívia Barcsai; Faculty of Medicine, University of Szeged                                                                     |
-| FY2021      | Yumi Hamasaki; Hokkaido University                                                                                           |
 
 ## Teaching Materials Prepared
 |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
