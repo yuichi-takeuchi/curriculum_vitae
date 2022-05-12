@@ -1,4 +1,4 @@
-2022年4月6日現在
+2022年5月11日現在
 # COVERSHEET
 ## 1. Personal details
 |              |                                                                                     |
@@ -274,6 +274,8 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 28 Jul 2021 | 第44回日本神経科学大会、神戸                                                                                    |
 | 16 Dec 2021 | 第51回日本臨床神経生理学会学術大会、仙台                                                                        |
 | 17 Dec 2021 | 東北大学薬学部、部門公開セミナー                                                                                |
+| 23 May 2022 | 量子科学技術研究開発機構、部門公開セミナー                                                                      |
+| 17 Jun 2022 | 京都大学医学部脳機能統合センター、部門公開セミナー                                                              |
 
 
 ## 一般講演
@@ -316,6 +318,8 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2021–現在 | 薬理学IV：北海道大学薬学部において、講義・評価を担当した。7 x 2 h sessions during the 2nd semester                                                                                               |
 | FY2021–現在 | 先端生物学実験法II：北海道大学薬学部において、講義・評価を担当した。2 x 2 h sessions during the 2nd semester                                                                                     |
 | FY2021–現在 | 分析化学実習：北海道大学薬学部において、実習実施・評価を担当した。4 x 4 h sessions in the 2nd semester                                                                                           |
+| FY2022–現在 | 薬理学II：北海道大学薬学部において、講義・評価を担当した。3 x 2 h sessions during the 1st semester                                                                                               |
+| FY2022–現在 | 薬理学III：北海道大学薬学部において、講義・評価を担当した。3 x 2 h sessions during the 1st semester                                                                                              |
 
 ### 教育方法の実践例
 |        |                                                                                                                                                                                                                     |
@@ -330,18 +334,18 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2021 | アドミッションセンター総務部門国際総合入試実施部会委員 (北海道大学) |
 
 ### 研究指導した学部学生
-|           |                                                                                               |
-| --------- | --------------------------------------------------------------------------------------------- |
-| FY2011    | 内田萌衣、早稲田大学 先進理工学部、卒業研究指導 (@Tokyo Women’s Medical University)           |
-| FY2013    | 加茂沢子、東京女子医科大学 医学部、基礎配属・研究指導                                         |
-| 2016      | Yasuko Takai; Faculty of Medicine, University of Szeged                                       |
-| 2016      | Jun Takai; Faculty of Medicine, University of Szeged                                          |
-| 2016–2020 | Tamás Földi; Faculty of Medicine, University of Szeged                                        |
-| 2016–2020 | Márk Harangozó; Faculty of Medicine, University of Szeged                                     |
-| FY2019    | 中山雄晟、豊橋科学技術大学 電気・電子情報工学系、インターンシップ受入 (@University of Szeged) |
-| FY2020    | 大屋翔、豊橋科学技術大学 電気・電子情報工学系、インターンシップ受入 (@University of Szeged)   |
-| FY2021    | 板垣航太、北海道大学薬学部                                                                    |
-| FY2021    | 吉田楓、北海道大学薬学部                                                                      |
+|             |                                                                                               |
+| ----------- | --------------------------------------------------------------------------------------------- |
+| FY2011      | 内田萌衣、早稲田大学 先進理工学部、卒業研究指導 (@Tokyo Women’s Medical University)           |
+| FY2013      | 加茂沢子、東京女子医科大学 医学部、基礎配属・研究指導                                         |
+| 2016        | Yasuko Takai; Faculty of Medicine, University of Szeged                                       |
+| 2016        | Jun Takai; Faculty of Medicine, University of Szeged                                          |
+| 2016–2020   | Tamás Földi; Faculty of Medicine, University of Szeged                                        |
+| 2016–2020   | Márk Harangozó; Faculty of Medicine, University of Szeged                                     |
+| FY2019      | 中山雄晟、豊橋科学技術大学 電気・電子情報工学系、インターンシップ受入 (@University of Szeged) |
+| FY2020      | 大屋翔、豊橋科学技術大学 電気・電子情報工学系、インターンシップ受入 (@University of Szeged)   |
+| FY2021–現在 | 板垣航太、北海道大学薬学部                                                                    |
+| FY2021–現在 | 吉田楓、北海道大学薬学部                                                                      |
 
 ### 教育関連トレーニング
 |      |                                                                                                                   |
@@ -364,8 +368,10 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2011–2020 | 大学院生の研究指導。東京女子医科大学およびセゲド大学において、医学系大学院生の研究指導を担当した。（計6名）                                             |
 | FY2013      | 大学院実習: 東京女子医科大学大学院医学研究科において、機能系専攻実習（疼痛経路の機能・構造評価）の実施・評価を担当した。（30コマ）                      |
 | FY2012–2014 | 大学院実習：東京女子医科大学大学院医学研究科において、社会人大学院生対象の呼吸器系実習（スパイロメトリー・肺胞換気）の実施・評価を行った。（4コマ／年） |
-| FY2021      | 脳科学入門＠北海道大学大学院薬学研究院                                                                                                                  |
-| FY2021      | 医療薬学特論＠北海道大学大学院薬学研究院                                                                                                                                                        |
+| FY2021–現在 | 脳科学入門Ⅳ：脳の分子生物学＠北海道大学大学院薬学研究院                                                                                                                |
+| FY2021–現在 | 医療薬学特論＠北海道大学大学院薬学研究院                                                                                                                |
+| FY2022–現在 | 脳科学科学研究の展開I（講義）＠北海道大学大学院薬学研究院                                                                                               |
+| FY2022–現在 | 脳科学科学研究の展開I（実習）＠北海道大学大学院薬学研究院                                                                                               |
 
 ### 研究指導した大学院生
 |             |                                                                                                                              |
@@ -377,7 +383,6 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2017–2020   | Lizeth Pedraza; Faculty of Medicine, University of Szeged                                                                    |
 | FY2019      | 菊川孝、名古屋市立大学 大学院薬学研究科、研究指導 (@University of Szeged)                                                    |
 | 2019–2020   | Lívia Barcsai, Faculty of Medicine, University of Szeged                                                                     |
-| FY2021      | 濱崎友美、北海道大学大学院薬学研究院                                                                                         |
 
 ## 作成した教材
 |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
