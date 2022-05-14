@@ -1,4 +1,4 @@
-Updated on May 12th, 2022
+Updated on May 14th, 2022
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -60,13 +60,15 @@ Updated on May 12th, 2022
 | 2010–present | Society for Neuroscience,	Member            |
 | 2012–present | Japanese Neural Network Society,	Member     |
 | 2015–present | Asia Pacific Neural Network Society,	Member |
+| 2022–present | The Pharmaceutical Society of Japan, Member |
 
 ### Professional Bodies
-|                     |                                                  |
-| ------------------- | ------------------------------------------------ |
-| 18 Mar 2020–present | The Physiological Society of Japan, Board Member |
-| 20 Nov 2020–present | Front Behav Neurosci, Guest Associate Editor     |
-| 15 Mar 2021–present | Japanese Pharmacological Society, Board Member   |
+|                     |                                                                   |
+| ------------------- | ----------------------------------------------------------------- |
+| 18 Mar 2020–present | The Physiological Society of Japan, Board Member                  |
+| 20 Nov 2020–present | Front Behav Neurosci, Guest Associate Editor                      |
+| 15 Mar 2021–present | Japanese Pharmacological Society, Board Member                    |
+| 01 Apr 2022–present | The Pharmaceutical Society of Japan Hokkaido Branch, Board Member | 
 
 ## 5. Prizes, Awards and other Honors
 |      |                                                                                                                                                     |
