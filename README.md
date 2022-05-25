@@ -1,4 +1,4 @@
-Updated on May 14th, 2022
+Updated on May 25th, 2022
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -68,7 +68,7 @@ Updated on May 14th, 2022
 | 18 Mar 2020–present | The Physiological Society of Japan, Board Member                  |
 | 20 Nov 2020–present | Front Behav Neurosci, Guest Associate Editor                      |
 | 15 Mar 2021–present | Japanese Pharmacological Society, Board Member                    |
-| 01 Apr 2022–present | The Pharmaceutical Society of Japan Hokkaido Branch, Board Member | 
+| 01 Apr 2022–present | The Pharmaceutical Society of Japan Hokkaido Branch, Board Member |
 
 ## 5. Prizes, Awards and other Honors
 |      |                                                                                                                                                     |
@@ -253,10 +253,14 @@ https://doi.org/10.6084/m9.figshare.6160181
 15.	Revealing neuronal network dynamics underlying behavioral phenotypes of psychiatric disorders by solving inverse problems. MEXT, KAKENHI: Grant-in-Aid for Scientific Research on Innovative Areas (Grant no. 19H05224), Role: PI, Period: 2019–2021, Total cost: 5,720,000 JPY
 16. Development of a quantification method of seizure susceptibility using brain-wide electrical spatiotemporal dynamics. Japanese Neural Network Society, Research Grant, Role: PI, Period: 2021, Total cost: 300,000 JPY
 17. Moonshot Goal 7. Japan Agency for Medical Research and Development, Moonshot Research and Development Program, Role: co-PI, Period: 2021–2024, Total cost: 26,000,000 JPY
-18. Identification and regulation of pathological brain activity patterns that govern impulsive/compulsive decision-making. Osaka City: OCU Strategic Research Grant 2021 for Young Scientists, Role: PI, Total cost: 1,000 k JPY
+18. Identification and regulation of pathological brain activity patterns that govern impulsive/compulsive decision-making. Osaka City: OCU Strategic Research Grant 2021 for Young Scientists, Role: PI, Total cost: 1,000,000 JPY
 19. On-demand intervention of brain activities for controlling epilepsy. Takeda Science Foundation. Role: PI, Total cost: 1,000 k JPY
 20. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 21K19745), Role: co-PI, Period: 2021–2023, Total cost: 150,000 JPY
 21. A closed-loop brain stimulation for reinforcing hyper-adaptability. MEXT, KAKENHI: Grant-in-Aid for Scientific Research on Innovative Areas (Grant no. 22H04762), Role: PI, Period: 2022–2024, Total cost: 5,980,000 JPY
+22. An international collaboration research for clinical application of a novel therapeutic technology of epilepsy. The Nagai Foundation of Tokyo: Research Grant, Role: PI, Period: 2022–2023, Total cost: 500,000 JPY
+23. Closed-loop control of epilepsy via transcranial focused ultrasound stimulation. Tateisi Science and Technology Foundation: Research Grant (A), Role: PI, Period: 2022–2023, Total cost: 1,920,000 JPY
+24. Development of a novel non-invasive brain stimulation technology with ultrasound and genetic engineering. The Asahi Glass Foundation: Research Encouragement Grants, Role: PI, Period: 2022–2024, Total cost: 2,000,000 JPY
+25. An exploratory research of on-demand sonogenetic brain stimulation technology. Takahashi Industrial and Economic Research Foundation: Research Grant, Role: PI, Period: 2022–2023, Total cost: 3,000,000 JPY
 
 ## Invited Talks
 |      |                                                                                                                                           |
