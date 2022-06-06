@@ -1,4 +1,4 @@
-2022年5月30日現在
+2022年6月3日現在
 # COVERSHEET
 ## 1. Personal details
 |              |                                                                                     |
@@ -191,9 +191,9 @@
 31. **Takeuchi Y**, Closed-loop brain stimulation for epileptic seizures and beyond. The 98th Annual Meeting of the Physiological Society of Japan. Nagoya, Japan. Mar 28–30, 2021. (Abstract No. OP15-2) Oral
 32. **Takeuchi Y**, Closed-loop stimulation of the medial septum terminates epileptic seizures. The 44th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 28–31, 2021. (Abstract No. 1S04m-3) Symposium
 33. **Takeuchi Y**, Closed-loop brain stimulation for controlling epileptic seizures. The 51st Annual Meeting of the Japanese Society of Clinical Neurophysiology. Sendai, Japan. Dec 16–18, 2021. (Abstract No. SP9-2) Symposium
-34. **Takeuchi Y**, Li Q, Berényi A, Minami M, Decoding and quantification of seizure susceptibility with cross-regional oscillatory brain activity patterns in a rat model of temporal lobe epilepsy. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. Poster
-35. Chan M, Li Q, Horváth G, Berényi A, Minami M, **Takeuchi Y**, Reduced operant task engagement and altered neural oscillations in a triple-hit rat model of schizophrenia. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. Poster
-36. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, **Takeuchi Y**, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. Poster
+34. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, **Takeuchi Y**, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-069) Poster
+35. **Takeuchi Y**, Li Q, Berényi A, Minami M, Decoding and quantification of seizure susceptibility with cross-regional oscillatory brain activity patterns in a rat model of temporal lobe epilepsy. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-109) Poster
+36. Chan M, Li Q, Horváth G, Berényi A, Minami M, **Takeuchi Y**, Reduced operant task engagement and altered neural oscillations in a triple-hit rat model of schizophrenia. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-263) Poster
 
 ### 随筆
 1. 竹内雄一、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10–11,  2013
@@ -412,7 +412,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2022      | 薬理学II＠北海道大学の講義スライド                                                                                                                                                                         |
 | FY2022      | 薬理学III＠北海道大学の講義スライド                                                                                                                                                                        |
 | FY2022      | 脳科学研究の展開I＠北海道大学の大学院講義スライド                                                                                                                                                          |
-| FY2022      | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 神経薬理学への招待＠北海道大学の講義スライド                                                                                                                                     | 
+| FY2022      | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 神経薬理学への招待＠北海道大学の講義スライド                                                                                                                                     |
 
 ## その他教育上の能力に関する事項
 |             |                                                                                                                               |
