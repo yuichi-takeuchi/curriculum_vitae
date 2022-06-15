@@ -1,4 +1,4 @@
-Updated on Jun 3rd, 2022
+Updated on Jun 15th, 2022
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -42,10 +42,10 @@ Updated on Jun 3rd, 2022
 |           |                                                                                          |
 | --------- | ---------------------------------------------------------------------------------------- |
 | 2007–2008 | Research Assistant, National Institute of Physiological Sciences, Okazaki, Japan         |
-| 2009–2010 | Research Fellow,	Japan Society for the Promotion of Science, Tokyo, Japan                |
+| 2009–2010 | Research Fellow, Japan Society for the Promotion of Science, Tokyo, Japan                |
 | 2010–2015 | Assistant Professor, School of Medicine, Tokyo Women’s Medical University, Tokyo, Japan  |
 | 2016      | Research Fellow, The Uehara Memorial Foundation, Japan                                   |
-| 2015–2020 | Research Assistant Professor,	Faculty of Medicine, University of Szeged, Szeged, Hungary |
+| 2015–2020 | Research Assistant Professor, Faculty of Medicine, University of Szeged, Szeged, Hungary |
 | 2015–2020 | Visiting Lecturer, Hungarian Medical Universities                                        |
 | 2020–2021 | Specially-Appointed Lecturer, Osaka City University Graduate School of Medicine          |
 | 2018–2022 | Research Fellow, Graduate School of Pharmaceutical Sciences, Nagoya City University      |
@@ -459,6 +459,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 19 Nov 2021 | Frontiers in Human Neuroscience ([Link](https://doi.org/10.3389/fnhum.2021.770678)) |
 | 28 Jan 2022 | Neurology and Clinical Neuroscience                                                 |
 | 06 May 2022 | Applied Artificial Intelligence                                                     |
+| 14 Jun 2022 | Frontiers in Neural Circuits                                                        |
 
 ### Post-publication Peer Reviews
 |             |                                              |
