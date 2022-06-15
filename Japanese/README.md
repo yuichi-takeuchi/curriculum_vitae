@@ -1,4 +1,4 @@
-2022年6月3日現在
+2022年6月15日現在
 # COVERSHEET
 ## 1. Personal details
 |              |                                                                                     |
@@ -450,6 +450,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 19 Nov 2021 | Frontiers in Human Neuroscience ([Link](https://doi.org/10.3389/fnhum.2021.770678)) |
 | 28 Jan 2022 | Neurology and Clinical Neuroscience                                                 |
 | 06 May 2022 | Applied Artificial Intelligence                                                     |
+| 14 Jun 2022 | Frontiers in Neural Circuits                                                        |
 
 ### Post-publication Peer Reviews
 |             |                                              |
