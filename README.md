@@ -82,6 +82,7 @@ Updated on Jun 15th, 2022
 | 2013 | Incentive Award for Young Scientist, Physiological Society of Japan                                                                                 |
 | 2016 | Research Fellowship, The Uehara Memorial Foundation                                                                                                 |
 | 2019 | Special award for excellent presentation, Annual meeting of Young Neurobehavioral Pharmacologists                                                   |
+| 2022 | Research award, Nishinomiya Basic Research Fund, Japan                                                                                              |
 
 # REASEARCH/SCHOLARSHIP
 ## Peer Reviewed Publications
