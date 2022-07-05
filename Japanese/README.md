@@ -120,6 +120,7 @@
 5. 竹内雄一、タウ・バイオロジー：神経精神疾患のリアルタイム制御に向けて、細胞 53 (1): 50–53, 2021.1. 北隆館
 6. 竹内雄一、動的ヘテラルキー：オシレーション治療、Clin Neurosci 39 (7): 847–851, 2021.7. 中外医学社
 7. 竹内雄一、関和彦、超音波と神経疾患－How useful?：超音波ニューロモデュレーション、Clin Neurosci 40 (2): 249–253, 2022.2. 中外医学社
+8. **Takeuchi Y**, Kawano T, Li Q, Mima T, Nagai J, eds. (2022). Oscillotherapeutics - Toward Real-Time Control of Pathological Oscillations in the Brain. Lausanne: Frontiers Media SA. DOI: https://doi.org/10.3389/978-2-88976-458-7
 
 ### プレプリント
 1. **Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. bioRxiv 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827

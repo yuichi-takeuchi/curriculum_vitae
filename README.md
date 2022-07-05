@@ -126,6 +126,7 @@ Updated on Jun 15th, 2022
 5. **Takeuchi Y**, Tau biology: Toward real-time control of neuropsychiatric disorders. The cells 53 (1): 50–53. Jan 2021. Hokuryukan. (Invited, Japanese)
 6. **Takeuchi Y**, Dynamic heterarchy：Oscillotherapeutics. Clin Neurosci 39 (7): 847–851. Jul 2021. Chugai-igakusha. (Invited, Japanese)
 7. **Takeuchi Y**, Seki K, Ultrasound and Neurological disorders–How useful?: Ultrasound Neuromodulation, Clin Neurosci 40 (2): 249–253. Feb 2022. Chugai-igakusha. (Invited, Japanese)
+8. **Takeuchi Y**, Kawano T, Li Q, Mima T, Nagai J, eds. (2022). Oscillotherapeutics - Toward Real-Time Control of Pathological Oscillations in the Brain. Lausanne: Frontiers Media SA. DOI: https://doi.org/10.3389/978-2-88976-458-7
 
 ### Preprints
 1. **Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. bioRxiv 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
