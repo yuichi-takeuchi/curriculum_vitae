@@ -277,9 +277,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2018 | Invited speaker, Seminar @ National Institute of Physiological Sciences                                                                   |
 | 2019 | Invited speaker, Seminar @ University of Szeged, Szeged, Hungary                                                                          |
 | 2019 | Invited speaker, Seminar @ Osaka City University, Osaka, Japan                                                                            |
-| 2019 | Invited speaker, Annual Meeting of MEXT Grant-in-Aid for Scientific Research on Innovative Areas (Multiscale Brain)                       |
 | 2019 | Invited speaker, Seminar @ Tokyo Women’s Medical University, Tokyo, Japan                                                                 |
-| 2020 | Invited speaker, Annual Meeting of MEXT Grant-in-Aid for Scientific Research on Innovative Areas (Multiscale Brain)                       |
 | 2021 | Invited speaker, Seminar @ Brain Research Institute, Niigata University, Niigata, Japan                                                   |
 | 2021 | Invited speaker, Seminar @ Human Brain Research Center, Kyoto University, Kyoto, Japan                                                    |
 | 2021 | Invited speaker, Seminar @ Synchro-Biology, virtual                                                                                       |
@@ -288,6 +286,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2021 | Invited speaker, Seminar @ Tohoku University, Sendai, Japan                                                                               |
 | 2022 | Invited speaker, Seminar @ National Institute of Quantum Science and Technology, Chiba, Japan                                             |
 | 2022 | Invited speaker, Seminar @ Human Brain Research Center, Kyoto University, Kyoto, Japan                                                    |
+| 2022 | Invited speaker, Summer Program @ Taipei Medical University, Taipei City, Taipei                                                          |
 
 
 ## Contributed Talks
