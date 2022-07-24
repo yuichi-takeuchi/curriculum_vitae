@@ -264,7 +264,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 24. Development of a novel non-invasive brain stimulation technology with ultrasound and genetic engineering. The Asahi Glass Foundation: Research Encouragement Grants, Role: PI, Period: 2022–2024, Total cost: 2,000,000 JPY
 25. An exploratory research of on-demand sonogenetic brain stimulation technology. Takahashi Industrial and Economic Research Foundation: Research Grant, Role: PI, Period: 2022–2023, Total cost: 3,000,000 JPY
 26. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 22K18650), Role: co-PI, Period: 2022–2024, Total cost: 520,000 JPY
-27. Development of a non-invasive, spatiotemporally-specific in vivo gene transfection technology. Noastec Foundation, North Talent Grant, Role: PI, Period: 2022–2023, Total cost: 400,000 JPY
+27. Development of a non-invasive and spatiotemporally-specific in vivo gene transfection technology. Noastec Foundation, North Talent Grant, Role: PI, Period: 2022–2023, Total cost: 400,000 JPY
 
 ## Invited Talks
 |      |                                                                                                                                           |
