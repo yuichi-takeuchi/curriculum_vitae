@@ -1,4 +1,4 @@
-Updated on Jul 24th, 2022
+Updated on Jul 25th, 2022
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -132,6 +132,7 @@ Updated on Jul 24th, 2022
 1. **Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. bioRxiv 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
 2. **Takeuchi Y**, Nagy A, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A. The medial septum as a potential target for treating brain disorders associated with oscillopathies. Preprints 2021, 2021050317. DOI: https://doi.org/10.20944/preprints202105.0317.v1
 3. Li Q†, **Takeuchi Y**†, Wang J, Barcsai L, Pedraza L, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression. bioRxiv 2022.02.01.478683. DOI: https://doi.org/10.1101/2022.02.01.478683
+4. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Kozák G, **Takeuchi Y**, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation to reduce pathologic fear. bioRxiv 2022.07.24.501314. DOI: https://doi.org/10.1101/2022.07.24.501314
 
 ### Proceedings and Reports
 1.	**Takeuchi Y**, Uchida M, Miyata M, Neuroanatomical and physiological analyses of afferent fiber rewiring in the ventrobasal thalamus of mice after peripheral nerve injury. Proceedings of Tokyo Women’s Medical University Medical Institute 32: 20–21. 2012. (Japanese)
