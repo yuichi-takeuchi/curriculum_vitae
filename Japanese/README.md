@@ -1,4 +1,4 @@
-2022年7月24日現在
+2022年7月25日現在
 # COVERSHEET
 ## 1. Personal details
 |              |                                                                                     |
@@ -126,6 +126,7 @@
 1. **Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. bioRxiv 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
 2. **Takeuchi Y**, Nagy A, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A. The medial septum as a potential target for treating brain disorders associated with oscillopathies. Preprints 2021, 2021050317. DOI: https://doi.org/10.20944/preprints202105.0317.v1
 3. Li Q†, **Takeuchi Y**†, Wang J, Barcsai L, Pedraza L, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression. bioRxiv 2022.02.01.478683. DOI: https://doi.org/10.1101/2022.02.01.478683
+4. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Kozák G, **Takeuchi Y**, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation to reduce pathologic fear. bioRxiv 2022.07.24.501314. DOI: https://doi.org/10.1101/2022.07.24.501314
 
 ### 紀要、報告書
 1. 竹内雄一、内田萌衣、宮田麻理子、末梢神経損傷による視床内求心性線維再配線現象の神経解剖学的および機能的解析、東京女子医科大学総合研究所紀要 32: 20-21, 170, 2012年
