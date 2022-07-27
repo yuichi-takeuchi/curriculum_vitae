@@ -1,4 +1,4 @@
-Updated on Jul 25th, 2022
+Updated on Jul 27th, 2022
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -220,8 +220,6 @@ Updated on Jul 25th, 2022
 https://doi.org/10.6084/m9.figshare.6160181
 12.	**Takeuchi Y** (2018) InfraredMotionDetector. figshare. https://doi.org/10.6084/m9.figshare.6160226
 
-13.	**Takeuchi Y** and Berényi A (2020) Closed-loop stimulation of the medial septum terminates epileptic seizures. Mendeley Data, https://data.mendeley.com/datasets/k9hwm7p33x/1
-
 ### Code Repositories
 1.	**Takeuchi Y** (2017) CMAPAnalysis v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.800747
 2.	**Takeuchi Y** (2017) tUtility v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.803404
@@ -241,32 +239,29 @@ https://doi.org/10.6084/m9.figshare.6160181
 ## Grants Received
 1.	Afferent-input-dependent thalamic circuit plasticity. JSPS, KAKENHI: Grant-in-Aid for JSPS Fellows (Grant no. 09J00032), Role: PI, Period: 2009–2010, Total cost: 700,000 JPY
 2.	Electrophysiological and neuroanatomical analyses of peripheral nerve transection-induced multiple-innervation of lemniscal fibers in the somatosensory thalamus of mice. JSPS KAKENHI: Grant-in-Aid for Research Activity Start-up (Grant no. 22800063), Role: PI, Duration: 2010–2012, Total cost: 2,535,000 JPY
-3.	Remodeling of afferent axon terminals in the thalamus after peripheral nerve injury. Tokyo Women’s Medical University-Medical Research Grant, Role: PI, Period: 2010–2011, Total cost: 680,000 JPY
-4.	Functional and neuroanatomical analyses of afferent fiber remodeling in the thalamus after peripheral nerve injury. Narishige Neuroscience Research Foundation, Research Award, Role: PI, Period: 2012–2013, Total cost: 300,000 JPY
-5.	Membrane properties underlying abnormal thalamic firing after deafferentation. Casio Science Promotion Foundation: Research Grant, Role: PI, Period: 2012–2013, Total cost: 1,000,000 JPY
-6.	GluA2 glutamate receptor subunit as a target of phantom pain gene therapy. Terumo Life Science Foundation: Medical and Health Enhancement Program Subsidy, Role: PI, Period: 2012–2013, Total cost: 1,000,000 JPY
-7.	Genetic visualization of central circuitry rewiring after peripheral nerve injury. The Promotion and Mutual Aid Corporation for Private School of Japan: The Science Research Promotion Fund, Role: PI, Period: 2013–2014, Total cost: 500,000 JPY
-8.	Large-scale somatotopic reorganization in the thalamus after peripheral nerve injury. Tokyo Women’s Medical University: Medical Research Grant, Role: PI, Period: 2014–2015, Total cost: 700,000 JPY
-9.	Molecular mechanisms underlying development and maintenance of thalamic remodeling after peripheral nerve injury. JSPS, KAKENHI: Grant-in-Aid for Young Scientists (B) (Grant no. 25870757), Role: PI, Period: 2013–2016, Total cost: 4,290,000 JPY
-10.	Development of a new therapeutic approach for epileptic seizures by transcranial electrical stimulation. The Uehara Memorial Foundation, Research Fellowship, Role: PI, Period: 2016, Total cost: 3,600,000 JPY
-11.	Real-time closed-loop interventions of epileptic seizures by non-invasive deep brain stimulation. JSPS, KAKENHI: Fostering Joint International Research (B) (Grant no. 18KK0236), Role: PI, Period: 2018–2022, Total cost: 179,40,000 JPY
-12.	Real-time closed-loop interventions of epileptic seizures by non-invasive deep brain stimulation. The Kanae Foundation for the Promotion of Medical Science, Foreign Study Grants, Role: PI, Period: 2019–2020, Total cost: 1,000,000 JPY
-13.	On-demand transcranial interventions of epileptic seizures. Life Science Foundation, Research Grant, Role: PI, Period: 2019–2020, Total cost: 1,000,000 JPY
-14.	Development of a quantification method of seizure susceptibility using brain-wide electrical spatiotemporal dynamics. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (B) (Grant no. 19H03550), Role: PI, Period: 2019–2024, Total cost: 17,160,000 JPY
-15.	Revealing neuronal network dynamics underlying behavioral phenotypes of psychiatric disorders by solving inverse problems. MEXT, KAKENHI: Grant-in-Aid for Scientific Research on Innovative Areas (Grant no. 19H05224), Role: PI, Period: 2019–2021, Total cost: 5,720,000 JPY
-16. Development of a quantification method of seizure susceptibility using brain-wide electrical spatiotemporal dynamics. Japanese Neural Network Society, Research Grant, Role: PI, Period: 2021, Total cost: 300,000 JPY
-17. Moonshot Goal 7. Japan Agency for Medical Research and Development, Moonshot Research and Development Program, Role: co-PI, Period: 2021–2024, Total cost: 26,000,000 JPY
-18. Identification and regulation of pathological brain activity patterns that govern impulsive/compulsive decision-making. Osaka City: OCU Strategic Research Grant 2021 for Young Scientists, Role: PI, Total cost: 1,000,000 JPY
-19. On-demand intervention of brain activities for controlling epilepsy. Takeda Science Foundation. Role: PI, Total cost: 2,000,000 JPY
-20. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 21K19745), Role: co-PI, Period: 2021–2023, Total cost: 195,000 JPY
-21. A closed-loop brain stimulation for reinforcing hyper-adaptability. MEXT, KAKENHI: Grant-in-Aid for Scientific Research on Innovative Areas (Grant no. 22H04762), Role: PI, Period: 2022–2024, Total cost: 5,980,000 JPY
-22. An international collaboration research for clinical application of a novel therapeutic technology of epilepsy. The Nagai Foundation of Tokyo: Research Grant, Role: PI, Period: 2022–2023, Total cost: 500,000 JPY
-23. Closed-loop control of epilepsy via transcranial focused ultrasound stimulation. Tateisi Science and Technology Foundation: Research Grant (A), Role: PI, Period: 2022–2023, Total cost: 1,920,000 JPY
-24. Development of a novel non-invasive brain stimulation technology with ultrasound and genetic engineering. The Asahi Glass Foundation: Research Encouragement Grants, Role: PI, Period: 2022–2024, Total cost: 2,000,000 JPY
-25. An exploratory research of on-demand sonogenetic brain stimulation technology. Takahashi Industrial and Economic Research Foundation: Research Grant, Role: PI, Period: 2022–2023, Total cost: 3,000,000 JPY
-26. A control technology of a brain activity pattern of impulsive and compulsive decision-making. Nishinomiya Basic Research Fund, Japan, Role: PI, Period: 2022–2023, Total cost: 500,000 JPY
-27. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 22K18650), Role: co-PI, Period: 2022–2024, Total cost: 520,000 JPY
-28. Development of a non-invasive and spatiotemporally-specific in vivo gene transfection technology. Noastec Foundation, North Talent Grant, Role: PI, Period: 2022–2023, Total cost: 400,000 JPY
+3.	Functional and neuroanatomical analyses of afferent fiber remodeling in the thalamus after peri3heral nerve injury. Narishige Neuroscience Research Foundation, Research Award, Role: PI, Period: 2012–2013, Total cost: 300,000 JPY
+4.	Membrane properties underlying abnormal thalamic firing after deafferentation. Casio Science Promotion Foundation: Research Grant, Role: PI, Period: 2012–2013, Total cost: 1,000,000 JPY
+5.	GluA2 glutamate receptor subunit as a target of phantom pain gene therapy. Terumo Life Science Foundation: Medical and Health Enhancement Program Subsidy, Role: PI, Period: 2012–2013, Total cost: 1,000,000 JPY
+6.	Genetic visualization of central circuitry rewiring after peripheral nerve injury. The Promotion and Mutual Aid Corporation for Private School of Japan: The Science Research Promotion Fund, Role: PI, Period: 2013–2014, Total cost: 500,000 JPY
+7.	Molecular mechanisms underlying development and maintenance of thalamic remodeling after peripheral nerve injury. JSPS, KAKENHI: Grant-in-Aid for Young Scientists (B) (Grant no. 25870757), Role: PI, Period: 2013–2016, Total cost: 4,290,000 JPY
+8.	Development of a new therapeutic approach for epileptic seizures by transcranial electrical stimulation. The Uehara Memorial Foundation, Research Fellowship, Role: PI, Period: 2016, Total cost: 3,600,000 JPY
+9.	Real-time closed-loop interventions of epileptic seizures by non-invasive deep brain stimulation. JSPS, KAKENHI: Fostering Joint International Research (B) (Grant no. 18KK0236), Role: PI, Period: 2018–2022, Total cost: 179,40,000 JPY
+10.	Real-time closed-loop interventions of epileptic seizures by non-invasive deep brain stimulation. The Kanae Foundation for the Promotion of Medical Science, Foreign Study Grants, Role: PI, Period: 2019–2020, Total cost: 1,000,000 JPY
+11.	On-demand transcranial interventions of epileptic seizures. Life Science Foundation, Research Grant, Role: PI, Period: 2019–2020, Total cost: 1,000,000 JPY
+12.	Development of a quantification method of seizure susceptibility using brain-wide electrical spatiotemporal dynamics. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (B) (Grant no. 19H03550), Role: PI, Period: 2019–2024, Total cost: 17,160,000 JPY
+13.	Revealing neuronal network dynamics underlying behavioral phenotypes of psychiatric disorders by solving inverse problems. MEXT, KAKENHI: Grant-in-Aid for Scientific Research on Innovative Areas (Grant no. 19H05224), Role: PI, Period: 2019–2021, Total cost: 5,720,000 JPY
+14. Development of a quantification method of seizure susceptibility using brain-wide electrical spatiotemporal dynamics. Japanese Neural Network Society, Research Grant, Role: PI, Period: 2021, Total cost: 300,000 JPY
+15. Moonshot Goal 7. Japan Agency for Medical Research and Development, Moonshot Research and Development Program, Role: co-PI, Period: 2021–2024, Total cost: 26,000,000 JPY
+16. On-demand intervention of brain activities for controlling epilepsy. Takeda Science Foundation. Role: PI, Total cost: 2,000,000 JPY
+17. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 21K19745), Role: co-PI, Period: 2021–2023, Total cost: 195,000 JPY
+18. A closed-loop brain stimulation for reinforcing hyper-adaptability. MEXT, KAKENHI: Grant-in-Aid for Scientific Research on Innovative Areas (Grant no. 22H04762), Role: PI, Period: 2022–2024, Total cost: 5,980,000 JPY
+19. An international collaboration research for clinical application of a novel therapeutic technology of epilepsy. The Nagai Foundation of Tokyo: Research Grant, Role: PI, Period: 2022–2023, Total cost: 500,000 JPY
+20. Closed-loop control of epilepsy via transcranial focused ultrasound stimulation. Tateisi Science and Technology Foundation: Research Grant (A), Role: PI, Period: 2022–2023, Total cost: 1,920,000 JPY
+21. Development of a novel non-invasive brain stimulation technology with ultrasound and genetic engineering. The Asahi Glass Foundation: Research Encouragement Grants, Role: PI, Period: 2022–2024, Total cost: 2,000,000 JPY
+22. An exploratory research of on-demand sonogenetic brain stimulation technology. Takahashi Industrial and Economic Research Foundation: Research Grant, Role: PI, Period: 2022–2023, Total cost: 3,000,000 JPY
+23. A control technology of a brain activity pattern of impulsive and compulsive decision-making. Nishinomiya Basic Research Fund, Japan, Role: PI, Period: 2022–2023, Total cost: 500,000 JPY
+24. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 22K18650), Role: co-PI, Period: 2022–2024, Total cost: 520,000 JPY
+25. Development of a non-invasive and spatiotemporally-specific in vivo gene transfection technology. Noastec Foundation, North Talent Grant, Role: PI, Period: 2022–2023, Total cost: 400,000 JPY
 
 ## Invited Talks
 |      |                                                                                                                                           |
@@ -337,7 +332,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2021–present | Laboratory Exercise of Analytical Chemistry; Hokkaido University, school of pharmaceutical sciences and pharmacy, 2nd year undergraduate students, 4 x 4 h sessions in the 2nd semester |
 | FY2022–present | Pharmacology II；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                         |
 | FY2022–present | Pharmacology III；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                        |
-| FY2022–present | Freshman Seminar
+| FY2022–present | Freshman Seminar                                                                                                                                                                        |
 Introduction of Neuropharmacology; Hokkaido University, 1st year under students, 1 x 2 h session during the 1st semester                                                                                                                                                                                          |
 
 ## Educational Publications
@@ -364,6 +359,7 @@ Introduction of Neuropharmacology; Hokkaido University, 1st year under students,
 | FY2020         | Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology    |
 | FY2021–present | Kota Itagaki; Faculty of Pharmaceutical Sciences, Hokkaido University      |
 | FY2021–present | Kaede Yoshida; Faculty of Pharmaceutical Sciences, Hokkaido University     |
+| FY2022–present | Takuya Kondoh; Faculty of Pharmaceutical Sciences, Hokkaido University     |
 
 ### Relevant Experience
 |      |                                                                                                                   |
