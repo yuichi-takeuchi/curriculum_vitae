@@ -1,4 +1,4 @@
-Updated on Jul 27th, 2022
+Updated on Aug 9th, 2022
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -418,8 +418,9 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | FY2022      | Lecture Slides for Pharmacology II @ Hokkaido University                                                            |
 | FY2022      | Lecture Slides for Pharmacology III @ Hokkaido University                                                           |
 | FY2022      | Lecture Slides for Brain Science I @ Hokkaido University                                                            |
-| FY2022      | Lecture Slides for Freshman Seminar: Introduction of Neuropharmacology @ Hokkaido University                       |
-
+| FY2022      | Text for Pharmacology Practice  (Gastrointestinal system) @ Hokkaido University, School of Pharmaceutical Sciences  |
+| FY2022      | Lecture Slides for Freshman Seminar: Introduction of Neuropharmacology @ Hokkaido University                        |
+| FY2022      | Lecture Slides for Training Course for Electrophysiology (1)/(2): Hokkaido Summer Institute                         |
 
 ## Other Teaching Contributions
 |           |                                                                                                                                         |
@@ -491,6 +492,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 |             |                                                                                                                                                                                    |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01 Nov 2008 | Instructor of Slice Patch-Clamp Training Course; National Institute for Physiological Sciences, Okazaki, Japan; Graduate students and Young researchers; Daily practice for 1 week |
+| 09 Aug 2022 | Training Course for Electrophysiology (1)/(2), Hokkaido Summer Institute                                                                                                           |
 
 ## Laboratory Supervisory
 ### Technicians
