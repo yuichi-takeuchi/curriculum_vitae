@@ -1,4 +1,4 @@
-2022年7月27日現在
+2022年8月9日現在
 # COVERSHEET
 ## 1. Personal details
 |              |                                                                                     |
@@ -415,7 +415,10 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2022      | 薬理学II＠北海道大学の講義スライド                                                                                                                                                                         |
 | FY2022      | 薬理学III＠北海道大学の講義スライド                                                                                                                                                                        |
 | FY2022      | 脳科学研究の展開I＠北海道大学の大学院講義スライド                                                                                                                                                          |
+| FY2022      | 実習書、科目：薬理学実習（北海道大学薬学部）。                                                                                                                                                             |
 | FY2022      | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 神経薬理学への招待＠北海道大学の講義スライド                                                                                                                                     |
+| FY2022      | 北海道サマーインスティチュート・実践的電気生理学コース（１）／（２）講義スライド                                                                                                                           |
+
 
 ## その他教育上の能力に関する事項
 |             |                                                                                                                               |
@@ -484,6 +487,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 |             |                                                                                                                                                                                    |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01 Nov 2008 | Instructor of Slice Patch-Clamp Training Course; National Institute for Physiological Sciences, Okazaki, Japan; Graduate students and Young researchers; Daily practice for 1 week |
+| 09 Aug 2022 | Training Course for Electrophysiology (1)/(2), Hokkaido Summer Institute                                                                                                           |
 
 ## 研究指導
 ### テクニシャン指導
