@@ -1,4 +1,4 @@
-Updated on Aug 9th, 2022
+Updated on Aug 30th, 2022
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -113,6 +113,9 @@ Updated on Aug 9th, 2022
 1. Tanabe M, Takasu K, **Takeuchi Y**, Ono H, Pain relief by gabapentin and pregabalin via supraspinal mechanisms after peripheral nerve injury. J Neurosci Res 86 (15): 3258–3264. 15 Nov 2008. DOI: https://doi.org/10.1002/jnr.21786
 2. **Takeuchi Y**\* and Berényi A\*, Oscillotherapeutics – Time-targeted interventions in epilepsy and beyond. Neurosci Res 152: 87–107. 16 Jan 2020. DOI: https://doi.org/10.1016/j.neures.2020.01.002
 3. **Takeuchi Y**\*, Nagy AJ, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. Front Neural Circuits 15: 701080. 08 Jul 2021. DOI: https://doi.org/10.3389/fncir.2021.701080
+
+### Editorial
+1. **Takeuchi Y**, Li Q, Kawano T, Nagai J, Mima T, Editorial: Oscillotherapeutics – Toward real-time control of pathological oscillations in the brain. Front Behav Neurosci 16: 1021616. xx xxx 2022. DOI: https://doi.org/10.3389/fnbeh.2022.1021616
 
 ### Thesis for Doctoral Degree
 **Takeuchi Y**, Developmental and peripheral nerve injury-induced changes of afferent synapses in the somatosensory thalamus. The Graduate University for Advanced Studies, Kanagawa, Japan. 24 Mar 2010.
@@ -286,6 +289,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2022 | Invited speaker, Seminar @ National Institute of Quantum Science and Technology, Chiba, Japan                                             |
 | 2022 | Invited speaker, Seminar @ Human Brain Research Center, Kyoto University, Kyoto, Japan                                                    |
 | 2022 | Invited speaker, Summer Program @ Taipei Medical University, Taipei City, Taipei                                                          |
+| 2022 | Invited symposiast, Seitai-kinou and Souyaku Symposium 2022 @ University of Shizuoka, Shizuoka, Japan                                    | 
 
 
 ## Contributed Talks
