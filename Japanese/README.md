@@ -1,4 +1,4 @@
-2022年8月9日現在
+2022年8月30日現在
 # COVERSHEET
 ## 1. Personal details
 |              |                                                                                     |
@@ -107,6 +107,9 @@
 1. Tanabe M, Takasu K, **Takeuchi Y**, Ono H, Pain relief by gabapentin and pregabalin via supraspinal mechanisms after peripheral nerve injury. J Neurosci Res 86 (15): 3258-3264. 15 Nov 2008. DOI: https://doi.org/10.1002/jnr.21786
 2. **Takeuchi Y*** and Berényi A*, Oscillotherapeutics – Time-targeted interventions in epilepsy and beyond. Neurosci Res 152: 87-107. 16 Jan 2020. DOI: https://doi.org/10.1016/j.neures.2020.01.002
 3. **Takeuchi Y**\*, Nagy AJ, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. Front Neural Circuits 15: 701080. 08 Jul 2021. DOI: https://doi.org/10.3389/fncir.2021.701080
+
+### 編集
+1. **Takeuchi Y**, Li Q, Kawano T, Nagai J, Mima T, Editorial: Oscillotherapeutics – Toward real-time control of pathological oscillations in the brain. Front Behav Neurosci 16: 1021616. xx xxx 2022. DOI: https://doi.org/10.3389/fnbeh.2022.1021616
 
 ### 博士論文
 **Takeuchi Y**, Developmental and peripheral nerve injury-induced changes of afferent synapses in the somatosensory thalamus. The Graduate University for Advanced Studies, Kanagawa, Japan. 24 Mar 2010.
@@ -283,7 +286,8 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 17 Dec 2021 | 東北大学薬学部、部門公開セミナー                                                                                |
 | 23 May 2022 | 量子科学技術研究開発機構、部門公開セミナー                                                                      |
 | 17 Jun 2022 | 京都大学医学部脳機能統合センター、部門公開セミナー                                                              |
-| 22 Jul 2022 | 台北医科大学薬学院、サマープログラム                                                              |
+| 22 Jul 2022 | 台北医科大学薬学院、サマープログラム                                                                            |
+| 25 Aug 2022 | 生体機能と創薬シンポジウム2022、静岡                                                                            | 
 
 
 ## 一般講演
