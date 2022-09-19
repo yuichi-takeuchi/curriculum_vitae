@@ -1,4 +1,4 @@
-2022年8月30日現在
+2022年9月19日現在
 # COVERSHEET
 ## 1. Personal details
 |              |                                                                                     |
@@ -81,162 +81,162 @@
 # 研究
 ## 学術論文（査読有）
 ### 原著論文
-1. **Takeuchi Y**, Takasu K, Honda M, Ono H, Tanabe M, Neurochemical evidence that supraspinally administered gabapentin activates the descending noradrenergic system after peripheral nerve injury. Eur J Pharmacol 556 (1-3): 69-74. 03 Nov 2007. DOI: https://doi.org/10.1016/j.ejphar.2006.10.059
-2. Tanabe M, **Takeuchi Y**, Ono H, The supraspinally mediated analgesic effects of zonisamide in mice after peripheral nerve injury are independent of the descending monoaminergic system. J Pharmacol Sci 104 (4): 335-340. 01 Aug 2007. DOI: https://doi.org/10.1254/jphs.FP0070827
-3.	**Takeuchi Y**, Takasu K, Ono H, Tanabe M, Pregabalin, S-(+)-3-isobutylgaba, activates the descending noradrenergic system to alleviate neuropathic pain in the mouse partial sciatic nerve ligation model. Neuropharmacology 53 (7): 842-853. 19 Aug 2007. DOI: https://doi.org/10.1016/j.neuropharm.2007.08.013
-4. Nagumo Y, **Takeuchi Y**, Imoto K, Miyata M, Synapse- and subtype-specific modulation of synaptic transmission by nicotinic acetylcholine receptors in the ventrobasal thalamus. Neurosci Res 69 (3): 203-213. 15 Dec 2010. DOI: https://doi.org/10.1016/j.neures.2010.12.002
-5. **Takeuchi Y**, Yamasaki M., Nagumo Y, Imoto K, Watanabe M, Miyata M, Rewiring of afferent fibers in the somatosensory thalamus of mice caused by peripheral sensory nerve transection. J Neurosci 32 (20): 6917-6930. 16 May 2012. DOI: https://doi.org/10.1523/JNEUROSCI.5008-11.2012
-6. Matsumine H, Sasaki R, **Takeuchi Y**, Miyata M, Yamato M, Okano T, Sakurai H, Vascularized versus non-vascularized island-median nerve grafts in the facial nerve regeneration and functional recovery of rats for facial nerve reconstruction study. J Reconstr Microsurg 30 (2): 127-136. 25 Oct 2013. DOI: https://doi.org/10.1055/s-0033-1357500
-7. **Takeuchi Y**, Asano H, Katayama Y, Muragaki Y, Imoto K, Miyata M, Large-scale somatotopic refinement via functional synapse elimination in the thalamus of developing mice. J Neurosci 34 (4): 1258-1270. 22 Jan 2014. DOI: https://doi.org/10.1523/JNEUROSCI.3865-13.2014
-8. Matsumine H, **Takeuchi Y**, Sasaki R, Kazama T, Kano K, Matsumoto T, Sakurai H, Miyata M, Yamato M, Adipocyte-derived and dedifferentiated fat cells promoting facial nerve regeneration in a rat model. Plast Reconstr Surg 134 (4): 686-697. Oct 2014. DOI: https://doi.org/10.1097/PRS.0000000000000537
-9. Sasaki R, Matsumine H, Watanabe Y, **Takeuchi Y**, Yamato M, Okano T, Miyata M, Ando T, Electrophysiologic and functional evaluations of regenerated facial-nerve defect with a tube containing dental pulp cells in rats. Plast Reconstr Surg 134: 970-978. Nov 2014. DOI: https://doi.org/10.1097/PRS.0000000000000602
-10. Matsumine H, Sasaki R, **Takeuchi Y**, Watanabe Y, Niimi Y, Sakurai H, Miyata M, Yamato M, Unilateral multiple facial-nerve branch reconstruction using "end-to-side loop graft "supercharged by hypoglossal nerve. Plast Reconstr Surg Glob Open 2 (10): e240. 07 Nov 2014. DOI: https://doi.org/10.1097/GOX.0000000000000206
-11. Niimi Y, Matsumine H, **Takeuchi Y**, Sasaki R, Watanabe Y, Yamato M, Miyata M, Sakurai H, Effectively axonal-supercharged interpositional-jump graft with an artificial nerve-conduit for rat facial nerve paralysis model. Plast Reconstr Surg Glob Open 3 (6): e416. 08 Jul 2015. DOI: https://doi.org/10.1097/GOX.0000000000000397
-12. **Takeuchi Y**, Osaki H, Yagasaki Y, Katayama Y, Miyata M, Afferent fiber remodeling in the somatosensory thalamus of mice as a neural basis of somatotopic reorganization in the brain and ectopic mechanical hypersensitivity after peripheral sensory nerve injury. eNeuro 4 (2): e0345-16.2017. 23 May 2017. DOI: https://doi.org/10.1523/ENEURO.0345-16.2017
-13. Niimi Y, Matsumine H, **Takeuchi Y**, Osaki H, Tsunoda S, Miyata M, Yamato M, Sakurai H, A collagen-coated PGA conduit for interpositional-jump graft with end-to-side neurorrhaphy for treating facial nerve paralysis in rat. Microsurgery 39 (1): 70-80. 08 Jan 2018. DOI: https://doi.org/10.1002/micr.30291
-14. Vöröslakos M, **Takeuchi Y**, Brinyiczki K, Zombori T, Oliva A, Fernández-Ruiz A, Kozák G, Kincses Z T, Iványi B, Buzsáki G, Berényi A, Direct effects of transcranial electric stimulation on brain circuits in rats and humans. Nat Commun 9 (1): 483. 20 Feb 2018. DOI: https://doi.org/10.1038/s41467-018-02928-3
-15. **Takeuchi Y***, Osaki H, Matsumine H, Niimi Y, Sasaki R, Miyata M, A method package for electrophysiological evaluation of reconstructed or regenerated facial nerves in rodents. MethodsX 5: 283-298. 30 Mar 2018. DOI: https://doi.org/10.1016/j.mex.2018.03.007
-16. Nagy A, **Takeuchi Y**, Berényi A, Coding of self-motion induced and self-independent visual motion in the rat dorsomedial striatum. PLoS Biol 16 (6): e2004712. 25 Jun 2018. DOI: https://doi.org/10.1371/journal.pbio.2004712
-17. Narushima M, Yagasaki Y, **Takeuchi Y**, Aiba A, Miyata M, The metabotropic glutamate receptor subtype 1 regulates development and maintenance of lemniscal synaptic connectivity in the somatosensory thalamus. PLoS ONE 14 (12): e0226820. 27 Dec 2019. DOI: https://doi.org/10.1371/journal.pone.0226820
-18. Nagumo Y, Ueta Y, Nakayama H, Osaki H, **Takeuchi Y**, Uesaka N, Kano M, Miyata M, Tonic GABAergic inhibition is essential for nerve injury-induced afferent remodeling in the somatosensory thalamus and associated ectopic sensations. Cell Rep 31 (12): 107797. 23 Jun 2020. DOI: https://doi.org/10.1016/j.celrep.2020.107797
-19. Yasunaga H, Takagi T, Shinko D, Nakayama Y, **Takeuchi Y**, Nishikawa A, Loesing A, Ohsawa M, Sekiguchi H, Development of a neural probe integrated with high-efficiency MicroLEDs for in vivo application. Jpn J Appl Phys 60 (1): 016503. 16 Dec 2020. DOI: https://doi.org/10.35848/1347-4065/abcffa
-20. **Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Li Q, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. Brain 144 (3): 885–908. 27 Jan 2021. DOI: https://doi.org/10.1093/brain/awaa450
-21. Robinson KC, Kemeny LV, Fell GL, Hermann AL, Allouche J, Ding W, Yekkirala A, Hsiao JJ, Su MY, Theodosakis N, Kozák G, **Takeuchi Y**, Shen S, Berényi A, Mao J, Woolf CJ, Fisher DE, Reduced MC4R signaling alters nociceptive thresholds associated with red hair. Sci Adv 7 (14): eabd1310. 02 Apr 2021. DOI: https://doi.org/10.1126/sciadv.abd1310
+1. <U>Takeuchi Y</U>, Takasu K, Honda M, Ono H, Tanabe M, Neurochemical evidence that supraspinally administered gabapentin activates the descending noradrenergic system after peripheral nerve injury. ***Eur J Pharmacol*** 556 (1-3): 69-74. 03 Nov 2007. DOI: https://doi.org/10.1016/j.ejphar.2006.10.059
+2. Tanabe M, <U>Takeuchi Y</U>, Ono H, The supraspinally mediated analgesic effects of zonisamide in mice after peripheral nerve injury are independent of the descending monoaminergic system. ***J Pharmacol Sci*** 104 (4): 335-340. 01 Aug 2007. DOI: https://doi.org/10.1254/jphs.FP0070827
+3.	<U>Takeuchi Y</U>, Takasu K, Ono H, Tanabe M, Pregabalin, S-(+)-3-isobutylgaba, activates the descending noradrenergic system to alleviate neuropathic pain in the mouse partial sciatic nerve ligation model. ***Neuropharmacology*** 53 (7): 842-853. 19 Aug 2007. DOI: https://doi.org/10.1016/j.neuropharm.2007.08.013
+4. Nagumo Y, <U>Takeuchi Y</U>, Imoto K, Miyata M, Synapse- and subtype-specific modulation of synaptic transmission by nicotinic acetylcholine receptors in the ventrobasal thalamus. ***Neurosci Res*** 69 (3): 203-213. 15 Dec 2010. DOI: https://doi.org/10.1016/j.neures.2010.12.002
+5. <U>Takeuchi Y</U>, Yamasaki M., Nagumo Y, Imoto K, Watanabe M, Miyata M, Rewiring of afferent fibers in the somatosensory thalamus of mice caused by peripheral sensory nerve transection. ***J Neurosci*** 32 (20): 6917-6930. 16 May 2012. DOI: https://doi.org/10.1523/JNEUROSCI.5008-11.2012
+6. Matsumine H, Sasaki R, <U>Takeuchi Y</U>, Miyata M, Yamato M, Okano T, Sakurai H, Vascularized versus non-vascularized island-median nerve grafts in the facial nerve regeneration and functional recovery of rats for facial nerve reconstruction study. ***J Reconstr Microsurg*** 30 (2): 127-136. 25 Oct 2013. DOI: https://doi.org/10.1055/s-0033-1357500
+7. <U>Takeuchi Y</U>, Asano H, Katayama Y, Muragaki Y, Imoto K, Miyata M, Large-scale somatotopic refinement via functional synapse elimination in the thalamus of developing mice. ***J Neurosci 34*** (4): 1258-1270. 22 Jan 2014. DOI: https://doi.org/10.1523/JNEUROSCI.3865-13.2014
+8. Matsumine H, <U>Takeuchi Y</U>, Sasaki R, Kazama T, Kano K, Matsumoto T, Sakurai H, Miyata M, Yamato M, Adipocyte-derived and dedifferentiated fat cells promoting facial nerve regeneration in a rat model. ***Plast Reconstr Surg*** 134 (4): 686-697. Oct 2014. DOI: https://doi.org/10.1097/PRS.0000000000000537
+9. Sasaki R, Matsumine H, Watanabe Y, <U>Takeuchi Y</U>, Yamato M, Okano T, Miyata M, Ando T, Electrophysiologic and functional evaluations of regenerated facial-nerve defect with a tube containing dental pulp cells in rats. ***Plast Reconstr Surg*** 134: 970-978. Nov 2014. DOI: https://doi.org/10.1097/PRS.0000000000000602
+10. Matsumine H, Sasaki R, <U>Takeuchi Y</U>, Watanabe Y, Niimi Y, Sakurai H, Miyata M, Yamato M, Unilateral multiple facial-nerve branch reconstruction using "end-to-side loop graft "supercharged by hypoglossal nerve. ***Plast Reconstr Surg Glob Open*** 2 (10): e240. 07 Nov 2014. DOI: https://doi.org/10.1097/GOX.0000000000000206
+11. Niimi Y, Matsumine H, <U>Takeuchi Y</U>, Sasaki R, Watanabe Y, Yamato M, Miyata M, Sakurai H, Effectively axonal-supercharged interpositional-jump graft with an artificial nerve-conduit for rat facial nerve paralysis model. ***Plast Reconstr Surg Glob Open*** 3 (6): e416. 08 Jul 2015. DOI: https://doi.org/10.1097/GOX.0000000000000397
+12. <U>Takeuchi Y</U>, Osaki H, Yagasaki Y, Katayama Y, Miyata M, Afferent fiber remodeling in the somatosensory thalamus of mice as a neural basis of somatotopic reorganization in the brain and ectopic mechanical hypersensitivity after peripheral sensory nerve injury. ***eNeuro*** 4 (2): e0345-16.2017. 23 May 2017. DOI: https://doi.org/10.1523/ENEURO.0345-16.2017
+13. Niimi Y, Matsumine H, <U>Takeuchi Y</U>, Osaki H, Tsunoda S, Miyata M, Yamato M, Sakurai H, A collagen-coated PGA conduit for interpositional-jump graft with end-to-side neurorrhaphy for treating facial nerve paralysis in rat. ***Microsurgery*** 39 (1): 70-80. 08 Jan 2018. DOI: https://doi.org/10.1002/micr.30291
+14. Vöröslakos M, <U>Takeuchi Y</U>, Brinyiczki K, Zombori T, Oliva A, Fernández-Ruiz A, Kozák G, Kincses Z T, Iványi B, Buzsáki G, Berényi A, Direct effects of transcranial electric stimulation on brain circuits in rats and humans. ***Nat Commun*** 9 (1): 483. 20 Feb 2018. DOI: https://doi.org/10.1038/s41467-018-02928-3
+15. <U>Takeuchi Y</U>\*, Osaki H, Matsumine H, Niimi Y, Sasaki R, Miyata M, A method package for electrophysiological evaluation of reconstructed or regenerated facial nerves in rodents. ***MethodsX*** 5: 283-298. 30 Mar 2018. DOI: https://doi.org/10.1016/j.mex.2018.03.007
+16. Nagy A, <U>Takeuchi Y</U>, Berényi A, Coding of self-motion induced and self-independent visual motion in the rat dorsomedial striatum. ***PLoS Biol*** 16 (6): e2004712. 25 Jun 2018. DOI: https://doi.org/10.1371/journal.pbio.2004712
+17. Narushima M, Yagasaki Y, <U>Takeuchi Y</U>, Aiba A, Miyata M, The metabotropic glutamate receptor subtype 1 regulates development and maintenance of lemniscal synaptic connectivity in the somatosensory thalamus. ***PLoS ONE*** 14 (12): e0226820. 27 Dec 2019. DOI: https://doi.org/10.1371/journal.pone.0226820
+18. Nagumo Y, Ueta Y, Nakayama H, Osaki H, <U>Takeuchi Y</U>, Uesaka N, Kano M, Miyata M, Tonic GABAergic inhibition is essential for nerve injury-induced afferent remodeling in the somatosensory thalamus and associated ectopic sensations. ***Cell Rep*** 31 (12): 107797. 23 Jun 2020. DOI: https://doi.org/10.1016/j.celrep.2020.107797
+19. Yasunaga H, Takagi T, Shinko D, Nakayama Y, <U>Takeuchi Y</U>, Nishikawa A, Loesing A, Ohsawa M, Sekiguchi H, Development of a neural probe integrated with high-efficiency MicroLEDs for in vivo application. ***Jpn J Appl Phys*** 60 (1): 016503. 16 Dec 2020. DOI: https://doi.org/10.35848/1347-4065/abcffa
+20. <U>Takeuchi Y</U>, Harangozó M, Pedraza L, Földi T, Kozák G, Li Q, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. ***Brain*** 144 (3): 885–908. 27 Jan 2021. DOI: https://doi.org/10.1093/brain/awaa450
+21. Robinson KC, Kemeny LV, Fell GL, Hermann AL, Allouche J, Ding W, Yekkirala A, Hsiao JJ, Su MY, Theodosakis N, Kozák G, <U>Takeuchi Y</U>, Shen S, Berényi A, Mao J, Woolf CJ, Fisher DE, Reduced MC4R signaling alters nociceptive thresholds associated with red hair. ***Sci Adv*** 7 (14): eabd1310. 02 Apr 2021. DOI: https://doi.org/10.1126/sciadv.abd1310
 
 ### 総説
-1. Tanabe M, Takasu K, **Takeuchi Y**, Ono H, Pain relief by gabapentin and pregabalin via supraspinal mechanisms after peripheral nerve injury. J Neurosci Res 86 (15): 3258-3264. 15 Nov 2008. DOI: https://doi.org/10.1002/jnr.21786
-2. **Takeuchi Y*** and Berényi A*, Oscillotherapeutics – Time-targeted interventions in epilepsy and beyond. Neurosci Res 152: 87-107. 16 Jan 2020. DOI: https://doi.org/10.1016/j.neures.2020.01.002
-3. **Takeuchi Y**\*, Nagy AJ, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. Front Neural Circuits 15: 701080. 08 Jul 2021. DOI: https://doi.org/10.3389/fncir.2021.701080
+1. Tanabe M, Takasu K, <U>Takeuchi Y</U>, Ono H, Pain relief by gabapentin and pregabalin via supraspinal mechanisms after peripheral nerve injury. ***J Neurosci Res*** 86 (15): 3258-3264. 15 Nov 2008. DOI: https://doi.org/10.1002/jnr.21786
+2. <U>Takeuchi Y</U>\* and Berényi A\*, Oscillotherapeutics – Time-targeted interventions in epilepsy and beyond. ***Neurosci Res*** 152: 87-107. 16 Jan 2020. DOI: https://doi.org/10.1016/j.neures.2020.01.002
+3. <U>Takeuchi Y</U>\*, Nagy AJ, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. ***Front Neural Circuits*** 15: 701080. 08 Jul 2021. DOI: https://doi.org/10.3389/fncir.2021.701080
 
 ### 編集
-1. **Takeuchi Y**, Li Q, Kawano T, Nagai J, Mima T, Editorial: Oscillotherapeutics – Toward real-time control of pathological oscillations in the brain. Front Behav Neurosci 16: 1021616. xx xxx 2022. DOI: https://doi.org/10.3389/fnbeh.2022.1021616
+1. <U>Takeuchi Y</U>\*, Li Q, Kawano T, Nagai J, Mima T, Editorial: Oscillotherapeutics – Toward real-time control of pathological oscillations in the brain. ***Front Behav Neurosci*** 16: 1021616. 08 Sep 2022 2022. DOI: https://doi.org/10.3389/fnbeh.2022.1021616
 
 ### 博士論文
-**Takeuchi Y**, Developmental and peripheral nerve injury-induced changes of afferent synapses in the somatosensory thalamus. The Graduate University for Advanced Studies, Kanagawa, Japan. 24 Mar 2010.
+- <U>Takeuchi Y</U>, Developmental and peripheral nerve injury-induced changes of afferent synapses in the somatosensory thalamus. The Graduate University for Advanced Studies, Kanagawa, Japan. 24 Mar 2010.
 
 ## その他の出版物
 ### 著書等
-1. 宮田麻理子、竹内雄一、身体イメージの神経生理学：身体地図のリモデリング、Clin Neurosci 29 (8): 895–899, 2011.8. 中外医学社
-2. 竹内雄一、てんかんの進歩：てんかん発作のオンデマンド制御法と発作感受性定量法の開発、Medical Science Digest 46 (2): 118–120, 2020.2. 北隆館
-3. 竹内雄一、神経精神疾患のイメージング：精神疾患の行動表現型を生じる神経回路ダイナミクスの解明、Medical Science Digest 46 (6): 906–909, 2020.6. 北隆館
-4. 竹内雄一、神経難病の治療開発update：てんかん発作のオンデマンド介入法と発作感受性定量法の開発、BIO Clinica 35 (9): 771–774, 2020.8. 北隆館
-5. 竹内雄一、タウ・バイオロジー：神経精神疾患のリアルタイム制御に向けて、細胞 53 (1): 50–53, 2021.1. 北隆館
-6. 竹内雄一、動的ヘテラルキー：オシレーション治療、Clin Neurosci 39 (7): 847–851, 2021.7. 中外医学社
-7. 竹内雄一、関和彦、超音波と神経疾患－How useful?：超音波ニューロモデュレーション、Clin Neurosci 40 (2): 249–253, 2022.2. 中外医学社
-8. **Takeuchi Y**, Kawano T, Li Q, Mima T, Nagai J, eds. (2022). Oscillotherapeutics - Toward Real-Time Control of Pathological Oscillations in the Brain. Lausanne: Frontiers Media SA. DOI: https://doi.org/10.3389/978-2-88976-458-7
+1. 宮田麻理子、<U>竹内雄一</U>、身体イメージの神経生理学：身体地図のリモデリング、Clin Neurosci 29 (8): 895–899, 2011.8. 中外医学社
+2. <U>竹内雄一</U>、てんかんの進歩：てんかん発作のオンデマンド制御法と発作感受性定量法の開発、***Medical Science Digest*** 46 (2): 118–120, 2020.2. 北隆館
+3. <U>竹内雄一</U>、神経精神疾患のイメージング：精神疾患の行動表現型を生じる神経回路ダイナミクスの解明、***Medical Science Digest*** 46 (6): 906–909, 2020.6. 北隆館
+4. <U>竹内雄一</U>、神経難病の治療開発update：てんかん発作のオンデマンド介入法と発作感受性定量法の開発、***BIO Clinica*** 35 (9): 771–774, 2020.8. 北隆館
+5. <U>竹内雄一</U>、タウ・バイオロジー：神経精神疾患のリアルタイム制御に向けて、***細胞*** 53 (1): 50–53, 2021.1. 北隆館
+6. <U>竹内雄一</U>、動的ヘテラルキー：オシレーション治療、***Clin Neurosci*** 39 (7): 847–851, 2021.7. 中外医学社
+7. <U>竹内雄一</U>、関和彦、超音波と神経疾患－How useful?：超音波ニューロモデュレーション、***Clin Neurosci*** 40 (2): 249–253, 2022.2. 中外医学社
+8. <U>Takeuchi Y</U>\*, Kawano T, Li Q, Mima T, Nagai J, eds. (2022). Oscillotherapeutics - Toward Real-Time Control of Pathological Oscillations in the Brain. Lausanne: ***Frontiers Media*** SA. DOI: https://doi.org/10.3389/978-2-88976-458-7
 
 ### プレプリント
-1. **Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. bioRxiv 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
-2. **Takeuchi Y**, Nagy A, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A. The medial septum as a potential target for treating brain disorders associated with oscillopathies. Preprints 2021, 2021050317. DOI: https://doi.org/10.20944/preprints202105.0317.v1
-3. Li Q†, **Takeuchi Y**†, Wang J, Barcsai L, Pedraza L, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression. bioRxiv 2022.02.01.478683. DOI: https://doi.org/10.1101/2022.02.01.478683
-4. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Kozák G, **Takeuchi Y**, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation to reduce pathologic fear. bioRxiv 2022.07.24.501314. DOI: https://doi.org/10.1101/2022.07.24.501314
+1. <U>Takeuchi Y</U>, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. ***bioRxiv*** 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
+2. <U>Takeuchi Y</U>\*, Nagy A, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. ***Preprints*** 2021, 2021050317. DOI: https://doi.org/10.20944/preprints202105.0317.v1
+3. Li Q†, <U>Takeuchi Y</U>†, Wang J, Barcsai L, Pedraza L, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression. ***bioRxiv*** 2022.02.01.478683. DOI: https://doi.org/10.1101/2022.02.01.478683
+4. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Kozák G, <U>Takeuchi Y</U>, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation to reduce pathologic fear. ***bioRxiv*** 2022.07.24.501314. DOI: https://doi.org/10.1101/2022.07.24.501314
 
 ### 紀要、報告書
-1. 竹内雄一、内田萌衣、宮田麻理子、末梢神経損傷による視床内求心性線維再配線現象の神経解剖学的および機能的解析、東京女子医科大学総合研究所紀要 32: 20-21, 170, 2012年
-2. 竹内雄一、宮田麻理子、視床回路改編機構の神経解剖学的解析（１）、東京女子医科大学総合研究所紀要 33: 21, 2013年11月30日
-3. 竹内雄一、末梢神経切断による中枢神経回路再配線の解剖学的解析、日本私立学校振興・共済事業団 学術研究振興資金研究報告（平成25年度）：12．
-4. 竹内雄一、宮田麻理子、視床回路改編機構の神経解剖学的解析（２）、東京女子医科大学総合研究所紀要 34:16, 2014年11月30日
-5. 宮田麻理子、松峯元、佐々木亮、渡辺頼勝、竹内雄一、大和雅之、櫻井浩之、末梢神経再生術における神経再生能の機能評価、東京女子医科大学雑誌 84:130, 2014年8月25日
-6. 竹内雄一、計算機-生体ハイブリッド神経回路を用いた病態脳における異常な情報伝達機構の解明、カシオ科学振興財団 研究助成成果報告論文集（平成26年度）
-7. 竹内雄一、宮田麻理子、視床回路改編機構の神経解剖学的解析（３）、東京女子医科大学総合研究所紀要 36: 22–23, 2017年2月27日
-8. 竹内雄一、難治性てんかんをオンデマンドかつ非侵襲的に制御する臨床技術の開発、かなえ医薬振興財団2018年度研究業績集（第47集）：40．
+1.  <U>竹内雄一</U>、内田萌衣、宮田麻理子、末梢神経損傷による視床内求心性線維再配線現象の神経解剖学的および機能的解析、東京女子医科大学総合研究所紀要 32: 20-21, 170, 2012年
+2.  <U>竹内雄一</U>、宮田麻理子、視床回路改編機構の神経解剖学的解析（１）、東京女子医科大学総合研究所紀要 33: 21, 2013年11月30日
+3.  <U>竹内雄一</U>、末梢神経切断による中枢神経回路再配線の解剖学的解析、日本私立学校振興・共済事業団 学術研究振興資金研究報告（平成25年度）：12．
+4.  <U>竹内雄一</U>、宮田麻理子、視床回路改編機構の神経解剖学的解析（２）、東京女子医科大学総合研究所紀要 34:16, 2014年11月30日
+5. 宮田麻理子、松峯元、佐々木亮、渡辺頼勝、 <U>竹内雄一</U>、大和雅之、櫻井浩之、末梢神経再生術における神経再生能の機能評価、東京女子医科大学雑誌 84:130, 2014年8月25日
+6.  <U>竹内雄一</U>、計算機-生体ハイブリッド神経回路を用いた病態脳における異常な情報伝達機構の解明、カシオ科学振興財団 研究助成成果報告論文集（平成26年度）
+7.  <U>竹内雄一</U>、宮田麻理子、視床回路改編機構の神経解剖学的解析（３）、東京女子医科大学総合研究所紀要 36: 22–23, 2017年2月27日
+8.  <U>竹内雄一</U>、難治性てんかんをオンデマンドかつ非侵襲的に制御する臨床技術の開発、かなえ医薬振興財団2018年度研究業績集（第47集）：40．
 
 ### 国際学会発表
-1.	Tanabe M, **Takeuchi Y**, Takasu K, Ono H, Pregabalin supraspinally activates the descending noradrenergic pain inhibitory system after peripheral nerve injury. The 2nd International Congress on Neuropathic Pain. Berlin, Germany. June 7-10, 2007. (Abstract No. 166) Poster
-2.	Nagumo Y, **Takeuchi Y**, Kawakami Y, Imoto K, Miyata M, Role of nicotinic acetylcholine receptors on synaptic transmission in the ventrobasal thalamic complex. The 36th Congress of the International Union of Physiological Sciences. Kyoto, Japan. Jul 27 - Aug 1, 2009. (Abstract No. P1AM-9-1) Poster
-3.	**Takeuchi Y**, Nagumo Y, Katayama Y, Imoto K, Kawakami Y, Miyata M, Transection of the infraorbital nerve induces rewiring of afferent fibers in the somatosensory thalamus of mice. The 40th SfN Annual Meeting. San Diego, CA, U.S.A. Nov 13-17, 2010. (Abstract No. 377.9) Poster
-4.	Nagumo Y, **Takeuchi Y**, Imoto K, Miyata M, Synapse- and subtype-specific modulation of synaptic transmission by nicotinic acetylcholine receptors in the ventrobasal thalamus of juvenile mice. The 40th SfN Annual Meeting. San Diego, CA, U.S.A. Nov 13-17, 2010. (Abstract No. 442.7) Poster
-5.	**Takeuchi Y**, Nagumo Y, Miyata M, Peripheral sensory nerve transection-induced remodeling of afferent synapses in the somatosensory thalamus of mice. The 8th IBRO World Congress of Neuroscience. Florence, Italy. Jul 14-18, 2011. (Abstract No. D063) Poster
-6.	Miyata M and **Takeuchi Y**, Large-scale somatotopic refinement by synapse elimination in the whisker sensory thalamus of developing mice. The 9th FENS Forum of Neuroscience. Milan, Italy. Jul 5–9, 2014. (Abstract No. FENS-1305) Poster
-7.	**Takeuchi Y**, Katayama Y, and Miyata M, Functional synapse elimination plays a role in large-scale somatotopic refinement in the sensory thalamus of developing mice. The 44th SfN Annual Meeting. Washington DC, U.S.A. Nov 15–19, 2014. (Abstract No. 398.04) Poster
-8.	Vöröslakos M, Brinyiczki K, Zombori T, **Takeuchi Y**, Oliva A, Fernández-Ruiz A, Iványi B, Buzsáki G, Berényi A, Spatially focused, non-invasive, fast pulse electrical stimulation of the brain. The 46th SfN Annual Meeting. San Diego, U.S.A. Nov 12–16, 2016. (Abstract No. 591.16) Poster
-9.	Nagy A, **Takeuchi Y**, Berényi A, Processing of passive and motion-induced visual percepts in the rat dorsomedial striatum. The 47th SfN Annual Meeting. Washington DC, U.S.A. Nov 11–15, 2017. (Abstract No. 313.14) Poster
-10.	**Takeuchi Y**, Electrophysiological Evaluations of Reorganized Nervous Systems. The PCS 3rd Global Cell Science and Stem Cell Conference. Budapest, Hungary. Jul 14–15, 2018. (Abstract No. 2 in Stem Cell and Stem Cell Therapy) Oral, Invited
-11.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum alleviates temporal lobe epilepsy in rats. The 49th NIPS International Symposium. Okazaki, Japan. Dec 5–8, 2018. (Abstract No. P24) Poster
-12.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Automated, closed-loop stimulation of the medial septum alleviates temporal lobe epilepsy in rats. The 9th FAOPS Congress. Kobe, Japan. Mar 28–31, 2019. (Abstract No. 1P-281) Poster
-13.	Nagy A, **Takeuchi Y**, Berényi A, Coding of self-motion-induced and self-independent visual motion in the rat dorsomedial striatum. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020. (No. 84) Poster
-14.	Pedraza L, Sierra R, **Takeuchi Y**, Kozák G, Peijin A, Barcsai L, Berényi A, CLOSED-LOOP MANIPULATION OF HIPPOCAMPAL RIPPLES REDUCE PERSISTENT FEAR EXPRESSION IN ANIMAL MODEL OF POSTTRAUMATIC-STRESS DISORDER. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 86) Poster
-15.	Li Q, **Takeuchi Y**, Kozák G, Ohsawa M, Harangozó M, Berényi A, The functional role of altered olfactory network synchrony in the development of depression. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020. (No. 87) Poster
-16.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, A closed-loop proxy-intervention of epileptic seizures. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020. (No. 89) Poster
-17.	Narushima M, Yagasaki Y, **Takeuchi Y**, Aiba A, Miyata M, The metabotropic glutamate receptor subtype 1 regulates development and maintenance of lemniscal synaptic connectivity through cortical activity in the somatosensory thalamus. FENS Meeting 2020. Glasgow, U. K. Jul 11–15, 2020.
-18. Pedraza L, Sierra R, **Takeuchi Y**, Kozák G, Peijin A, Berényi A, Controlling fear expression through closed-loop intervention: Sharp-waves ripples triggering medial forebrain bundle stimulation enhance extinction and induce long-lasting fear attenuation. FENS Meeting 2020. Glasgow, U. K. Jul 11–15, 2020.
-19. Li Q, **Takeuchi Y**, Wang J, Barcsai L, Pedraza KL, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Lőrincz ML, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression. IBRO Workshop 2022. Budapest, Hungary. Jan 27, 28, 2022. (P3.21) Poster
-20. Barcsai L, Sierra R, Pedraza L, Lakos B, Pejin A, Kozák G, **Takeuchi Y**, Földi T, Lőrincz M, Berényi A, Controlling pathological fear expression through closed-loop brain stimulation. IBRO Workshop 2022. Budapest, Hungary. Jan 27, 28, 2022. (P5.28) Poster
+1.	Tanabe M, <U>Takeuchi Y</U>, Takasu K, Ono H, Pregabalin supraspinally activates the descending noradrenergic pain inhibitory system after peripheral nerve injury. The 2nd International Congress on Neuropathic Pain. Berlin, Germany. June 7-10, 2007. (Abstract No. 166) Poster
+2.	Nagumo Y, <U>Takeuchi Y</U>, Kawakami Y, Imoto K, Miyata M, Role of nicotinic acetylcholine receptors on synaptic transmission in the ventrobasal thalamic complex. The 36th Congress of the International Union of Physiological Sciences. Kyoto, Japan. Jul 27 - Aug 1, 2009. (Abstract No. P1AM-9-1) Poster
+3.	<U>Takeuchi Y</U>, Nagumo Y, Katayama Y, Imoto K, Kawakami Y, Miyata M, Transection of the infraorbital nerve induces rewiring of afferent fibers in the somatosensory thalamus of mice. The 40th SfN Annual Meeting. San Diego, CA, U.S.A. Nov 13-17, 2010. (Abstract No. 377.9) Poster
+4.	Nagumo Y, <U>Takeuchi Y</U>, Imoto K, Miyata M, Synapse- and subtype-specific modulation of synaptic transmission by nicotinic acetylcholine receptors in the ventrobasal thalamus of juvenile mice. The 40th SfN Annual Meeting. San Diego, CA, U.S.A. Nov 13-17, 2010. (Abstract No. 442.7) Poster
+5.	<U>Takeuchi Y</U>, Nagumo Y, Miyata M, Peripheral sensory nerve transection-induced remodeling of afferent synapses in the somatosensory thalamus of mice. The 8th IBRO World Congress of Neuroscience. Florence, Italy. Jul 14-18, 2011. (Abstract No. D063) Poster
+6.	Miyata M and <U>Takeuchi Y</U>, Large-scale somatotopic refinement by synapse elimination in the whisker sensory thalamus of developing mice. The 9th FENS Forum of Neuroscience. Milan, Italy. Jul 5–9, 2014. (Abstract No. FENS-1305) Poster
+7.	<U>Takeuchi Y</U>, Katayama Y, and Miyata M, Functional synapse elimination plays a role in large-scale somatotopic refinement in the sensory thalamus of developing mice. The 44th SfN Annual Meeting. Washington DC, U.S.A. Nov 15–19, 2014. (Abstract No. 398.04) Poster
+8.	Vöröslakos M, Brinyiczki K, Zombori T, <U>Takeuchi Y</U>, Oliva A, Fernández-Ruiz A, Iványi B, Buzsáki G, Berényi A, Spatially focused, non-invasive, fast pulse electrical stimulation of the brain. The 46th SfN Annual Meeting. San Diego, U.S.A. Nov 12–16, 2016. (Abstract No. 591.16) Poster
+9.	Nagy A, <U>Takeuchi Y</U>, Berényi A, Processing of passive and motion-induced visual percepts in the rat dorsomedial striatum. The 47th SfN Annual Meeting. Washington DC, U.S.A. Nov 11–15, 2017. (Abstract No. 313.14) Poster
+10.	<U>Takeuchi Y</U>, Electrophysiological Evaluations of Reorganized Nervous Systems. The PCS 3rd Global Cell Science and Stem Cell Conference. Budapest, Hungary. Jul 14–15, 2018. (Abstract No. 2 in Stem Cell and Stem Cell Therapy) Oral, Invited
+11.	<U>Takeuchi Y</U>, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum alleviates temporal lobe epilepsy in rats. The 49th NIPS International Symposium. Okazaki, Japan. Dec 5–8, 2018. (Abstract No. P24) Poster
+12.	<U>Takeuchi Y</U>, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Automated, closed-loop stimulation of the medial septum alleviates temporal lobe epilepsy in rats. The 9th FAOPS Congress. Kobe, Japan. Mar 28–31, 2019. (Abstract No. 1P-281) Poster
+13.	Nagy A, <U>Takeuchi Y</U>, Berényi A, Coding of self-motion-induced and self-independent visual motion in the rat dorsomedial striatum. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020. (No. 84) Poster
+14.	Pedraza L, Sierra R, <U>Takeuchi Y</U>, Kozák G, Peijin A, Barcsai L, Berényi A, CLOSED-LOOP MANIPULATION OF HIPPOCAMPAL RIPPLES REDUCE PERSISTENT FEAR EXPRESSION IN ANIMAL MODEL OF POSTTRAUMATIC-STRESS DISORDER. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020 (No. 86) Poster
+15.	Li Q, <U>Takeuchi Y</U>, Kozák G, Ohsawa M, Harangozó M, Berényi A, The functional role of altered olfactory network synchrony in the development of depression. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020. (No. 87) Poster
+16.	<U>Takeuchi Y</U>, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, A closed-loop proxy-intervention of epileptic seizures. IBRO Workshop 2020. Szeged, Hungary. Jan 29, 30, 2020. (No. 89) Poster
+17.	Narushima M, Yagasaki Y, <U>Takeuchi Y</U>, Aiba A, Miyata M, The metabotropic glutamate receptor subtype 1 regulates development and maintenance of lemniscal synaptic connectivity through cortical activity in the somatosensory thalamus. FENS Meeting 2020. Glasgow, U. K. Jul 11–15, 2020.
+18. Pedraza L, Sierra R, <U>Takeuchi Y</U>, Kozák G, Peijin A, Berényi A, Controlling fear expression through closed-loop intervention: Sharp-waves ripples triggering medial forebrain bundle stimulation enhance extinction and induce long-lasting fear attenuation. FENS Meeting 2020. Glasgow, U. K. Jul 11–15, 2020.
+19. Li Q, <U>Takeuchi Y</U>, Wang J, Barcsai L, Pedraza KL, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Lőrincz ML, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression. IBRO Workshop 2022. Budapest, Hungary. Jan 27, 28, 2022. (P3.21) Poster
+20. Barcsai L, Sierra R, Pedraza L, Lakos B, Pejin A, Kozák G, <U>Takeuchi Y</U>, Földi T, Lőrincz M, Berényi A, Controlling pathological fear expression through closed-loop brain stimulation. IBRO Workshop 2022. Budapest, Hungary. Jan 27, 28, 2022. (P5.28) Poster
 
 ### 国内学会発表
-1.	**Takeuchi Y**, Tanabe M, Honda M, Ono H, Gabapentin supraspinally accelerates spinal noradrenalin turnover in a murine neuropathic pain model. The 79th Annual Meeting of The Japanese Pharmacological Society. Yokohama, Japan. Mar 8–10, 2006. (Abstract No. P3K-64) Poster
-2.	**Takeuchi Y**, Ono H, Tanabe M, Pregabalin supraspinally activates the descending noradrenergic pain inhibitory system after peripheral nerve injury. The 80th Annual Meeting of The Japanese Pharmacological Society. Nagoya, Japan. Mar 14–16, 2007. (Abstract No. P1-039) Poster
-3.	Nagumo Y, **Takeuchi Y**, Imoto K, Kawakami Y, Miyata M, Role of acetylcholine on sensory synaptic transmission in the mouse ventrobasal thalamus. The 81th Annual Meeting of The Japanese Pharmacological Society. Yokohama, Japan. Mar 17–19, 2008. (Abstract No. P2I-72) Poster
-4.	Miyata M, Nagumo Y, **Takeuchi Y**, Imoto K, Kawakami Y, Acetylcholine distinctly regulates on synaptic transmission in the ventrobasal thalamus. The 85th Annual Meeting of the Physiological Society of Japan. Tokyo, Japan. Mar 25–27, 2008. (Abstract No. 2P-F-047) Poster
-5.	**Takeuchi Y**, Imoto K, Miyata M, Development of lemniscus synapses on the mice ventrobasal thalamus. The 31st Annual Meeting of the Japan Neuroscience Society. Tokyo, Japan. Jul 9–11, 2008. (Abstract No. P3-e20) Poster
-6.	Nagumo Y, **Takeuchi Y**, Kawakami Y, Imoto K, Miyata M, Neuromodulatory effect of acetylcholine on synaptic transmissions in the ventrobasal thalamic nucleus. The 31st Annual Meeting of the Japan Neuroscience Society. Tokyo, Japan. Jul 9–11, 2008. (Abstract No. P3-c15) Poster
-7.	**Takeuchi Y**, Imoto K, Miyata M, Transection of infraorbital nerve induces multiple innervations of lemniscal fibers onto the relay neuron in the adult mice somatosensory thalamus. The 32nd Annual Meeting of the Japan Neuroscience Society. Nagoya, Japan. Sep 16–18, 2009. (Abstract No. P2-b30) Poster
-8.	**Takeuchi Y**, Nagumo Y, Katayama Y, Imoto K, Kawakami Y, Miyata M, Peripheral nerve transection-induced remodeling of afferent synapses in the somatosensory thalamus of mice. The 33rd Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Sep 2–4, 2010. (Abstract No. P3-b05) Poster
-9.	Miyata M and **Takeuchi Y**, Synaptic rewiring and compositional changes in glutamate receptors at thalamic lemniscal synapses in the developmental process. The 88th Annual Meeting of the Physiological Society of Japan. Yokohama, Japan. Mar 28–30, 2011. (Abstract No. P1-C-2-3) Symposium
-10.	**Takeuchi Y**, Narushima M, Miyata M, The developmental switch in AMPA receptor subunit composition at lemniscal synapses in the somatosensory thalamus of mice. The 88th Annual Meeting of the Physiological Society of Japan. Yokohama, Japan. Mar 28–30, 2011. (Abstract No. P1-352) Poster
-11.	**Takeuchi Y**, Narushima M, Miyata M, Postnatal development of the lemniscal fiber-relay neuron system in the somatosensory thalamus of mice. The 34th Annual Meeting of the Japan Neuroscience Society. Yokohama, Japan. Sep 14–17, 2011. (Abstract No. P3-k15) Poster
-12.	**Takeuchi Y**, Uchida M, Miyata M, Structural changes of lemniscal axon terminals after the peripheral sensory nerve transection of mice. The 35th Annual Meeting of the Japan Neuroscience Society. Nagoya, Japan. Sep 18–21, 2012. (Abstract No. P3-c08) Poster
-13.	**Takeuchi Y** and Miyata M, Information tuning via synapse elimination in the whisker sensory thalamus of developing mice. The 90th Annual Meeting of the Physiological Society of Japan. Tokyo, Japan. Mar 27–29, 2013. (Abstract No. 2PK-047) Poster
-14.	**Takeuchi Y** and Miyata M, Somatotopic tuning along with synapse elimination in the whisker sensory thalamus of developing mice. The 36th Annual Meeting of the Japan Neuroscience Society. Kyoto, Japan. June 20–23, 2013. (Abstract No. P3-1-143) Poster
-15.	**Takeuchi Y**, Katayama Y, Miyata M, Transection of the whisker sensory nerve reorganizes topographical wiring of afferent fibers in the whisker sensory thalamus of mice. The 91st Annual Meeting of the Physiological Society of Japan. Kagoshima, Japan. Mar 16–18, 2014. (Abstract No. 1P-104) Poster
-16.	**Takeuchi Y** and Miyata M, Large-scale somatotopic reorganization via remodeling of thalamic afferent synapses after peripheral sensory nerve injury. The 37th Annual Meeting of the Japan Neuroscience Society. Yokohama, Japan. Sep 11–13, 2014. (Abstract No. S1-C-2-3) Symposium
-17.	**Takeuchi Y**, Katayama Y, Miyata M, A neural circuit mechanism of large-scale somatotopic reorganization in the thalamus after transection of the whisker sensory nerve of mice. The 37th Annual Meeting of the Japan Neuroscience Society. Yokohama, Japan. Sep 11–13, 2014. (Abstract No. P2-173) Poster
-18.	**Takeuchi Y**, Nagumo Y, Osaki H, Miyata M, Peripheral nerve injury changes neuronal firing patterns in the somatosensory thalamus of unanesthetized mice. The 92nd Annual Meeting of the Physiological Society of Japan. Kobe, Japan. Mar 21–23, 2015. (Abstract No. P3-182) Poster
-19.	Nagumo Y, **Takeuchi Y**, Osaki H, Miyata M, Enhanced tonic GABA currents after peripheral nerve injury contribute to inhibition of neuronal activity and subsequent remodeling of medial lemniscal fibers in the somatosensory thalamus. The 92nd Annual Meeting of the Physiological Society of Japan. Kobe, Japan. Mar 21–23, 2015. (Abstract No. P3-205) Poster
-20.	**Takeuchi Y**, Nagumo Y, Osaki H, Katayama Y, Miyata M, Large-scale somatotopic reorganization associated with afferent fiber rewiring in the whisker sensory thalamus. The 38th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 28–31, 2015. (Abstract No. 3P217) Poster
-21.	Nagumo Y, **Takeuchi Y**, Miyata M, Remodeling of somatosensory thalamic neural circuit and allodynia‒like mechanical hypersensitivity after the peripheral nerve. The 38th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 28–31, 2015. (Abstract No. 3P224) Poster
-22.	Miyata M, **Takeuchi Y**, Katayama Y, Large‒scale somatotopic refinement via experience‒dependent synapse elimination in the whisker sensory thalamus. The 38th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 28–31, 2015. (Abstract No. 2S09p-1) Symposium
-23.	Miyata M, **Takeuchi Y**, Osaki H, Large-scale somatotopic reorganization with afferent fiber remodeling in the mice whisker sensory thalamus after peripheral sensory nerve injury. The 93rd Annual Meeting of the Physiological Society of Japan. Sapporo, Japan. Mar 22–24, 2016. (Abstract No. 2P-078) Poster
-24.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Real-time control of epileptic seizures via on-demand deep brain stimulation. The 28th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology. Hyogo, Japan. Mar 13, 2019. (Abstract No. 3) Symposium
-25.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, A closed-loop proxy-intervention of epileptic seizures. Jisedai-Nou Symposium. Tokyo, Japan. Dec 18–20, 2019. (Byotai No. 7) Poster
-26. **Takeuchi Y**, Time- and space-targeted intervention of brain activities for control of epilepsy. The 29th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology. Yokohama, Japan. 15 Mar 2020. Oral
-27.	**Takeuchi Y**, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epilepsy seizures in rats. The 93rd Annual Meeting of the Japan Pharmacological Society. Yokohama, Japan. Mar 16–18, 2020. (Abstract No. 3-O-103) Oral
-28. Pedraza L, Sierra R, **Takeuchi Y**, Kozák G, Peijin A, Berényi A, Controlling fear expression through closed-loop intervention: Sharp-waves ripples triggering medial forebrain bundle stimulation enhance extinction and induce long-lasting fear attenuation . The 43rd Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 29–Aug 1, 2020.  (Abstract No. 1P-165) Poster
-29. **Takeuchi Y**, On-demand interventions of epileptic seizures and beyond. The 43rd Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 29–Aug 1, 2020.  (Abstract No. 1S06a-03) Oral
-30. **Takeuchi Y**, Closed-loop stimulation of the medial septum terminates epileptic seizures. The 94th Annual Meeting of the Japan Pharmacological Society. Sapporo, Japan. Mar 8–10, 2021. (Abstract No. 3-O-B2-4) Oral
-31. **Takeuchi Y**, Closed-loop brain stimulation for epileptic seizures and beyond. The 98th Annual Meeting of the Physiological Society of Japan. Nagoya, Japan. Mar 28–30, 2021. (Abstract No. OP15-2) Oral
-32. **Takeuchi Y**, Closed-loop stimulation of the medial septum terminates epileptic seizures. The 44th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 28–31, 2021. (Abstract No. 1S04m-3) Symposium
-33. **Takeuchi Y**, Closed-loop brain stimulation for controlling epileptic seizures. The 51st Annual Meeting of the Japanese Society of Clinical Neurophysiology. Sendai, Japan. Dec 16–18, 2021. (Abstract No. SP9-2) Symposium
-34. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, **Takeuchi Y**, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-069) Poster
-35. **Takeuchi Y**, Li Q, Berényi A, Minami M, Decoding and quantification of seizure susceptibility with cross-regional oscillatory brain activity patterns in a rat model of temporal lobe epilepsy. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-109) Poster
-36. Chan M, Li Q, Horváth G, Berényi A, Minami M, **Takeuchi Y**, Reduced operant task engagement and altered neural oscillations in a triple-hit rat model of schizophrenia. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-263) Poster
+1.	<U>Takeuchi Y</U>, Tanabe M, Honda M, Ono H, Gabapentin supraspinally accelerates spinal noradrenalin turnover in a murine neuropathic pain model. The 79th Annual Meeting of The Japanese Pharmacological Society. Yokohama, Japan. Mar 8–10, 2006. (Abstract No. P3K-64) Poster
+2.	<U>Takeuchi Y</U>, Ono H, Tanabe M, Pregabalin supraspinally activates the descending noradrenergic pain inhibitory system after peripheral nerve injury. The 80th Annual Meeting of The Japanese Pharmacological Society. Nagoya, Japan. Mar 14–16, 2007. (Abstract No. P1-039) Poster
+3.	Nagumo Y, <U>Takeuchi Y</U>, Imoto K, Kawakami Y, Miyata M, Role of acetylcholine on sensory synaptic transmission in the mouse ventrobasal thalamus. The 81th Annual Meeting of The Japanese Pharmacological Society. Yokohama, Japan. Mar 17–19, 2008. (Abstract No. P2I-72) Poster
+4.	Miyata M, Nagumo Y, <U>Takeuchi Y</U>, Imoto K, Kawakami Y, Acetylcholine distinctly regulates on synaptic transmission in the ventrobasal thalamus. The 85th Annual Meeting of the Physiological Society of Japan. Tokyo, Japan. Mar 25–27, 2008. (Abstract No. 2P-F-047) Poster
+5.	<U>Takeuchi Y</U>, Imoto K, Miyata M, Development of lemniscus synapses on the mice ventrobasal thalamus. The 31st Annual Meeting of the Japan Neuroscience Society. Tokyo, Japan. Jul 9–11, 2008. (Abstract No. P3-e20) Poster
+6.	Nagumo Y, <U>Takeuchi Y</U>, Kawakami Y, Imoto K, Miyata M, Neuromodulatory effect of acetylcholine on synaptic transmissions in the ventrobasal thalamic nucleus. The 31st Annual Meeting of the Japan Neuroscience Society. Tokyo, Japan. Jul 9–11, 2008. (Abstract No. P3-c15) Poster
+7.	<U>Takeuchi Y</U>, Imoto K, Miyata M, Transection of infraorbital nerve induces multiple innervations of lemniscal fibers onto the relay neuron in the adult mice somatosensory thalamus. The 32nd Annual Meeting of the Japan Neuroscience Society. Nagoya, Japan. Sep 16–18, 2009. (Abstract No. P2-b30) Poster
+8.	<U>Takeuchi Y</U>, Nagumo Y, Katayama Y, Imoto K, Kawakami Y, Miyata M, Peripheral nerve transection-induced remodeling of afferent synapses in the somatosensory thalamus of mice. The 33rd Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Sep 2–4, 2010. (Abstract No. P3-b05) Poster
+9.	Miyata M and <U>Takeuchi Y</U>, Synaptic rewiring and compositional changes in glutamate receptors at thalamic lemniscal synapses in the developmental process. The 88th Annual Meeting of the Physiological Society of Japan. Yokohama, Japan. Mar 28–30, 2011. (Abstract No. P1-C-2-3) Symposium
+10.	<U>Takeuchi Y</U>, Narushima M, Miyata M, The developmental switch in AMPA receptor subunit composition at lemniscal synapses in the somatosensory thalamus of mice. The 88th Annual Meeting of the Physiological Society of Japan. Yokohama, Japan. Mar 28–30, 2011. (Abstract No. P1-352) Poster
+11.	<U>Takeuchi Y</U>, Narushima M, Miyata M, Postnatal development of the lemniscal fiber-relay neuron system in the somatosensory thalamus of mice. The 34th Annual Meeting of the Japan Neuroscience Society. Yokohama, Japan. Sep 14–17, 2011. (Abstract No. P3-k15) Poster
+12.	<U>Takeuchi Y</U>, Uchida M, Miyata M, Structural changes of lemniscal axon terminals after the peripheral sensory nerve transection of mice. The 35th Annual Meeting of the Japan Neuroscience Society. Nagoya, Japan. Sep 18–21, 2012. (Abstract No. P3-c08) Poster
+13.	<U>Takeuchi Y</U> and Miyata M, Information tuning via synapse elimination in the whisker sensory thalamus of developing mice. The 90th Annual Meeting of the Physiological Society of Japan. Tokyo, Japan. Mar 27–29, 2013. (Abstract No. 2PK-047) Poster
+14.	<U>Takeuchi Y</U> and Miyata M, Somatotopic tuning along with synapse elimination in the whisker sensory thalamus of developing mice. The 36th Annual Meeting of the Japan Neuroscience Society. Kyoto, Japan. June 20–23, 2013. (Abstract No. P3-1-143) Poster
+15.	<U>Takeuchi Y</U>, Katayama Y, Miyata M, Transection of the whisker sensory nerve reorganizes topographical wiring of afferent fibers in the whisker sensory thalamus of mice. The 91st Annual Meeting of the Physiological Society of Japan. Kagoshima, Japan. Mar 16–18, 2014. (Abstract No. 1P-104) Poster
+16.	<U>Takeuchi Y</U> and Miyata M, Large-scale somatotopic reorganization via remodeling of thalamic afferent synapses after peripheral sensory nerve injury. The 37th Annual Meeting of the Japan Neuroscience Society. Yokohama, Japan. Sep 11–13, 2014. (Abstract No. S1-C-2-3) Symposium
+17.	<U>Takeuchi Y</U>, Katayama Y, Miyata M, A neural circuit mechanism of large-scale somatotopic reorganization in the thalamus after transection of the whisker sensory nerve of mice. The 37th Annual Meeting of the Japan Neuroscience Society. Yokohama, Japan. Sep 11–13, 2014. (Abstract No. P2-173) Poster
+18.	<U>Takeuchi Y</U>, Nagumo Y, Osaki H, Miyata M, Peripheral nerve injury changes neuronal firing patterns in the somatosensory thalamus of unanesthetized mice. The 92nd Annual Meeting of the Physiological Society of Japan. Kobe, Japan. Mar 21–23, 2015. (Abstract No. P3-182) Poster
+19.	Nagumo Y, <U>Takeuchi Y</U>, Osaki H, Miyata M, Enhanced tonic GABA currents after peripheral nerve injury contribute to inhibition of neuronal activity and subsequent remodeling of medial lemniscal fibers in the somatosensory thalamus. The 92nd Annual Meeting of the Physiological Society of Japan. Kobe, Japan. Mar 21–23, 2015. (Abstract No. P3-205) Poster
+20.	<U>Takeuchi Y</U>, Nagumo Y, Osaki H, Katayama Y, Miyata M, Large-scale somatotopic reorganization associated with afferent fiber rewiring in the whisker sensory thalamus. The 38th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 28–31, 2015. (Abstract No. 3P217) Poster
+21.	Nagumo Y, <U>Takeuchi Y</U>, Miyata M, Remodeling of somatosensory thalamic neural circuit and allodynia‒like mechanical hypersensitivity after the peripheral nerve. The 38th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 28–31, 2015. (Abstract No. 3P224) Poster
+22.	Miyata M, <U>Takeuchi Y</U>, Katayama Y, Large‒scale somatotopic refinement via experience‒dependent synapse elimination in the whisker sensory thalamus. The 38th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 28–31, 2015. (Abstract No. 2S09p-1) Symposium
+23.	Miyata M, <U>Takeuchi Y</U>, Osaki H, Large-scale somatotopic reorganization with afferent fiber remodeling in the mice whisker sensory thalamus after peripheral sensory nerve injury. The 93rd Annual Meeting of the Physiological Society of Japan. Sapporo, Japan. Mar 22–24, 2016. (Abstract No. 2P-078) Poster
+24.	<U>Takeuchi Y</U>, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Real-time control of epileptic seizures via on-demand deep brain stimulation. The 28th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology. Hyogo, Japan. Mar 13, 2019. (Abstract No. 3) Symposium
+25.	<U>Takeuchi Y</U>, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, A closed-loop proxy-intervention of epileptic seizures. Jisedai-Nou Symposium. Tokyo, Japan. Dec 18–20, 2019. (Byotai No. 7) Poster
+26. <U>Takeuchi Y</U>, Time- and space-targeted intervention of brain activities for control of epilepsy. The 29th Meeting of Young Researchers’ Society of Neurobehavioral Pharmacology. Yokohama, Japan. 15 Mar 2020. Oral
+27.	<U>Takeuchi Y</U>, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epilepsy seizures in rats. The 93rd Annual Meeting of the Japan Pharmacological Society. Yokohama, Japan. Mar 16–18, 2020. (Abstract No. 3-O-103) Oral
+28. Pedraza L, Sierra R, <U>Takeuchi Y</U>, Kozák G, Peijin A, Berényi A, Controlling fear expression through closed-loop intervention: Sharp-waves ripples triggering medial forebrain bundle stimulation enhance extinction and induce long-lasting fear attenuation . The 43rd Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 29–Aug 1, 2020.  (Abstract No. 1P-165) Poster
+29. <U>Takeuchi Y</U>, On-demand interventions of epileptic seizures and beyond. The 43rd Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 29–Aug 1, 2020.  (Abstract No. 1S06a-03) Oral
+30. <U>Takeuchi Y</U>, Closed-loop stimulation of the medial septum terminates epileptic seizures. The 94th Annual Meeting of the Japan Pharmacological Society. Sapporo, Japan. Mar 8–10, 2021. (Abstract No. 3-O-B2-4) Oral
+31. <U>Takeuchi Y</U>, Closed-loop brain stimulation for epileptic seizures and beyond. The 98th Annual Meeting of the Physiological Society of Japan. Nagoya, Japan. Mar 28–30, 2021. (Abstract No. OP15-2) Oral
+32. <U>Takeuchi Y</U>, Closed-loop stimulation of the medial septum terminates epileptic seizures. The 44th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 28–31, 2021. (Abstract No. 1S04m-3) Symposium
+33. <U>Takeuchi Y</U>, Closed-loop brain stimulation for controlling epileptic seizures. The 51st Annual Meeting of the Japanese Society of Clinical Neurophysiology. Sendai, Japan. Dec 16–18, 2021. (Abstract No. SP9-2) Symposium
+34. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, <U>Takeuchi Y</U>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-069) Poster
+35. <U>Takeuchi Y</U>, Li Q, Berényi A, Minami M, Decoding and quantification of seizure susceptibility with cross-regional oscillatory brain activity patterns in a rat model of temporal lobe epilepsy. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-109) Poster
+36. Chan M, Li Q, Horváth G, Berényi A, Minami M, <U>Takeuchi Y</U>, Reduced operant task engagement and altered neural oscillations in a triple-hit rat model of schizophrenia. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-263) Poster
 
 ### 随筆
-1. 竹内雄一、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10–11,  2013
-2. 竹内雄一、AFTERNOON TEA：心を動かす体験、日本生理学雑誌 77: 6 – 7,  2015
-3. 竹内雄一、ハンガリー紀行、名古屋市立大学薬友会関東支部会報、2015
-4. 竹内雄一、セゲド便り、上原記念生命科学財団 一年の歩み H28: 104–105,  2017
+1.  <U>竹内雄一</U>、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10–11,  2013
+2.  <U>竹内雄一</U>、AFTERNOON TEA：心を動かす体験、日本生理学雑誌 77: 6 – 7,  2015
+3.  <U>竹内雄一</U>、ハンガリー紀行、名古屋市立大学薬友会関東支部会報、2015
+4.  <U>竹内雄一</U>、セゲド便り、上原記念生命科学財団 一年の歩み H28: 104–105,  2017
 
 ### データセットリポジトリ
-1.	**Takeuchi Y** (2017) Three-dimensional dendritic morphology of somatosensory thalamic neurons in developing mice: Takeuchi Archive. NeuroMorpho.org. URL: http://www.neuromorpho.org/bylab.jsp (Invited)
-2.	**Takeuchi Y** (2017) Three-dimensional axonal morphology of principle neurons in the principle trigeminal nucleus of mice: Takeuchi Archive. NeuroMorpho.org. http://www.neuromorpho.org/bylab.jsp (Invited)
-3.	**Takeuchi Y** (2017) LaserDiodeStabilizerCircuit. figshare. https://doi.org/10.6084/m9.figshare.5419195
-4.	**Takeuchi Y** (2017) FootshockCircuit. figshare. https://doi.org/10.6084/m9.figshare.5421613
-5.	**Takeuchi Y** (2017) ActiveBandPassFilter. figshare. https://doi.org/10.6084/m9.figshare.5455702
-6.	**Takeuchi Y** (2018) CMAPMethods. Mendeley Data, v1. http://dx.doi.org/10.17632/9g5n35fd3f.1
-7.	**Takeuchi Y** (2018) RetrogradeMotorNeuronLabeling. figshare. https://doi.org/10.6084/m9.figshare.5445199
-8.	**Takeuchi Y** (2018) TaskController. figshare. https://doi.org/10.6084/m9.figshare.6154751
-9.	**Takeuchi Y** (2018) RatHeadFixRestraintSystem. figshare. https://doi.org/10.6084/m9.figshare.5466355
-10.	**Takeuchi Y** (2018) MouseHeadFixRestraintSystem. figshare. https://doi.org/10.6084/m9.figshare.6154877
-11.	**Takeuchi Y** (2018) OnHeadFaradayCage. figshare.
+1.	<U>Takeuchi Y</U> (2017) Three-dimensional dendritic morphology of somatosensory thalamic neurons in developing mice: Takeuchi Archive. NeuroMorpho.org. URL: http://www.neuromorpho.org/bylab.jsp (Invited)
+2.	<U>Takeuchi Y</U> (2017) Three-dimensional axonal morphology of principle neurons in the principle trigeminal nucleus of mice: Takeuchi Archive. NeuroMorpho.org. http://www.neuromorpho.org/bylab.jsp (Invited)
+3.	<U>Takeuchi Y</U> (2017) LaserDiodeStabilizerCircuit. figshare. https://doi.org/10.6084/m9.figshare.5419195
+4.	<U>Takeuchi Y</U> (2017) FootshockCircuit. figshare. https://doi.org/10.6084/m9.figshare.5421613
+5.	<U>Takeuchi Y</U> (2017) ActiveBandPassFilter. figshare. https://doi.org/10.6084/m9.figshare.5455702
+6.	<U>Takeuchi Y</U> (2018) CMAPMethods. Mendeley Data, v1. http://dx.doi.org/10.17632/9g5n35fd3f.1
+7.	<U>Takeuchi Y</U> (2018) RetrogradeMotorNeuronLabeling. figshare. https://doi.org/10.6084/m9.figshare.5445199
+8.	<U>Takeuchi Y</U> (2018) TaskController. figshare. https://doi.org/10.6084/m9.figshare.6154751
+9.	<U>Takeuchi Y</U> (2018) RatHeadFixRestraintSystem. figshare. https://doi.org/10.6084/m9.figshare.5466355
+10.	<U>Takeuchi Y</U> (2018) MouseHeadFixRestraintSystem. figshare. https://doi.org/10.6084/m9.figshare.6154877
+11.	<U>Takeuchi Y</U> (2018) OnHeadFaradayCage. figshare.
 https://doi.org/10.6084/m9.figshare.6160181
-12.	**Takeuchi Y** (2018) InfraredMotionDetector. figshare. https://doi.org/10.6084/m9.figshare.6160226
+12.	<U>Takeuchi Y</U> (2018) InfraredMotionDetector. figshare. https://doi.org/10.6084/m9.figshare.6160226
 
 ### コードリポジトリ
-1.	**Takeuchi Y** (2017) CMAPAnalysis v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.800747
-2.	**Takeuchi Y** (2017) tUtility v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.803404
-3.	**Takeuchi Y** (2017) miniAna v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.804083
-4.	**Takeuchi Y** (2017) tSort v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.805588
-5.	**Takeuchi Y** (2017) tNeuroshare v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.805705
-6.	**Takeuchi Y** (2017) tClamp16 v0.0.0-alpha. Zenodo. https://doi.org/10.5281/zenodo.805901
-7.	**Takeuchi Y** (2017) tClamp18 v0.1.0-alpha. Zenodo. https://doi.org/10.5281/zenodo.805897
-8.	**Takeuchi Y** (2017) NiDaqControlPanel v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.810332
-9.	**Takeuchi Y** (2017) APDetector v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.815577
-10.	**Takeuchi Y** (2017) RStatisticalTests v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.817654
-11.	**Takeuchi Y** (2017) LaserDiodeStabilizer v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.897718
-12.	**Takeuchi Y** (2017) CueFearConditioning v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.897730
-13.	**Takeuchi Y** (2018) PMVmemAnalysis v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.1220169
-14.	**Takeuchi Y** (2018) SM2CInjection v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.1220362
+1.	<U>Takeuchi Y</U> (2017) CMAPAnalysis v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.800747
+2.	<U>Takeuchi Y</U> (2017) tUtility v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.803404
+3.	<U>Takeuchi Y</U> (2017) miniAna v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.804083
+4.	<U>Takeuchi Y</U> (2017) tSort v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.805588
+5.	<U>Takeuchi Y</U> (2017) tNeuroshare v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.805705
+6.	<U>Takeuchi Y</U> (2017) tClamp16 v0.0.0-alpha. Zenodo. https://doi.org/10.5281/zenodo.805901
+7.	<U>Takeuchi Y</U> (2017) tClamp18 v0.1.0-alpha. Zenodo. https://doi.org/10.5281/zenodo.805897
+8.	<U>Takeuchi Y</U> (2017) NiDaqControlPanel v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.810332
+9.	<U>Takeuchi Y</U> (2017) APDetector v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.815577
+10.	<U>Takeuchi Y</U> (2017) RStatisticalTests v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.817654
+11.	<U>Takeuchi Y</U> (2017) LaserDiodeStabilizer v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.897718
+12.	<U>Takeuchi Y</U> (2017) CueFearConditioning v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.897730
+13.	<U>Takeuchi Y</U> (2018) PMVmemAnalysis v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.1220169
+14.	<U>Takeuchi Y</U> (2018) SM2CInjection v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.1220362
 
 ## 研究費
 1.	求心性入力依存的な視床内神経回路可塑性の研究：幻影痛の発生機序とその臨界期の解明（代表）、平成21－22年度（平成22年度は辞退）、文部科学省 科研費：特別研究員奨励費（課題番号：09J00032）、1,400千円
@@ -265,7 +265,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 24. 意欲を生み出す脳活動の抽出と「やる気」を沸き立たせる大脳ネットワークモデルの構築（分担）（課題番号：22K18650）、令和4–5年度、文部科学省 科研費：挑戦的研究（萌芽）、520千円
 25. 非侵襲的かつ時空間特異的な脳内遺伝子導入法の開発（代表）、令和4年度、ノーステック財団：ノースタレント補助金、400千円
 
-## 招待講演
+## 招待講演・受賞講演等
 |             |                                                                                                                 |
 | ----------- | --------------------------------------------------------------------------------------------------------------- |
 | 09 Aug 2012 | ヒューマンサイエンス振興財団、東京                                                                              |
@@ -287,10 +287,11 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 23 May 2022 | 量子科学技術研究開発機構、部門公開セミナー                                                                      |
 | 17 Jun 2022 | 京都大学医学部脳機能統合センター、部門公開セミナー                                                              |
 | 22 Jul 2022 | 台北医科大学薬学院、サマープログラム                                                                            |
-| 25 Aug 2022 | 生体機能と創薬シンポジウム2022、静岡                                                                            | 
+| 25 Aug 2022 | 生体機能と創薬シンポジウム2022、静岡                                                                            |
+| 18 Sep 2022 | 第73回日本薬理学会北部会 西宮機能系基礎医学研究助成基金受賞講演、札幌                                                 |
 
 
-## 一般講演
+## 一般演題・その他の講演等
 |             |                                                                        |
 | ----------- | ---------------------------------------------------------------------- |
 | 02 Sep 2006 | 第27回鎮痛薬・オピオイドペプチドシンポジウム、和歌山                   |
@@ -367,7 +368,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2019 | FAOPS2019 & ADInstruments, Teaching Workshop, Kobe, Japan; Daily practice for two days. Kobe, Japan, March 27-28. |
 
 ### 教育関連コードリポジトリ
-1.	**Takeuchi Y** (2017) physiology-examiner v1.0.0 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.583685
+1.	<U>Takeuchi Y</U> (2017) physiology-examiner v1.0.0 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.583685
 
 ### MD/PhDコース学生の研究指導
 1. Harangozó M and Földi T (2017) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia rohamainak közvetett csillapítása a neuromodulátoros rendszerek optogenetikai modulációjával. 15 Nov 2017, Szeged, TDK.  Co-Advisor
@@ -408,9 +409,9 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2013      | 実習書、科目：機能系専攻実習（東京女子医科大学大学院医学研究科）。疼痛回路の機能・形態解析（ラットのホルマリンテストと脊髄疼痛経路組織標本の免疫組織科学染色）の実習書の部分担当。医学研究科大学院生対象。 |
 | FY2015      | PBLチュートリアル課題、科目：生理学（東京女子医科大学医学部）。PBLチュートリアル教育における課題作成。２年次対象。                                                                                         |
 | FY2015      | TBLチュートリアル課題、科目：生理学（東京女子医科大学医学部）。TBLチュートリアル教育における課題作成。２年次対象。                                                                                         |
-| FY2015/2016 | Physiologyセミナー用スライド（前期）、科目： Medical Physiology I (University of Szeged)。生理学前期の講義スライド（10回分）。医学部英語コース２年次対象。                                                 |
-| FY2015/2016 | Physiologyセミナー用スライド（後期）、科目： Medical Physiology II (University of Szeged)。生理学後期の講義スライド（10回分）。医学部英語コース２年次対象。                                                |
-| FY2015/2016 | Pharmacologyセミナー用スライド、科目: Medical Pharmacology (University of Szeged)。薬理学の講義スライド（前後期合わせて11回分）。 医学部英語コース４年次対象。                                             |
+| FY2015/2016 | 医科生理学Iセミナー用スライド（前期）、科目： Medical Physiology I (University of Szeged)。生理学前期の講義スライド（10回分）。医学部英語コース２年次対象。                                                 |
+| FY2015/2016 | 医科生理学IIセミナー用スライド（後期）、科目： Medical Physiology II (University of Szeged)。生理学後期の講義スライド（10回分）。医学部英語コース２年次対象。                                                |
+| FY2015/2016 | 医科薬理学セミナー用スライド、科目: Medical Pharmacology (University of Szeged)。薬理学の講義スライド（前後期合わせて11回分）。 医学部英語コース４年次対象。                                             |
 | FY2016/2017 | 卒業論文・科学論文の書き方講義スライド、科目：卒業論文（University of Szeged）。卒業研究の実施に関するオリエンテーション講義スライド。セゲド大学医学部の4－6年次対象。                                     |
 | FY2021      | 脳科学入門（IV)「脳の分子生物学」の大学院講義スライド                                                                                                                                                      |
 | FY2021      | 医療薬学特論＠北海道大学の大学院講義スライド                                                                                                                                                               |
