@@ -366,6 +366,8 @@ Introduction of Neuropharmacology; Hokkaido University, 1st year under students,
 | FY2021–present | Kota Itagaki; Faculty of Pharmaceutical Sciences, Hokkaido University      |
 | FY2021–present | Kaede Yoshida; Faculty of Pharmaceutical Sciences, Hokkaido University     |
 | FY2022–present | Takuya Kondoh; Faculty of Pharmaceutical Sciences, Hokkaido University     |
+| FY2022–present | Koki Hara; Faculty of Pharmaceutical Sciences, Hokkaido University         |
+| FY2022–present | Toshimasa Hara; Faculty of Pharmaceutical Sciences, Hokkaido University    |
 
 ### Relevant Experience
 |      |                                                                                                                   |
@@ -402,6 +404,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 2017–2020   | Lizeth Pedraza; University of Szeged, Department of Physiology                                                               |
 | FY2019      | Takashi Kikukawa; Graduate School of Pharmaceutical Sciences, Nagoya City University                                         |
 | 2019–2020   | Lívia Barcsai; Faculty of Medicine, University of Szeged                                                                     |
+| FY2022      | Takafumi Wada; Graduate School of Life Science, Hokkaido University (Kyoto University)                                       | 
 
 ## Teaching Materials Prepared
 |             |                                                                                                                     |

@@ -362,6 +362,8 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2021–現在 | 板垣航太、北海道大学薬学部                                                                    |
 | FY2021–現在 | 吉田楓、北海道大学薬学部                                                                      |
 | FY2022–現在 | 近藤拓也、北海道大学薬学部                                                                    |
+| FY2022–現在 | 原巧樹、北海道大学薬学部                                                                    |
+| FY2022–現在 | 三村聡優、北海道大学薬学部                                                                                              |
 
 ### 教育関連トレーニング
 |      |                                                                                                                   |
@@ -399,6 +401,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2017–2020   | Lizeth Pedraza; Faculty of Medicine, University of Szeged                                                                    |
 | FY2019      | 菊川孝、名古屋市立大学 大学院薬学研究科、研究指導 (@University of Szeged)                                                    |
 | 2019–2020   | Lívia Barcsai, Faculty of Medicine, University of Szeged                                                                     |
+| FY2022      | 和田隆史、北海道大学 大学院生命科学院（京都大学）                                                                            |
 
 ## 作成した教材
 |             |                                                                                                                                                                                                            |
