@@ -338,8 +338,8 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2021–present | Laboratory Exercise of Analytical Chemistry; Hokkaido University, school of pharmaceutical sciences and pharmacy, 2nd year undergraduate students, 4 x 4 h sessions in the 2nd semester |
 | FY2022–present | Pharmacology II；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                         |
 | FY2022–present | Pharmacology III；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                        |
-| FY2022–present | Freshman Seminar                                                                                                                                                                        |
-Introduction of Neuropharmacology; Hokkaido University, 1st year under students, 1 x 2 h session during the 1st semester                                                                                                                                                                                          |
+| FY2022–present | Freshman Seminar Introduction of Neuropharmacology; Hokkaido University, 1st year under students, 2 x 2 h sessions during the 1st semester                                               |
+| FY2022–present | Freshman Seminar A Guide to Neuroscience Research; Hokkaido University, 1st year under students, 15 x 2 h sessions during the 2nd semester                                               |
 
 ## Educational Publications
 1.	<ins>Takeuchi Y</ins> (2017) Physiological Education and Japanese Medical Students in University of Szeged. J Physiol Soc Japan 79: 8-15. (Peer Reviewed, Japanese).
@@ -404,7 +404,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 2017–2020   | Lizeth Pedraza; University of Szeged, Department of Physiology                                                               |
 | FY2019      | Takashi Kikukawa; Graduate School of Pharmaceutical Sciences, Nagoya City University                                         |
 | 2019–2020   | Lívia Barcsai; Faculty of Medicine, University of Szeged                                                                     |
-| FY2022      | Takafumi Wada; Graduate School of Life Science, Hokkaido University (Kyoto University)                                       | 
+| FY2022      | Takafumi Wada; Graduate School of Life Science, Hokkaido University (Kyoto University)                                       |
 
 ## Teaching Materials Prepared
 |             |                                                                                                                     |
@@ -430,6 +430,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | FY2022      | Text for Pharmacology Practice  (Gastrointestinal system) @ Hokkaido University, School of Pharmaceutical Sciences  |
 | FY2022      | Lecture Slides for Freshman Seminar: Introduction of Neuropharmacology @ Hokkaido University                        |
 | FY2022      | Lecture Slides for Training Course for Electrophysiology (1)/(2): Hokkaido Summer Institute                         |
+| FY2022      | Lecture Slides for Freshman Seminar: A Guide to Neuroscience Research @ Hokkaido University                        |
 
 ## Other Teaching Contributions
 |           |                                                                                                                                         |
