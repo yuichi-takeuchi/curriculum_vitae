@@ -1,4 +1,4 @@
-Updated on Sep 19th, 2022
+Updated on Oct 10th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -265,6 +265,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 23. A control technology of a brain activity pattern of impulsive and compulsive decision-making. Nishinomiya Basic Research Fund, Japan, Role: PI, Period: 2022–2023, Total cost: 500,000 JPY
 24. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 22K18650), Role: co-PI, Period: 2022–2024, Total cost: 520,000 JPY
 25. Development of a non-invasive and spatiotemporally-specific in vivo gene transfection technology. Noastec Foundation, North Talent Grant, Role: PI, Period: 2022–2023, Total cost: 400,000 JPY
+26. Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, AMED Prime, Role: PI, Period: 2022–2023, Total cost: 13,000,000 JPY
 
 ## Invited Talks
 |      |                                                                                                                                           |
