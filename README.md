@@ -1,4 +1,4 @@
-Updated on Oct 10th, 2023
+Updated on Oct 18th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -266,6 +266,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 24. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 22K18650), Role: co-PI, Period: 2022–2024, Total cost: 520,000 JPY
 25. Development of a non-invasive and spatiotemporally-specific in vivo gene transfection technology. Noastec Foundation, North Talent Grant, Role: PI, Period: 2022–2023, Total cost: 400,000 JPY
 26. Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, AMED Prime, Role: PI, Period: 2022–2023, Total cost: 13,000,000 JPY
+27. Real-time control of epileptic seizures via a brain–computer–ultrasound closed-loop. Casio Science Promotion Foundation: Research Grant, Role: PI, Period: 2022–2023, Total cost: 1,000,000 JPY
 
 ## Invited Talks
 |      |                                                                                                                                           |
@@ -292,7 +293,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2022 | Invited speaker, Summer Program @ Taipei Medical University, Taipei City, Taipei                                                          |
 | 2022 | Invited symposiast, Seitai-kinou and Souyaku Symposium 2022 @ University of Shizuoka, Shizuoka, Japan                                     |
 | 2022 | Invited speaker, The 73th Meeting of the North Branch of the Japanese Pharmacological Society, Sapporo                                    |
-| 2022 | Invited speaker, Dr. Wake CREST kick-off symposium, Sapporo                                                                              | 
+| 2022 | Invited speaker, Dr. Wake CREST kick-off symposium, Sapporo                                                                              |
 
 
 ## Contributed Talks
