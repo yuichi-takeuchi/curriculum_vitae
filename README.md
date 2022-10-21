@@ -1,4 +1,4 @@
-Updated on Oct 18th, 2023
+Updated on Oct 21st, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -292,8 +292,9 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2022 | Invited speaker, Seminar @ Human Brain Research Center, Kyoto University, Kyoto, Japan                                                    |
 | 2022 | Invited speaker, Summer Program @ Taipei Medical University, Taipei City, Taipei                                                          |
 | 2022 | Invited symposiast, Seitai-kinou and Souyaku Symposium 2022 @ University of Shizuoka, Shizuoka, Japan                                     |
-| 2022 | Invited speaker, The 73th Meeting of the North Branch of the Japanese Pharmacological Society, Sapporo                                    |
-| 2022 | Invited speaker, Dr. Wake CREST kick-off symposium, Sapporo                                                                              |
+| 2022 | Invited speaker, The 73th Meeting of the North Branch of the Japanese Pharmacological Society, Sapporo, Japan                          |
+| 2022 | Invited speaker, Dr. Wake CREST kick-off symposium, Sapporo, Japan                                                                        |
+| 2022 | Invited speaker, NIPS seminar, Online                                                                                                     |
 
 
 ## Contributed Talks
