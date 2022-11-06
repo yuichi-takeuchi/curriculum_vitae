@@ -1,4 +1,4 @@
-2022年10月31日現在
+2022年11月06日現在
 # 表紙
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -203,6 +203,7 @@
 36. Chan M, Li Q, Horváth G, Berényi A, Minami M, <ins>Takeuchi Y</ins>, Reduced operant task engagement and altered neural oscillations in a triple-hit rat model of schizophrenia. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-263) Poster
 37. <ins>Takeuchi Y</ins>, Chan M, Maeki M, Kudo N, Development of Transcranial Gene Manipulation Technologies. The 8th Hokkaido University Cross-Departmental Symposium. Sapporo, Japan. Oct 28th, 2022. (Abstract No. K-14) Poster
 38. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 8th Hokkaido University Cross-Departmental Symposium. Sapporo, Japan. Oct 28th, 2022. (Abstract No. P-49) Poster
+39. <ins>Takeuchi Y</ins>, Closed-loop control of neurological and psychiatric disorders. BPCNPNPPP4 conference. Tokyo, Japan. Nov 4th, 2022. (Abstract No. S13-3) Symposium
 
 ### 随筆
 1.  <ins>竹内雄一</ins>、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10–11,  2013

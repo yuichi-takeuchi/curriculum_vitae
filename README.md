@@ -1,4 +1,4 @@
-Updated on Oct 31st, 2022
+Updated on Nov 6th, 2022
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -8,7 +8,7 @@ Updated on Oct 31st, 2022
 | Place of Birth   | Aichi, Japan                                                                                                                  |
 | Date of Birth    | 04 Sep 1982                                                                                                                   |
 | Gender           | Male                                                                                                                          |
-| Office Address   | Faculty of Pharmaceutical Sciences - Laboratory of Pharmacology: Kita 12, Nishi 6, Kita-ku, Sapporo, Hokkaido 060-0812, Japan |
+| Office Address   | Faculty of Pharmaceutical Sciences, Laboratory of Pharmacology: Kita 12, Nishi 6, Kita-ku, Sapporo, Hokkaido 060-0812, Japan |
 | Phone            | +81-11-706-3248                                                                                                               |
 | Fax              | +81-11-706-4987                                                                                                               |
 | E-mail           | ytake@pharm.hokudai.ac.jp                                                                                                     |
@@ -83,7 +83,7 @@ Updated on Oct 31st, 2022
 | 2016 | Research Fellowship, The Uehara Memorial Foundation                                                                                                 |
 | 2019 | Special award for excellent presentation, Annual meeting of Young Neurobehavioral Pharmacologists                                                   |
 | 2022 | Research award, Nishinomiya Basic Research Fund, Japan                                                                                              |
-| 2022 | The Hokkaido University Research Encouragement Award                                                                                                | 
+| 2022 | The Hokkaido University Research Encouragement Award                                                                                                |
 
 # REASEARCH/SCHOLARSHIP
 ## Peer Reviewed Publications
@@ -298,7 +298,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2022 | Invited speaker, The 73th Meeting of the North Branch of the Japanese Pharmacological Society, Sapporo, Japan                          |
 | 2022 | Invited speaker, Dr. Wake CREST kick-off symposium, Sapporo, Japan                                                                        |
 | 2022 | Invited speaker, NIPS seminar, Online                                                                                                     |
-
+| 2022 | Invited symposiast, BPCNPNPPP4 conference, Tokyo, Japan                          |
 
 ## Contributed Talks
 |      |                                                                                                          |
