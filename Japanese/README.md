@@ -1,4 +1,4 @@
-2022年10月31日現在
+2022年12月10日現在
 # 表紙
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -430,6 +430,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 06 May 2022 | Applied Artificial Intelligence                                                     |
 | 14 Jun 2022 | Frontiers in Neural Circuits ([Link](https://doi.org/10.3389/fncir.2022.957441))    |
 | 24 Jul 2022 | BMC Neuroscience                                                                    |
+| 10 Dec 2022 | Current Gene Therapy                                                                |
 
 ### Post-publication Peer Reviews
 |             |                                              |
