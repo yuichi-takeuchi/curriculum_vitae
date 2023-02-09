@@ -1,4 +1,4 @@
-Updated on Jan 6th, 2023
+Updated on Feb 9th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -435,6 +435,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 14 Jun 2022 | Frontiers in Neural Circuits ([Link](https://doi.org/10.3389/fncir.2022.957441))    |
 | 24 Jul 2022 | BMC Neuroscience                                                                    |
 | 10 Dec 2022 | Current Gene Therapy                                                                |
+| 07 Feb 2023 | Current Molecular Pharmacology                                                      |
 
 ### Post-publication Peer Reviews
 |             |                                              |
