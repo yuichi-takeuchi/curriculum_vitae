@@ -1,4 +1,4 @@
-2023年 1月 6日現在
+2023年 2月 9日現在
 # 表紙
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -432,6 +432,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 14 Jun 2022 | Frontiers in Neural Circuits ([Link](https://doi.org/10.3389/fncir.2022.957441))    |
 | 24 Jul 2022 | BMC Neuroscience                                                                    |
 | 10 Dec 2022 | Current Gene Therapy                                                                |
+| 07 Feb 2023 | Current Molecular Pharmacology                                                      |
 
 ### Post-publication Peer Reviews
 |             |                                              |
