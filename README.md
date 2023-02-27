@@ -1,4 +1,4 @@
-Updated on Feb 9th, 2023
+Updated on Feb 27th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -131,6 +131,7 @@ Updated on Feb 9th, 2023
 6. <ins>Takeuchi Y</ins>, Dynamic heterarchy：Oscillotherapeutics. **_Clin Neurosci_** 39 (7): 847–851. Jul 2021. Chugai-igakusha. (Invited, Japanese)
 7. <ins>Takeuchi Y</ins>, Seki K, Ultrasound and Neurological disorders–How useful?: Ultrasound Neuromodulation, **_Clin Neurosci_** 40 (2): 249–253. Feb 2022. Chugai-igakusha. (Invited, Japanese)
 8. <ins>Takeuchi Y</ins>\*, Kawano T, Li Q, Mima T, Nagai J, eds. (2022). Oscillotherapeutics - Toward Real-Time Control of Pathological Oscillations in the Brain. Lausanne: **_Frontiers Media_** SA. DOI: https://doi.org/10.3389/978-2-88976-458-7
+9. Hara K, <ins>Takeuchi Y</ins>, Time-targeted stimulation of the bran rewarding system as a novel brain disorder treatment, **_Medical Science Digest_** 49 (3): 154–156. Mar 2023. Hokuryukan. (Invited, Japanese)
 
 ### Preprints
 1. <ins>Takeuchi Y</ins>, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. **_bioRxiv_** 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
