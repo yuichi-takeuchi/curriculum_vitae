@@ -1,4 +1,4 @@
-2023年 2月 9日現在
+2023年 2月 27日現在
 # 表紙
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -125,6 +125,7 @@
 6. <ins>竹内雄一</ins>、動的ヘテラルキー：オシレーション治療、***Clin Neurosci*** 39 (7): 847–851, 2021.7. 中外医学社
 7. <ins>竹内雄一</ins>、関和彦、超音波と神経疾患－How useful?：超音波ニューロモデュレーション、***Clin Neurosci*** 40 (2): 249–253, 2022.2. 中外医学社
 8. <ins>Takeuchi Y</ins>\*, Kawano T, Li Q, Mima T, Nagai J, eds. (2022). Oscillotherapeutics - Toward Real-Time Control of Pathological Oscillations in the Brain. Lausanne: ***Frontiers Media*** SA. DOI: https://doi.org/10.3389/978-2-88976-458-7
+9. 原巧樹、<ins>竹内雄一</ins>、ひきこもりと精神疾患：報酬系脳領域刺激による脳疾患治療、***Medical Science Digest*** 49 (3): 154–156, 2023.3. 北隆館
 
 ### プレプリント
 1. <ins>Takeuchi Y</ins>, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. **_bioRxiv_** 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
