@@ -1,4 +1,4 @@
-2023年 2月 27日現在
+2023年 3月 5日現在
 # 表紙
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -108,6 +108,9 @@
 1. Tanabe M, Takasu K, <ins>Takeuchi Y</ins>, Ono H, Pain relief by gabapentin and pregabalin via supraspinal mechanisms after peripheral nerve injury. **_J Neurosci Res_** 86 (15): 3258-3264. 15 Nov 2008. DOI: https://doi.org/10.1002/jnr.21786
 2. <ins>Takeuchi Y</ins>\* and Berényi A\*, Oscillotherapeutics – Time-targeted interventions in epilepsy and beyond. **_Neurosci Res_** 152: 87-107. 16 Jan 2020. DOI: https://doi.org/10.1016/j.neures.2020.01.002
 3. <ins>Takeuchi Y</ins>\*, Nagy AJ, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. **_Front Neural Circuits_** 15: 701080. 08 Jul 2021. DOI: https://doi.org/10.3389/fncir.2021.701080
+
+### 国際会議論文
+1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous systems. **_9th Biomedical Imaging and Sensing Conference_** BISC9-01. 21 Apr 2023. URL: https://confit.atlas.jp/guide/event/opic2023/subject/BISC9-01/tables?cryptoId=
 
 ### 編集
 1. <ins>Takeuchi Y</ins>\*, Li Q, Kawano T, Nagai J, Mima T, Editorial: Oscillotherapeutics – Toward real-time control of pathological oscillations in the brain. **_Front Behav Neurosci_** 16: 1021616. 08 Sep 2022 2022. DOI: https://doi.org/10.3389/fnbeh.2022.1021616
