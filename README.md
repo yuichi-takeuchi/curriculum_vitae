@@ -1,4 +1,4 @@
-Updated on Mar 3rd, 2023
+Updated on Mar 15th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -164,6 +164,7 @@ Updated on Mar 3rd, 2023
 1. <ins>Takeuchi Y</ins>, Chan M, Maeki M, Kudo N, Development of Transcranial Gene Manipulation Technologies. The 8th Hokkaido University Cross-Departmental Symposium. Sapporo, Japan. Oct 28th, 2022. (Abstract No. K-14) Poster
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 8th Hokkaido University Cross-Departmental Symposium. Sapporo, Japan. Oct 28th, 2022. (Abstract No. P-49) Poster
 1. <ins>Takeuchi Y</ins>, Closed-loop control of neurological and psychiatric disorders, BPCNPNPPP4. Tokyo, Japan. Nov 4th, 2022. (Abstract No. S13-3) Symposium
+1. Itagaki K, Minami M, <ins>Takeuchi Y</ins>, Bidirectional GABAergic and cholinergic modulation of delta-band activities in a hippocampal-like circuit in silico, The 100th Anniversary Annual Meeting of The Physiological Society of Japan. Kyoto, Japan. Mar 14th, 2023．(Abstract No. 1P-023) Poster
 
 ### Scientific Essays
 1.	<ins>Takeuchi Y</ins> (2013) Report of the 36th Annual Meeting of Japanese Neuroscience Society. Neuroscience News of the Japan Neuroscience Society 195: 10. (Japanese)
