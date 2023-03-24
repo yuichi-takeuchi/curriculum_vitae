@@ -1,4 +1,4 @@
-2023年 3月 15日現在
+2023年 3月 24日現在
 # 表紙
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -162,6 +162,7 @@
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 8th Hokkaido University Cross-Departmental Symposium. Sapporo, Japan. Oct 28th, 2022. (Abstract No. P-49) Poster
 1. <ins>Takeuchi Y</ins>, Closed-loop control of neurological and psychiatric disorders, BPCNPNPPP4. Tokyo, Japan. Nov 4th, 2022. (Abstract No. S13-3) Symposium
 1. 板垣航太、南雅文、<ins>竹内雄一</ins>、海馬様神経回路における求心性GABAおよびコリン作動性神経投射の双方向性デルタ帯活動修飾、日本生理学会 第100回記念大会、京都、3月14–16日、2023．(Abstract No. 1P-023) Poster
+1. 三村聡優、チャン ミシェル、南雅文、<ins>竹内雄一</ins>、経頭蓋ソノポレーションによる大脳神経細胞を標的とした新規遺伝子導入法、日本薬学会第143年会、札幌、3月25–28日、2023．(Abstract No. 26P1-pm2-089S) Poster
 
 ### 随筆
 1.  <ins>竹内雄一</ins>、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10–11,  2013
