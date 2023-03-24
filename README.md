@@ -444,6 +444,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 24 Jul 2022 | BMC Neuroscience                                                                    |
 | 10 Dec 2022 | Current Gene Therapy                                                                |
 | 07 Feb 2023 | Current Molecular Pharmacology                                                      |
+| 24 Mar 2023 | Current Gene Therapy                                                                |
 
 ### Post-publication Peer Reviews
 |             |                                              |
