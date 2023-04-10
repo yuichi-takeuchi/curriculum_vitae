@@ -234,7 +234,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 1. Development of a novel technology for deletion of seizure susceptibility of epilepsy. Shimadzu Science Foundation: Research Grant, Role: PI, Period: 2023–2025, Total cost: 1,000,000 JPY
 1. Deletion of seizure susceptibility via transcranial deep brain stimulation. Brain Science Foundation: Research Grant, Role: PI, Period: 2023–2024, Total cost: 1,000,000 JPY
 1. Deletion of seizure susceptibility with ultrasound neuromodulation. The Japan Epilespy Research Foundation: Research Grant, Role: PI, Period: 2023-2026, Total cost: 1,600,000 JPY
-1. Deletion of seizure susceptibility via transcranial deep brain stimulation. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (B) (Grant no. xxxxxxxx), Role: PI, Period: 2023–2027, Total cost: 18,590,000 JPY
+1. Deletion of seizure susceptibility via transcranial deep brain stimulation. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (B) (Grant no. 23H02790), Role: PI, Period: 2023–2027, Total cost: 18,590,000 JPY
 
 
 ## Invited Talks
