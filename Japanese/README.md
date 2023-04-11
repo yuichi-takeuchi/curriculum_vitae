@@ -1,4 +1,4 @@
-2023年 4月 3日現在
+2023年 4月 11日現在
 # 表紙
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -445,6 +445,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 10 Dec 2022 | Current Gene Therapy                                                                |
 | 07 Feb 2023 | Current Molecular Pharmacology                                                      |
 | 24 Mar 2023 | Current Gene Therapy                                                                |
+| 11 Apr 2023 | Neuroscience Research                                                               | 
 
 ### Post-publication Peer Reviews
 |             |                                              |
