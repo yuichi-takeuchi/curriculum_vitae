@@ -1,4 +1,4 @@
-2023年 4月 11日現在
+2023年 5月 5日現在
 # 表紙
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -154,6 +154,7 @@
 1. Sierra RO, Pedraza LK, Barcsai L, Peijin A, Kozák G, <ins>Takeuchi Y</ins>, Lőrincz M, Berényi A, Controlling pathologic fear expression through closed-loop brain stimulation. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 12–16, 2022. (Abstract No. 143.15) Poster
 1. Li Q, <ins>Takeuchi Y</ins>, Wang J, Barcsai L, Pedraza KL, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 12–16, 2022. (Abstract No. 228.14) Poster
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 12–16, 2022. (Abstract No. 565.14) Poster
+1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. 9th Biomedical Imaging and Sensing Conference. Yokohama, Japan. Apr 17–21, 2023. (Abstract No. BISC9-01) Symposium
 
 ### 国内学会発表（直近）
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-069) Poster
@@ -224,15 +225,16 @@ https://doi.org/10.6084/m9.figshare.6160181
 1. 新しい難治性てんかん制御法の臨床応用に向けた国際共同研究（代表）、令和4年度、永井記念薬学国際交流財団：Research Grant、500千円
 1. 経頭蓋集束超音波刺激によるてんかん発作のオンデマンド制御（代表）、令和4年度、立石科学技術振興財団：研究助成（A）、1,920千円
 1. 超音波遺伝学と工学の融合による新しい非侵襲的脳刺激法の開発（代表）、令和4–5年度、旭硝子財団：研究奨励、2,000千円
-1. オンデマンド超音波遺伝学刺激法の創出に向けた研究開発（代表）、令和4年度、高橋産業経済研究財団：研究助成、3,000千円
+1. オンデマンド超音波遺伝学刺激法の創出に向けた研究開発（代表）、令和4年度、高橋産業経済研究財団：研究助成、6,000千円
 1. 適切な行動選択を司る脳活動パターンの制御法開発（代表）、令和4年度、西宮機能系基礎医学研究基金、500千円
 1. 意欲を生み出す脳活動の抽出と「やる気」を沸き立たせる大脳ネットワークモデルの構築（分担）（課題番号：22K18650）、令和4–5年度、文部科学省 科研費：挑戦的研究（萌芽）、520千円
 1. 非侵襲的かつ時空間特異的な脳内遺伝子導入法の開発（代表）、令和4年度、ノーステック財団：ノースタレント補助金、400千円
-1. 超音波センシングによる非侵襲的かつ時空間特異的な内臓機能の精密制御（代表）、令和4年度、AMED：Prime、13,000千円
+1. 超音波センシングによる非侵襲的かつ時空間特異的な内臓機能の精密制御（代表）、令和4年度、AMED：Prime、31,200千円
 1. 脳–計算機–超音波閉ループによるてんかん発作の実時間制御（代表）、令和4年度、カシオ科学振興財団：研究助成、1,000千円
 1. 発作感受性消去によるてんかん根治療法の開発（代表）、令和4年度、島津科学技術振興財団：研究助成、1,000千円
-1. 経頭蓋脳深部刺激による発作感受性消去（代表）、令和5年度、ブレインサイエンス振興財団：研究助成、1,000千円
+1. 経頭蓋脳深部刺激による発作感受性消去（代表）、令和5年度、ブレインサイエンス振興財団：研究助成、800千円
 1. 超音波ニューロモデュレーションによる発作感受性の消去（代表）、令和5–7年度、てんかん治療研究振興財団：研究助成、1,600千円
+1. クローズドループ刺激による非侵襲的Deep Brainリハビリテーションの創生（分担）、令和5–8年度文部科学省 科研費：基盤研究（A）（課題番号：23H02790）、390千円
 1. 経頭蓋脳深部刺激による発作感受性消去（代表）、令和5–8年度、文部科学省 科研費：基盤研究（B）（課題番号：23H02790）、18,590千円
 
 ## 招待講演・受賞講演等
@@ -323,21 +325,21 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2021 | アドミッションセンター総務部門国際総合入試実施部会委員 (北海道大学) |
 
 ### 研究指導した学部学生
-|             |                                                                                               |
-| ----------- | --------------------------------------------------------------------------------------------- |
-| FY2011      | 内田萌衣、早稲田大学 先進理工学部、卒業研究指導 (@Tokyo Women’s Medical University)           |
-| FY2013      | 加茂沢子、東京女子医科大学 医学部、基礎配属・研究指導                                         |
-| 2016        | Yasuko Takai; Faculty of Medicine, University of Szeged                                       |
-| 2016        | Jun Takai; Faculty of Medicine, University of Szeged                                          |
-| 2016–2020   | Tamás Földi; Faculty of Medicine, University of Szeged                                        |
-| 2016–2020   | Márk Harangozó; Faculty of Medicine, University of Szeged                                     |
-| FY2019      | 中山雄晟、豊橋科学技術大学 電気・電子情報工学系、インターンシップ受入 (@University of Szeged) |
-| FY2020      | 大屋翔、豊橋科学技術大学 電気・電子情報工学系、インターンシップ受入 (@University of Szeged)   |
-| FY2021–現在 | 板垣航太、北海道大学薬学部                                                                    |
-| FY2021–現在 | 吉田楓、北海道大学薬学部                                                                      |
-| FY2022–現在 | 近藤拓也、北海道大学薬学部                                                                    |
-| FY2022–現在 | 原巧樹、北海道大学薬学部                                                                    |
-| FY2022–現在 | 三村聡優、北海道大学薬学部                                                                                              |
+|               |                                                                                               |
+| ------------- | --------------------------------------------------------------------------------------------- |
+| FY2011        | 内田 萌衣、早稲田大学 先進理工学部、卒業研究指導 (@Tokyo Women’s Medical University)           |
+| FY2013        | 加茂 沢子、東京女子医科大学 医学部、基礎配属・研究指導                                         |
+| 2016          | Yasuko Takai; Faculty of Medicine, University of Szeged                                       |
+| 2016          | Jun Takai; Faculty of Medicine, University of Szeged                                          |
+| 2016–2020     | Tamás Földi; Faculty of Medicine, University of Szeged                                        |
+| 2016–2020     | Márk Harangozó; Faculty of Medicine, University of Szeged                                     |
+| FY2019        | 中山 雄晟、豊橋科学技術大学 電気・電子情報工学系、インターンシップ受入 (@University of Szeged) |
+| FY2020        | 大屋 翔、豊橋科学技術大学 電気・電子情報工学系、インターンシップ受入 (@University of Szeged)   |
+| FY2021–FY2022 | 板垣 航太、北海道大学薬学部                                                                    |
+| FY2021–FY2022 | 吉田 楓、北海道大学薬学部                                                                      |
+| FY2022        | 近藤 拓也、北海道大学薬学部                                                                    |
+| FY2022–現在   | 原 巧樹、北海道大学薬学部                                                                      |
+| FY2022–現在   | 三村 聡優、北海道大学薬学部                                                                    |
 
 ### 教育関連トレーニング
 |      |                                                                                                                   |
@@ -368,14 +370,21 @@ https://doi.org/10.6084/m9.figshare.6160181
 ### 研究指導した大学院生
 |             |                                                                                                                              |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| FY2012–2013 | 内田萌衣、早稲田大学 先進理工学研究科、修士研究指導 (@ Tokyo Women’s Medical University)                                     |
+| FY2012–2013 | 内田 萌衣、早稲田大学 先進理工学研究科、修士研究指導 (@ Tokyo Women’s Medical University)                                     |
 | 2015–2016   | Azahara Gonzalez Oliva; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/3145/) |
 | 2015–2018   | Mihály Vöröslakos; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/10538/)     |
 | 2015–2018   | Anett Nagy; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/10496/)            |
 | 2017–2020   | Lizeth Pedraza; Faculty of Medicine, University of Szeged                                                                    |
-| FY2019      | 菊川孝、名古屋市立大学 大学院薬学研究科、研究指導 (@University of Szeged)                                                    |
+| FY2019      | 菊川 孝、名古屋市立大学 大学院薬学研究科、研究指導 (@University of Szeged)                                                    |
 | 2019–2020   | Lívia Barcsai, Faculty of Medicine, University of Szeged                                                                     |
-| FY2022      | 和田隆史、北海道大学 大学院生命科学院（京都大学）                                                                            |
+| FY2022      | 和田 隆史、北海道大学 大学院生命科学院（京都大学）                                                                            |
+| FY2022-現在 | 徐 一洲、北海道大学 大学院生命科学院                                                                                          |
+| FY2022-現在 | 杨 刚生、北海道大学 大学院生命科学院                                                                                          | 
+
+## 教員教育
+|        |                                                                                             |
+| ------ | ------------------------------------------------------------------------------------------- |
+| FY2023 | 北海道大学 大学力強化推進本部 URAステーション主催 AMED-CREST・PRIME事業説明会＋採択者体験談 |
 
 ## 作成した教材
 |             |                                                                                                                                                                                                            |
@@ -401,7 +410,8 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2022      | 実習書、科目：薬理学実習（北海道大学薬学部）。                                                                                                                                                             |
 | FY2022      | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 神経薬理学への招待＠北海道大学の講義スライド                                                                                                                                     |
 | FY2022      | 北海道サマーインスティチュート・実践的電気生理学コース（１）／（２）講義スライド                                                                                                                           |
-| FY2022      | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 脳・神経科学研究へのガイド＠北海道大学の講義スライド                                                                                                                                     |
+| FY2022      | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 脳・神経科学研究へのガイド＠北海道大学の講義スライド                                                                                                                             |
+| FY2023      | Prime申請の体験談（北海道大学 URAステーション主催 AMED事業説明会）                                                                                                                                         |
 
 
 ## その他教育上の能力に関する事項
@@ -445,7 +455,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 10 Dec 2022 | Current Gene Therapy                                                                |
 | 07 Feb 2023 | Current Molecular Pharmacology                                                      |
 | 24 Mar 2023 | Current Gene Therapy                                                                |
-| 11 Apr 2023 | Neuroscience Research                                                               | 
+| 11 Apr 2023 | Neuroscience Research                                                               |
 
 ### Post-publication Peer Reviews
 |             |                                              |
