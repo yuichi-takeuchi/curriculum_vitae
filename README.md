@@ -1,4 +1,4 @@
-Updated on Apr 11th, 2023
+Updated on May 5th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -157,6 +157,7 @@ Updated on Apr 11th, 2023
 1. Sierra RO, Pedraza LK, Barcsai L, Peijin A, Kozák G, <ins>Takeuchi Y</ins>, Lőrincz M, Berényi A, Controlling pathologic fear expression through closed-loop brain stimulation. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 12–16, 2022. (Abstract No. 143.15) Poster
 1. Li Q, <ins>Takeuchi Y</ins>, Wang J, Barcsai L, Pedraza KL, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 12–16, 2022. (Abstract No. 228.14) Poster
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 12–16, 2022. (Abstract No. 565.14) Poster
+1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. 9th Biomedical Imaging and Sensing Conference. Yokohama, Japan. Apr 17–21, 2023. (Abstract No. BISC9-01) Symposium
 
 ### Recent Abstracts (Domestic)
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-069) Poster
@@ -225,15 +226,16 @@ https://doi.org/10.6084/m9.figshare.6160181
 1. An international collaboration research for clinical application of a novel therapeutic technology of epilepsy. The Nagai Foundation of Tokyo: Research Grant, Role: PI, Period: 2022–2023, Total cost: 500,000 JPY
 1. Closed-loop control of epilepsy via transcranial focused ultrasound stimulation. Tateisi Science and Technology Foundation: Research Grant (A), Role: PI, Period: 2022–2023, Total cost: 1,920,000 JPY
 1. Development of a novel non-invasive brain stimulation technology with ultrasound and genetic engineering. The Asahi Glass Foundation: Research Encouragement Grants, Role: PI, Period: 2022–2024, Total cost: 2,000,000 JPY
-1. An exploratory research of on-demand sonogenetic brain stimulation technology. Takahashi Industrial and Economic Research Foundation: Research Grant, Role: PI, Period: 2022–2023, Total cost: 3,000,000 JPY
+1. An exploratory research of on-demand sonogenetic brain stimulation technology. Takahashi Industrial and Economic Research Foundation: Research Grant, Role: PI, Period: 2022–2023, Total cost: 6,000,000 JPY
 1. A control technology of a brain activity pattern of impulsive and compulsive decision-making. Nishinomiya Basic Research Fund, Japan, Role: PI, Period: 2022–2023, Total cost: 500,000 JPY
 1. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 22K18650), Role: co-PI, Period: 2022–2024, Total cost: 520,000 JPY
 1. Development of a non-invasive and spatiotemporally-specific in vivo gene transfection technology. Noastec Foundation, Noas Talent Grant, Role: PI, Period: 2022–2023, Total cost: 400,000 JPY
-1. Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, AMED Prime, Role: PI, Period: 2022–2023, Total cost: 13,000,000 JPY
+1. Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, AMED Prime, Role: PI, Period: 2022–2023, Total cost: 31,200,000 JPY
 1. Real-time control of epileptic seizures via a brain–computer–ultrasound closed-loop. Casio Science Promotion Foundation: Research Grant, Role: PI, Period: 2022–2023, Total cost: 1,000,000 JPY
 1. Development of a novel technology for deletion of seizure susceptibility of epilepsy. Shimadzu Science Foundation: Research Grant, Role: PI, Period: 2023–2025, Total cost: 1,000,000 JPY
 1. Deletion of seizure susceptibility via transcranial deep brain stimulation. Brain Science Foundation: Research Grant, Role: PI, Period: 2023–2024, Total cost: 1,000,000 JPY
 1. Deletion of seizure susceptibility with ultrasound neuromodulation. The Japan Epilespy Research Foundation: Research Grant, Role: PI, Period: 2023-2026, Total cost: 1,600,000 JPY
+1. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (A) (Grant no. 23H00459), Role: co-PI, Period: 2023–2027, Total cost: 1,210,000 JPY
 1. Deletion of seizure susceptibility via transcranial deep brain stimulation. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (B) (Grant no. 23H02790), Role: PI, Period: 2023–2027, Total cost: 18,590,000 JPY
 
 
@@ -336,9 +338,9 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2016–2020      | Márk Harangozó; Faculty of Medicine, University of Szeged                  |
 | FY2019         | Yusei Nakayama; Faculty of Engineering, Toyohashi University of Technology |
 | FY2020         | Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology    |
-| FY2021–present | Kota Itagaki; Faculty of Pharmaceutical Sciences, Hokkaido University      |
-| FY2021–present | Kaede Yoshida; Faculty of Pharmaceutical Sciences, Hokkaido University     |
-| FY2022–present | Takuya Kondoh; Faculty of Pharmaceutical Sciences, Hokkaido University     |
+| FY2021–FY2022  | Kota Itagaki; Faculty of Pharmaceutical Sciences, Hokkaido University      |
+| FY2021–FY2022  | Kaede Yoshida; Faculty of Pharmaceutical Sciences, Hokkaido University     |
+| FY2022         | Takuya Kondoh; Faculty of Pharmaceutical Sciences, Hokkaido University     |
 | FY2022–present | Koki Hara; Faculty of Pharmaceutical Sciences, Hokkaido University         |
 | FY2022–present | Toshimasa Hara; Faculty of Pharmaceutical Sciences, Hokkaido University    |
 
@@ -368,16 +370,25 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | FY2022      | Brain Science I, Practice; Hokkaido University                                                                                                                                |
 
 ### Graduate Students
-|             |                                                                                                                              |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| FY2012–2013 | Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)                                                           |
-| 2015–2016   | Azahara Gonzalez Oliva; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/3145/) |
-| 2015–2018   | Mihály Vöröslakos; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/10538/)     |
-| 2015–2018   | Anett Nagy; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/10496/)            |
-| 2017–2020   | Lizeth Pedraza; University of Szeged, Department of Physiology                                                               |
-| FY2019      | Takashi Kikukawa; Graduate School of Pharmaceutical Sciences, Nagoya City University                                         |
-| 2019–2020   | Lívia Barcsai; Faculty of Medicine, University of Szeged                                                                     |
-| FY2022      | Takafumi Wada; Graduate School of Life Science, Hokkaido University (Kyoto University)                                       |
+|                |                                                                                                                              |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| FY2012–2013    | Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)                                                           |
+| 2015–2016      | Azahara Gonzalez Oliva; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/3145/) |
+| 2015–2018      | Mihály Vöröslakos; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/10538/)     |
+| 2015–2018      | Anett Nagy; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/10496/)            |
+| 2017–2020      | Lizeth Pedraza; University of Szeged, Department of Physiology                                                               |
+| FY2019         | Takashi Kikukawa; Graduate School of Pharmaceutical Sciences, Nagoya City University                                         |
+| 2019–2020      | Lívia Barcsai; Faculty of Medicine, University of Szeged                                                                     |
+| FY2022         | Takafumi Wada; Graduate School of Life Science, Hokkaido University (Kyoto University)                                       |
+| FY2022-present | Yizhou Xu; Graduate School of Life Science, Hokkaido University                                                              |
+| FY2022-present | Gansheng Yang; Graduate School of Life Science, Hokkaido University                                                          |
+| FY2023-present | Kota Itagaki; Graduate School of Life Science, Hokkaido University                                                          |
+| FY2022-present | Kaede Yoshida; Graduate School of Life Science, Hokkaido University                                                          |
+
+## Faculty Development
+|        |                                                                                  |
+| ------ | -------------------------------------------------------------------------------- |
+| FY2023 | Hokkaido University URA station, Lectures for AMED-CREST/PRIME grant application |
 
 ## Teaching Materials Prepared
 |             |                                                                                                                     |
@@ -403,7 +414,8 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | FY2022      | Text for Pharmacology Practice  (Gastrointestinal system) @ Hokkaido University, School of Pharmaceutical Sciences  |
 | FY2022      | Lecture Slides for Freshman Seminar: Introduction of Neuropharmacology @ Hokkaido University                        |
 | FY2022      | Lecture Slides for Training Course for Electrophysiology (1)/(2): Hokkaido Summer Institute                         |
-| FY2022      | Lecture Slides for Freshman Seminar: A Guide to Neuroscience Research @ Hokkaido University                        |
+| FY2022      | Lecture Slides for Freshman Seminar: A Guide to Neuroscience Research @ Hokkaido University                         |
+| FY2023      | Lecture Slides for AMED Prime application                                                                           |
 
 ## Other Teaching Contributions
 |           |                                                                                                                                         |
