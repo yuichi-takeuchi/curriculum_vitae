@@ -309,8 +309,9 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2021–現在 | 分析化学実習：北海道大学薬学部において、実習実施・評価を担当した。4 x 4 h sessions in the 2nd semester                                                                                           |
 | FY2022–現在 | 薬理学II：北海道大学薬学部において、講義・評価を担当した。3 x 2 h sessions during the 1st semester                                                                                               |
 | FY2022–現在 | 薬理学III：北海道大学薬学部において、講義・評価を担当した。3 x 2 h sessions during the 1st semester                                                                                              |
-| FY2022–現在 | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 神経薬理学への招待：北海道大学において、講義・評価を担当した。 2 x 2 h sessions during the 1st semester                                                                 |
-| FY2022–現在 | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 脳・神経科学研究へのガイド：北海道大学において、講義・評価を担当した。 15 x 2 h sessions during the 2nd semester                                                        |
+| FY2022–現在 | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 神経薬理学への招待：北海道大学において、講義・評価を担当した。 2 x 2 h sessions during the 1st semester                                                                |
+| FY2022–現在 | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 脳・神経科学研究へのガイド：北海道大学において、講義・評価を担当した。 15 x 2 h sessions during the 2nd semester                                                       |
+| FY2023–現在 | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 北大脳科学への招待：北海道大学において、講義・評価を担当した。 2 x 2 h sessions during the 1st semester                                                                |
 
 ### 教育方法の実践例
 |      |                                                                                                                                                                                                                   |
@@ -379,7 +380,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2019–2020   | Lívia Barcsai, Faculty of Medicine, University of Szeged                                                                     |
 | FY2022      | 和田 隆史、北海道大学 大学院生命科学院（京都大学）                                                                            |
 | FY2022-現在 | 徐 一洲、北海道大学 大学院生命科学院                                                                                          |
-| FY2022-現在 | 杨 刚生、北海道大学 大学院生命科学院                                                                                          | 
+| FY2022-現在 | 杨 刚生、北海道大学 大学院生命科学院                                                                                          |
 
 ## 教員教育
 |        |                                                                                             |
