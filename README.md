@@ -1,4 +1,4 @@
-Updated on May 5th, 2023
+Updated on May 6th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -313,8 +313,9 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2021–present | Laboratory Exercise of Analytical Chemistry; Hokkaido University, school of pharmaceutical sciences and pharmacy, 2nd year undergraduate students, 4 x 4 h sessions in the 2nd semester |
 | FY2022–present | Pharmacology II；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                         |
 | FY2022–present | Pharmacology III；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                        |
-| FY2022–present | Freshman Seminar Introduction of Neuropharmacology; Hokkaido University, 1st year under students, 2 x 2 h sessions during the 1st semester                                               |
-| FY2022–present | Freshman Seminar A Guide to Neuroscience Research; Hokkaido University, 1st year under students, 15 x 2 h sessions during the 2nd semester                                               |
+| FY2022–present | Freshman Seminar Introduction of Neuropharmacology; Hokkaido University, 1st year undergraduate students, 2 x 2 h sessions during the 1st semester                                      |
+| FY2022–present | Freshman Seminar A Guide to Neuroscience Research; Hokkaido University, 1st year undergraduate students, 15 x 2 h sessions during the 2nd semester                                      |
+| FY2023–present | Freshman Seminar Introduction of Brain Researches in Hokkaido University; Hokkaido University, 1st year undergraduate students, 2 x 2 h sessions during the 1st semester                | 
 
 ## Educational Publications
 1.	<ins>Takeuchi Y</ins> (2017) Physiological Education and Japanese Medical Students in University of Szeged. J Physiol Soc Japan 79: 8-15. (Peer Reviewed, Japanese).
@@ -416,6 +417,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | FY2022      | Lecture Slides for Training Course for Electrophysiology (1)/(2): Hokkaido Summer Institute                         |
 | FY2022      | Lecture Slides for Freshman Seminar: A Guide to Neuroscience Research @ Hokkaido University                         |
 | FY2023      | Lecture Slides for AMED Prime application                                                                           |
+| FY2023      | Lecture Slides for Freshman Seminar: A Guide to Brain Researches in Hokkaido University @ Hokkaido University       |
 
 ## Other Teaching Contributions
 |           |                                                                                                                                         |
