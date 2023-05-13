@@ -1,4 +1,4 @@
-Updated on May 6th, 2023
+Updated on May 13th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -109,7 +109,7 @@ Updated on May 6th, 2023
 19. Yasunaga H, Takagi T, Shinko D, Nakayama Y, <ins>Takeuchi Y</ins>, Nishikawa A, Loesing A, Ohsawa M, Sekiguchi H, Development of a neural probe integrated with high-efficiency MicroLEDs for in vivo application. **_Jpn J Appl Phys_** 60 (1): 016503. 16 Dec 2020. DOI: https://doi.org/10.35848/1347-4065/abcffa
 20. <ins>Takeuchi Y</ins>, Harangozó M, Pedraza L, Földi T, Kozák G, Li Q, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. **_Brain_** 144 (3): 885–908. 27 Jan 2021. DOI: https://doi.org/10.1093/brain/awaa450
 21. Robinson KC, Kemeny LV, Fell GL, Hermann AL, Allouche J, Ding W, Yekkirala A, Hsiao JJ, Su MY, Theodosakis N, Kozák G, <ins>Takeuchi Y</ins>, Shen S, Berényi A, Mao J, Woolf CJ, Fisher DE, Reduced MC4R signaling alters nociceptive thresholds associated with red hair. **_Sci Adv_** 7 (14): eabd1310. 02 Apr 2021. DOI: https://doi.org/10.1126/sciadv.abd1310
-22. Li Q†, <ins>Takeuchi Y</ins>†, Wang J, Gellért L, Barcsai L, Pedraza LK, Nagy AJ, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Horváth G, Kékesi G, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. **_Neuron_**, *in press*.
+22. Li Q†, <ins>Takeuchi Y</ins>†, Wang J, Gellért L, Barcsai L, Pedraza LK, Nagy AJ, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Horváth G, Kékesi G, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. **_Neuron_**, *in press*. Available online 09 May 2023. DOI: https://doi.org/10.1016/j.neuron.2023.04.013
 
 ### Review
 1. Tanabe M, Takasu K, <ins>Takeuchi Y</ins>, Ono H, Pain relief by gabapentin and pregabalin via supraspinal mechanisms after peripheral nerve injury. **_J Neurosci Res_** 86 (15): 3258-3264. 15 Nov 2008. DOI: https://doi.org/10.1002/jnr.21786
@@ -315,7 +315,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2022–present | Pharmacology III；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                        |
 | FY2022–present | Freshman Seminar Introduction of Neuropharmacology; Hokkaido University, 1st year undergraduate students, 2 x 2 h sessions during the 1st semester                                      |
 | FY2022–present | Freshman Seminar A Guide to Neuroscience Research; Hokkaido University, 1st year undergraduate students, 15 x 2 h sessions during the 2nd semester                                      |
-| FY2023–present | Freshman Seminar Introduction of Brain Researches in Hokkaido University; Hokkaido University, 1st year undergraduate students, 2 x 2 h sessions during the 1st semester                | 
+| FY2023–present | Freshman Seminar Introduction of Brain Researches in Hokkaido University; Hokkaido University, 1st year undergraduate students, 2 x 2 h sessions during the 1st semester                |
 
 ## Educational Publications
 1.	<ins>Takeuchi Y</ins> (2017) Physiological Education and Japanese Medical Students in University of Szeged. J Physiol Soc Japan 79: 8-15. (Peer Reviewed, Japanese).
