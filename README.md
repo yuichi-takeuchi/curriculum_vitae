@@ -1,4 +1,4 @@
-Updated on May 13th, 2023
+Updated on May 25th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -63,12 +63,13 @@ Updated on May 13th, 2023
 | 2022–present | The Pharmaceutical Society of Japan, Member |
 
 ### Professional Bodies
-|                     |                                                                   |
-| ------------------- | ----------------------------------------------------------------- |
-| 18 Mar 2020–present | The Physiological Society of Japan, Board Member                  |
-| 20 Nov 2020–present | Front Behav Neurosci, Guest Associate Editor                      |
-| 15 Mar 2021–present | Japanese Pharmacological Society, Board Member                    |
-| 01 Apr 2022–present | The Pharmaceutical Society of Japan Hokkaido Branch, Board Member |
+|                         |                                                                   |
+| ----------------------- | ----------------------------------------------------------------- |
+| 18 Mar 2020–present     | Board Member, The Physiological Society of Japan                  |
+| 20 Nov 2020–31 Dec 2021 | Guest Associate Editor, Frontiers in Behavioral Neuroscience      |
+| 15 Mar 2021–present     | Board Member, Japanese Pharmacological Society                    |
+| 01 Apr 2022–present     | Board Member, The Pharmaceutical Society of Japan Hokkaido Branch |
+| 05 May 2023–present     | Review Editor, Frontiers in Behavioral Neuroscience               |
 
 ## 5. Prizes, Awards and other Honors
 |      |                                                                                                                                                     |
