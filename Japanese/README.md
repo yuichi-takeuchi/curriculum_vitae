@@ -69,7 +69,7 @@
 | 20 Nov 2020 – 31 Dec 2021 | Front Behav Neurosci、ゲスト編集委員   |
 | 15 Mar 2021 – 現在        | 日本薬理学会　学術評議員               |
 | 01 Apr 2022 – 現在        | 日本薬学会北海道支部　幹事             |
-| 25 May 2023 – 現在        | Front Behav Neurosci、レビュー編集委員 | 
+| 25 May 2023 – 現在        | Front Behav Neurosci、レビュー編集委員 |
 
 ## 5. 受賞歴等
 |             |                                              |
@@ -115,7 +115,7 @@
 1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. **_9th Biomedical Imaging and Sensing Conference_** BISC9-01. 21 Apr 2023. URL: https://confit.atlas.jp/guide/event/opic2023/subject/BISC9-01/tables?cryptoId=
 
 ### 編集
-1. <ins>Takeuchi Y</ins>\*, Li Q, Kawano T, Nagai J, Mima T, Editorial: Oscillotherapeutics – Toward real-time control of pathological oscillations in the brain. **_Front Behav Neurosci_** 16: 1021616. 08 Sep 2022 2022. DOI: https://doi.org/10.3389/fnbeh.2022.1021616
+1. <ins>Takeuchi Y</ins>\*, Li Q, Kawano T, Nagai J, Mima T, Editorial: Oscillotherapeutics – Toward real-time control of pathological oscillations in the brain. **_Front Behav Neurosci_** 16: 1021616. 08 Sep 2022. DOI: https://doi.org/10.3389/fnbeh.2022.1021616
 
 ### 博士論文
 - <ins>Takeuchi Y</ins>, Developmental and peripheral nerve injury-induced changes of afferent synapses in the somatosensory thalamus. The Graduate University for Advanced Studies, Kanagawa, Japan. 24 Mar 2010.
