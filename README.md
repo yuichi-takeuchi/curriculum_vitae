@@ -1,4 +1,4 @@
-Updated on May 25th, 2023
+Updated on May 28th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -169,6 +169,7 @@ Updated on May 25th, 2023
 1. <ins>Takeuchi Y</ins>, Closed-loop control of neurological and psychiatric disorders, BPCNPNPPP4. Tokyo, Japan. Nov 4th, 2022. (Abstract No. S13-3) Symposium
 1. Itagaki K, Minami M, <ins>Takeuchi Y</ins>, Bidirectional GABAergic and cholinergic modulation of delta-band activities in a hippocampal-like circuit in silico, The 100th Anniversary Annual Meeting of The Physiological Society of Japan. Kyoto, Japan. Mar 14th, 2023．(Abstract No. 1P-023) Poster
 1. Mimura T, Chan M, Minami M, <ins>Takeuchi Y</ins>, Transcranial sonoporation technology for non-invasive gene transfection to neurons in the cerebral cortex, The 143rd Annual Meeting of the Pharmaceutical Society of Japan. Sapporo, Japan. Mar 25–25, 2023. (Abstract No. 26P1-pm2-089S) Poster
+1. Mimura T, Chan M, Minami M, Omata D, Suzuki R, <ins>Takeuchi Y</ins>, Transcranial sonoporation technology for non-invasive gene transfection, The 150th Annual Meeting of the Hokkaido Branch of the Pharmaceutical Society of Japan. Sapporo, Japan. May 21st, 2023. (Abstract No. C-11) Poster
 
 ### Scientific Essays
 1.	<ins>Takeuchi Y</ins> (2013) Report of the 36th Annual Meeting of Japanese Neuroscience Society. Neuroscience News of the Japan Neuroscience Society 195: 10. (Japanese)
