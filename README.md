@@ -1,3 +1,4 @@
+Updated on June 30th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -239,6 +240,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 1. Deletion of seizure susceptibility with ultrasound neuromodulation. The Japan Epilespy Research Foundation: Research Grant, Role: PI, Period: 2023-2026, Total cost: 1,600,000 JPY
 1. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (A) (Grant no. 23H00459), Role: co-PI, Period: 2023–2027, Total cost: 1,210,000 JPY
 1. Deletion of seizure susceptibility via transcranial deep brain stimulation. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (B) (Grant no. 23H02790), Role: PI, Period: 2023–2027, Total cost: 18,590,000 JPY
+1. Development of transcranial gene manipulation technologies. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 21K19745), Role: PI, Period: 2023–2026, Total cost: 6,370,000 JPY
 
 
 ## Invited Talks
