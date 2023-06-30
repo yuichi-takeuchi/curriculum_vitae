@@ -1,4 +1,4 @@
-2023年 6月 19日現在
+2023年 6月 30日現在
 # 表紙
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -186,8 +186,7 @@
 8.	<ins>Takeuchi Y</ins> (2018) TaskController. figshare. https://doi.org/10.6084/m9.figshare.6154751
 9.	<ins>Takeuchi Y</ins> (2018) RatHeadFixRestraintSystem. figshare. https://doi.org/10.6084/m9.figshare.5466355
 10.	<ins>Takeuchi Y</ins> (2018) MouseHeadFixRestraintSystem. figshare. https://doi.org/10.6084/m9.figshare.6154877
-11.	<ins>Takeuchi Y</ins> (2018) OnHeadFaradayCage. figshare.
-https://doi.org/10.6084/m9.figshare.6160181
+11.	<ins>Takeuchi Y</ins> (2018) OnHeadFaradayCage. figshare. https://doi.org/10.6084/m9.figshare.6160181
 12.	<ins>Takeuchi Y</ins> (2018) InfraredMotionDetector. figshare. https://doi.org/10.6084/m9.figshare.6160226
 
 ### コードリポジトリ
@@ -237,8 +236,9 @@ https://doi.org/10.6084/m9.figshare.6160181
 1. 発作感受性消去によるてんかん根治療法の開発（代表）、令和4年度、島津科学技術振興財団：研究助成、1,000千円
 1. 経頭蓋脳深部刺激による発作感受性消去（代表）、令和5年度、ブレインサイエンス振興財団：研究助成、800千円
 1. 超音波ニューロモデュレーションによる発作感受性の消去（代表）、令和5–7年度、てんかん治療研究振興財団：研究助成、1,600千円
-1. クローズドループ刺激による非侵襲的Deep Brainリハビリテーションの創生（分担）、令和5–8年度文部科学省 科研費：基盤研究（A）（課題番号：23H02790）、390千円
+1. クローズドループ刺激による非侵襲的Deep Brainリハビリテーションの創生（分担）、令和5–8年度 文部科学省 科研費：基盤研究（A）（課題番号：23H02790）、390千円
 1. 経頭蓋脳深部刺激による発作感受性消去（代表）、令和5–8年度、文部科学省 科研費：基盤研究（B）（課題番号：23H02790）、18,590千円
+1. 経頭蓋遺伝子操作法の研究開発（代表）、令和5–7年度、文部科学省 科研費：挑戦的研究（萌芽）（課題番号：23K18250）、6,370千円
 
 ## 招待講演・受賞講演等
 |             |                                                                                                                 |
