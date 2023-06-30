@@ -1,4 +1,3 @@
-Updated on June 19th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
