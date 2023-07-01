@@ -1,3 +1,8 @@
+## Preprints
+1. <ins>Takeuchi Y</ins>, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. **_bioRxiv_** 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
+1. <ins>Takeuchi Y</ins>\*, Nagy A, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. **_Preprints_** 2021, 2021050317. DOI: https://doi.org/10.20944/preprints202105.0317.v1
+1. Li Q†, <ins>Takeuchi Y</ins>†, Wang J, Barcsai L, Pedraza L, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression. **_bioRxiv_** 2022.02.01.478683. DOI: https://doi.org/10.1101/2022.02.01.478683
+
 ## 国際学会発表
 1.	Tanabe M, <ins>Takeuchi Y</ins>, Takasu K, Ono H, Pregabalin supraspinally activates the descending noradrenergic pain inhibitory system after peripheral nerve injury. The 2nd International Congress on Neuropathic Pain. Berlin, Germany. June 7-10, 2007. (Abstract No. 166) Poster
 2.	Nagumo Y, <ins>Takeuchi Y</ins>, Kawakami Y, Imoto K, Miyata M, Role of nicotinic acetylcholine receptors on synaptic transmission in the ventrobasal thalamic complex. The 36th Congress of the International Union of Physiological Sciences. Kyoto, Japan. Jul 27 - Aug 1, 2009. (Abstract No. P1AM-9-1) Poster
@@ -51,7 +56,6 @@
 31. <ins>Takeuchi Y</ins>, Closed-loop brain stimulation for epileptic seizures and beyond. The 98th Annual Meeting of the Physiological Society of Japan. Nagoya, Japan. Mar 28–30, 2021. (Abstract No. OP15-2) Oral
 32. <ins>Takeuchi Y</ins>, Closed-loop stimulation of the medial septum terminates epileptic seizures. The 44th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 28–31, 2021. (Abstract No. 1S04m-3) Symposium
 33. <ins>Takeuchi Y</ins>, Closed-loop brain stimulation for controlling epileptic seizures. The 51st Annual Meeting of the Japanese Society of Clinical Neurophysiology. Sendai, Japan. Dec 16–18, 2021. (Abstract No. SP9-2) Symposium
-
 
 ## 研究課題・受託研究・科研費
 1. 宮田麻理子（代表）、櫻井裕之、大和雅之、佐々木亮、松峯元、竹内雄一
