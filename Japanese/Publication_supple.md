@@ -1,3 +1,4 @@
+2023年 7月 1日現在
 ## Preprints
 1. <ins>Takeuchi Y</ins>, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. **_bioRxiv_** 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
 1. <ins>Takeuchi Y</ins>\*, Nagy A, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. **_Preprints_** 2021, 2021050317. DOI: https://doi.org/10.20944/preprints202105.0317.v1
