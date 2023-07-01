@@ -1,4 +1,4 @@
-Updated on June 30th, 2023
+Updated on July 1st, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -111,7 +111,7 @@ Updated on June 30th, 2023
 20. <ins>Takeuchi Y</ins>, Harangozó M, Pedraza L, Földi T, Kozák G, Li Q, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. **_Brain_** 144 (3): 885–908. 27 Jan 2021. DOI: https://doi.org/10.1093/brain/awaa450
 21. Robinson KC, Kemeny LV, Fell GL, Hermann AL, Allouche J, Ding W, Yekkirala A, Hsiao JJ, Su MY, Theodosakis N, Kozák G, <ins>Takeuchi Y</ins>, Shen S, Berényi A, Mao J, Woolf CJ, Fisher DE, Reduced MC4R signaling alters nociceptive thresholds associated with red hair. **_Sci Adv_** 7 (14): eabd1310. 02 Apr 2021. DOI: https://doi.org/10.1126/sciadv.abd1310
 22. Li Q†, <ins>Takeuchi Y</ins>†, Wang J, Gellért L, Barcsai L, Pedraza LK, Nagy AJ, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Horváth G, Kékesi G, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. **_Neuron_**, *Available online*. 09 May 2023. DOI: https://doi.org/10.1016/j.neuron.2023.04.013
-23. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Li Q, Kozák G, <ins>Takeuchi Y</ins>, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation augments fear extinction in male rats, **_Nat Commun_**, *in press*.
+23. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Li Q, Kozák G, <ins>Takeuchi Y</ins>, Nagy AJ, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation augments fear extinction in male rats, **_Nat Commun_**, *in press*.
 
 ### Review
 1. Tanabe M, Takasu K, <ins>Takeuchi Y</ins>, Ono H, Pain relief by gabapentin and pregabalin via supraspinal mechanisms after peripheral nerve injury. **_J Neurosci Res_** 86 (15): 3258-3264. 15 Nov 2008. DOI: https://doi.org/10.1002/jnr.21786
@@ -139,11 +139,8 @@ Updated on June 30th, 2023
 1. <ins>Takeuchi Y</ins>\*, Kawano T, Li Q, Mima T, Nagai J, eds. (2022). Oscillotherapeutics - Toward Real-Time Control of Pathological Oscillations in the Brain. Lausanne: **_Frontiers Media_** SA. DOI: https://doi.org/10.3389/978-2-88976-458-7
 1. Hara K, <ins>Takeuchi Y</ins>, Time-targeted stimulation of the bran rewarding system as a novel brain disorder treatment, **_Medical Science Digest_** 49 (3): 154–156. Mar 2023. Hokuryukan. (Invited, Japanese)
 
-### Preprints
-1. <ins>Takeuchi Y</ins>, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. **_bioRxiv_** 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
-2. <ins>Takeuchi Y</ins>\*, Nagy A, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. **_Preprints_** 2021, 2021050317. DOI: https://doi.org/10.20944/preprints202105.0317.v1
-3. Li Q†, <ins>Takeuchi Y</ins>†, Wang J, Barcsai L, Pedraza L, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression. **_bioRxiv_** 2022.02.01.478683. DOI: https://doi.org/10.1101/2022.02.01.478683
-4. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Kozák G, <ins>Takeuchi Y</ins>, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation to reduce pathologic fear. **_bioRxiv_** 2022.07.24.501314. DOI: https://doi.org/10.1101/2022.07.24.501314
+### Recent Preprints
+1. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Kozák G, <ins>Takeuchi Y</ins>, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation to reduce pathologic fear. **_bioRxiv_** 2022.07.24.501314. DOI: https://doi.org/10.1101/2022.07.24.501314
 
 ### Proceedings and Reports
 1.	<ins>Takeuchi Y</ins>, Uchida M, Miyata M, Neuroanatomical and physiological analyses of afferent fiber rewiring in the ventrobasal thalamus of mice after peripheral nerve injury. Proceedings of Tokyo Women’s Medical University Medical Institute 32: 20–21. 2012. (Japanese)
