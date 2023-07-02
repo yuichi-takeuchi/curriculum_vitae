@@ -35,7 +35,7 @@ Updated on July 1st, 2023
 | 28 Nov 2005 | Pharmacist, Japan, No. 399397                                                                            |
 | 01 Jan 2016 | Physiology Educator, Physiological Society of Japan, No. 160018                                          |
 | 26 Jan 2017 | FELASA C certificate, Federation of European Laboratory Animal Science Associations, No. 63/2017, 035/14 |
-| 02 Jan 2018 | Certified Peer Reviewer, Publons Academy                                                                 |
+| 02 Jan 2018 | Certified Peer Reviewer, Web of Science Academy                                                                 |
 | 25 Nov 2021 | Pharmacology Educator, The Japanese Pharmacological Society, No. 0539                                    |
 
 ## 3. Professional Appointments
@@ -54,7 +54,7 @@ Updated on July 1st, 2023
 ### Professional Societies
 |              |                                             |
 | ------------ | ------------------------------------------- |
-| 2005–present | Japanese Pharmacological Society,	Member    |
+| 2006–present | Japanese Pharmacological Society,	Member    |
 | 2008–present | The Japan Neuroscience Society,	Member      |
 | 2010–present | The Physiological Society of Japan,	Member  |
 | 2010–present | Society for Neuroscience,	Member            |
@@ -162,6 +162,7 @@ Updated on July 1st, 2023
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-069) Poster
 1. <ins>Takeuchi Y</ins>, Li Q, Berényi A, Minami M, Decoding and quantification of seizure susceptibility with cross-regional oscillatory brain activity patterns in a rat model of temporal lobe epilepsy. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-109) Poster
 1. Chan M, Li Q, Horváth G, Berényi A, Minami M, <ins>Takeuchi Y</ins>, Reduced operant task engagement and altered neural oscillations in a triple-hit rat model of schizophrenia. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-263) Poster
+1. <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 73rd meeting of the north branch of The Japanese Pharmacological Society. Sapporo, Japan. Sep 18th, 2022.
 1. <ins>Takeuchi Y</ins>, Chan M, Maeki M, Kudo N, Development of Transcranial Gene Manipulation Technologies. The 8th Hokkaido University Cross-Departmental Symposium. Sapporo, Japan. Oct 28th, 2022. (Abstract No. K-14) Poster
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 8th Hokkaido University Cross-Departmental Symposium. Sapporo, Japan. Oct 28th, 2022. (Abstract No. P-49) Poster
 1. <ins>Takeuchi Y</ins>, Closed-loop control of neurological and psychiatric disorders, BPCNPNPPP4. Tokyo, Japan. Nov 4th, 2022. (Abstract No. S13-3) Symposium
