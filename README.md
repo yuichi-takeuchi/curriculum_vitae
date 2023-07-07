@@ -111,7 +111,7 @@ Updated on July 5th, 2023
 20. <ins>Takeuchi Y</ins>, Harangozó M, Pedraza L, Földi T, Kozák G, Li Q, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. **_Brain_** 144 (3): 885–908. 27 Jan 2021. DOI: https://doi.org/10.1093/brain/awaa450
 21. Robinson KC, Kemeny LV, Fell GL, Hermann AL, Allouche J, Ding W, Yekkirala A, Hsiao JJ, Su MY, Theodosakis N, Kozák G, <ins>Takeuchi Y</ins>, Shen S, Berényi A, Mao J, Woolf CJ, Fisher DE, Reduced MC4R signaling alters nociceptive thresholds associated with red hair. **_Sci Adv_** 7 (14): eabd1310. 02 Apr 2021. DOI: https://doi.org/10.1126/sciadv.abd1310
 22. Li Q†, <ins>Takeuchi Y</ins>†, Wang J, Gellért L, Barcsai L, Pedraza LK, Nagy AJ, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Horváth G, Kékesi G, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. **_Neuron_**, *Available online*. 09 May 2023. DOI: https://doi.org/10.1016/j.neuron.2023.04.013
-23. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Li Q, Kozák G, <ins>Takeuchi Y</ins>, Nagy AJ, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation augments fear extinction in male rats, **_Nat Commun_**, *in press*.
+23. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Li Q, Kozák G, <ins>Takeuchi Y</ins>, Nagy AJ, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation augments fear extinction in male rats, **_Nat Commun_** 14: 3972. 05 Jul 2023. DOI: https://doi.org/10.1038/s41467-023-39546-7
 
 ### Review
 1. Tanabe M, Takasu K, <ins>Takeuchi Y</ins>, Ono H, Pain relief by gabapentin and pregabalin via supraspinal mechanisms after peripheral nerve injury. **_J Neurosci Res_** 86 (15): 3258-3264. 15 Nov 2008. DOI: https://doi.org/10.1002/jnr.21786
@@ -313,7 +313,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2021–present | Pharmacology IV；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 7 x 2 h sessions during the 2nd semester                         |
 | FY2021–present | Methods in Life Science II; Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 2 x 2 h sessions during the 2nd semester              |
 | FY2021–present | Laboratory Exercise of Analytical Chemistry; Hokkaido University, school of pharmaceutical sciences and pharmacy, 2nd year undergraduate students, 4 x 4 h sessions in the 2nd semester |
-| FY2022–present | Introduction to Pharmaceutical Science: Hokkaido University, school of pharmaceutical sciences and pharmacy, 2nd year undergraduate students, 2 x 2 h sessions during the 1st semester  | 
+| FY2022–present | Introduction to Pharmaceutical Science: Hokkaido University, school of pharmaceutical sciences and pharmacy, 2nd year undergraduate students, 2 x 2 h sessions during the 1st semester  |
 | FY2022–present | Pharmacology II；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                         |
 | FY2022–present | Pharmacology III；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                        |
 | FY2022–present | Freshman Seminar Introduction of Neuropharmacology; Hokkaido University, 1st year undergraduate students, 2 x 2 h sessions during the 1st semester                                      |
