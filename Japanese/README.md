@@ -1,4 +1,4 @@
-2023年 7月 5日現在
+2023年 7月 13日現在
 # 表紙
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -469,9 +469,10 @@
 | 02 Jan 2018 | Publons,	https://publons.com/publon/1605918/ |
 
 ### シンポジウム企画
-|             |                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 29 Jul 2020 | Symposium: Cutting-edge closed-loop and non-invasive brain stimulation technologies for neurological and psychiatric disorders (1S06a). The Japan Neuroscience Society. The 43rd Annual Meeting of the Japan Neuroscience Society  (Kobe)  29 Jul 2020, (Travel Grant: Brain Science Foundation, 250,000 JPY for Eran Stark), (Travel Grant: The Nagai Foundation Tokyo, 250,000 JPY for Mihály Vöröslakos) |
+|             |                                                                                                                                                                                                           |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 29 Jul 2020 | Symposium: Cutting-edge closed-loop and non-invasive brain stimulation technologies for neurological and psychiatric disorders (1S06a). The 43rd Annual Meeting of the Japan Neuroscience Society  (Kobe) |
+| 28 Mar 2023 | Symposium: Ultrasound interrogation and control physiological functions. The 101st Annual Meeting of The Physiological Society of Japan (Kita-Kyushu)                                                     |
 
 ### パネリスト等
 |             |                                                    |
