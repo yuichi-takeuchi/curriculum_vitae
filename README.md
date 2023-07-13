@@ -1,4 +1,4 @@
-Updated on July 5th, 2023
+Updated on Jul 13th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -477,9 +477,10 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 02 Jan 2018 | Publons,	https://publons.com/publon/1605918/ |
 
 ### Symposium organization etc.
-|             |                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 29 Jul 2020 | Symposium: Cutting-edge closed-loop and non-invasive brain stimulation technologies for neurological and psychiatric disorders (1S06a). The Japan Neuroscience Society. The 43rd Annual Meeting of the Japan Neuroscience Society  (Kobe)  29 Jul 2020, (Travel Grant: Brain Science Foundation, 250,000 JPY for Eran Stark), (Travel Grant: The Nagai Foundation Tokyo, 250,000 JPY for Mihály Vöröslakos) |
+|             |                                                                                                                                                                                                           |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 29 Jul 2020 | Symposium: Cutting-edge closed-loop and non-invasive brain stimulation technologies for neurological and psychiatric disorders (1S06a). The 43rd Annual Meeting of the Japan Neuroscience Society  (Kobe) |
+| 28 Mar 2023 | Symposium: Ultrasound interrogation and control physiological functions. The 101st Annual Meeting of The Physiological Society of Japan (Kita-Kyushu)                                                     | 
 
 ### Panelist etc.
 |             |                                                    |
