@@ -299,16 +299,16 @@ https://doi.org/10.6084/m9.figshare.6160181
 ## Teaching Contributions on Undergraduate Courses
 |                |                                                                                                                                                                                         |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| FY2010–2013    | Practical of Hematology (Osmotic fragility and Coagulation cascade); Tokyo Women’s Medical University; 4th year undergraduate students; 2 ×4-hr sessions per wk for 2 wks               |
-| FY2010–2014    | Practical of Physiology (Spirometry); Tokyo Women’s Medical University; 2nd year undergraduate students; 2 ×4-hr sessions per wk for 3 wks                                              |
-| FY2012         | Tutor of Problem Based Learning; Tokyo Women’s Medical University; 1st year undergraduate students; 2 × 2-hr sessions per wk for 6 wks                                                  |
-| 2012–2013      | Practical of Physiology (Spirometry); Tokyo Women’s Medical University; graduate students for biomedical course; 2 ×2-hr sessions in a day                                              |
-| 2013–2014      | Tutor of Team-Based Learning; Tokyo Women’s Medical University; 1st year undergraduate students; 2 × 2-hr sessions per wk for 6 wks                                                     |
+| FY2010–2013    | Practical of Hematology (Osmotic fragility and Coagulation cascade); Tokyo Women’s Medical University; 4th year undergraduate students; 2 × 4 h sessions per wk for 2 wks               |
+| FY2010–2014    | Practical of Physiology (Spirometry); Tokyo Women’s Medical University; 2nd year undergraduate students; 2 × 4 h sessions per wk for 3 wks                                              |
+| FY2012         | Tutor of Problem Based Learning; Tokyo Women’s Medical University; 1st year undergraduate students; 2 × 2 h sessions per wk for 6 wks                                                  |
+| 2012–2013      | Practical of Physiology (Spirometry); Tokyo Women’s Medical University; graduate students for biomedical course; 2 × 2 h sessions in a day                                              |
+| 2013–2014      | Tutor of Team-Based Learning; Tokyo Women’s Medical University; 1st year undergraduate students; 2 × 2 h sessions per wk for 6 wks                                                     |
 | 2013           | Supervision of Basic Medical Research; Tokyo Women’s Medical University; 3rd year undergraduate student (Sawako Kamo); Daily mentorship for 3 wks                                       |
-| 2014           | Practical of Physiology (In silico Simulation of Cardiac Ion Channels); Tokyo Women’s Medical University; 2nd year undergraduate students; 2 ×4-hr sessions per wk for 3 wks            |
-| 2015           | Problem-Based Learning; Tokyo Women’s Medical University; 1st year undergraduate students; 4 × 2-hr sessions                                                                            |
-| 2016–2020      | Medical Physiology Seminar I; University of Szeged; 2nd year undergraduate students; 14 × 2-h sessions during the 1st semester                                                          |
-| 2016–2020      | Medical Physiology Seminar II; University of Szeged; 2nd year undergraduate students; 15 × 2-h sessions during the 2nd semester                                                         |
+| 2014           | Practical of Physiology (In silico Simulation of Cardiac Ion Channels); Tokyo Women’s Medical University; 2nd year undergraduate students; 2 × 4 h sessions per wk for 3 wks            |
+| 2015           | Problem-Based Learning; Tokyo Women’s Medical University; 1st year undergraduate students; 4 × 2 h sessions                                                                            |
+| 2016–2020      | Medical Physiology Seminar I; University of Szeged; 2nd year undergraduate students; 14 × 2 h sessions during the 1st semester                                                          |
+| 2016–2020      | Medical Physiology Seminar II; University of Szeged; 2nd year undergraduate students; 15 × 2 h sessions during the 2nd semester                                                         |
 | 2019–2020      | Internship training, University of Szeged; 4th year undergraduate students; 8 weeks full-time                                                                                           |
 | FY2021–present | Pharmacology IV；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 7 x 2 h sessions during the 2nd semester                         |
 | FY2021–present | Methods in Life Science II; Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 2 x 2 h sessions during the 2nd semester              |
@@ -318,7 +318,9 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2022–present | Pharmacology III；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                        |
 | FY2022–present | Freshman Seminar Introduction of Neuropharmacology; Hokkaido University, 1st year undergraduate students, 2 x 2 h sessions during the 1st semester                                      |
 | FY2022–present | Freshman Seminar A Guide to Neuroscience Research; Hokkaido University, 1st year undergraduate students, 15 x 2 h sessions during the 2nd semester                                      |
+| FY2022–present | Laboratory Exercise of Physics; Hokkaido University, 2nd year undergraduate students, 4 x 4 h sessions during the 2nd semester                                                          |
 | FY2023–present | Freshman Seminar Introduction of Brain Researches in Hokkaido University; Hokkaido University, 1st year undergraduate students, 2 x 2 h sessions during the 1st semester                |
+
 
 ## Educational Publications
 1.	<ins>Takeuchi Y</ins> (2017) Physiological Education and Japanese Medical Students in University of Szeged. J Physiol Soc Japan 79: 8-15. (Peer Reviewed, Japanese).
@@ -480,7 +482,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 |             |                                                                                                                                                                                                           |
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 29 Jul 2020 | Symposium: Cutting-edge closed-loop and non-invasive brain stimulation technologies for neurological and psychiatric disorders (1S06a). The 43rd Annual Meeting of the Japan Neuroscience Society  (Kobe) |
-| 28 Mar 2023 | Symposium: Ultrasound interrogation and control physiological functions. The 101st Annual Meeting of The Physiological Society of Japan (Kita-Kyushu)                                                     | 
+| 28 Mar 2023 | Symposium: Ultrasound interrogation and control physiological functions. The 101st Annual Meeting of The Physiological Society of Japan (Kita-Kyushu)                                                     |
 
 ### Panelist etc.
 |             |                                                    |
