@@ -1,4 +1,4 @@
-Updated on Aug 6th, 2023
+Updated on Aug 7th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -116,8 +116,8 @@ Updated on Aug 6th, 2023
 
 ### Review
 1. Tanabe M, Takasu K, <ins>Takeuchi Y</ins>, Ono H, Pain relief by gabapentin and pregabalin via supraspinal mechanisms after peripheral nerve injury. **_J Neurosci Res_** 86 (15): 3258-3264. 15 Nov 2008. DOI: https://doi.org/10.1002/jnr.21786
-2. <ins>Takeuchi Y</ins>\* and Berényi A\*, Oscillotherapeutics – Time-targeted interventions in epilepsy and beyond. **_Neurosci Res_** 152: 87-107. 16 Jan 2020. DOI: https://doi.org/10.1016/j.neures.2020.01.002
-3. <ins>Takeuchi Y</ins>\*, Nagy AJ, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. **_Front Neural Circuits_** 15: 701080. 08 Jul 2021. DOI: https://doi.org/10.3389/fncir.2021.701080
+1. <ins>Takeuchi Y</ins>\* and Berényi A\*, Oscillotherapeutics – Time-targeted interventions in epilepsy and beyond. **_Neurosci Res_** 152: 87-107. 16 Jan 2020. DOI: https://doi.org/10.1016/j.neures.2020.01.002
+1. <ins>Takeuchi Y</ins>\*, Nagy AJ, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. **_Front Neural Circuits_** 15: 701080. 08 Jul 2021. DOI: https://doi.org/10.3389/fncir.2021.701080
 
 ### Conference paper
 1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. **_9th Biomedical Imaging and Sensing Conference_** BISC9-01. 21 Apr 2023.
@@ -170,6 +170,8 @@ Updated on Aug 6th, 2023
 1. Itagaki K, Minami M, <ins>Takeuchi Y</ins>, Bidirectional GABAergic and cholinergic modulation of delta-band activities in a hippocampal-like circuit in silico, The 100th Anniversary Annual Meeting of The Physiological Society of Japan. Kyoto, Japan. Mar 14th, 2023．(Abstract No. 1P-023) Poster
 1. Mimura T, Chan M, Minami M, <ins>Takeuchi Y</ins>, Transcranial sonoporation technology for non-invasive gene transfection to neurons in the cerebral cortex, The 143rd Annual Meeting of the Pharmaceutical Society of Japan. Sapporo, Japan. Mar 25–25, 2023. (Abstract No. 26P1-pm2-089S) Poster
 1. Mimura T, Chan M, Minami M, Omata D, Suzuki R, <ins>Takeuchi Y</ins>, Transcranial sonoporation technology for non-invasive gene transfection, The 150th Annual Meeting of the Hokkaido Branch of the Pharmaceutical Society of Japan. Sapporo, Japan. May 21st, 2023. (Abstract No. C-11) Poster
+1. Yoshida K, Minami M, <ins>Takeuchi Y</ins>, A closed-loop transcranial ultrasound irradiation system for an awake rat model of absence epilepsy, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 1–4, 2023. (Abstract No. 1Pm-094) Poster
+1. Chan M, Mimura T, Minami M, <ins>Takeuchi Y</ins>, Non-invasive gene transfection to neurons in the cortex using transcranial ultrasound irradiation, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 1–4, 2023. (Abstract No. 3Pm-131) Poster
 
 ### Scientific Essays
 1.	<ins>Takeuchi Y</ins> (2013) Report of the 36th Annual Meeting of Japanese Neuroscience Society. Neuroscience News of the Japan Neuroscience Society 195: 10. (Japanese)
