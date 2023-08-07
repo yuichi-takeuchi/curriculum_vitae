@@ -1,4 +1,4 @@
-2023年 8月 6日現在
+2023年 8月 7日現在
 # 表紙
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -110,8 +110,8 @@
 
 ### 総説
 1. Tanabe M, Takasu K, <ins>Takeuchi Y</ins>, Ono H, Pain relief by gabapentin and pregabalin via supraspinal mechanisms after peripheral nerve injury. **_J Neurosci Res_** 86 (15): 3258-3264. 15 Nov 2008. DOI: https://doi.org/10.1002/jnr.21786
-2. <ins>Takeuchi Y</ins>\* and Berényi A\*, Oscillotherapeutics – Time-targeted interventions in epilepsy and beyond. **_Neurosci Res_** 152: 87-107. 16 Jan 2020. DOI: https://doi.org/10.1016/j.neures.2020.01.002
-3. <ins>Takeuchi Y</ins>\*, Nagy AJ, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. **_Front Neural Circuits_** 15: 701080. 08 Jul 2021. DOI: https://doi.org/10.3389/fncir.2021.701080
+1. <ins>Takeuchi Y</ins>\* and Berényi A\*, Oscillotherapeutics – Time-targeted interventions in epilepsy and beyond. **_Neurosci Res_** 152: 87-107. 16 Jan 2020. DOI: https://doi.org/10.1016/j.neures.2020.01.002
+1. <ins>Takeuchi Y</ins>\*, Nagy AJ, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. **_Front Neural Circuits_** 15: 701080. 08 Jul 2021. DOI: https://doi.org/10.3389/fncir.2021.701080
 
 ### 国際会議論文
 1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. **_9th Biomedical Imaging and Sensing Conference_** BISC9-01. 21 Apr 2023.
@@ -167,6 +167,8 @@
 1. 板垣航太、南雅文、<ins>竹内雄一</ins>、海馬様神経回路における求心性GABAおよびコリン作動性神経投射の双方向性デルタ帯活動修飾、日本生理学会 第100回記念大会、京都、3月14–16日、2023．(Abstract No. 1P-023) Poster
 1. 三村聡優、チャン ミシェル、南雅文、<ins>竹内雄一</ins>、経頭蓋ソノポレーションによる大脳神経細胞を標的とした新規遺伝子導入法、日本薬学会第143年会、札幌、3月25–28日、2023．(Abstract No. 26P1-pm2-089S) Poster
 1. 三村聡優、チャン ミシェル、南雅文、小俣大樹、鈴木亮、<ins>竹内雄一</ins>、経頭蓋ソノポレーションによる非侵襲的遺伝子導入法の開発、日本薬学会北海道支部第150回支部例会、札幌、5月21日、2023．(Abstract No. C-11) Poster
+1. Yoshida K, Minami M, <ins>Takeuchi Y</ins>, A closed-loop transcranial ultrasound irradiation system for an awake rat model of absence epilepsy, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 1–4, 2023. (Abstract No. 1Pm-094) Poster
+1. Chan M, Mimura T, Minami M, <ins>Takeuchi Y</ins>, Non-invasive gene transfection to neurons in the cortex using transcranial ultrasound irradiation, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 1–4, 2023. (Abstract No. 3Pm-131) Poster
 
 ### 随筆
 1.  <ins>竹内雄一</ins>、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10–11,  2013
