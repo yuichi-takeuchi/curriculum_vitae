@@ -1,4 +1,4 @@
-2023年 8月 7日現在
+2023年 8月 12日現在
 # 表紙
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -472,13 +472,14 @@
 | 02 Jan 2018 | Publons,	https://publons.com/publon/1605917/ |
 | 02 Jan 2018 | Publons,	https://publons.com/publon/1605918/ |
 
-### シンポジウム企画
+## シンポジウム企画運営等
 |             |                                                                                                                                                                                                           |
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 26 Jul 2014 | Young Researchers of Physiology Forum 2014 (Tokyo)                                                                                                                                                        |
 | 29 Jul 2020 | Symposium: Cutting-edge closed-loop and non-invasive brain stimulation technologies for neurological and psychiatric disorders (1S06a). The 43rd Annual Meeting of the Japan Neuroscience Society  (Kobe) |
-| 28 Mar 2023 | Symposium: Ultrasound interrogation and control physiological functions. The 101st Annual Meeting of The Physiological Society of Japan (Kita-Kyushu)                                                     |
+| 28 Mar 2023 | Symposium: Ultrasound interrogation and control physiological functions (1S05a). The 101st Annual Meeting of The Physiological Society of Japan (Kita-Kyushu)                                             |
 
-### パネリスト等
+## パネリスト等
 |             |                                                    |
 | ----------- | -------------------------------------------------- |
 | 29 Mar 2019 | 9th FAOPS Congress, Meet the Lectures, Facilitator |
@@ -504,8 +505,9 @@
 | 2020–2021 | Supervision of technicians; Osaka City University; Daily mentorship for 12 months                                             |
 
 ## アウトリーチ活動
-|             |                                                                   |
-| ----------- | ----------------------------------------------------------------- |
-| 01 Nov 2008 | Open-lab,	National Institute of Physiological Sciences            |
-| 20 Sep 2014 | Open-lab,	School of Medicine, Tokyo Women’s Medical University    |
-| 26 Nov 2016 | Open-lab,	Department of Physiology, University of Szeged, Hungary |
+|              |                                                                             |
+| ------------ | --------------------------------------------------------------------------- |
+| 01 Nov 2008  | Open-lab,	National Institute of Physiological Sciences, Japan               |
+| 20 Sep 2014  | Open-lab,	School of Medicine, Tokyo Women’s Medical University, Japan       |
+| 26 Nov 2016  | Open-lab,	Department of Physiology, University of Szeged, Hungary           |
+| 7,8 Aug 2022 | Open-Campus,	Faculty of Pharmaceutical Sciences, Hokkaido University, Japan |
