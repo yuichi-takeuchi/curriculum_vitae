@@ -1,4 +1,4 @@
-Updated on Aug 7th, 2023
+Updated on Aug 12th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -473,7 +473,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 24 Mar 2023 | Current Gene Therapy                                                                |
 | 11 Apr 2023 | Neuroscience Research                                                               |
 
-### Post-publication Peer Reviews
+## Post-publication Peer Reviews
 |             |                                              |
 | ----------- | -------------------------------------------- |
 | 2017        | Publons, https://publons.com/publon/462513/  |
@@ -481,13 +481,14 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 02 Jan 2018 | Publons,	https://publons.com/publon/1605917/ |
 | 02 Jan 2018 | Publons,	https://publons.com/publon/1605918/ |
 
-### Symposium organization etc.
+## Symposium organization etc.
 |             |                                                                                                                                                                                                           |
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 26 Jul 2014 | Young Researchers of Physiology Forum 2014 (Tokyo)                                                                                                                                                        |
 | 29 Jul 2020 | Symposium: Cutting-edge closed-loop and non-invasive brain stimulation technologies for neurological and psychiatric disorders (1S06a). The 43rd Annual Meeting of the Japan Neuroscience Society  (Kobe) |
-| 28 Mar 2023 | Symposium: Ultrasound interrogation and control physiological functions. The 101st Annual Meeting of The Physiological Society of Japan (Kita-Kyushu)                                                     |
+| 28 Mar 2023 | Symposium: Ultrasound interrogation and control physiological functions (1S05a). The 101st Annual Meeting of The Physiological Society of Japan (Kita-Kyushu)                                             |
 
-### Panelist etc.
+## Panelist etc.
 |             |                                                    |
 | ----------- | -------------------------------------------------- |
 | 29 Mar 2019 | 9th FAOPS Congress, Meet the Lectures, Facilitator |
@@ -513,8 +514,9 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 2020–2021 | Supervision of technicians; Osaka City University; Daily mentorship for 12 months                                             |
 
 ## Outreach activities
-|             |                                                                   |
-| ----------- | ----------------------------------------------------------------- |
-| 01 Nov 2008 | Open-lab,	National Institute of Physiological Sciences            |
-| 20 Sep 2014 | Open-lab,	School of Medicine, Tokyo Women’s Medical University    |
-| 26 Nov 2016 | Open-lab,	Department of Physiology, University of Szeged, Hungary |
+|              |                                                                             |
+| ------------ | --------------------------------------------------------------------------- |
+| 01 Nov 2008  | Open-lab,	National Institute of Physiological Sciences, Japan               |
+| 20 Sep 2014  | Open-lab,	School of Medicine, Tokyo Women’s Medical University, Japan       |
+| 26 Nov 2016  | Open-lab,	Department of Physiology, University of Szeged, Hungary           |
+| 7,8 Aug 2022 | Open-Campus,	Faculty of Pharmaceutical Sciences, Hokkaido University, Japan |
