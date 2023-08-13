@@ -149,6 +149,7 @@ Updated on Aug 12th, 2023
 3.	<ins>Takeuchi Y</ins> and Miyata M, Neuroanatomical analyses of thalamic circuitry rewiring (II). Proceedings of Tokyo Women’s Medical University Medical Institute 34: 16. Nov 30th, 2014. (Japanese)
 4.	Miyata M, Matsumine H, Sasaki R, Watanabe Y, <ins>Takeuchi Y</ins>, Yamato M, and Sakurai H, Functional evaluations of regenerated peripheral nerve. J Tokyo Wom Med Univ 84: 130. Aug 25th, 2014. (Japanese)
 5.	<ins>Takeuchi Y</ins> and Miyata M, Neuroanatomical analyses of thalamic circuitry rewiring (III). Proceedings of Tokyo Women’s Medical University Medical Institute 36: 22–23. Feb 27th, 2017. (Japanese)
+6.  <ins>Takeuchi Y</ins>, Annual report of research project, Hyper-Adaptability Area 2022 Annual report, A05-1, 2023.
 
 ### Recent Abstracts (International)
 1. Pedraza L, Sierra R, <ins>Takeuchi Y</ins>, Kozák G, Peijin A, Berényi A, Controlling fear expression through closed-loop intervention: Sharp-waves ripples triggering medial forebrain bundle stimulation enhance extinction and induce long-lasting fear attenuation. FENS Meeting 2020. Glasgow, U. K. Jul 11–15, 2020.
