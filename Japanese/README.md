@@ -145,7 +145,9 @@
 5. 宮田麻理子、松峯元、佐々木亮、渡辺頼勝、 <ins>竹内雄一</ins>、大和雅之、櫻井浩之、末梢神経再生術における神経再生能の機能評価、東京女子医科大学雑誌 84:130, 2014年8月25日
 6.  <ins>竹内雄一</ins>、計算機-生体ハイブリッド神経回路を用いた病態脳における異常な情報伝達機構の解明、カシオ科学振興財団 研究助成成果報告論文集（平成26年度）
 7.  <ins>竹内雄一</ins>、宮田麻理子、視床回路改編機構の神経解剖学的解析（３）、東京女子医科大学総合研究所紀要 36: 22–23, 2017年2月27日
-8.  <ins>竹内雄一</ins>、難治性てんかんをオンデマンドかつ非侵襲的に制御する臨床技術の開発、かなえ医薬振興財団2018年度研究業績集（第47集）：40．
+8.  <ins>竹内雄一</ins>、難治性てんかんをオンデマンドかつ非侵襲的に制御する臨床技術の開発、かなえ医薬振興財団2018年度研究業績集（第47集）：40, 2021年.
+9.  <ins>竹内雄一</ins>、超適応現象を適切に強化する閉ループ脳刺激法、新学術領域研究「超適応」令和４年度 成果報告書、A05-1、2023年.
+10. <ins>竹内雄一</ins>、経頭蓋集束超音波刺激によるてんかん発作のオンデマンド制御、立石科学技術振興財団 研究助成成果集 32、in press.
 
 ### 国際学会発表（直近）
 1. Pedraza L, Sierra R, <ins>Takeuchi Y</ins>, Kozák G, Peijin A, Berényi A, Controlling fear expression through closed-loop intervention: Sharp-waves ripples triggering medial forebrain bundle stimulation enhance extinction and induce long-lasting fear attenuation. FENS Meeting 2020. Glasgow, U. K. Jul 11–15, 2020.
