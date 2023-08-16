@@ -1,4 +1,4 @@
-2023年 8月 12日現在
+2023年 8月 16日現在
 # 表紙
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -153,30 +153,33 @@
 1. Pedraza L, Sierra R, <ins>Takeuchi Y</ins>, Kozák G, Peijin A, Berényi A, Controlling fear expression through closed-loop intervention: Sharp-waves ripples triggering medial forebrain bundle stimulation enhance extinction and induce long-lasting fear attenuation. FENS Meeting 2020. Glasgow, U. K. Jul 11–15, 2020.
 1. Li Q, <ins>Takeuchi Y</ins>, Wang J, Barcsai L, Pedraza KL, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Lőrincz ML, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression. IBRO Workshop 2022. Budapest, Hungary. Jan 27, 28, 2022. (P3.21) Poster
 1. Barcsai L, Sierra R, Pedraza L, Lakos B, Pejin A, Kozák G, <ins>Takeuchi Y</ins>, Földi T, Lőrincz M, Berényi A, Controlling pathological fear expression through closed-loop brain stimulation. IBRO Workshop 2022. Budapest, Hungary. Jan 27, 28, 2022. (P5.28) Poster
-1. Sierra RO, Pedraza LK, Barcsai L, Peijin A, Kozák G, <ins>Takeuchi Y</ins>, Lőrincz M, Berényi A, Controlling pathologic fear expression through closed-loop brain stimulation. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 12–16, 2022. (Abstract No. 143.15) Poster
-1. Li Q, <ins>Takeuchi Y</ins>, Wang J, Barcsai L, Pedraza KL, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 12–16, 2022. (Abstract No. 228.14) Poster
-1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 12–16, 2022. (Abstract No. 565.14) Poster
+1. Sierra RO, Pedraza LK, Barcsai L, Peijin A, Kozák G, <ins>Takeuchi Y</ins>, Lőrincz M, Berényi A, Controlling pathologic fear expression through closed-loop brain stimulation. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 13, 2022. (Abstract No. 143.15) Poster
+1. Li Q, <ins>Takeuchi Y</ins>, Wang J, Barcsai L, Pedraza KL, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 13, 2022. (Abstract No. 228.14) Poster
+1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 15, 2022. (Abstract No. 565.14) Poster
 1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. 9th Biomedical Imaging and Sensing Conference. Yokohama, Japan. Apr 17–21, 2023. (Abstract No. BISC9-01) Symposium
 
 ### 国内学会発表（直近）
-1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-069) Poster
-1. <ins>Takeuchi Y</ins>, Li Q, Berényi A, Minami M, Decoding and quantification of seizure susceptibility with cross-regional oscillatory brain activity patterns in a rat model of temporal lobe epilepsy. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-109) Poster
-1. Chan M, Li Q, Horváth G, Berényi A, Minami M, <ins>Takeuchi Y</ins>, Reduced operant task engagement and altered neural oscillations in a triple-hit rat model of schizophrenia. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-263) Poster
+1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30, 2022. (Abstract No. 1P-069) Poster
+1. <ins>Takeuchi Y</ins>, Li Q, Berényi A, Minami M, Decoding and quantification of seizure susceptibility with cross-regional oscillatory brain activity patterns in a rat model of temporal lobe epilepsy. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30, 2022. (Abstract No. 1P-109) Poster
+1. Chan M, Li Q, Horváth G, Berényi A, Minami M, <ins>Takeuchi Y</ins>, Reduced operant task engagement and altered neural oscillations in a triple-hit rat model of schizophrenia. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30, 2022. (Abstract No. 1P-263) Poster
 1. <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 73rd meeting of the north branch of The Japanese Pharmacological Society. Sapporo, Japan. Sep 18th, 2022.
 1. <ins>Takeuchi Y</ins>, Chan M, Maeki M, Kudo N, Development of Transcranial Gene Manipulation Technologies. The 8th Hokkaido University Cross-Departmental Symposium. Sapporo, Japan. Oct 28th, 2022. (Abstract No. K-14) Poster
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 8th Hokkaido University Cross-Departmental Symposium. Sapporo, Japan. Oct 28th, 2022. (Abstract No. P-49) Poster
 1. <ins>Takeuchi Y</ins>, Closed-loop control of neurological and psychiatric disorders, BPCNPNPPP4. Tokyo, Japan. Nov 4th, 2022. (Abstract No. S13-3) Symposium
-1. 板垣航太、南雅文、<ins>竹内雄一</ins>、海馬様神経回路における求心性GABAおよびコリン作動性神経投射の双方向性デルタ帯活動修飾、日本生理学会 第100回記念大会、京都、3月14–16日、2023．(Abstract No. 1P-023) Poster
-1. 三村聡優、チャン ミシェル、南雅文、<ins>竹内雄一</ins>、経頭蓋ソノポレーションによる大脳神経細胞を標的とした新規遺伝子導入法、日本薬学会第143年会、札幌、3月25–28日、2023．(Abstract No. 26P1-pm2-089S) Poster
+1. 板垣航太、南雅文、<ins>竹内雄一</ins>、海馬様神経回路における求心性GABAおよびコリン作動性神経投射の双方向性デルタ帯活動修飾、日本生理学会 第100回記念大会、京都、3月14日、2023．(Abstract No. 1P-023) Poster
+1. 三村聡優、チャン ミシェル、南雅文、<ins>竹内雄一</ins>、経頭蓋ソノポレーションによる大脳神経細胞を標的とした新規遺伝子導入法、日本薬学会第143年会、札幌、3月26日、2023．(Abstract No. 26P1-pm2-089S) Poster
 1. 三村聡優、チャン ミシェル、南雅文、小俣大樹、鈴木亮、<ins>竹内雄一</ins>、経頭蓋ソノポレーションによる非侵襲的遺伝子導入法の開発、日本薬学会北海道支部第150回支部例会、札幌、5月21日、2023．(Abstract No. C-11) Poster
-1. Yoshida K, Minami M, <ins>Takeuchi Y</ins>, A closed-loop transcranial ultrasound irradiation system for an awake rat model of absence epilepsy, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 1–4, 2023. (Abstract No. 1Pm-094) Poster
-1. Chan M, Mimura T, Minami M, <ins>Takeuchi Y</ins>, Non-invasive gene transfection to neurons in the cortex using transcranial ultrasound irradiation, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 1–4, 2023. (Abstract No. 3Pm-131) Poster
+1. Yoshida K, Minami M, <ins>Takeuchi Y</ins>, A closed-loop transcranial ultrasound irradiation system for an awake rat model of absence epilepsy, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 1, 2023. (Abstract No. 1Pm-094) Poster
+1. Chan M, Mimura T, Minami M, <ins>Takeuchi Y</ins>, Non-invasive gene transfection to neurons in the cortex using transcranial ultrasound irradiation, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 3, 2023. (Abstract No. 3Pm-131) Poster
+1. Yoshida K, Chan M, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making when faced with contradictory predictions of reward and punishment, CogFeel@ALIFE2023. Sapporo, Japan. Jul 25, 2023. Oral
+1. Yoshida K, Xu Y, Mimura T, Chan M, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, JNNS2023. Tokyo, Japan. Sep 4, 2023. Poster
 
 ### 随筆
 1.  <ins>竹内雄一</ins>、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10–11,  2013
-2.  <ins>竹内雄一</ins>、AFTERNOON TEA：心を動かす体験、日本生理学雑誌 77: 6 – 7,  2015
-3.  <ins>竹内雄一</ins>、ハンガリー紀行、名古屋市立大学薬友会関東支部会報、2015
-4.  <ins>竹内雄一</ins>、セゲド便り、上原記念生命科学財団 一年の歩み H28: 104–105,  2017
+2.  <ins>竹内雄一</ins>、AFTERNOON TEA：心を動かす体験、日本生理学雑誌 77: 6 – 7,  Jan 2015
+3.  <ins>竹内雄一</ins>、ハンガリー紀行、名古屋市立大学薬友会関東支部会報、Jun 2015
+4.  <ins>竹内雄一</ins>、セゲド便り、上原記念生命科学財団 一年の歩み H28: 104–105, Aug 2017
+5.  <ins>竹内雄一</ins>、転入のご挨拶、芳香 71: 6, 25 Mar 2022
 
 ### データセットリポジトリ
 1.	<ins>Takeuchi Y</ins> (2017) Three-dimensional dendritic morphology of somatosensory thalamic neurons in developing mice: Takeuchi Archive. NeuroMorpho.org. URL: http://www.neuromorpho.org/bylab.jsp (Invited)
