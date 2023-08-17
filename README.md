@@ -174,7 +174,7 @@ Updated on Aug 12th, 2023
 1. Yoshida K, Minami M, <ins>Takeuchi Y</ins>, A closed-loop transcranial ultrasound irradiation system for an awake rat model of absence epilepsy, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 1, 2023. (Abstract No. 1Pm-094) Poster
 1. Chan M, Mimura T, Minami M, <ins>Takeuchi Y</ins>, Non-invasive gene transfection to neurons in the cortex using transcranial ultrasound irradiation, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 3, 2023. (Abstract No. 3Pm-131) Poster
 1. Yoshida K, Chan M, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making when faced with contradictory predictions of reward and punishment, CogFeel@ALIFE2023. Sapporo, Japan. Jul 25, 2023. Oral
-1. Yoshida K, Xu Y, Mimura T, Chan M, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, JNNS2023. Tokyo, Japan. Sep 4, 2023. Poster
+1. Yoshida K, Xu Y, Mimura T, Chan M, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, JNNS2023. Tokyo, Japan. Sep 4, 2023. (Abstract No. 15) Poster
 
 ### Scientific Essays
 1.	<ins>Takeuchi Y</ins> (2013) Report of the 36th Annual Meeting of Japanese Neuroscience Society. Neuroscience News of the Japan Neuroscience Society 195: 10. (Japanese)
