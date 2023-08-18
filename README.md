@@ -1,4 +1,4 @@
-Updated on Aug 12th, 2023
+Updated on Aug 18th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -276,6 +276,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2022 | Invited speaker, NIPS seminar, Online                                                                                                     |
 | 2022 | Invited symposiast, BPCNPNPPP4 conference, Tokyo, Japan                                                                                   |
 | 2023 | Invited speaker, Kobe University, Online                                                                                                  |
+| 2023 | Invited speaker, Ritsumeikan Univ, Online                                                                                                 |
 
 ## Contributed Talks
 |      |                                                                                                          |
