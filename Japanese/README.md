@@ -150,13 +150,8 @@
 10. <ins>竹内雄一</ins>、経頭蓋集束超音波刺激によるてんかん発作のオンデマンド制御、立石科学技術振興財団 研究助成成果集 32、in press.
 
 ### 国際学会発表（直近）
-1. Pedraza L, Sierra R, <ins>Takeuchi Y</ins>, Kozák G, Peijin A, Berényi A, Controlling fear expression through closed-loop intervention: Sharp-waves ripples triggering medial forebrain bundle stimulation enhance extinction and induce long-lasting fear attenuation. FENS Meeting 2020. Glasgow, U. K. Jul 11–15, 2020.
-1. Li Q, <ins>Takeuchi Y</ins>, Wang J, Barcsai L, Pedraza KL, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Lőrincz ML, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression. IBRO Workshop 2022. Budapest, Hungary. Jan 27, 28, 2022. (P3.21) Poster
-1. Barcsai L, Sierra R, Pedraza L, Lakos B, Pejin A, Kozák G, <ins>Takeuchi Y</ins>, Földi T, Lőrincz M, Berényi A, Controlling pathological fear expression through closed-loop brain stimulation. IBRO Workshop 2022. Budapest, Hungary. Jan 27, 28, 2022. (P5.28) Poster
-1. Sierra RO, Pedraza LK, Barcsai L, Peijin A, Kozák G, <ins>Takeuchi Y</ins>, Lőrincz M, Berényi A, Controlling pathologic fear expression through closed-loop brain stimulation. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 13, 2022. (Abstract No. 143.15) Poster
-1. Li Q, <ins>Takeuchi Y</ins>, Wang J, Barcsai L, Pedraza KL, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 13, 2022. (Abstract No. 228.14) Poster
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 15, 2022. (Abstract No. 565.14) Poster
-1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. 9th Biomedical Imaging and Sensing Conference. Yokohama, Japan. Apr 17–21, 2023. (Abstract No. BISC9-01) Symposium
+1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. 9th Biomedical Imaging and Sensing Conference. Yokohama, Japan. Apr 21, 2023. (Abstract No. BISC9-01) Symposium
 
 ### 国内学会発表（直近）
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30, 2022. (Abstract No. 1P-069) Poster
