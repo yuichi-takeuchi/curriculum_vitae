@@ -1,4 +1,4 @@
-Updated on Aug 18th, 2023
+Updated on Aug 24th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -487,10 +487,14 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 29 Jul 2020 | Symposium: Cutting-edge closed-loop and non-invasive brain stimulation technologies for neurological and psychiatric disorders (1S06a). The 43rd Annual Meeting of the Japan Neuroscience Society  (Kobe) |
 | 28 Mar 2023 | Symposium: Ultrasound interrogation and control physiological functions (1S05a). The 101st Annual Meeting of The Physiological Society of Japan (Kita-Kyushu)                                             |
 
-## Panelist etc.
-|             |                                                    |
-| ----------- | -------------------------------------------------- |
-| 29 Mar 2019 | 9th FAOPS Congress, Meet the Lectures, Facilitator |
+## Panelist, Chair etc.
+|             |                                                                  |
+| ----------- | ---------------------------------------------------------------- |
+| 07 Jul 2018 | 3rd Global Cell Science and Stem Cell Conference, Chair          |
+| 29 Mar 2019 | 9th FAOPS Congress, Meet the Lectures, Facilitator               |
+| 26 Aug 2021 | Seitai-kinou and Souyaku symposium 2021, Chair                   |
+| 30 Jun 2022 | Neuro2022, Chair                                                 |
+| 04 Aug 2023 | The 46th Annual Meeting of the Japan Neuroscience Society, Chair |
 
 ## Reviews of Research Grants
 ### UKRI – UK Research and Innovation
