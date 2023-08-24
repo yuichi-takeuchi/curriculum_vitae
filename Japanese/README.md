@@ -1,4 +1,4 @@
-2023年 8月 18日現在
+2023年 8月 24日現在
 # 表紙
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -480,10 +480,14 @@
 | 29 Jul 2020 | Symposium: Cutting-edge closed-loop and non-invasive brain stimulation technologies for neurological and psychiatric disorders (1S06a). The 43rd Annual Meeting of the Japan Neuroscience Society  (Kobe) |
 | 28 Mar 2023 | Symposium: Ultrasound interrogation and control physiological functions (1S05a). The 101st Annual Meeting of The Physiological Society of Japan (Kita-Kyushu)                                             |
 
-## パネリスト等
+## パネリスト・セッションチェア等
 |             |                                                    |
 | ----------- | -------------------------------------------------- |
+| 07 Jul 2018 | 3rd Global Cell Science and Stem Cell Conference   |
 | 29 Mar 2019 | 9th FAOPS Congress, Meet the Lectures, Facilitator |
+| 26 Aug 2021 | 生体機能と創薬シンポジウム2021、座長               |
+| 30 Jun 2022 | Neuro2022、座長                                    |
+| 04 Aug 2023 | 第46回日本神経科学大会、座長                       |
 
 ## 研究費審査
 ### UKRI – UK Research and Innovation
