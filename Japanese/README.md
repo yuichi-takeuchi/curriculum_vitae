@@ -1,4 +1,4 @@
-2023年 8月 24日現在
+2023年 9月 11日現在
 # 表紙
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -134,9 +134,6 @@
 1. <ins>Takeuchi Y</ins>\*, Kawano T, Li Q, Mima T, Nagai J, eds. (2022). Oscillotherapeutics - Toward Real-Time Control of Pathological Oscillations in the Brain. Lausanne: **_Frontiers Media_** SA. DOI: https://doi.org/10.3389/978-2-88976-458-7
 1. 原巧樹、<ins>竹内雄一</ins>、ひきこもりと精神疾患：報酬系脳領域刺激による脳疾患治療、**_Medical Science Digest_** 49 (3): 154–156, 2023.3. 北隆館
 
-### プレプリント（直近）
-1. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Kozák G, <ins>Takeuchi Y</ins>, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation to reduce pathologic fear. **_bioRxiv_** 2022.07.24.501314. DOI: https://doi.org/10.1101/2022.07.24.501314
-
 ### 紀要、報告書
 1.  <ins>竹内雄一</ins>、内田萌衣、宮田麻理子、末梢神経損傷による視床内求心性線維再配線現象の神経解剖学的および機能的解析、東京女子医科大学総合研究所紀要 32: 20-21, 170, 2012年
 2.  <ins>竹内雄一</ins>、宮田麻理子、視床回路改編機構の神経解剖学的解析（１）、東京女子医科大学総合研究所紀要 33: 21, 2013年11月30日
@@ -148,6 +145,12 @@
 8.  <ins>竹内雄一</ins>、難治性てんかんをオンデマンドかつ非侵襲的に制御する臨床技術の開発、かなえ医薬振興財団2018年度研究業績集（第47集）：40, 2021年.
 9.  <ins>竹内雄一</ins>、超適応現象を適切に強化する閉ループ脳刺激法、新学術領域研究「超適応」令和４年度 成果報告書、A05-1、2023年.
 10. <ins>竹内雄一</ins>、経頭蓋集束超音波刺激によるてんかん発作のオンデマンド制御、立石科学技術振興財団 研究助成成果集 32、in press.
+
+### 解説
+1. <ins>竹内雄一</ins>、うつ症状を生じる脳内メカニズムとその制御法、日本神経科学学会 神経科学トピックス、2023年9月8日、URL: https://www.jnss.org/news-topics?id=230908-01
+
+### プレプリント（直近）
+1. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Kozák G, <ins>Takeuchi Y</ins>, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation to reduce pathologic fear. **_bioRxiv_** 2022.07.24.501314. DOI: https://doi.org/10.1101/2022.07.24.501314
 
 ### 国際学会発表（直近）
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 15, 2022. (Abstract No. 565.14) Poster
@@ -481,13 +484,14 @@
 | 28 Mar 2023 | Symposium: Ultrasound interrogation and control physiological functions (1S05a). The 101st Annual Meeting of The Physiological Society of Japan (Kita-Kyushu)                                             |
 
 ## パネリスト・セッションチェア等
-|             |                                                    |
-| ----------- | -------------------------------------------------- |
-| 07 Jul 2018 | 3rd Global Cell Science and Stem Cell Conference   |
-| 29 Mar 2019 | 9th FAOPS Congress, Meet the Lectures, Facilitator |
-| 26 Aug 2021 | 生体機能と創薬シンポジウム2021、座長               |
-| 30 Jun 2022 | Neuro2022、座長                                    |
-| 04 Aug 2023 | 第46回日本神経科学大会、座長                       |
+|             |                                                                              |
+| ----------- | ---------------------------------------------------------------------------- |
+| 07 Jul 2018 | 3rd Global Cell Science and Stem Cell Conference                             |
+| 29 Mar 2019 | 9th FAOPS Congress, Meet the Lectures, Facilitator                           |
+| 26 Aug 2021 | 生体機能と創薬シンポジウム2021、座長                                         |
+| 30 Jun 2022 | Neuro2022、座長                                                              |
+| 04 Aug 2023 | 第46回日本神経科学大会、座長                                                 |
+| 06 Sep 2023 | 第2回 北海道大学遺伝子病制御研究所 生理学研究所 ジョイントシンポジウム、座長 |
 
 ## 研究費審査
 ### UKRI – UK Research and Innovation
