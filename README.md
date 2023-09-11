@@ -1,4 +1,4 @@
-Updated on Aug 24th, 2023
+Updated on Sep 11th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -140,9 +140,6 @@ Updated on Aug 24th, 2023
 1. <ins>Takeuchi Y</ins>\*, Kawano T, Li Q, Mima T, Nagai J, eds. (2022). Oscillotherapeutics - Toward Real-Time Control of Pathological Oscillations in the Brain. Lausanne: **_Frontiers Media_** SA. DOI: https://doi.org/10.3389/978-2-88976-458-7
 1. Hara K, <ins>Takeuchi Y</ins>, Time-targeted stimulation of the bran rewarding system as a novel brain disorder treatment, **_Medical Science Digest_** 49 (3): 154–156. Mar 2023. Hokuryukan. (Invited, Japanese)
 
-### Recent Preprints
-1. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Kozák G, <ins>Takeuchi Y</ins>, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation to reduce pathologic fear. **_bioRxiv_** 2022.07.24.501314. DOI: https://doi.org/10.1101/2022.07.24.501314
-
 ### Proceedings and Reports
 1.	<ins>Takeuchi Y</ins>, Uchida M, Miyata M, Neuroanatomical and physiological analyses of afferent fiber rewiring in the ventrobasal thalamus of mice after peripheral nerve injury. Proceedings of Tokyo Women’s Medical University Medical Institute 32: 20–21. 2012. (Japanese)
 2.	<ins>Takeuchi Y</ins> and Miyata M, Neuroanatomical analyses of thalamic circuitry rewiring (I). Proceedings of Tokyo Women’s Medical University Medical Institute 33: 21. Nov 30th, 2013. (Japanese)
@@ -150,6 +147,9 @@ Updated on Aug 24th, 2023
 4.	Miyata M, Matsumine H, Sasaki R, Watanabe Y, <ins>Takeuchi Y</ins>, Yamato M, and Sakurai H, Functional evaluations of regenerated peripheral nerve. J Tokyo Wom Med Univ 84: 130. Aug 25th, 2014. (Japanese)
 5.	<ins>Takeuchi Y</ins> and Miyata M, Neuroanatomical analyses of thalamic circuitry rewiring (III). Proceedings of Tokyo Women’s Medical University Medical Institute 36: 22–23. Feb 27th, 2017. (Japanese)
 6.  <ins>Takeuchi Y</ins>, Annual report of research project, Hyper-Adaptability Area 2022 Annual report, A05-1, 2023.
+
+### Recent Preprints
+1. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Kozák G, <ins>Takeuchi Y</ins>, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation to reduce pathologic fear. **_bioRxiv_** 2022.07.24.501314. DOI: https://doi.org/10.1101/2022.07.24.501314
 
 ### Recent Abstracts (International)
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 15, 2022. (Abstract No. 565.14) Poster
@@ -495,6 +495,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 26 Aug 2021 | Seitai-kinou and Souyaku symposium 2021, Chair                   |
 | 30 Jun 2022 | Neuro2022, Chair                                                 |
 | 04 Aug 2023 | The 46th Annual Meeting of the Japan Neuroscience Society, Chair |
+| 05 Sep 2023 | The 2nd IGM-NIPS Joint symposium, Chair                          |
 
 ## Reviews of Research Grants
 ### UKRI – UK Research and Innovation
