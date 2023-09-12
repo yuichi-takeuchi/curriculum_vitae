@@ -524,3 +524,4 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 20 Sep 2014  | Open-lab,	School of Medicine, Tokyo Women’s Medical University, Japan       |
 | 26 Nov 2016  | Open-lab,	Department of Physiology, University of Szeged, Hungary           |
 | 7,8 Aug 2022 | Open-Campus,	Faculty of Pharmaceutical Sciences, Hokkaido University, Japan |
+| 12 Sep 2023  | Official Neuro Navigator, The Japan Neuroscience Society                    |
