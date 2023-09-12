@@ -514,9 +514,10 @@
 | 2020–2021 | Supervision of technicians; Osaka City University; Daily mentorship for 12 months                                             |
 
 ## アウトリーチ活動
-|              |                                                                             |
-| ------------ | --------------------------------------------------------------------------- |
-| 01 Nov 2008  | Open-lab,	National Institute of Physiological Sciences, Japan               |
-| 20 Sep 2014  | Open-lab,	School of Medicine, Tokyo Women’s Medical University, Japan       |
-| 26 Nov 2016  | Open-lab,	Department of Physiology, University of Szeged, Hungary           |
-| 7,8 Aug 2022 | Open-Campus,	Faculty of Pharmaceutical Sciences, Hokkaido University, Japan |
+|              |                                                    |
+| ------------ | -------------------------------------------------- |
+| 01 Nov 2008  | 生理学研究所　一般公開                             | 
+| 20 Sep 2014  | 東京女子医科大学　医学部　オープンキャンパス       |
+| 26 Nov 2016  | セゲド大学　医学部　生理学部門　オープンキャンパス |
+| 7,8 Aug 2022 | 北海道大学　薬学部　オープンキャンパス             |
+| 11 Sep 2023  | 日本神経科学学会公認・ニューロナビゲータ           |
