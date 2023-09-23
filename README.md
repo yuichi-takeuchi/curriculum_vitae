@@ -235,6 +235,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 1. A control technology of a brain activity pattern of impulsive and compulsive decision-making. Nishinomiya Basic Research Fund, Japan, Role: PI, Period: 2022–2023, Total cost: 500,000 JPY
 1. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 22K18650), Role: co-PI, Period: 2022–2024, Total cost: 520,000 JPY
 1. Development of a non-invasive and spatiotemporally-specific in vivo gene transfection technology. Noastec Foundation, Noas Talent Grant, Role: PI, Period: 2022–2023, Total cost: 400,000 JPY
+1. Non-invasive and voluntary manipulation of cardiac functions. Hokkaido University Creative Research Institution: Support System for the Collaborative Research of Next-Generation Researchers, Role: PI, Period: 2022–2023, Total cost: 500,000 JPY
 1. Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, AMED Prime, Role: PI, Period: 2022–2023, Total cost: 31,200,000 JPY
 1. Real-time control of epileptic seizures via a brain–computer–ultrasound closed-loop. Casio Science Promotion Foundation: Research Grant, Role: PI, Period: 2022–2023, Total cost: 1,000,000 JPY
 1. Development of a novel technology for deletion of seizure susceptibility of epilepsy. Shimadzu Science Foundation: Research Grant, Role: PI, Period: 2023–2025, Total cost: 1,000,000 JPY
