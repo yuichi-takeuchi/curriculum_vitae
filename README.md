@@ -222,8 +222,8 @@ https://doi.org/10.6084/m9.figshare.6160181
 1.	On-demand transcranial interventions of epileptic seizures. Life Science Foundation, Research Grant, Role: PI, Period: 2019–2020, Total cost: 1,000,000 JPY
 1.	Development of a quantification method of seizure susceptibility using brain-wide electrical spatiotemporal dynamics. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (B) (Grant no. 19H03550), Role: PI, Period: 2019–2024, Total cost: 17,160,000 JPY
 1.	Revealing neuronal network dynamics underlying behavioral phenotypes of psychiatric disorders by solving inverse problems. MEXT, KAKENHI: Grant-in-Aid for Scientific Research on Innovative Areas (Grant no. 19H05224), Role: PI, Period: 2019–2021, Total cost: 5,720,000 JPY
-1. Identification and regulation of pathological brain activity patterns that govern impulsive/compulsive decision-making. Osaka City, OCU 'Think globally, act locally', Role: PI, Period: 2021-2022, Total cost: 1,000,000 JPY
 1. Development of a quantification method of seizure susceptibility using brain-wide electrical spatiotemporal dynamics. Japanese Neural Network Society, Research Grant, Role: PI, Period: 2021, Total cost: 300,000 JPY
+1. Identification and regulation of pathological brain activity patterns that govern impulsive/compulsive decision-making. Osaka City, OCU 'Think globally, act locally', Role: PI, Period: 2021-2022, Total cost: 1,000,000 JPY
 1. Moonshot Goal 7. Japan Agency for Medical Research and Development, Moonshot Research and Development Program, Role: co-PI, Period: 2021–2024, Total cost: 26,000,000 JPY
 1. On-demand intervention of brain activities for controlling epilepsy. Takeda Science Foundation. Role: PI, Total cost: 2,000,000 JPY
 1. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 21K19745), Role: co-PI, Period: 2021–2023, Total cost: 195,000 JPY
