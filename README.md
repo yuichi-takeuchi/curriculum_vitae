@@ -1,4 +1,4 @@
-Updated on Sep 23rd, 2023
+Updated on Oct 2nd, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -120,7 +120,7 @@ Updated on Sep 23rd, 2023
 1. <ins>Takeuchi Y</ins>\*, Nagy AJ, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. **_Front Neural Circuits_** 15: 701080. 08 Jul 2021. DOI: https://doi.org/10.3389/fncir.2021.701080
 
 ### Conference paper
-1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. **_9th Biomedical Imaging and Sensing Conference_** BISC9-01. 21 Apr 2023.
+1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. **_Proc. SPIE_** 12608, Biomedical Imaging and Sensing Conference, 126081O. 20 Sep 2023. DOI: https://doi.org/10.1117/12.3008167
 
 ### Editorial
 1. <ins>Takeuchi Y</ins>\*, Li Q, Kawano T, Nagai J, Mima T, Editorial: Oscillotherapeutics – Toward real-time control of pathological oscillations in the brain. **_Front Behav Neurosci_** 16: 1021616. 08 Sep 2022. DOI: https://doi.org/10.3389/fnbeh.2022.1021616
