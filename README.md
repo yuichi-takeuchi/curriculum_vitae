@@ -1,4 +1,4 @@
-Updated on Oct 2nd, 2023
+Updated on Oct 12th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -86,6 +86,7 @@ Updated on Oct 2nd, 2023
 | 2019 | Special award for excellent presentation, Annual meeting of Young Neurobehavioral Pharmacologists                                                   |
 | 2022 | Research award, Nishinomiya Basic Research Fund, Japan                                                                                              |
 | 2022 | The Hokkaido University Research Encouragement Award                                                                                                |
+| 2023 | The Hokkaido University Research Encouragement Award                                                                                                |
 
 # REASEARCH/SCHOLARSHIP
 ## Peer Reviewed Publications
@@ -243,10 +244,12 @@ https://doi.org/10.6084/m9.figshare.6160181
 1. A control technology of a brain activity pattern of impulsive and compulsive decision-making. Nishinomiya Basic Research Fund, Japan, Role: PI, Period: 2022–2023, Total cost: 500,000 JPY
 1. Development of a non-invasive and spatiotemporally-specific in vivo gene transfection technology. Noastec Foundation, Noas Talent Grant, Role: PI, Period: 2022–2023, Total cost: 400,000 JPY
 1. Non-invasive and voluntary manipulation of cardiac functions. Hokkaido University Creative Research Institution: Support System for the Collaborative Research of Next-Generation Researchers, Role: PI, Period: 2022–2023, Total cost: 500,000 JPY
+1. Development of transcranial gene manipulation technologies. Hokkaido University Cross-Departmental Symposium: Research Grant, Role: PI, Period: 2022–2023, Total cost: 500,000 JPY
 1. Real-time control of epileptic seizures via a brain–computer–ultrasound closed-loop. Casio Science Promotion Foundation: Research Grant, Role: PI, Period: 2022–2023, Total cost: 1,000,000 JPY
 1. Development of a novel technology for deletion of seizure susceptibility of epilepsy. Shimadzu Science Foundation: Research Grant, Role: PI, Period: 2023–2025, Total cost: 1,000,000 JPY
 1. Deletion of seizure susceptibility via transcranial deep brain stimulation. Brain Science Foundation: Research Grant, Role: PI, Period: 2023–2024, Total cost: 1,000,000 JPY
-1. Deletion of seizure susceptibility with ultrasound neuromodulation. The Japan Epilespy Research Foundation: Research Grant, Role: PI, Period: 2023-2026, Total cost: 1,600,000 JPY
+1. Deletion of seizure susceptibility with ultrasound neuromodulation. The Japan Epilepsy Research Foundation: Research Grant, Role: PI, Period: 2023-2026, Total cost: 1,600,000 JPY
+1. On-demand induction of a torpor-like hypometabolic state by transcranial ultrasound irradiation. Hokkaido University Cross-Departmental Symposium: Research Grant, Role: PI, Period: 2023–2024, Total cost: 500,000 JPY
 
 ### Other Grants
 1. A study of reorganization of the whisker-sensory thalamic circuit after peripheral nerve injury. Tokyo Women's Medical University: Research Grant for Basic Medical Research, Role: PI, Period: 2010–2011, Total cost: 800,000 JPY
