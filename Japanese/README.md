@@ -1,4 +1,4 @@
-2023年 10月 12日現在
+2023年 11月 13日現在
 # 表紙
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -349,23 +349,6 @@
 | FY2015 | チューター養成委員  東京女子医科大学医学部                          |
 | FY2021 | アドミッションセンター総務部門国際総合入試実施部会委員 (北海道大学) |
 
-### 研究指導した学部学生
-|               |                                                                                               |
-| ------------- | --------------------------------------------------------------------------------------------- |
-| FY2011        | 内田 萌衣、早稲田大学 先進理工学部、卒業研究指導 (@Tokyo Women’s Medical University)           |
-| FY2013        | 加茂 沢子、東京女子医科大学 医学部、基礎配属・研究指導                                         |
-| 2016          | Yasuko Takai; Faculty of Medicine, University of Szeged                                       |
-| 2016          | Jun Takai; Faculty of Medicine, University of Szeged                                          |
-| 2016–2020     | Tamás Földi; Faculty of Medicine, University of Szeged                                        |
-| 2016–2020     | Márk Harangozó; Faculty of Medicine, University of Szeged                                     |
-| FY2019        | 中山 雄晟、豊橋科学技術大学 電気・電子情報工学系、インターンシップ受入 (@University of Szeged) |
-| FY2020        | 大屋 翔、豊橋科学技術大学 電気・電子情報工学系、インターンシップ受入 (@University of Szeged)   |
-| FY2021–FY2022 | 板垣 航太、北海道大学薬学部                                                                    |
-| FY2021–FY2022 | 吉田 楓、北海道大学薬学部                                                                      |
-| FY2022        | 近藤 拓也、北海道大学薬学部                                                                    |
-| FY2022–現在   | 原 巧樹、北海道大学薬学部                                                                      |
-| FY2022–現在   | 三村 聡優、北海道大学薬学部                                                                    |
-
 ### 教育関連トレーニング
 |      |                                                                                                                   |
 | ---- | ----------------------------------------------------------------------------------------------------------------- |
@@ -373,13 +356,6 @@
 
 ### 教育関連コードリポジトリ
 1.	<ins>Takeuchi Y</ins> (2017) physiology-examiner v1.0.0 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.583685
-
-### MD/PhDコース学生の研究指導
-1. Harangozó M and Földi T (2017) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia rohamainak közvetett csillapítása a neuromodulátoros rendszerek optogenetikai modulációjával. 15 Nov 2017, Szeged, TDK.  Co-Advisor
-2. Harangozó M (2018) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése sejtvonalspecifikus ”proxy” ingerléssel. 14 Nov 2018, Szeged, TDK. Co-Advisor
-3. Harangozó M (2019) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése sejtvonalspecifikus ”proxy” ingerléssel. 25 Apr 2019, Debrecen, OTDK. Co-Advisor
-4. Harangozó M (2019) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése a mediális szeptum elektromos ingerlésével. 14 Nov 2019, Szeged, TDK. Co-Advisor
-5. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózatok Kutatócsoport - SZTE ÁOK Élettani Intézet; A temporális lebeny epilepszia kezelése a mediális szeptum elektromos ingerlésével. 6 Apr 2021, Szeged, OTDK. Co-Advisor
 
 ## 大学院教育
 |             |                                                                                                                                                         |
@@ -392,19 +368,6 @@
 | FY2022–現在 | 脳科学科学研究の展開I（講義）＠北海道大学大学院薬学研究院                                                                                               |
 | FY2022–現在 | 脳科学科学研究の展開I（実習）＠北海道大学大学院薬学研究院                                                                                               |
 
-### 研究指導した大学院生
-|             |                                                                                                                              |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| FY2012–2013 | 内田 萌衣、早稲田大学 先進理工学研究科、修士研究指導 (@ Tokyo Women’s Medical University)                                     |
-| 2015–2016   | Azahara Gonzalez Oliva; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/3145/) |
-| 2015–2018   | Mihály Vöröslakos; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/10538/)     |
-| 2015–2018   | Anett Nagy; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/10496/)            |
-| 2017–2020   | Lizeth Pedraza; Faculty of Medicine, University of Szeged                                                                    |
-| FY2019      | 菊川 孝、名古屋市立大学 大学院薬学研究科、研究指導 (@University of Szeged)                                                    |
-| 2019–2020   | Lívia Barcsai, Faculty of Medicine, University of Szeged                                                                     |
-| FY2022      | 和田 隆史、北海道大学 大学院生命科学院（京都大学）                                                                            |
-| FY2022-現在 | 徐 一洲、北海道大学 大学院生命科学院                                                                                          |
-| FY2022-現在 | 杨 刚生、北海道大学 大学院生命科学院                                                                                          |
 
 ## 教員教育
 |        |                                                                                             |
