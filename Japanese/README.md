@@ -117,6 +117,9 @@
 ### 国際会議論文
 1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. **_Proc. SPIE_** 12608, Biomedical Imaging and Sensing Conference, 126081O. 20 Sep 2023. DOI: https://doi.org/10.1117/12.3008167
 
+### 国内会議論文
+1. 鈴木尚也、澤畑博人、赤井大輔、山下幸司、沼野利佳、鯉田孝和、<ins>竹内雄一</ins>、河野 剛士、超音波ニューロモジュレーション用発振回路の製作、 **_第40回「センサ・マイクロマシンと応用システム」シンポジウム_**. 7P2-PS-25. 07 Nov 2023.
+
 ### 編集
 1. <ins>Takeuchi Y</ins>\*, Li Q, Kawano T, Nagai J, Mima T, Editorial: Oscillotherapeutics – Toward real-time control of pathological oscillations in the brain. **_Front Behav Neurosci_** 16: 1021616. 08 Sep 2022. DOI: https://doi.org/10.3389/fnbeh.2022.1021616
 
@@ -137,15 +140,17 @@
 
 ### 紀要、報告書
 1.  <ins>竹内雄一</ins>、内田萌衣、宮田麻理子、末梢神経損傷による視床内求心性線維再配線現象の神経解剖学的および機能的解析、東京女子医科大学総合研究所紀要 32: 20-21, 170, 2012年
-2.  <ins>竹内雄一</ins>、宮田麻理子、視床回路改編機構の神経解剖学的解析（１）、東京女子医科大学総合研究所紀要 33: 21, 2013年11月30日
-3.  <ins>竹内雄一</ins>、末梢神経切断による中枢神経回路再配線の解剖学的解析、日本私立学校振興・共済事業団 学術研究振興資金研究報告（平成25年度）：12．
-4.  <ins>竹内雄一</ins>、宮田麻理子、視床回路改編機構の神経解剖学的解析（２）、東京女子医科大学総合研究所紀要 34:16, 2014年11月30日
-5. 宮田麻理子、松峯元、佐々木亮、渡辺頼勝、 <ins>竹内雄一</ins>、大和雅之、櫻井浩之、末梢神経再生術における神経再生能の機能評価、東京女子医科大学雑誌 84:130, 2014年8月25日
-6.  <ins>竹内雄一</ins>、計算機-生体ハイブリッド神経回路を用いた病態脳における異常な情報伝達機構の解明、カシオ科学振興財団 研究助成成果報告論文集（平成26年度）
-7.  <ins>竹内雄一</ins>、宮田麻理子、視床回路改編機構の神経解剖学的解析（３）、東京女子医科大学総合研究所紀要 36: 22–23, 2017年2月27日
-8.  <ins>竹内雄一</ins>、難治性てんかんをオンデマンドかつ非侵襲的に制御する臨床技術の開発、かなえ医薬振興財団2018年度研究業績集（第47集）：40, 2021年.
-9.  <ins>竹内雄一</ins>、超適応現象を適切に強化する閉ループ脳刺激法、新学術領域研究「超適応」令和４年度 成果報告書、A05-1、2023年.
-10. <ins>竹内雄一</ins>、経頭蓋集束超音波刺激によるてんかん発作のオンデマンド制御、立石科学技術振興財団 研究助成成果集 32、in press.
+1.  <ins>竹内雄一</ins>、宮田麻理子、視床回路改編機構の神経解剖学的解析（１）、東京女子医科大学総合研究所紀要 33: 21, 2013年11月30日
+1.  <ins>竹内雄一</ins>、末梢神経切断による中枢神経回路再配線の解剖学的解析、日本私立学校振興・共済事業団 学術研究振興資金研究報告（平成25年度）：12．
+1.  <ins>竹内雄一</ins>、宮田麻理子、視床回路改編機構の神経解剖学的解析（２）、東京女子医科大学総合研究所紀要 34:16, 2014年11月30日
+1. 宮田麻理子、松峯元、佐々木亮、渡辺頼勝、 <ins>竹内雄一</ins>、大和雅之、櫻井浩之、末梢神経再生術における神経再生能の機能評価、東京女子医科大学雑誌 84:130, 2014年8月25日
+1.  <ins>竹内雄一</ins>、計算機-生体ハイブリッド神経回路を用いた病態脳における異常な情報伝達機構の解明、カシオ科学振興財団 研究助成成果報告論文集（平成26年度）
+1. <ins>竹内雄一</ins>、宮田麻理子、視床回路改編機構の神経解剖学的解析（３）、東京女子医科大学総合研究所紀要 36: 22–23, 2017年2月27日
+1. <ins>竹内雄一</ins>、難治性てんかんをオンデマンドかつ非侵襲的に制御する臨床技術の開発、かなえ医薬振興財団2018年度研究業績集（第47集）：40, 2021年.
+1. <ins>竹内雄一</ins>、超適応現象を適切に強化する閉ループ脳刺激法、新学術領域研究「超適応」令和４年度 成果報告書、A05-1、2023年.
+1. <ins>竹内雄一</ins>、経頭蓋集束超音波刺激によるてんかん発作のオンデマンド制御、立石科学技術振興財団 研究助成成果集 32: 2221019、2023年.
+1. <ins>竹内雄一</ins>、非侵襲的かつ時空間特異的な脳内遺伝子導入法の開発、ノーステック財団 研究開発助成事業2023 研究成果報告書: 7、2023年.
+1. <ins>竹内雄一</ins>、新しい難治性てんかん制御法の臨床応用に向けた国際共同研究、永井記念薬学国際交流財団 2022年度報告書: 6–8, 2023.
 
 ### 解説
 1. <ins>竹内雄一</ins>、うつ症状を生じる脳内メカニズムとその制御法、日本神経科学学会 神経科学トピックス、2023年9月8日、URL: https://www.jnss.org/news-topics?id=230908-01
@@ -156,6 +161,7 @@
 ### 国際学会発表（直近）
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 15, 2022. (Abstract No. 565.14) Poster
 1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. 9th Biomedical Imaging and Sensing Conference. Yokohama, Japan. Apr 21, 2023. (Abstract No. BISC9-01) Symposium
+1. Li Q†, <ins>Takeuchi Y</ins>†, Wang J, Gellért L, Barcsai L, Pedraza LK, Nagy AJ, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Horváth G, Kékesi G, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. The 2nd International Symposium Hyper-Adaptability. Kyoto, Japan. Nov 29, 2023. (Abstract No. II-10) Poster
 
 ### 国内学会発表（直近）
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30, 2022. (Abstract No. 1P-069) Poster
@@ -424,6 +430,7 @@
 | 19 Jul 2021 | Frontiers in Human Neuroscience      | [Nakajima A et al](https://doi.org/10.3389/fnhum.2021.702961)          |
 | 25 Nov 2021 | Frontiers in Behavioral Neuroscience | [Mokhothu TM and Tanaka KZ](https://doi.org/10.3389/fnbeh.2021.785328) |
 | 24 Dec 2021 | Frontiers in Behavioral Neuroscience | [Acerbo E et al](https://doi.org/10.3389/fnbeh.2021.774999)            |
+| 11 Oct 2023 | Frontiers in Human Neuroscience      | [Hüsser AM et al](https://doi.org/10.3389/fnhum.2023.1253529)          |
 
 ## 論文査読
 ### Pre-publication Peer Reviews
@@ -467,6 +474,7 @@
 | 29 Mar 2019 | 9th FAOPS Congress, Meet the Lectures, Facilitator                           |
 | 26 Aug 2021 | 生体機能と創薬シンポジウム2021、座長                                         |
 | 30 Jun 2022 | Neuro2022、座長                                                              |
+| 20 May 2023 | 日本薬学会北海道支部第150回支部例会 一般講演、座長                           | 
 | 04 Aug 2023 | 第46回日本神経科学大会、座長                                                 |
 | 06 Sep 2023 | 第2回 北海道大学遺伝子病制御研究所 生理学研究所 ジョイントシンポジウム、座長 |
 
