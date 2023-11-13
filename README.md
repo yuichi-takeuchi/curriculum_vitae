@@ -120,8 +120,12 @@ Updated on Nov 13th, 2023
 1. <ins>Takeuchi Y</ins>\* and Berényi A\*, Oscillotherapeutics – Time-targeted interventions in epilepsy and beyond. **_Neurosci Res_** 152: 87-107. 16 Jan 2020. DOI: https://doi.org/10.1016/j.neures.2020.01.002
 1. <ins>Takeuchi Y</ins>\*, Nagy AJ, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. **_Front Neural Circuits_** 15: 701080. 08 Jul 2021. DOI: https://doi.org/10.3389/fncir.2021.701080
 
-### Conference paper
+### Conference paper (International)
 1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. **_Proc. SPIE_** 12608, Biomedical Imaging and Sensing Conference, 126081O. 20 Sep 2023. DOI: https://doi.org/10.1117/12.3008167
+
+### Conference paper (Domestic)
+1. Suzuki N, Sawahata H, Akai D, Yamashita K, Numano R, Koida K, <ins>Takeuchi Y</ins>, Kawano T, Design and fabrication of an oscillator circuit for ultrasound neuromodulation. **_Future Technologies from Kumamoto 2023_**. 7P2-PS-25. 07 Nov 2023.
+
 
 ### Editorial
 1. <ins>Takeuchi Y</ins>\*, Li Q, Kawano T, Nagai J, Mima T, Editorial: Oscillotherapeutics – Toward real-time control of pathological oscillations in the brain. **_Front Behav Neurosci_** 16: 1021616. 08 Sep 2022. DOI: https://doi.org/10.3389/fnbeh.2022.1021616
@@ -142,12 +146,15 @@ Updated on Nov 13th, 2023
 1. Hara K, <ins>Takeuchi Y</ins>, Time-targeted stimulation of the bran rewarding system as a novel brain disorder treatment, **_Medical Science Digest_** 49 (3): 154–156. Mar 2023. Hokuryukan. (Invited, Japanese)
 
 ### Proceedings and Reports
-1.	<ins>Takeuchi Y</ins>, Uchida M, Miyata M, Neuroanatomical and physiological analyses of afferent fiber rewiring in the ventrobasal thalamus of mice after peripheral nerve injury. Proceedings of Tokyo Women’s Medical University Medical Institute 32: 20–21. 2012. (Japanese)
-2.	<ins>Takeuchi Y</ins> and Miyata M, Neuroanatomical analyses of thalamic circuitry rewiring (I). Proceedings of Tokyo Women’s Medical University Medical Institute 33: 21. Nov 30th, 2013. (Japanese)
-3.	<ins>Takeuchi Y</ins> and Miyata M, Neuroanatomical analyses of thalamic circuitry rewiring (II). Proceedings of Tokyo Women’s Medical University Medical Institute 34: 16. Nov 30th, 2014. (Japanese)
-4.	Miyata M, Matsumine H, Sasaki R, Watanabe Y, <ins>Takeuchi Y</ins>, Yamato M, and Sakurai H, Functional evaluations of regenerated peripheral nerve. J Tokyo Wom Med Univ 84: 130. Aug 25th, 2014. (Japanese)
-5.	<ins>Takeuchi Y</ins> and Miyata M, Neuroanatomical analyses of thalamic circuitry rewiring (III). Proceedings of Tokyo Women’s Medical University Medical Institute 36: 22–23. Feb 27th, 2017. (Japanese)
-6.  <ins>Takeuchi Y</ins>, Annual report of research project, Hyper-Adaptability Area 2022 Annual report, A05-1, 2023.
+1. <ins>Takeuchi Y</ins>, Uchida M, Miyata M, Neuroanatomical and physiological analyses of afferent fiber rewiring in the ventrobasal thalamus of mice after peripheral nerve injury. Proceedings of Tokyo Women’s Medical University Medical Institute 32: 20–21. 2012. (Japanese)
+1. <ins>Takeuchi Y</ins> and Miyata M, Neuroanatomical analyses of thalamic circuitry rewiring (I). Proceedings of Tokyo Women’s Medical University Medical Institute 33: 21. Nov 30th, 2013. (Japanese)
+1. <ins>Takeuchi Y</ins> and Miyata M, Neuroanatomical analyses of thalamic circuitry rewiring (II). Proceedings of Tokyo Women’s Medical University Medical Institute 34: 16. Nov 30th, 2014. (Japanese)
+1. Miyata M, Matsumine H, Sasaki R, Watanabe Y, <ins>Takeuchi Y</ins>, Yamato M, and Sakurai H, Functional evaluations of regenerated peripheral nerve. J Tokyo Wom Med Univ 84: 130. Aug 25th, 2014. (Japanese)
+1. <ins>Takeuchi Y</ins> and Miyata M, Neuroanatomical analyses of thalamic circuitry rewiring (III). Proceedings of Tokyo Women’s Medical University Medical Institute 36: 22–23. Feb 27th, 2017. (Japanese)
+1. <ins>Takeuchi Y</ins>, Annual report of research project, Hyper-Adaptability Area 2022 Annual report, A05-1, 2023.
+1. <ins>Takeuchi Y</ins>, Closed-loop control of epilepsy with transcranial ultrasound irradiation, Tateisi Foundation Annual report 32: 2221019, 2023.
+1. <ins>Takeuchi Y</ins>, Development of a non-invasive and spatiotemporally-specific in vivo gene transfection technology, Noastec Foundation  Research Report 2023: 7, 2023.
+1. <ins>Takeuchi Y</ins>, An international collaboration research for clinical application of a novel therapeutic technology of epilepsy, The Nagai Foundation Tokyo Annual Report 29: 6–8, 2023.
 
 ### Recent Preprints
 1. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Kozák G, <ins>Takeuchi Y</ins>, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation to reduce pathologic fear. **_bioRxiv_** 2022.07.24.501314. DOI: https://doi.org/10.1101/2022.07.24.501314
@@ -155,6 +162,7 @@ Updated on Nov 13th, 2023
 ### Recent Abstracts (International)
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 15, 2022. (Abstract No. 565.14) Poster
 1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. 9th Biomedical Imaging and Sensing Conference. Yokohama, Japan. Apr 21, 2023. (Abstract No. BISC9-01) Symposium
+1. Li Q†, <ins>Takeuchi Y</ins>†, Wang J, Gellért L, Barcsai L, Pedraza LK, Nagy AJ, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Horváth G, Kékesi G, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. The 2nd International Symposium Hyper-Adaptability. Kyoto, Japan. Nov 29, 2023. (Abstract No. II-10) Poster
 
 ### Recent Abstracts (Domestic)
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-069) Poster
@@ -431,6 +439,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 19 Jul 2021 | Frontiers in Human Neuroscience      | [Nakajima A et al.](https://doi.org/10.3389/fnhum.2021.702961)         |
 | 25 Nov 2021 | Frontiers in Behavioral Neuroscience | [Mokhothu TM and Tanaka KZ](https://doi.org/10.3389/fnbeh.2021.785328) |
 | 24 Dec 2021 | Frontiers in Behavioral Neuroscience | [Acerbo E et al](https://doi.org/10.3389/fnbeh.2021.774999)            |
+| 11 Oct 2023 | Frontiers in Human Neuroscience      | [Hüsser AM et al](https://doi.org/10.3389/fnhum.2023.1253529)          |
 
 ## Reviews of Research Articles
 ### Pre-publication Peer Reviews
@@ -468,14 +477,15 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 28 Mar 2023 | Symposium: Ultrasound interrogation and control physiological functions (1S05a). The 101st Annual Meeting of The Physiological Society of Japan (Kita-Kyushu)                                             |
 
 ## Panelist, Chair etc.
-|             |                                                                  |
-| ----------- | ---------------------------------------------------------------- |
-| 07 Jul 2018 | 3rd Global Cell Science and Stem Cell Conference, Chair          |
-| 29 Mar 2019 | 9th FAOPS Congress, Meet the Lectures, Facilitator               |
-| 26 Aug 2021 | Seitai-kinou and Souyaku symposium 2021, Chair                   |
-| 30 Jun 2022 | Neuro2022, Chair                                                 |
-| 04 Aug 2023 | The 46th Annual Meeting of the Japan Neuroscience Society, Chair |
-| 05 Sep 2023 | The 2nd IGM-NIPS Joint symposium, Chair                          |
+|             |                                                                                        |
+| ----------- | -------------------------------------------------------------------------------------- |
+| 07 Jul 2018 | 3rd Global Cell Science and Stem Cell Conference, Chair                                |
+| 29 Mar 2019 | 9th FAOPS Congress, Meet the Lectures, Facilitator                                     |
+| 26 Aug 2021 | Seitai-kinou and Souyaku symposium 2021, Chair                                         |
+| 30 Jun 2022 | Neuro2022, Chair                                                                       |
+| 20 May 2023 | The 150th Annual Meeting of the Pharmaceutical Society of Japan Hokkaido branch, Chair | 
+| 04 Aug 2023 | The 46th Annual Meeting of the Japan Neuroscience Society, Chair                       |
+| 05 Sep 2023 | The 2nd IGM-NIPS Joint symposium, Chair                                                |
 
 ## Reviews of Research Grants
 ### UKRI – UK Research and Innovation
