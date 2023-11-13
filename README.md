@@ -1,4 +1,4 @@
-Updated on Oct 12th, 2023
+Updated on Nov 13th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -348,23 +348,6 @@ s
 | FY2015 | Tutorial Committee Organizing Member	School of Medicine, Tokyo Women’s Medical University |
 | FY2021 | Admission committee, Hokkaido University                                                  |
 
-### Undergraduate Students Taught for Research Training
-|                |                                                                            |
-| -------------- | -------------------------------------------------------------------------- |
-| FY2011         | Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)         |
-| FY2013         | Sawako Kamo; Tokyo Women’s Medical University, School of Medicine          |
-| 2016           | Yasuko Takai; Faculty of Medicine, University of Szeged                    |
-| 2016           | Jun Takai; Faculty of Medicine, University of Szeged                       |
-| 2016–2020      | Tamás Földi; Faculty of Medicine, University of Szeged                     |
-| 2016–2020      | Márk Harangozó; Faculty of Medicine, University of Szeged                  |
-| FY2019         | Yusei Nakayama; Faculty of Engineering, Toyohashi University of Technology |
-| FY2020         | Kakeru Ohya; Faculty of Engineering, Toyohashi University of Technology    |
-| FY2021–FY2022  | Kota Itagaki; Faculty of Pharmaceutical Sciences, Hokkaido University      |
-| FY2021–FY2022  | Kaede Yoshida; Faculty of Pharmaceutical Sciences, Hokkaido University     |
-| FY2022         | Takuya Kondoh; Faculty of Pharmaceutical Sciences, Hokkaido University     |
-| FY2022–present | Koki Hara; Faculty of Pharmaceutical Sciences, Hokkaido University         |
-| FY2022–present | Toshimasa Hara; Faculty of Pharmaceutical Sciences, Hokkaido University    |
-
 ### Relevant Experience
 |      |                                                                                                                   |
 | ---- | ----------------------------------------------------------------------------------------------------------------- |
@@ -389,22 +372,6 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | FY2021      | Pharmaceutical Science, Lecture; Hokkaido University                                                                                                                          |
 | FY2022      | Brain Science I, Lecture; Hokkaido University                                                                                                                                 |
 | FY2022      | Brain Science I, Practice; Hokkaido University                                                                                                                                |
-
-### Graduate Students
-|                |                                                                                                                              |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| FY2012–2013    | Mei Uchida; Waseda University (@ Tokyo Women’s Medical University)                                                           |
-| 2015–2016      | Azahara Gonzalez Oliva; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/3145/) |
-| 2015–2018      | Mihály Vöröslakos; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/10538/)     |
-| 2015–2018      | Anett Nagy; Faculty of Medicine, University of Szeged; [Thesis](http://doktori.bibl.u-szeged.hu/id/eprint/10496/)            |
-| 2017–2020      | Lizeth Pedraza; University of Szeged, Department of Physiology                                                               |
-| FY2019         | Takashi Kikukawa; Graduate School of Pharmaceutical Sciences, Nagoya City University                                         |
-| 2019–2020      | Lívia Barcsai; Faculty of Medicine, University of Szeged                                                                     |
-| FY2022         | Takafumi Wada; Graduate School of Life Science, Hokkaido University (Kyoto University)                                       |
-| FY2022-present | Yizhou Xu; Graduate School of Life Science, Hokkaido University                                                              |
-| FY2022-present | Gansheng Yang; Graduate School of Life Science, Hokkaido University                                                          |
-| FY2023-present | Kota Itagaki; Graduate School of Life Science, Hokkaido University                                                          |
-| FY2022-present | Kaede Yoshida; Graduate School of Life Science, Hokkaido University                                                          |
 
 ## Faculty Development
 |        |                                                                                  |
