@@ -1,4 +1,4 @@
-Updated on Nov 13th, 2023
+Updated on Nov 20th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -71,6 +71,7 @@ Updated on Nov 13th, 2023
 | 15 Mar 2021–present     | Board Member, Japanese Pharmacological Society                    |
 | 01 Apr 2022–present     | Board Member, The Pharmaceutical Society of Japan Hokkaido Branch |
 | 05 May 2023–present     | Review Editor, Frontiers in Behavioral Neuroscience               |
+| 19 Nov 2023–present     | Mentor, IUPS International Mentoring Program                      |
 
 ## 5. Prizes, Awards and other Honors
 |      |                                                                                                                                                     |
@@ -258,11 +259,12 @@ https://doi.org/10.6084/m9.figshare.6160181
 1. Deletion of seizure susceptibility via transcranial deep brain stimulation. Brain Science Foundation: Research Grant, Role: PI, Period: 2023–2024, Total cost: 1,000,000 JPY
 1. Deletion of seizure susceptibility with ultrasound neuromodulation. The Japan Epilepsy Research Foundation: Research Grant, Role: PI, Period: 2023-2026, Total cost: 1,600,000 JPY
 1. On-demand induction of a torpor-like hypometabolic state by transcranial ultrasound irradiation. Hokkaido University Cross-Departmental Symposium: Research Grant, Role: PI, Period: 2023–2024, Total cost: 500,000 JPY
+1. Real-time control of brain disorders via a brain–computer–ultrasound closed-loop. Casio Science Promotion Foundation: Research Grant, Role: PI, Period: 2023–2024, Total cost: 1,000,000 JPY
 
 ### Other Grants
 1. A study of reorganization of the whisker-sensory thalamic circuit after peripheral nerve injury. Tokyo Women's Medical University: Research Grant for Basic Medical Research, Role: PI, Period: 2010–2011, Total cost: 800,000 JPY
 1. A study of large-scale reorganization of somatosensory map in the brain after peripheral sensory nerve injury. Tokyo Women's Medical University, Research Grant for Basic Medical Research, Role: PI, Period: 2014–2015, Total cost: 700,000 JPY
-s
+
 ## Invited Talks
 |      |                                                                                                                                           |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -483,7 +485,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 29 Mar 2019 | 9th FAOPS Congress, Meet the Lectures, Facilitator                                     |
 | 26 Aug 2021 | Seitai-kinou and Souyaku symposium 2021, Chair                                         |
 | 30 Jun 2022 | Neuro2022, Chair                                                                       |
-| 20 May 2023 | The 150th Annual Meeting of the Pharmaceutical Society of Japan Hokkaido branch, Chair | 
+| 20 May 2023 | The 150th Annual Meeting of the Pharmaceutical Society of Japan Hokkaido branch, Chair |
 | 04 Aug 2023 | The 46th Annual Meeting of the Japan Neuroscience Society, Chair                       |
 | 05 Sep 2023 | The 2nd IGM-NIPS Joint symposium, Chair                                                |
 
