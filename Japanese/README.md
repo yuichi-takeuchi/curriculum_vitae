@@ -1,4 +1,4 @@
-2023年 11月 20日現在
+2023年 11月 29日現在
 # 表紙
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -71,7 +71,7 @@
 | 15 Mar 2021 – 現在        | 日本薬理学会　学術評議員                        |
 | 01 Apr 2022 – 現在        | 日本薬学会北海道支部　幹事                      |
 | 25 May 2023 – 現在        | Front Behav Neurosci、レビュー編集委員          |
-| 19 Nov 2023 – 現在        | IUPS国際メンタリングプログラムアジア版 メンター | 
+| 19 Nov 2023 – 現在        | IUPS国際メンタリングプログラムアジア版 メンター |
 
 ## 5. 受賞歴等
 |             |                                              |
@@ -453,6 +453,7 @@
 | 07 Feb 2023 | Current Molecular Pharmacology                                                      |
 | 24 Mar 2023 | Current Gene Therapy                                                                |
 | 11 Apr 2023 | Neuroscience Research                                                               |
+| 29 Nov 2023 | Neuropsychopharmacology Reports                                                     | 
 
 ### Post-publication Peer Reviews
 |             |                                              |
