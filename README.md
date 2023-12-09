@@ -261,6 +261,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 1. On-demand induction of a torpor-like hypometabolic state by transcranial ultrasound irradiation. Hokkaido University Cross-Departmental Symposium: Research Grant, Role: PI, Period: 2023–2024, Total cost: 500,000 JPY
 1. Real-time control of brain disorders via a brain–computer–ultrasound closed-loop. Casio Science Promotion Foundation: Research Grant, Role: PI, Period: 2023–2024, Total cost: 1,000,000 JPY
 1. Control of epilepsy with transcranial deep brain stimulation technologies. Suzuken Memorial Foudation: Research Grant, Role: PI, Period: 2023–2024, Total cost: 2,000,000 JPY
+1. Control of depression with transcranial deep brain stimulation technologies. The Suhara Memorial Foundation: Research Grant, Role: PI, Period: 2024–2025, Total cost: 1,500,000 JPY
 
 ### Other Grants
 1. A study of reorganization of the whisker-sensory thalamic circuit after peripheral nerve injury. Tokyo Women's Medical University: Research Grant for Basic Medical Research, Role: PI, Period: 2010–2011, Total cost: 800,000 JPY
