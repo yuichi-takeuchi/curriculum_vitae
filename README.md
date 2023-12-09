@@ -1,4 +1,4 @@
-Updated on Nov 29th, 2023
+Updated on Dec 9th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -260,6 +260,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 1. Deletion of seizure susceptibility with ultrasound neuromodulation. The Japan Epilepsy Research Foundation: Research Grant, Role: PI, Period: 2023-2026, Total cost: 1,600,000 JPY
 1. On-demand induction of a torpor-like hypometabolic state by transcranial ultrasound irradiation. Hokkaido University Cross-Departmental Symposium: Research Grant, Role: PI, Period: 2023–2024, Total cost: 500,000 JPY
 1. Real-time control of brain disorders via a brain–computer–ultrasound closed-loop. Casio Science Promotion Foundation: Research Grant, Role: PI, Period: 2023–2024, Total cost: 1,000,000 JPY
+1. Control of epilepsy with transcranial deep brain stimulation technologies. Suzuken Memorial Foudation: Research Grant, Role: PI, Period: 2023–2024, Total cost: 2,000,000 JPY
 
 ### Other Grants
 1. A study of reorganization of the whisker-sensory thalamic circuit after peripheral nerve injury. Tokyo Women's Medical University: Research Grant for Basic Medical Research, Role: PI, Period: 2010–2011, Total cost: 800,000 JPY
@@ -348,7 +349,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 
 
 ## Educational Publications
-1.	<ins>Takeuchi Y</ins> (2017) Physiological Education and Japanese Medical Students in University of Szeged. J Physiol Soc Japan 79: 8-15. (Peer Reviewed, Japanese).
+1.	<ins>Takeuchi Y</ins> (2017) Physiological Education and Japanese Medical Students in University of Szeged. J Physiol Soc Japan 79: 8-15. (Peer Reviewed, Japanese) http://physiology.jp/wp-content/uploads/2017/01/Education_20170201_8-15.pdf.
 
 
 ### Teaching Committee and Organization
@@ -462,7 +463,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 07 Feb 2023 | Current Molecular Pharmacology                                                      |
 | 24 Mar 2023 | Current Gene Therapy                                                                |
 | 11 Apr 2023 | Neuroscience Research                                                               |
-| 29 Nov 2023 | Neuropsychopharmacology Reports                                                     | 
+| 29 Nov 2023 | Neuropsychopharmacology Reports                                                     |
 
 ## Post-publication Peer Reviews
 |             |                                              |
