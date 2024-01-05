@@ -1,4 +1,4 @@
-Updated on Dec 15th, 2023
+Updated on Dec 25th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -232,8 +232,8 @@ https://doi.org/10.6084/m9.figshare.6160181
 1. Development of transcranial gene manipulation technologies. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 21K19745), Role: PI, Period: 2023–2026, Total cost: 6,370,000 JPY
 
 ### Contract Researches
-1. Moonshot Goal 7. Japan Agency for Medical Research and Development, Moonshot Research and Development Program, Role: co-PI, Period: 2021–2024, Total cost: 240,050,000 JPY
-1. Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, AMED Prime, Role: PI, Period: 2022–2023, Total cost: 31,200,000 JPY
+1. Moonshot Goal 7. Japan Agency for Medical Research and Development, Moonshot Research and Development Program, Role: co-PI, Period: 2021–2026, Total cost: 35,750,000 JPY
+1. Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, AMED Prime, Role: PI, Period: 2022–2026, Total cost: 52,000,000 JPY
 
 ### Research Foundation and Other Competitive Research Funds
 1.	Functional and neuroanatomical analyses of afferent fiber remodeling in the thalamus after peri3heral nerve injury. Narishige Neuroscience Research Foundation, Research Award, Role: PI, Period: 2012–2013, Total cost: 300,000 JPY
@@ -263,7 +263,9 @@ https://doi.org/10.6084/m9.figshare.6160181
 1. Control of epilepsy with transcranial deep brain stimulation technologies. Suzuken Memorial Foudation: Research Grant, Role: PI, Period: 2023–2024, Total cost: 2,000,000 JPY
 1. Development of a transcranial deep brain stimulation technology for depression control. SENSHIN Medical Research Foundation: Research Grant, Role: PI, Period: 2023–2024, Total cost: 1,000,000 JPY
 1. Control of depression with transcranial deep brain stimulation technologies. The Suhara Memorial Foundation: Research Grant, Role: PI, Period: 2024–2025, Total cost: 1,500,000 JPY
+1. Control of depression with transcranial deep brain stimulation technologies. Astellas Foundation for Research on Metabolic Disorders: Research Grant, Role: PI, Period: 2024–2026, Total cost: 2,000,000 JPY
 1. Recovery of hedonia associated with food intake via transcranial deep brain stimulation. Lotte Foundation: Research Grant, Role: PI, Period: 2024–2027, Total cost: 3,000,000 JPY
+1. Deletion of seizure susceptibility via transcranial deep brain stimulation. Ono Pharmaceutical Foundation for Oncology, Immunology, and Neurology: Research Grant, Role: PI, Period: 2024–2027, Total cost: 30,000,000 JPY
 
 ### Other Grants
 1. A study of reorganization of the whisker-sensory thalamic circuit after peripheral nerve injury. Tokyo Women's Medical University: Research Grant for Basic Medical Research, Role: PI, Period: 2010–2011, Total cost: 800,000 JPY
