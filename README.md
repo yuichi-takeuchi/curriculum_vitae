@@ -1,4 +1,4 @@
-Updated on Jan 5th, 2023
+Updated on Feb 9th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -126,7 +126,6 @@ Updated on Jan 5th, 2023
 
 ### Conference paper (Domestic)
 1. Suzuki N, Sawahata H, Akai D, Yamashita K, Numano R, Koida K, <ins>Takeuchi Y</ins>, Kawano T, Design and fabrication of an oscillator circuit for ultrasound neuromodulation. **_Future Technologies from Kumamoto 2023_**. 7P2-PS-25. 07 Nov 2023.
-
 
 ### Editorial
 1. <ins>Takeuchi Y</ins>\*, Li Q, Kawano T, Nagai J, Mima T, Editorial: Oscillotherapeutics – Toward real-time control of pathological oscillations in the brain. **_Front Behav Neurosci_** 16: 1021616. 08 Sep 2022. DOI: https://doi.org/10.3389/fnbeh.2022.1021616
@@ -469,6 +468,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 24 Mar 2023 | Current Gene Therapy                                                                |
 | 11 Apr 2023 | Neuroscience Research                                                               |
 | 29 Nov 2023 | Neuropsychopharmacology Reports                                                     |
+| 16 Jan 2024 | Neuropsychopharmacology Reports                                                     |
 
 ## Post-publication Peer Reviews
 |             |                                              |
