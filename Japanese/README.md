@@ -1,4 +1,4 @@
-2024年 1月 5日現在
+2024年 2月 9日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -160,7 +160,7 @@
 
 ### 解説
 1. <ins>竹内雄一</ins>、うつ症状を生じる脳内メカニズムとその制御法、日本神経科学学会 神経科学トピックス、2023年9月8日、URL: https://www.jnss.org/news-topics?id=230908-01
-1. <ins>竹内雄一</ins>、うつ症状を生じる脳内メカニズムとその制御法、日本神経科学学会 神経科学ニュース、*in press*
+1. <ins>竹内雄一</ins>、うつ症状を生じる脳内メカニズムとその制御法、日本神経科学学会 神経科学ニュース FY2023: 5: 32–33, 2024年.
 
 ### プレプリント（直近）
 1. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Kozák G, <ins>Takeuchi Y</ins>, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation to reduce pathologic fear. **_bioRxiv_** 2022.07.24.501314. DOI: https://doi.org/10.1101/2022.07.24.501314
@@ -467,6 +467,7 @@
 | 24 Mar 2023 | Current Gene Therapy                                                                |
 | 11 Apr 2023 | Neuroscience Research                                                               |
 | 29 Nov 2023 | Neuropsychopharmacology Reports                                                     |
+| 16 Jan 2024 | Neuropsychopharmacology Reports                                                     |
 
 ### Post-publication Peer Reviews
 |             |                                              |
