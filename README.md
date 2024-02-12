@@ -1,4 +1,4 @@
-Updated on Feb 9th, 2023
+Updated on Feb 12th, 2023
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -483,7 +483,10 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 26 Jul 2014 | Young Researchers of Physiology Forum 2014 (Tokyo)                                                                                                                                                        |
 | 29 Jul 2020 | Symposium: Cutting-edge closed-loop and non-invasive brain stimulation technologies for neurological and psychiatric disorders (1S06a). The 43rd Annual Meeting of the Japan Neuroscience Society  (Kobe) |
-| 28 Mar 2023 | Symposium: Ultrasound interrogation and control physiological functions (1S05a). The 101st Annual Meeting of The Physiological Society of Japan (Kita-Kyushu)                                             |
+| 18 Oct 2023 | Symposium: Young Researchers' Symposium, The Pharmaceutical Society of Japan Hokkaido Branch                                                                                                              |
+| 21 Feb 2024 | Special seminar: The Pharmaceutical Society of Japan Hokkaido Branch, Sapporo                                                                                                                             |
+| 14 Mar 2024 | Special seminar: The Pharmaceutical Society of Japan Hokkaido Branch, Sapporo                                                                                                                             | 
+| 28 Mar 2024 | Symposium: Ultrasound interrogation and control physiological functions (1S05a). The 101st Annual Meeting of The Physiological Society of Japan (Kita-Kyushu)                                             |
 
 ## Panelist, Chair etc.
 |             |                                                                                        |
