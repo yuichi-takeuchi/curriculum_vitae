@@ -1,4 +1,4 @@
-2024年 2月 9日現在
+2024年 2月 12日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -478,11 +478,14 @@
 | 02 Jan 2018 | Publons,	https://publons.com/publon/1605918/ |
 
 ## シンポジウム企画運営等
-|             |                                                                                                                                                                                                           |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 26 Jul 2014 | Young Researchers of Physiology Forum 2014 (Tokyo)                                                                                                                                                        |
-| 29 Jul 2020 | Symposium: Cutting-edge closed-loop and non-invasive brain stimulation technologies for neurological and psychiatric disorders (1S06a). The 43rd Annual Meeting of the Japan Neuroscience Society  (Kobe) |
-| 28 Mar 2023 | Symposium: Ultrasound interrogation and control physiological functions (1S05a). The 101st Annual Meeting of The Physiological Society of Japan (Kita-Kyushu)                                             |
+|             |                                                                                                                                               |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 26 Jul 2014 | 若手研究者フォーラム2014、日本生理学会若手の会                                                                                                |
+| 29 Jul 2020 | シンポジウム、神経・精神疾患のリアルタイム制御に向けて：閉ループ制御技術と非侵襲的脳活動介入法の最前線 (1S06a). 第43会日本神経科学大会 、神戸 |
+| 18 Oct 2023 | 若手研究者シンポジウム、日本薬学会北海道支部                                                                                                  |
+| 21 Feb 2024 | 特別講演会、日本薬学会北海道支部、札幌                                                                                                        |
+| 14 Mar 2024 | 特別講演会、日本薬学会北海道支部、札幌                                                                                                        | 
+| 28 Mar 2024 | シンポジウム、超音波による生体機能の解明と制御 (1S05a). 第101回日本生理学会大会、北九州                                                       |
 
 ## パネリスト・セッションチェア等
 |             |                                                                              |
