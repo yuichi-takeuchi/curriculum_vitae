@@ -229,7 +229,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 1. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (A) (Grant no. 23H00459), Role: co-PI, Period: 2023–2027, Total cost: 1,210,000 JPY
 1. Deletion of seizure susceptibility via transcranial deep brain stimulation. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (B) (Grant no. 23H02790), Role: PI, Period: 2023–2027, Total cost: 18,590,000 JPY
 1. Development of transcranial gene manipulation technologies. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 23K18250), Role: PI, Period: 2023–2026, Total cost: 6,370,000 JPY
-1. A method for elucidating a subset gene that enables hibernation-like hypometabolic states. MEXT, KAKENHI: Grant-in-Aid for Transformative Research Areas (Grant no. xxxxxxxx), Role: PI, Period: 2024–2026, Total cost: 10,790,000 JPY
+1. A method for elucidating a subset genes that enable hibernation-like hypometabolic states. MEXT, KAKENHI: Grant-in-Aid for Transformative Research Areas (Grant no. xxxxxxxx), Role: PI, Period: 2024–2026, Total cost: 10,920,000 JPY
 
 ### Contract Researches
 1. Moonshot Goal 7. Japan Agency for Medical Research and Development, Moonshot Research and Development Program, Role: co-PI, Period: 2021–2026, Total cost: 35,750,000 JPY
