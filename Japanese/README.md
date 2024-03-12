@@ -1,4 +1,4 @@
-2024年 3月 3日現在
+2024年 3月 12日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -163,7 +163,7 @@
 1. <ins>竹内雄一</ins>、うつ症状を生じる脳内メカニズムとその制御法、日本神経科学学会 神経科学ニュース FY2023: 5: 32–33, 2024年.
 
 ### プレプリント（直近）
-1. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Kozák G, <ins>Takeuchi Y</ins>, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation to reduce pathologic fear. **_bioRxiv_** 2022.07.24.501314. DOI: https://doi.org/10.1101/2022.07.24.501314
+1. Matsushita YM, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>\*, Higuchi M, Shimojo M\*, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. **_bioRxiv_** 2024.03.06.583779. DOI: https://doi.org/10.1101/2024.03.06.583779
 
 ### 国際学会発表（直近）
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 15, 2022. (Abstract No. 565.14) Poster
