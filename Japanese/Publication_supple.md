@@ -1,8 +1,9 @@
-2023年 7月 1日現在
+2024年 3月 12日現在
 ## Preprints
 1. <ins>Takeuchi Y</ins>, Harangozó M, Pedraza L, Földi T, Kozák G, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. **_bioRxiv_** 2020.03.09.982827. DOI: https://doi.org/10.1101/2020.03.09.982827
 1. <ins>Takeuchi Y</ins>\*, Nagy A, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. **_Preprints_** 2021, 2021050317. DOI: https://doi.org/10.20944/preprints202105.0317.v1
 1. Li Q†, <ins>Takeuchi Y</ins>†, Wang J, Barcsai L, Pedraza L, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression. **_bioRxiv_** 2022.02.01.478683. DOI: https://doi.org/10.1101/2022.02.01.478683
+1. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Kozák G, <ins>Takeuchi Y</ins>, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation to reduce pathologic fear. **_bioRxiv_** 2022.07.24.501314. DOI: https://doi.org/10.1101/2022.07.24.501314
 
 ## 国際学会発表
 1.	Tanabe M, <ins>Takeuchi Y</ins>, Takasu K, Ono H, Pregabalin supraspinally activates the descending noradrenergic pain inhibitory system after peripheral nerve injury. The 2nd International Congress on Neuropathic Pain. Berlin, Germany. Jun 7, 2007. (Abstract No. 166) Poster
