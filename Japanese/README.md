@@ -1,4 +1,4 @@
-2024年 3月 12日現在
+2024年 3月 14日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                                     |
@@ -470,6 +470,7 @@
 | 29 Nov 2023 | Neuropsychopharmacology Reports                                                     |
 | 16 Jan 2024 | Neuropsychopharmacology Reports                                                     |
 | 24 Feb 2024 | Neuroscience Research                                                               |
+| 14 Mar 2024 | Neuroscience Research                                                               |
 
 ### Post-publication Peer Reviews
 |             |                                              |
