@@ -1,4 +1,4 @@
-Updated on Mar 3rd, 2024
+Updated on Mar 14th, 2024
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -471,6 +471,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 29 Nov 2023 | Neuropsychopharmacology Reports                                                     |
 | 16 Jan 2024 | Neuropsychopharmacology Reports                                                     |
 | 24 Feb 2024 | Neuroscience Research                                                               |
+| 14 Mar 2024 | Neuroscience Research                                                               |
 
 ## Post-publication Peer Reviews
 |             |                                              |
