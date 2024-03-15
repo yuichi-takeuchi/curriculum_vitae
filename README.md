@@ -88,6 +88,7 @@ Updated on Mar 14th, 2024
 | 2022 | Research award, Nishinomiya Basic Research Fund, Japan                                                                                              |
 | 2022 | The Hokkaido University Research Encouragement Award                                                                                                |
 | 2023 | The Hokkaido University Research Encouragement Award                                                                                                |
+| 2024 | Promotion Award of the Physiological Society Japan for Young Scientists                                                                             | 
 
 # REASEARCH/SCHOLARSHIP
 ## Peer Reviewed Publications
