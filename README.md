@@ -17,7 +17,7 @@ Updated on Apr 1st, 2024
 ### Current Appointment
 |                     |                                                                                 |
 | ------------------- | ------------------------------------------------------------------------------- |
-| 01 Apr 2024–present | Professor, Faculty of Pharmacy, Kindai University                               | 
+| 01 Apr 2024–present | Professor, Faculty of Pharmacy, Kindai University                               |
 | 01 Apr 2024–present | Visiting Professor, Faculty of Pharmaceutical Sciences, Hokkaido University     |
 | 01 Jan 2022–present | Visiting Research Fellow, National Institute for Quantum Science and Technology |
 
@@ -181,6 +181,9 @@ Updated on Apr 1st, 2024
 1. Chan M, Mimura T, Minami M, <ins>Takeuchi Y</ins>, Non-invasive gene transfection to neurons in the cortex using transcranial ultrasound irradiation, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 3, 2023. (Abstract No. 3Pm-131) Poster
 1. Yoshida K, Chan M, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making when faced with contradictory predictions of reward and punishment, CogFeel@ALIFE2023. Sapporo, Japan. Jul 25, 2023. Oral
 1. Yoshida K, Xu Y, Mimura T, Chan M, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, JNNS2023. Tokyo, Japan. Sep 4, 2023. (Abstract No. 15) Poster
+1. Yoshida K, Minami M, <ins>Takeuchi Y</ins>, A closed-loop sonogenetic control of absence epilepsy, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 28, 2024. (Abstract No. 1S05a-3) Symposium
+1. Mimura T, Chan M, Minami M, Kudo N, <ins>Takeuchi Y</ins>, A non-invasive gene transfection technology using transcranial focused ultrasound irradiation, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 29, 2024. (Abstract No. 2P-150) Poster
+1. <ins>Takeuchi Y</ins>, Reinstating olfactory bulb-derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 30, 2024. (Abstract No. 3O09-02-01) Oral
 
 ### Scientific Essays
 1.	<ins>Takeuchi Y</ins> (2013) Report of the 36th Annual Meeting of Japanese Neuroscience Society. Neuroscience News of the Japan Neuroscience Society 195: 10. (Japanese)
