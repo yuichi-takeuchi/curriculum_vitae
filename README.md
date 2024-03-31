@@ -1,4 +1,4 @@
-Updated on Mar 14th, 2024
+Updated on Apr 1st, 2024
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                                               |
@@ -8,18 +8,18 @@ Updated on Mar 14th, 2024
 | Place of Birth   | Aichi, Japan                                                                                                                  |
 | Date of Birth    | 04 Sep 1982                                                                                                                   |
 | Gender           | Male                                                                                                                          |
-| Office Address   | Faculty of Pharmaceutical Sciences, Laboratory of Pharmacology: Kita 12, Nishi 6, Kita-ku, Sapporo, Hokkaido 060-0812, Japan |
-| Phone            | +81-11-706-3248                                                                                                               |
-| Fax              | +81-11-706-4987                                                                                                               |
-| E-mail           | ytake@pharm.hokudai.ac.jp                                                                                                     |
+| Office Address   | Faculty of Pharmacy, Laboratory of Pharmacotherapy: 3 Chome-4-1 Kowakae, Higashiosaka, Osaka 577-8502, Japan |
+| Phone            | +81-6-4307-3058                                                                                                               |
+| Fax              | +81-6-6730-1394                                                                                                               |
+| E-mail           | ytake@phar.kindai.ac.jp                                                                                                     |
 | Website          | https://ytake.org/                                                                                                            |
 
 ### Current Appointment
 |                     |                                                                                 |
 | ------------------- | ------------------------------------------------------------------------------- |
-| 01 Aug 2021–present | Associated Professor, Faculty of Pharmaceutical Sciences, Hokkaido University   |
+| 01 Apr 2024–present | Professor, Faculty of Pharmacy, Kindai University                               | 
+| 01 Apr 2024–present | Visiting Professor, Faculty of Pharmaceutical Sciences, Hokkaido University     |
 | 01 Jan 2022–present | Visiting Research Fellow, National Institute for Quantum Science and Technology |
-
 
 ## 2. Education/Qualifications
 ### Degrees
@@ -49,6 +49,7 @@ Updated on Mar 14th, 2024
 | 2015–2020 | Visiting Lecturer, Hungarian Medical Universities                                        |
 | 2020–2021 | Specially-Appointed Lecturer, Osaka City University Graduate School of Medicine          |
 | 2018–2022 | Research Fellow, Graduate School of Pharmaceutical Sciences, Nagoya City University      |
+| 2021–2024 | Associated Professor, Faculty of Pharmaceutical Sciences, Hokkaido University            |
 
 ## 4. Other Appointments and Affiliations
 ### Professional Societies
@@ -88,7 +89,7 @@ Updated on Mar 14th, 2024
 | 2022 | Research award, Nishinomiya Basic Research Fund, Japan                                                                                              |
 | 2022 | The Hokkaido University Research Encouragement Award                                                                                                |
 | 2023 | The Hokkaido University Research Encouragement Award                                                                                                |
-| 2024 | Promotion Award of the Physiological Society Japan for Young Scientists                                                                             | 
+| 2024 | Promotion Award of the Physiological Society Japan for Young Scientists                                                                             |
 
 # REASEARCH/SCHOLARSHIP
 ## Peer Reviewed Publications
