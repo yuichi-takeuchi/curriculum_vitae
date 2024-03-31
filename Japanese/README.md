@@ -18,7 +18,7 @@
 |                |                                      |
 | -------------- | ------------------------------------ |
 | 01 Apr 2024 ～ | 近畿大学　薬学部　教授               |
-| 01 Apr 2024 ～ | 北海道大学　薬学研究院　客員教授     | 
+| 01 Apr 2024 ～ | 北海道大学　薬学研究院　客員教授     |
 | 01 Jan 2022 ～ | 量子科学技術研究開発機構　客員研究員 |
 
 ## 2. 学歴・資格
@@ -183,6 +183,9 @@
 1. Chan M, Mimura T, Minami M, <ins>Takeuchi Y</ins>, Non-invasive gene transfection to neurons in the cortex using transcranial ultrasound irradiation, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 3, 2023. (Abstract No. 3Pm-131) Poster
 1. Yoshida K, Chan M, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making when faced with contradictory predictions of reward and punishment, CogFeel@ALIFE2023. Sapporo, Japan. Jul 25, 2023. Oral
 1. Yoshida K, Xu Y, Mimura T, Chan M, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, JNNS2023. Tokyo, Japan. Sep 4, 2023. (Abstract No. 15) Poster
+1. Yoshida K, Minami M, <ins>Takeuchi Y</ins>, A closed-loop sonogenetic control of absence epilepsy, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 28, 2024. (Abstract No. 1S05a-3) Symposium
+1. Mimura T, Chan M, Minami M, Kudo N, <ins>Takeuchi Y</ins>, A non-invasive gene transfection technology using transcranial focused ultrasound irradiation, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 29, 2024. (Abstract No. 2P-150) Poster
+1. <ins>Takeuchi Y</ins>, Reinstating olfactory bulb-derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 30, 2024. (Abstract No. 3O09-02-01) Oral
 
 ### 随筆
 1.  <ins>竹内雄一</ins>、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10–11,  2013
@@ -310,17 +313,17 @@
 
 
 ## 一般演題・その他の講演等
-|             |                                                                        |
-| ----------- | ---------------------------------------------------------------------- |
-| 02 Sep 2006 | 第27回鎮痛薬・オピオイドペプチドシンポジウム、和歌山                   |
-| 30 Jun 2012 | 生理学若手研究者フォーラム「生体機能への挑戦」、東京                   |
-| 28 Nov 2012 | 生理研シナプス研究会『神経シナプス伝達の時空間ダイナミクス』、岡崎     |
-| 24 Aug 2013 | 生理学若手研究者フォーラム「生体機能の解明」、東京                     |
-| 13 Mar 2019 | 第28回神経行動薬理若手研究者の集い、兵庫                               |
-| 18 Mar 2020 | 第29回神経行動薬理若手研究者の集い、横浜                               |
+|             |                                                                         |
+| ----------- | ----------------------------------------------------------------------- |
+| 02 Sep 2006 | 第27回鎮痛薬・オピオイドペプチドシンポジウム、和歌山                    |
+| 30 Jun 2012 | 生理学若手研究者フォーラム「生体機能への挑戦」、東京                    |
+| 28 Nov 2012 | 生理研シナプス研究会『神経シナプス伝達の時空間ダイナミクス』、岡崎      |
+| 24 Aug 2013 | 生理学若手研究者フォーラム「生体機能の解明」、東京                      |
+| 13 Mar 2019 | 第28回神経行動薬理若手研究者の集い、兵庫                                |
+| 18 Mar 2020 | 第29回神経行動薬理若手研究者の集い、横浜                                |
 | 18 Nov 2020 | 生理研研究会 第２回「力学系の視点からの脳・神経回路の理解」、オンライン |
-| 14 Jan 2021 | 大阪市立大学 第４回 ４研究センター合同セミナー、大阪                   |
-| 06 Nov 2021 | 第８回日本BMI研究会、オンライン                                      |
+| 14 Jan 2021 | 大阪市立大学 第４回 ４研究センター合同セミナー、大阪                    |
+| 06 Nov 2021 | 第８回日本BMI研究会、オンライン                                         |
 
 ## 学術的教育
 |      |                                                                                                                                                                      |
