@@ -1,18 +1,17 @@
 Updated on Apr 1st, 2024
 # COVERSHEET
 ## 1. Personal details
-|                  |                                                                                                                               |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| First / Surnames | Yuichi TAKEUCHI, Ph.D.                                                                                                        |
-| Nationality      | Japan                                                                                                                         |
-| Place of Birth   | Aichi, Japan                                                                                                                  |
-| Date of Birth    | 04 Sep 1982                                                                                                                   |
-| Gender           | Male                                                                                                                          |
+|                  |                                                                                                              |
+| ---------------- | ------------------------------------------------------------------------------------------------------------ |
+| First / Surnames | Yuichi TAKEUCHI, Ph.D.                                                                                       |
+| Nationality      | Japan                                                                                                        |
+| Place of Birth   | Aichi, Japan                                                                                                 |
+| Date of Birth    | 04 Sep 1982                                                                                                  |
+| Gender           | Male                                                                                                         |
 | Office Address   | Faculty of Pharmacy, Laboratory of Pharmacotherapy: 3 Chome-4-1 Kowakae, Higashiosaka, Osaka 577-8502, Japan |
-| Phone            | +81-6-4307-3058                                                                                                               |
-| Fax              | +81-6-6730-1394                                                                                                               |
-| E-mail           | ytake@phar.kindai.ac.jp                                                                                                     |
-| Website          | https://ytake.org/                                                                                                            |
+| Phone            | +81-6-4307-3651                                                                                              |
+| E-mail           | ytake@phar.kindai.ac.jp                                                                                      |
+| Website          | https://ytake.org/                                                                                           |
 
 ### Current Appointment
 |                     |                                                                                 |
