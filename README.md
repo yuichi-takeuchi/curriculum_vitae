@@ -1,4 +1,4 @@
-Updated on Apr 9th, 2024
+Updated on Apr 21st, 2024
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -18,7 +18,6 @@ Updated on Apr 9th, 2024
 | ------------------- | ------------------------------------------------------------------------------- |
 | 01 Apr 2024–present | Professor, Faculty of Pharmacy, Kindai University                               |
 | 01 Apr 2024–present | Visiting Professor, Faculty of Pharmaceutical Sciences, Hokkaido University     |
-| 01 Jan 2022–present | Visiting Research Fellow, National Institute for Quantum Science and Technology |
 
 ## 2. Education/Qualifications
 ### Degrees
@@ -49,6 +48,7 @@ Updated on Apr 9th, 2024
 | 2020–2021 | Specially-Appointed Lecturer, Osaka City University Graduate School of Medicine          |
 | 2018–2022 | Research Fellow, Graduate School of Pharmaceutical Sciences, Nagoya City University      |
 | 2021–2024 | Associated Professor, Faculty of Pharmaceutical Sciences, Hokkaido University            |
+| 2022–2024 | Visiting Research Fellow, National Institute for Quantum Science and Technology          |
 
 ## 4. Other Appointments and Affiliations
 ### Professional Societies
