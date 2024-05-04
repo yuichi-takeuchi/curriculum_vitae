@@ -1,4 +1,4 @@
-Updated on Apr 21st, 2024
+Updated on May 4th, 2024
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -145,6 +145,7 @@ Updated on Apr 21st, 2024
 1. <ins>Takeuchi Y</ins>, Seki K, Ultrasound and Neurological disorders–How useful?: Ultrasound Neuromodulation, **_Clin Neurosci_** 40 (2): 249–253. Feb 2022. Chugai-igakusha. (Invited, Japanese)
 1. <ins>Takeuchi Y</ins>\*, Kawano T, Li Q, Mima T, Nagai J, eds. (2022). Oscillotherapeutics - Toward Real-Time Control of Pathological Oscillations in the Brain. Lausanne: **_Frontiers Media_** SA. DOI: https://doi.org/10.3389/978-2-88976-458-7
 1. Hara K, <ins>Takeuchi Y</ins>, Time-targeted stimulation of the bran rewarding system as a novel brain disorder treatment, **_Medical Science Digest_** 49 (3): 154–156. Mar 2023. Hokuryukan. (Invited, Japanese)
+1. Chan M†, Yoshida K†, Yang G†, Mimura T†, Kudo N, <ins>Takeuchi Y</ins>, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, *in press*, Springer-Nature. (Invited)
 
 ### Proceedings and Reports
 1. <ins>Takeuchi Y</ins>, Uchida M, Miyata M, Neuroanatomical and physiological analyses of afferent fiber rewiring in the ventrobasal thalamus of mice after peripheral nerve injury. Proceedings of Tokyo Women’s Medical University Medical Institute 32: 20–21. 2012. (Japanese)
