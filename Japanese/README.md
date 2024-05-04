@@ -1,4 +1,4 @@
-2024年 4月 21日現在
+2024年 5月 4日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -140,6 +140,7 @@
 1. <ins>竹内雄一</ins>、関和彦、超音波と神経疾患－How useful?：超音波ニューロモデュレーション、**_Clin Neurosci_** 40 (2): 249–253, 2022.2. 中外医学社
 1. <ins>Takeuchi Y</ins>\*, Kawano T, Li Q, Mima T, Nagai J, eds. (2022). Oscillotherapeutics - Toward Real-Time Control of Pathological Oscillations in the Brain. Lausanne: **_Frontiers Media_** SA. DOI: https://doi.org/10.3389/978-2-88976-458-7
 1. 原巧樹、<ins>竹内雄一</ins>、ひきこもりと精神疾患：報酬系脳領域刺激による脳疾患治療、**_Medical Science Digest_** 49 (3): 154–156, 2023.3. 北隆館
+1. Chan M†, Yoshida K†, Yang G†, Mimura T†, Kudo N, <ins>Takeuchi Y</ins>, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, *in press*, Springer-Nature.
 
 ### 紀要、報告書
 1.  <ins>竹内雄一</ins>、内田萌衣、宮田麻理子、末梢神経損傷による視床内求心性線維再配線現象の神経解剖学的および機能的解析、東京女子医科大学総合研究所紀要 32: 20-21, 170, 2012年
