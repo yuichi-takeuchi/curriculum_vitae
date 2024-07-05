@@ -1,4 +1,4 @@
-2024年 5月 4日現在
+2024年 7月 5日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -189,10 +189,11 @@
 
 ### 随筆
 1.  <ins>竹内雄一</ins>、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10–11,  2013
-2.  <ins>竹内雄一</ins>、AFTERNOON TEA：心を動かす体験、日本生理学雑誌 77: 6 – 7,  Jan 2015
-3.  <ins>竹内雄一</ins>、ハンガリー紀行、名古屋市立大学薬友会関東支部会報、Jun 2015
-4.  <ins>竹内雄一</ins>、セゲド便り、上原記念生命科学財団 一年の歩み H28: 104–105, Aug 2017
-5.  <ins>竹内雄一</ins>、転入のご挨拶、芳香 71: 6, 25 Mar 2022
+1.  <ins>竹内雄一</ins>、AFTERNOON TEA：心を動かす体験、日本生理学雑誌 77: 6 – 7,  Jan 2015
+1.  <ins>竹内雄一</ins>、ハンガリー紀行、名古屋市立大学薬友会関東支部会報、Jun 2015
+1.  <ins>竹内雄一</ins>、セゲド便り、上原記念生命科学財団 一年の歩み H28: 104–105, Aug 2017
+1.  <ins>竹内雄一</ins>、転入のご挨拶、芳香 71: 6, 25 Mar 2022
+1.  <ins>竹内雄一</ins>、脳・神経系疾患の新規制御法開発と人材育成、近畿大学薬友会報 令和６年度号, 01 Apr 2024
 
 ### データセットリポジトリ
 1.	<ins>Takeuchi Y</ins> (2017) Three-dimensional dendritic morphology of somatosensory thalamic neurons in developing mice: Takeuchi Archive. NeuroMorpho.org. URL: http://www.neuromorpho.org/bylab.jsp (Invited)
