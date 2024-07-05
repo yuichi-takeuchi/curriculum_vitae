@@ -1,4 +1,4 @@
-Updated on May 4th, 2024
+Updated on July 5th, 2024
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -187,7 +187,7 @@ Updated on May 4th, 2024
 
 ### Scientific Essays
 1.	<ins>Takeuchi Y</ins> (2013) Report of the 36th Annual Meeting of Japanese Neuroscience Society. Neuroscience News of the Japan Neuroscience Society 195: 10. (Japanese)
-2.	<ins>Takeuchi Y</ins> (2015) Exciting scientific experience. J Physiol Soc Japan 77: 6–7. (Invited, Japanese)
+1.	<ins>Takeuchi Y</ins> (2015) Exciting scientific experience. J Physiol Soc Japan 77: 6–7. (Invited, Japanese)
 
 ### Dataset Repositories
 1.	<ins>Takeuchi Y</ins> (2017) Three-dimensional dendritic morphology of somatosensory thalamic neurons in developing mice: Takeuchi Archive. NeuroMorpho.org. URL: http://www.neuromorpho.org/bylab.jsp (Invited)
