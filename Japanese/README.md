@@ -1,4 +1,4 @@
-2024年 7月 14日現在
+2024年 11月 10日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -111,6 +111,7 @@
 21. Robinson KC, Kemeny LV, Fell GL, Hermann AL, Allouche J, Ding W, Yekkirala A, Hsiao JJ, Su MY, Theodosakis N, Kozák G, <ins>Takeuchi Y</ins>, Shen S, Berényi A, Mao J, Woolf CJ, Fisher DE, Reduced MC4R signaling alters nociceptive thresholds associated with red hair. **_Sci Adv_** 7 (14): eabd1310. 02 Apr 2021. DOI: https://doi.org/10.1126/sciadv.abd1310
 22. Li Q†, <ins>Takeuchi Y</ins>†, Wang J, Gellért L, Barcsai L, Pedraza LK, Nagy AJ, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Horváth G, Kékesi G, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. **_Neuron_** 111: 2065-2075. 05 Jul 2023. DOI: https://doi.org/10.1016/j.neuron.2023.04.013
 23. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Li Q, Kozák G, <ins>Takeuchi Y</ins>, Nagy AJ, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation augments fear extinction in male rats, **_Nat Commun_** 14: 3972. 05 Jul 2023. DOI: https://doi.org/10.1038/s41467-023-39546-7
+24. Matsushita Y†, Yoshida K†, Yoshiya M, Shimizu T, Tsukamoto S, Kudo N, <ins>Takeuchi Y</ins>\*, Higuchi M, Shimojo M\*, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. **_PNAS_**  *in press*.
 
 ### 総説
 1. Tanabe M, Takasu K, <ins>Takeuchi Y</ins>, Ono H, Pain relief by gabapentin and pregabalin via supraspinal mechanisms after peripheral nerve injury. **_J Neurosci Res_** 86 (15): 3258-3264. 15 Nov 2008. DOI: https://doi.org/10.1002/jnr.21786
