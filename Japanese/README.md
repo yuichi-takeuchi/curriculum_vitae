@@ -70,7 +70,7 @@
 | 20 Nov 2020 – 31 Dec 2021 | Front Behav Neurosci、ゲスト編集委員                   |
 | 20 Nov 2020 – 現在        | Front Human Neurosci、ゲスト編集委員                   |
 | 15 Mar 2021 – 現在        | 日本薬理学会　学術評議員                               |
-| 01 Apr 2022 – 現在        | 日本薬学会北海道支部　幹事                             |
+| 01 Apr 2022 – 31 Mar 2024        | 日本薬学会北海道支部　幹事                             |
 | 25 May 2023 – 現在        | Front Behav Neurosci、レビュー編集委員                 |
 | 19 Nov 2023 – 現在        | 国際生理学会連合　国際メンタリングプログラム　メンター |
 
@@ -132,6 +132,7 @@
 - <ins>Takeuchi Y</ins>, Developmental and peripheral nerve injury-induced changes of afferent synapses in the somatosensory thalamus. The Graduate University for Advanced Studies, Kanagawa, Japan. 24 Mar 2010.
 
 ## その他の出版物
+†: 共筆頭著者; \*: 責任著者
 ### 著書等
 1. 宮田麻理子、<ins>竹内雄一</ins>、身体イメージの神経生理学：身体地図のリモデリング、**_Clin Neurosci_** 29 (8): 895–899, 2011.8. 中外医学社
 1. <ins>竹内雄一</ins>、てんかんの進歩：てんかん発作のオンデマンド制御法と発作感受性定量法の開発、**_Medical Science Digest_** 46 (2): 118–120, 2020.2. 北隆館
@@ -142,7 +143,7 @@
 1. <ins>竹内雄一</ins>、関和彦、超音波と神経疾患－How useful?：超音波ニューロモデュレーション、**_Clin Neurosci_** 40 (2): 249–253, 2022.2. 中外医学社
 1. <ins>Takeuchi Y</ins>\*, Kawano T, Li Q, Mima T, Nagai J, eds. (2022). Oscillotherapeutics - Toward Real-Time Control of Pathological Oscillations in the Brain. Lausanne: **_Frontiers Media_** SA. DOI: https://doi.org/10.3389/978-2-88976-458-7
 1. 原巧樹、<ins>竹内雄一</ins>、ひきこもりと精神疾患：報酬系脳領域刺激による脳疾患治療、**_Medical Science Digest_** 49 (3): 154–156, 2023.3. 北隆館
-1. Chan M†, Yoshida K†, Yang G†, Mimura T†, Kudo N, <ins>Takeuchi Y</ins>, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, *in press*, Springer-Nature.
+1. Chan M†, Yoshida K†, Yang G†, Mimura T†, Kudo N, <ins>Takeuchi Y</ins>\*, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, *in press*, Springer-Nature.
 
 ### 紀要、報告書
 1.  <ins>竹内雄一</ins>、内田萌衣、宮田麻理子、末梢神経損傷による視床内求心性線維再配線現象の神経解剖学的および機能的解析、東京女子医科大学総合研究所紀要 32: 20-21, 170, 2012年
@@ -480,17 +481,17 @@
 ### Pre-publication Peer Reviews
 |             |                                                                                     |
 | ----------- | ----------------------------------------------------------------------------------- |
-| 2017~       | Neuroscience Research                                                               |
-| 2019~       | Neuropsychopharmacology Reports                                                     |
-| 2020~       | Annals of Translational Medicine                                                    |
-| 2021~       | Translational Neuroscience                                                          |
-| 2021~       | Frontiers in Human Neuroscience                                                     |
-| 2022~       | Neurology and Clinical Neuroscience                                                 |
-| 2022~       | Applied Artificial Intelligence                                                     |
-| 2022~       | Frontiers in Neural Circuits                                                        |
-| 2022~       | BMC Neuroscience                                                                    |
-| 2022~       | Current Gene Therapy                                                                |
-| 2023~       | Current Molecular Pharmacology                                                      |
+| 2017–現在   | Neuroscience Research                                                               |
+| 2019–現在   | Neuropsychopharmacology Reports                                                     |
+| 2020–現在   | Annals of Translational Medicine                                                    |
+| 2021–現在   | Translational Neuroscience                                                          |
+| 2021–現在   | Frontiers in Human Neuroscience                                                     |
+| 2022–現在   | Neurology and Clinical Neuroscience                                                 |
+| 2022–現在   | Applied Artificial Intelligence                                                     |
+| 2022–現在   | Frontiers in Neural Circuits                                                        |
+| 2022–現在   | BMC Neuroscience                                                                    |
+| 2022–現在   | Current Gene Therapy                                                                |
+| 2023–現在   | Current Molecular Pharmacology                                                      |
 
 ### Post-publication Peer Reviews
 |             |                                              |
