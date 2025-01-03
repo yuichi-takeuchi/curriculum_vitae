@@ -448,7 +448,6 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | FY2024      | Lecture Slides for Laboratory Diagnosis @ Kindai University, Faculty of Pharmacy                                    |
 | FY2024      | Lecture Slides for General Seminar 1 @ Kindai University, Faculty of Pharmacy                                       |
 | FY2024      | Lecture Slides for General Seminar 2 @ Kindai University, Faculty of Pharmacy                                       |
-| FY2024      | Lecture Slides for Kindai Seminar @ Kindai University, Faculty of Pharmacy                                          |
 | FY2024      | Lecture Slides for Introduction to Pharmacy @ Kindai University, Faculty of Pharmacy                                |
 | FY2024      | Text for Laboratory Course of Pharmacology and Pharmacokinetics @ Kindai University, Faculty of Pharmacy            |
 | FY2024      | Lecture Slides for Advanced Lecture on Pharmaceutical and Biological Science @ Kindai University                    |
