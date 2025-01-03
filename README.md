@@ -69,7 +69,7 @@ Updated on Jan 3rd, 2025
 | 20 Nov 2020–31 Dec 2021 | Guest Associate Editor, Frontiers in Behavioral Neuroscience      |
 | 20 Nov 2020–present     | Guest Associate Editor, Frontiers in Human Neuroscience           |
 | 15 Mar 2021–present     | Board Member, Japanese Pharmacological Society                    |
-| 01 Apr 2022–present     | Board Member, The Pharmaceutical Society of Japan Hokkaido Branch |
+| 01 Apr 2022–31 Mar 2024     | Board Member, The Pharmaceutical Society of Japan Hokkaido Branch |
 | 05 May 2023–present     | Review Editor, Frontiers in Behavioral Neuroscience               |
 | 19 Nov 2023–present     | Mentor, IUPS International Mentoring Program                      |
 
@@ -137,6 +137,7 @@ Updated on Jan 3rd, 2025
 - <ins>Takeuchi Y</ins>, Developmental and peripheral nerve injury-induced changes of afferent synapses in the somatosensory thalamus. The Graduate University for Advanced Studies, Kanagawa, Japan. 24 Mar 2010.
 
 ## Non-peer Reviewed Publications
+†: Co-first author; \*: Corresponding author
 ### Book etc.
 1. Miyata M and <ins>Takeuchi Y</ins>, Neurophysiology of Body image: Remodeling of the body map. **_Clin Neurosci_** 29 (8): 895–899. Aug 2011. Chugai-igakusha. (Invited, Japanese)
 1. <ins>Takeuchi Y</ins>, Epilepsy progress: Development of on-demand interventions of epileptic seizures and a quantitative method of seizure susceptibility. **_Medical Science Digest_** 46 (2): 118–121. Feb 2020. Hokuryukan. (Invited, Japanese)
@@ -147,7 +148,7 @@ Updated on Jan 3rd, 2025
 1. <ins>Takeuchi Y</ins>, Seki K, Ultrasound and Neurological disorders–How useful?: Ultrasound Neuromodulation, **_Clin Neurosci_** 40 (2): 249–253. Feb 2022. Chugai-igakusha. (Invited, Japanese)
 1. <ins>Takeuchi Y</ins>\*, Kawano T, Li Q, Mima T, Nagai J, eds. (2022). Oscillotherapeutics - Toward Real-Time Control of Pathological Oscillations in the Brain. Lausanne: **_Frontiers Media_** SA. DOI: https://doi.org/10.3389/978-2-88976-458-7
 1. Hara K, <ins>Takeuchi Y</ins>, Time-targeted stimulation of the bran rewarding system as a novel brain disorder treatment, **_Medical Science Digest_** 49 (3): 154–156. Mar 2023. Hokuryukan. (Invited, Japanese)
-1. Chan M†, Yoshida K†, Yang G†, Mimura T†, Kudo N, <ins>Takeuchi Y</ins>, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, *in press*, Springer-Nature. (Invited)
+1. Chan M†, Yoshida K†, Yang G†, Mimura T†, Kudo N, <ins>Takeuchi Y</ins>\*, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, *in press*, Springer-Nature. (Invited)
 
 ### Proceedings and Reports
 1. <ins>Takeuchi Y</ins>, Uchida M, Miyata M, Neuroanatomical and physiological analyses of afferent fiber rewiring in the ventrobasal thalamus of mice after peripheral nerve injury. Proceedings of Tokyo Women’s Medical University Medical Institute 32: 20–21. 2012. (Japanese)
@@ -481,19 +482,19 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 
 ## Reviews of Research Articles
 ### Pre-publication Peer Reviews
-|             |                                                                                     |
-| ----------- | ----------------------------------------------------------------------------------- |
-| 2017~       | Neuroscience Research                                                               |
-| 2019~       | Neuropsychopharmacology Reports                                                     |
-| 2020~       | Annals of Translational Medicine                                                    |
-| 2021~       | Translational Neuroscience                                                          |
-| 2021~       | Frontiers in Human Neuroscience                                                     |
-| 2022~       | Neurology and Clinical Neuroscience                                                 |
-| 2022~       | Applied Artificial Intelligence                                                     |
-| 2022~       | Frontiers in Neural Circuits                                                        |
-| 2022~       | BMC Neuroscience                                                                    |
-| 2022~       | Current Gene Therapy                                                                |
-| 2023~       | Current Molecular Pharmacology                                                      |
+|              |                                                                                     |
+| ------------ | ----------------------------------------------------------------------------------- |
+| 2017–present | Neuroscience Research                                                               |
+| 2019–present | Neuropsychopharmacology Reports                                                     |
+| 2020–present | Annals of Translational Medicine                                                    |
+| 2021–present | Translational Neuroscience                                                          |
+| 2021–present | Frontiers in Human Neuroscience                                                     |
+| 2022–present | Neurology and Clinical Neuroscience                                                 |
+| 2022–present | Applied Artificial Intelligence                                                     |
+| 2022–present | Frontiers in Neural Circuits                                                        |
+| 2022–present | BMC Neuroscience                                                                    |
+| 2022–present | Current Gene Therapy                                                                |
+| 2023–present | Current Molecular Pharmacology                                                      |
 
 ## Post-publication Peer Reviews
 |             |                                              |
