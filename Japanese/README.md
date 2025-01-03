@@ -1,4 +1,4 @@
-2024年 11月 10日現在
+2024年 1月 3日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -87,6 +87,7 @@
 
 # 研究
 ## 学術論文（査読有）
+†: 共筆頭著者; \*: 責任著者
 ### 原著論文
 1. <ins>Takeuchi Y</ins>, Takasu K, Honda M, Ono H, Tanabe M, Neurochemical evidence that supraspinally administered gabapentin activates the descending noradrenergic system after peripheral nerve injury. **_Eur J Pharmacol_** 556 (1-3): 69-74. 03 Nov 2007. DOI: https://doi.org/10.1016/j.ejphar.2006.10.059
 2. Tanabe M, <ins>Takeuchi Y</ins>, Ono H, The supraspinally mediated analgesic effects of zonisamide in mice after peripheral nerve injury are independent of the descending monoaminergic system. **_J Pharmacol Sci_** 104 (4): 335-340. 01 Aug 2007. DOI: https://doi.org/10.1254/jphs.FP0070827
@@ -111,7 +112,7 @@
 21. Robinson KC, Kemeny LV, Fell GL, Hermann AL, Allouche J, Ding W, Yekkirala A, Hsiao JJ, Su MY, Theodosakis N, Kozák G, <ins>Takeuchi Y</ins>, Shen S, Berényi A, Mao J, Woolf CJ, Fisher DE, Reduced MC4R signaling alters nociceptive thresholds associated with red hair. **_Sci Adv_** 7 (14): eabd1310. 02 Apr 2021. DOI: https://doi.org/10.1126/sciadv.abd1310
 22. Li Q†, <ins>Takeuchi Y</ins>†, Wang J, Gellért L, Barcsai L, Pedraza LK, Nagy AJ, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Horváth G, Kékesi G, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. **_Neuron_** 111: 2065-2075. 05 Jul 2023. DOI: https://doi.org/10.1016/j.neuron.2023.04.013
 23. Sierra RO†, Pedraza LK†, Barcsai L, Peijin A, Li Q, Kozák G, <ins>Takeuchi Y</ins>, Nagy AJ, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Closed-loop brain stimulation augments fear extinction in male rats, **_Nat Commun_** 14: 3972. 05 Jul 2023. DOI: https://doi.org/10.1038/s41467-023-39546-7
-24. Matsushita Y†, Yoshida K†, Yoshiya M, Shimizu T, Tsukamoto S, Kudo N, <ins>Takeuchi Y</ins>\*, Higuchi M, Shimojo M\*, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. **_PNAS_**  *in press*.
+24. Matsushita Y†, Yoshida K†, Yoshiya M, Shimizu T, Tsukamoto S, Kudo N, <ins>Takeuchi Y</ins>\*, Higuchi M, Shimojo M\*, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. **_PNAS_** 121: e2404877121. 03 Dec 2024. DOI: https://doi.org/10.1073/pnas.2404877121
 
 ### 総説
 1. Tanabe M, Takasu K, <ins>Takeuchi Y</ins>, Ono H, Pain relief by gabapentin and pregabalin via supraspinal mechanisms after peripheral nerve injury. **_J Neurosci Res_** 86 (15): 3258-3264. 15 Nov 2008. DOI: https://doi.org/10.1002/jnr.21786
@@ -456,25 +457,17 @@
 ### Pre-publication Peer Reviews
 |             |                                                                                     |
 | ----------- | ----------------------------------------------------------------------------------- |
-| 10 Dec 2017 | Neuroscience Research                                                               |
-| 28 Sep 2019 | Neuropsychopharmacology Reports                                                     |
-| 13 Nov 2019 | Neuropsychopharmacology Reports                                                     |
-| 09 Nov 2020 | Annals of Translational Medicine                                                    |
-| 27 Feb 2021 | Translational Neuroscience                                                          |
-| 14 Apr 2021 | Translational Neuroscience                                                          |
-| 19 Nov 2021 | Frontiers in Human Neuroscience ([Link](https://doi.org/10.3389/fnhum.2021.770678)) |
-| 28 Jan 2022 | Neurology and Clinical Neuroscience                                                 |
-| 06 May 2022 | Applied Artificial Intelligence                                                     |
-| 14 Jun 2022 | Frontiers in Neural Circuits ([Link](https://doi.org/10.3389/fncir.2022.957441))    |
-| 24 Jul 2022 | BMC Neuroscience                                                                    |
-| 10 Dec 2022 | Current Gene Therapy                                                                |
-| 07 Feb 2023 | Current Molecular Pharmacology                                                      |
-| 24 Mar 2023 | Current Gene Therapy                                                                |
-| 11 Apr 2023 | Neuroscience Research                                                               |
-| 29 Nov 2023 | Neuropsychopharmacology Reports                                                     |
-| 16 Jan 2024 | Neuropsychopharmacology Reports                                                     |
-| 24 Feb 2024 | Neuroscience Research                                                               |
-| 14 Mar 2024 | Neuroscience Research                                                               |
+| 2017~       | Neuroscience Research                                                               |
+| 2019~       | Neuropsychopharmacology Reports                                                     |
+| 2020~       | Annals of Translational Medicine                                                    |
+| 2021~       | Translational Neuroscience                                                          |
+| 2021~       | Frontiers in Human Neuroscience                                                     |
+| 2022~       | Neurology and Clinical Neuroscience                                                 |
+| 2022~       | Applied Artificial Intelligence                                                     |
+| 2022~       | Frontiers in Neural Circuits                                                        |
+| 2022~       | BMC Neuroscience                                                                    |
+| 2022~       | Current Gene Therapy                                                                |
+| 2023~       | Current Molecular Pharmacology                                                      |
 
 ### Post-publication Peer Reviews
 |             |                                              |
@@ -532,4 +525,5 @@
 | 20 Sep 2014  | 東京女子医科大学　医学部　オープンキャンパス       |
 | 26 Nov 2016  | セゲド大学　医学部　生理学部門　オープンキャンパス |
 | 7,8 Aug 2022 | 北海道大学　薬学部　オープンキャンパス             |
-| 11 Sep 2023  | 日本神経科学学会公認・ニューロナビゲータ           |
+| 11 Sep 2023  | 日本神経科学学会公認・ニューロナビゲータ            |
+|  4 Dec 2024  | プレスリリース: [Link1](https://www.qst.go.jp/site/press/20241204.html) [Link2](https://newscast.jp/news/0254276) |
