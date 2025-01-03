@@ -348,16 +348,16 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2016–2020      | Medical Physiology Seminar I; University of Szeged; 2nd year undergraduate students; 14 × 2 h sessions during the 1st semester                                                          |
 | 2016–2020      | Medical Physiology Seminar II; University of Szeged; 2nd year undergraduate students; 15 × 2 h sessions during the 2nd semester                                                         |
 | 2019–2020      | Internship training, University of Szeged; 4th year undergraduate students; 8 weeks full-time                                                                                           |
-| FY2021–present | Pharmacology IV；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 7 x 2 h sessions during the 2nd semester                         |
-| FY2021–present | Methods in Life Science II; Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 2 x 2 h sessions during the 2nd semester              |
-| FY2021–present | Laboratory Exercise of Analytical Chemistry; Hokkaido University, school of pharmaceutical sciences and pharmacy, 2nd year undergraduate students, 4 x 4 h sessions in the 2nd semester |
-| FY2022–present | Introduction to Pharmaceutical Science: Hokkaido University, school of pharmaceutical sciences and pharmacy, 2nd year undergraduate students, 2 x 2 h sessions during the 1st semester  |
-| FY2022–present | Pharmacology II；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                         |
-| FY2022–present | Pharmacology III；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                        |
-| FY2022–present | Freshman Seminar Introduction of Neuropharmacology; Hokkaido University, 1st year undergraduate students, 2 x 2 h sessions during the 1st semester                                      |
-| FY2022–present | Freshman Seminar A Guide to Neuroscience Research; Hokkaido University, 1st year undergraduate students, 15 x 2 h sessions during the 2nd semester                                      |
-| FY2022–present | Laboratory Exercise of Physics; Hokkaido University, 2nd year undergraduate students, 4 x 4 h sessions during the 2nd semester                                                          |
-| FY2023–present | Freshman Seminar Introduction of Brain Researches in Hokkaido University; Hokkaido University, 1st year undergraduate students, 2 x 2 h sessions during the 1st semester                |
+| FY2021–FY2023  | Pharmacology IV；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 7 x 2 h sessions during the 2nd semester                         |
+| FY2021–FY2023  | Methods in Life Science II; Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 2 x 2 h sessions during the 2nd semester              |
+| FY2021–FY2023  | Laboratory Exercise of Analytical Chemistry; Hokkaido University, school of pharmaceutical sciences and pharmacy, 2nd year undergraduate students, 4 x 4 h sessions in the 2nd semester |
+| FY2022–FY2023  | Introduction to Pharmaceutical Science: Hokkaido University, school of pharmaceutical sciences and pharmacy, 2nd year undergraduate students, 2 x 2 h sessions during the 1st semester  |
+| FY2022–FY2023  | Pharmacology II；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                         |
+| FY2022–FY2023  | Pharmacology III；Hokkaido University, school of pharmaceutical sciences and pharmacy, 3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                        |
+| FY2022–FY2023  | Freshman Seminar Introduction of Neuropharmacology; Hokkaido University, 1st year undergraduate students, 2 x 2 h sessions during the 1st semester                                      |
+| FY2022–FY2023  | Freshman Seminar A Guide to Neuroscience Research; Hokkaido University, 1st year undergraduate students, 15 x 2 h sessions during the 2nd semester                                      |
+| FY2022–FY2023  | Laboratory Exercise of Physics; Hokkaido University, 2nd year undergraduate students, 4 x 4 h sessions during the 2nd semester                                                          |
+| FY2023–FY2023  | Freshman Seminar Introduction of Brain Researches in Hokkaido University; Hokkaido University, 1st year undergraduate students, 2 x 2 h sessions during the 1st semester                |
 
 
 ## Educational Publications
