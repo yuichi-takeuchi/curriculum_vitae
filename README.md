@@ -358,7 +358,18 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2022–FY2023  | Freshman Seminar A Guide to Neuroscience Research; Hokkaido University, 1st year undergraduate students, 15 x 2 h sessions during the 2nd semester                                      |
 | FY2022–FY2023  | Laboratory Exercise of Physics; Hokkaido University, 2nd year undergraduate students, 4 x 4 h sessions during the 2nd semester                                                          |
 | FY2023–FY2023  | Freshman Seminar Introduction of Brain Researches in Hokkaido University; Hokkaido University, 1st year undergraduate students, 2 x 2 h sessions during the 1st semester                |
-
+| FY2024–Present  | Pathology; Kindai University, 3rd year undergraduate students, 15 x 2 h sessions during the 1st semester                |
+| FY2024–Present  | Pharmacotherapy 1; Kindai University, 3nd year undergraduate students, 15 x 2 h sessions during the 1st semester                |
+| FY2024–Present  | Pharmacotherapy 2; Kindai University, 3nd year undergraduate students, 15 x 2 h sessions during the 2nd semester                |
+| FY2024–Present  | Pharmacotherapy 3; Kindai University, 4th year undergraduate students, 15 x 2 h sessions during the 1st semester                |
+| FY2024–Present  | Laboratory Exam and Therapy of Diseases 1; Kindai University, 3nd year undergraduate students, 15 x 2 h sessions during the 1st semester                |
+| FY2024–Present  | Laboratory Exam and Therapy of Diseases 2; Kindai University, 3nd year undergraduate students, 15 x 2 h sessions during the 2nd semester                |
+| FY2024–Present  | Laboratory Diagnosis; Kindai University, 2nd year undergraduate students, 9 x 2 h sessions during the 2nd semester                |
+| FY2024–Present  | General Seminar 1; Kindai University, 4th year undergraduate students, 2 x 2 h sessions during the 2nd semester                |
+| FY2024–Present  | General Seminar 2; Kindai University, 6th year undergraduate students, 2 x 2 h sessions during the 2nd semester                |
+| FY2024–Present  | Kindai Seminar; Kindai University, 1st year undergraduate students, 11 x 2 h sessions during the 1st semester                |
+| FY2024–Present  | Introduction to Pharmacy; Kindai University, 1st year undergraduate students, 1 x 2 h sessions during the 1st semester                |
+| FY2024–Present  | Laboratory Course of Pharmacology and Pharmacokinetics; Kindai University, 3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                |
 
 ## Educational Publications
 1.	<ins>Takeuchi Y</ins> (2017) Physiological Education and Japanese Medical Students in University of Szeged. J Physiol Soc Japan 79: 8-15. (Peer Reviewed, Japanese) http://physiology.jp/wp-content/uploads/2017/01/Education_20170201_8-15.pdf.
@@ -391,10 +402,11 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | FY2013      | Pain Research, Practice (Formalin test and Immunohistochemistry of spinal sections); Graduate school of medicine, Tokyo Women’s Medical University; Daily practice for a week |
 | FY2012–2014 | Respiratory Medicine for Bio-Medical Curriculum, Practice; Graduate school of medicine, Tokyo Women’s Medical University; 4 × 2 h sessions                                    |
-| FY2021      | Basic Brain Science IV : Molecular and Cellular basis of Neurotransmission, Lecture; Graduate School of Life Science, Hokkaido University                                                                                    |
-| FY2021      | Pharmaceutical Science, Lecture; Hokkaido University                                                                                                                          |
-| FY2022      | Brain Science I, Lecture; Hokkaido University                                                                                                                                 |
-| FY2022      | Brain Science I, Practice; Hokkaido University                                                                                                                                |
+| FY2021–2023 | Basic Brain Science IV : Molecular and Cellular basis of Neurotransmission, Lecture; Graduate School of Life Science, Hokkaido University                                                                                    |
+| FY2021–2023 | Pharmaceutical Science, Lecture; Hokkaido University                                                             |
+| FY2022–2023 | Brain Science I, Lecture; Hokkaido University                                                                    |
+| FY2022–2023 | Brain Science I, Practice; Hokkaido University                                                                   |
+| FY2024–present | Advanced Lecture on Pharmaceutical and Biological Science; Kindai University                                  |
 
 ## Faculty Development
 |        |                                                                                  |
@@ -428,6 +440,17 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | FY2022      | Lecture Slides for Freshman Seminar: A Guide to Neuroscience Research @ Hokkaido University                         |
 | FY2023      | Lecture Slides for AMED Prime application                                                                           |
 | FY2023      | Lecture Slides for Freshman Seminar: A Guide to Brain Researches in Hokkaido University @ Hokkaido University       |
+| FY2024      | Lecture Slides for Pathology @ Kindai University, Faculty of Pharmacy                                               |
+| FY2024      | Lecture Slides for Pharmacotherapy 1 / Laboratory Exam and Therapy of Diseases 1 @ Kindai University, Faculty of Pharmacy                                               |
+| FY2024      | Lecture Slides for Pharmacotherapy 2 / Laboratory Exam and Therapy of Diseases 2 @ Kindai University, Faculty of Pharmacy                                               |
+| FY2024      | Lecture Slides for Pharmacotherapy 3 @ Kindai University, Faculty of Pharmacy                                       |
+| FY2024      | Lecture Slides for Laboratory Diagnosis @ Kindai University, Faculty of Pharmacy                                    |
+| FY2024      | Lecture Slides for General Seminar 1 @ Kindai University, Faculty of Pharmacy                                       |
+| FY2024      | Lecture Slides for General Seminar 2 @ Kindai University, Faculty of Pharmacy                                       |
+| FY2024      | Lecture Slides for Kindai Seminar @ Kindai University, Faculty of Pharmacy                                          |
+| FY2024      | Lecture Slides for Introduction to Pharmacy @ Kindai University, Faculty of Pharmacy                                |
+| FY2024      | Text for Laboratory Course of Pharmacology and Pharmacokinetics @ Kindai University, Faculty of Pharmacy            |
+| FY2024      | Lecture Slides for Advanced Lecture on Pharmaceutical and Biological Science @ Kindai University                    |
 
 ## Other Teaching Contributions
 |           |                                                                                                                                         |
