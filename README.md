@@ -161,6 +161,7 @@ Updated on Jan 3rd, 2025
 1. <ins>Takeuchi Y</ins>, Closed-loop control of epilepsy with transcranial ultrasound irradiation, Tateisi Foundation Annual report 32: 2221019, 2023.
 1. <ins>Takeuchi Y</ins>, Development of a non-invasive and spatiotemporally-specific in vivo gene transfection technology, Noastec Foundation  Research Report 2023: 7, 2023.
 1. <ins>Takeuchi Y</ins>, An international collaboration research for clinical application of a novel therapeutic technology of epilepsy, The Nagai Foundation Tokyo Annual Report 29: 6–8, 2023.
+1. 
 
 ### Recent Preprints
 1. Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>\*, Higuchi M, Shimojo M\*, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. **_bioRxiv_** 2024.03.06.583779. DOI: https://doi.org/10.1101/2024.03.06.583779
@@ -195,34 +196,34 @@ Updated on Jan 3rd, 2025
 
 ### Dataset Repositories
 1.	<ins>Takeuchi Y</ins> (2017) Three-dimensional dendritic morphology of somatosensory thalamic neurons in developing mice: Takeuchi Archive. NeuroMorpho.org. URL: http://www.neuromorpho.org/bylab.jsp (Invited)
-2.	<ins>Takeuchi Y</ins> (2017) Three-dimensional axonal morphology of principle neurons in the principle trigeminal nucleus of mice: Takeuchi Archive. NeuroMorpho.org. http://www.neuromorpho.org/bylab.jsp (Invited)
-3.	<ins>Takeuchi Y</ins> (2017) LaserDiodeStabilizerCircuit. figshare. https://doi.org/10.6084/m9.figshare.5419195
-4.	<ins>Takeuchi Y</ins> (2017) FootshockCircuit. figshare. https://doi.org/10.6084/m9.figshare.5421613
-5.	<ins>Takeuchi Y</ins> (2017) ActiveBandPassFilter. figshare. https://doi.org/10.6084/m9.figshare.5455702
-6.	<ins>Takeuchi Y</ins> (2018) CMAPMethods. Mendeley Data, v1. http://dx.doi.org/10.17632/9g5n35fd3f.1
-7.	<ins>Takeuchi Y</ins> (2018) RetrogradeMotorNeuronLabeling. figshare. https://doi.org/10.6084/m9.figshare.5445199
-8.	<ins>Takeuchi Y</ins> (2018) TaskController. figshare. https://doi.org/10.6084/m9.figshare.6154751
-9.	<ins>Takeuchi Y</ins> (2018) RatHeadFixRestraintSystem. figshare. https://doi.org/10.6084/m9.figshare.5466355
-10.	<ins>Takeuchi Y</ins> (2018) MouseHeadFixRestraintSystem. figshare. https://doi.org/10.6084/m9.figshare.6154877
-11.	<ins>Takeuchi Y</ins> (2018) OnHeadFaradayCage. figshare.
+1.	<ins>Takeuchi Y</ins> (2017) Three-dimensional axonal morphology of principle neurons in the principle trigeminal nucleus of mice: Takeuchi Archive. NeuroMorpho.org. http://www.neuromorpho.org/bylab.jsp (Invited)
+1.	<ins>Takeuchi Y</ins> (2017) LaserDiodeStabilizerCircuit. figshare. https://doi.org/10.6084/m9.figshare.5419195
+1.	<ins>Takeuchi Y</ins> (2017) FootshockCircuit. figshare. https://doi.org/10.6084/m9.figshare.5421613
+1.	<ins>Takeuchi Y</ins> (2017) ActiveBandPassFilter. figshare. https://doi.org/10.6084/m9.figshare.5455702
+1.	<ins>Takeuchi Y</ins> (2018) CMAPMethods. Mendeley Data, v1. http://dx.doi.org/10.17632/9g5n35fd3f.1
+1.	<ins>Takeuchi Y</ins> (2018) RetrogradeMotorNeuronLabeling. figshare. https://doi.org/10.6084/m9.figshare.5445199
+1.	<ins>Takeuchi Y</ins> (2018) TaskController. figshare. https://doi.org/10.6084/m9.figshare.6154751
+1.	<ins>Takeuchi Y</ins> (2018) RatHeadFixRestraintSystem. figshare. https://doi.org/10.6084/m9.figshare.5466355
+1.	<ins>Takeuchi Y</ins> (2018) MouseHeadFixRestraintSystem. figshare. https://doi.org/10.6084/m9.figshare.6154877
+1.	<ins>Takeuchi Y</ins> (2018) OnHeadFaradayCage. figshare.
 https://doi.org/10.6084/m9.figshare.6160181
-12.	<ins>Takeuchi Y</ins> (2018) InfraredMotionDetector. figshare. https://doi.org/10.6084/m9.figshare.6160226
+1.	<ins>Takeuchi Y</ins> (2018) InfraredMotionDetector. figshare. https://doi.org/10.6084/m9.figshare.6160226
 
 ### Code Repositories
 1.	<ins>Takeuchi Y</ins> (2017) CMAPAnalysis v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.800747
-2.	<ins>Takeuchi Y</ins> (2017) tUtility v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.803404
-3.	<ins>Takeuchi Y</ins> (2017) miniAna v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.804083
-4.	<ins>Takeuchi Y</ins> (2017) tSort v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.805588
-5.	<ins>Takeuchi Y</ins> (2017) tNeuroshare v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.805705
-6.	<ins>Takeuchi Y</ins> (2017) tClamp16 v0.0.0-alpha. Zenodo. https://doi.org/10.5281/zenodo.805901
-7.	<ins>Takeuchi Y</ins> (2017) tClamp18 v0.1.0-alpha. Zenodo. https://doi.org/10.5281/zenodo.805897
-8.	<ins>Takeuchi Y</ins> (2017) NiDaqControlPanel v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.810332
-9.	<ins>Takeuchi Y</ins> (2017) APDetector v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.815577
-10.	<ins>Takeuchi Y</ins> (2017) RStatisticalTests v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.817654
-11.	<ins>Takeuchi Y</ins> (2017) LaserDiodeStabilizer v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.897718
-12.	<ins>Takeuchi Y</ins> (2017) CueFearConditioning v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.897730
-13.	<ins>Takeuchi Y</ins> (2018) PMVmemAnalysis v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.1220169
-14.	<ins>Takeuchi Y</ins> (2018) SM2CInjection v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.1220362
+1.	<ins>Takeuchi Y</ins> (2017) tUtility v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.803404
+1.	<ins>Takeuchi Y</ins> (2017) miniAna v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.804083
+1.	<ins>Takeuchi Y</ins> (2017) tSort v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.805588
+1.	<ins>Takeuchi Y</ins> (2017) tNeuroshare v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.805705
+1.	<ins>Takeuchi Y</ins> (2017) tClamp16 v0.0.0-alpha. Zenodo. https://doi.org/10.5281/zenodo.805901
+1.	<ins>Takeuchi Y</ins> (2017) tClamp18 v0.1.0-alpha. Zenodo. https://doi.org/10.5281/zenodo.805897
+1.	<ins>Takeuchi Y</ins> (2017) NiDaqControlPanel v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.810332
+1.	<ins>Takeuchi Y</ins> (2017) APDetector v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.815577
+1.	<ins>Takeuchi Y</ins> (2017) RStatisticalTests v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.817654
+1.	<ins>Takeuchi Y</ins> (2017) LaserDiodeStabilizer v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.897718
+1.	<ins>Takeuchi Y</ins> (2017) CueFearConditioning v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.897730
+1.	<ins>Takeuchi Y</ins> (2018) PMVmemAnalysis v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.1220169
+1.	<ins>Takeuchi Y</ins> (2018) SM2CInjection v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.1220362
 
 ## Grants Received
 ### KAKENHI
