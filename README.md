@@ -350,11 +350,11 @@ https://doi.org/10.6084/m9.figshare.6160181
 | FY2022–FY2023  | Laboratory Exercise of Physics; Hokkaido University, 2nd year undergraduate students, 4 x 4 h sessions during the 2nd semester                                                          |
 | FY2023–FY2023  | Freshman Seminar Introduction of Brain Researches in Hokkaido University; Hokkaido University, 1st year undergraduate students, 2 x 2 h sessions during the 1st semester                |
 | FY2024–Present  | Pathology; Kindai University, 3rd year undergraduate students, 15 x 2 h sessions during the 1st semester                |
-| FY2024–Present  | Pharmacotherapy 1; Kindai University, 3nd year undergraduate students, 15 x 2 h sessions during the 1st semester                |
-| FY2024–Present  | Pharmacotherapy 2; Kindai University, 3nd year undergraduate students, 15 x 2 h sessions during the 2nd semester                |
+| FY2024–Present  | Pharmacotherapy 1; Kindai University, 3rd year undergraduate students, 15 x 2 h sessions during the 1st semester                |
+| FY2024–Present  | Pharmacotherapy 2; Kindai University, 3rd year undergraduate students, 15 x 2 h sessions during the 2nd semester                |
 | FY2024–Present  | Pharmacotherapy 3; Kindai University, 4th year undergraduate students, 15 x 2 h sessions during the 1st semester                |
-| FY2024–Present  | Laboratory Exam and Therapy of Diseases 1; Kindai University, 3nd year undergraduate students, 15 x 2 h sessions during the 1st semester                |
-| FY2024–Present  | Laboratory Exam and Therapy of Diseases 2; Kindai University, 3nd year undergraduate students, 15 x 2 h sessions during the 2nd semester                |
+| FY2024–Present  | Laboratory Exam and Therapy of Diseases 1; Kindai University, 3rd year undergraduate students, 15 x 2 h sessions during the 1st semester                |
+| FY2024–Present  | Laboratory Exam and Therapy of Diseases 2; Kindai University, 3rd year undergraduate students, 15 x 2 h sessions during the 2nd semester                |
 | FY2024–Present  | Laboratory Diagnosis; Kindai University, 2nd year undergraduate students, 9 x 2 h sessions during the 2nd semester                |
 | FY2024–Present  | General Seminar 1; Kindai University, 4th year undergraduate students, 2 x 2 h sessions during the 2nd semester                |
 | FY2024–Present  | General Seminar 2; Kindai University, 6th year undergraduate students, 2 x 2 h sessions during the 2nd semester                |
