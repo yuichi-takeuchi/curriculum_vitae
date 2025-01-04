@@ -140,16 +140,8 @@ Updated on Jan 4th, 2025
 ## Non-peer Reviewed Publications
 †: Co-first author; \*: Corresponding author
 ### Book etc.
-1. Miyata M and <ins>Takeuchi Y</ins>, Neurophysiology of Body image: Remodeling of the body map. **_Clin Neurosci_** 29 (8): 895–899. Aug 2011. Chugai-igakusha. (Invited, Japanese)
-1. <ins>Takeuchi Y</ins>, Epilepsy progress: Development of on-demand interventions of epileptic seizures and a quantitative method of seizure susceptibility. **_Medical Science Digest_** 46 (2): 118–121. Feb 2020. Hokuryukan. (Invited, Japanese)
-1. <ins>Takeuchi Y</ins>, Imaging of neuropsychiatric disorders: Revealing neuronal network dynamics underlying behavioral phenotypes of psychiatric disorders. **_Medical Science Digest_** 46 (6): 906–909. Jun 2020. Hokuryukan. (Invited, Japanese)
-1. <ins>Takeuchi Y</ins>, Updates in novel therapies against neurodegenerative diseases: Development of on-demand interventions of epileptic seizures and a quantitative method of seizure susceptibility. **_BIO Clinica_** 35 (9): 771–774. Aug 2020. Hokuryukan. (Invited, Japanese)
-1. <ins>Takeuchi Y</ins>, Tau biology: Toward real-time control of neuropsychiatric disorders. **_The cells_** 53 (1): 50–53. Jan 2021. Hokuryukan. (Invited, Japanese)
-1. <ins>Takeuchi Y</ins>, Dynamic heterarchy：Oscillotherapeutics. **_Clin Neurosci_** 39 (7): 847–851. Jul 2021. Chugai-igakusha. (Invited, Japanese)
-1. <ins>Takeuchi Y</ins>, Seki K, Ultrasound and Neurological disorders–How useful?: Ultrasound Neuromodulation, **_Clin Neurosci_** 40 (2): 249–253. Feb 2022. Chugai-igakusha. (Invited, Japanese)
 1. <ins>Takeuchi Y</ins>\*, Kawano T, Li Q, Mima T, Nagai J, eds. (2022). Oscillotherapeutics - Toward Real-Time Control of Pathological Oscillations in the Brain. Lausanne: **_Frontiers Media_** SA. DOI: https://doi.org/10.3389/978-2-88976-458-7
-1. Hara K, <ins>Takeuchi Y</ins>, Time-targeted stimulation of the bran rewarding system as a novel brain disorder treatment, **_Medical Science Digest_** 49 (3): 154–156. Mar 2023. Hokuryukan. (Invited, Japanese)
-1. Chan M†, Yoshida K†, Yang G†, Mimura T†, Kudo N, <ins>Takeuchi Y</ins>\*, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, *in press*, Springer-Nature. (Invited)
+1. Chan M†, Yoshida K†, Yang G†, Mimura T†, Li Q, Kudo N, <ins>Takeuchi Y</ins>\*, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, *in press*, Springer-Nature. (Invited)
 
 ### Proceedings and Research Reports
 1. <ins>Takeuchi Y</ins>, Annual report of research project, Hyper-Adaptability Area 2022 Annual report, A05-1, 2023.
