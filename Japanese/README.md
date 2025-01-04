@@ -370,18 +370,18 @@
 | FY2022–2023 | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 脳・神経科学研究へのガイド：北海道大学において、講義・評価を担当した。 15 x 2 h sessions during the 2nd semester                                                       |
 | FY2022–2023 | 物理化学実習：北海道大学薬学部において、実習実施・評価を担当した。4 x 4 h sessions in the 2nd semester                                                                                           |
 | FY2023–2023 | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 北大脳科学への招待：北海道大学において、講義・評価を担当した。 2 x 2 h sessions during the 1st semester                                                                |
-| FY2024–現在  | 病理学：近畿大学において、講義・評価を担当した。 15 x 2 h sessions during the 1st semester                |
-| FY2024–現在  | 疾患と薬物治療法１：近畿大学薬学部において、講義・評価を担当した。15 x 2 h sessions during the 1st semester                |
-| FY2024–現在  | 疾患と薬物治療法２：近畿大学薬学部において、講義・評価を担当した。15 x 2 h sessions during the 2nd semester                |
-| FY2024–現在  | 疾患と薬物治療法３：近畿大学薬学部において、講義・評価を担当した。15 x 2 h sessions during the 1st semester                |
-| FY2024–現在  | 疾患の検査と治療法１：近畿大学薬学部において、講義・評価を担当した。15 x 2 h sessions during the 1st semester                |
-| FY2024–現在  | 疾患の検査と治療法２：近畿大学薬学部において、講義・評価を担当した。15 x 2 h sessions during the 2nd semester                |
-| FY2024–現在  | 疾患の検査診断学：近畿大学薬学部において、講義・評価を担当した。9 x 2 h sessions during the 2nd semester                |
-| FY2024–現在  | 総合演習１：近畿大学薬学部において、講義を担当した。 2 x 2 h sessions during the 2nd semester                |
-| FY2024–現在  | 総合演習２：近畿大学薬学部において、講義を担当した。 6th year undergraduate students, 2 x 2 h sessions during the 2nd semester                |
-| FY2024–現在  | 近大ゼミ：近畿大学薬学部において、セミナーおよび評価を担当した。11 x 2 h sessions during the 1st semester                |
-| FY2024–現在  | 薬学概論：近畿大学薬学部において、講義・評価を担当した。1 x 2 h sessions during the 1st semester                |
-| FY2024–現在  | 薬効薬物動態解析実習：近畿大学薬学部において、実施を監督した。3 x 2 h sessions during the 1st semester                |
+| FY2024–現在  | 病理学：近畿大学において、講義・評価を担当した。3rd year undergraduate students, 15 x 2 h sessions during the 1st semester                |
+| FY2024–現在  | 疾患と薬物治療法１：近畿大学薬学部において、講義・評価を担当した。3rd year undergraduate students, 15 x 2 h sessions during the 1st semester                |
+| FY2024–現在  | 疾患と薬物治療法２：近畿大学薬学部において、講義・評価を担当した。3rd year undergraduate students, 15 x 2 h sessions during the 2nd semester                |
+| FY2024–現在  | 疾患と薬物治療法３：近畿大学薬学部において、講義・評価を担当した。4th year undergraduate students, 15 x 2 h sessions during the 1st semester                |
+| FY2024–現在  | 疾患の検査と治療法１：近畿大学薬学部において、講義・評価を担当した。3rd year undergraduate students, 15 x 2 h sessions during the 1st semester                |
+| FY2024–現在  | 疾患の検査と治療法２：近畿大学薬学部において、講義・評価を担当した。3rd year undergraduate students, 15 x 2 h sessions during the 2nd semester                |
+| FY2024–現在  | 疾患の検査診断学：近畿大学薬学部において、講義・評価を担当した。2nd year undergraduate students, 9 x 2 h sessions during the 2nd semester                |
+| FY2024–現在  | 総合演習１：近畿大学薬学部において、講義を担当した。4th year undergraduate students, 2 x 2 h sessions during the 2nd semester                |
+| FY2024–現在  | 総合演習２：近畿大学薬学部において、講義を担当した。6th year undergraduate students, 2 x 2 h sessions during the 2nd semester                |
+| FY2024–現在  | 近大ゼミ：近畿大学薬学部において、セミナーおよび評価を担当した。1st year undergraduate students, 11 x 2 h sessions during the 1st semester                |
+| FY2024–現在  | 薬学概論：近畿大学薬学部において、講義・評価を担当した。1st year undergraduate students, 1 x 2 h sessions during the 1st semester                |
+| FY2024–現在  | 薬効薬物動態解析実習：近畿大学薬学部において、実施を監督した。3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                |
 
 ### 教育方法の実践例
 |      |                                                                                                                                                                                                                   |
