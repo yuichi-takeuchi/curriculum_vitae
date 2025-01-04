@@ -198,6 +198,7 @@
 1.  <ins>竹内雄一</ins>、セゲド便り、上原記念生命科学財団 一年の歩み H28: 104–105, Aug 2017
 1.  <ins>竹内雄一</ins>、転入のご挨拶、芳香 71: 6, 25 Mar 2022
 1.  <ins>竹内雄一</ins>、脳・神経系疾患の新規制御法開発と人材育成、近畿大学薬友会報 令和６年度号, 01 Apr 2024
+1.  <ins>竹内雄一</ins>、転出のご挨拶、芳香 *in press*.
 
 ### データセットリポジトリ
 1.	<ins>Takeuchi Y</ins> (2017) Three-dimensional dendritic morphology of somatosensory thalamic neurons in developing mice: Takeuchi Archive. NeuroMorpho.org. URL: http://www.neuromorpho.org/bylab.jsp (Invited)
@@ -549,4 +550,4 @@
 | 26 Nov 2016  | セゲド大学　医学部　生理学部門　オープンキャンパス |
 | 7,8 Aug 2022 | 北海道大学　薬学部　オープンキャンパス             |
 | 11 Sep 2023  | 日本神経科学学会公認・ニューロナビゲータ            |
-|  4 Dec 2024  | プレスリリース: [Link1](https://www.qst.go.jp/site/press/20241204.html) [Link2](https://newscast.jp/news/0254276) |
+|  4 Dec 2024  | プレスリリース: [Link1](https://www.qst.go.jp/site/press/20241204.html) [Link2](https://newscast.jp/news/0254276) [報道](http://ytake.org/wp-content/uploads/2025/01/acc215c6a60ff47b2a6a7d4a8188f3c0.pdf) |
