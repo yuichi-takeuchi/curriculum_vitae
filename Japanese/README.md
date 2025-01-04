@@ -360,16 +360,16 @@
 | FY2016–2020 | 医科生理学セミナー I： セゲド大学医学部において、医学部2回生を対象に生理学セミナー（英語コース、前期）を担当した。 14 × 2 h sessions during the 1st semester                                     |
 | FY2016–2020 | 医科生理学セミナー II： セゲド大学医学部において、医学部2回生を対象に生理学セミナー（英語コース、後期）を担当した。 15 × 2 h sessions during the 2nd semester                                    |
 | FY2019–2020 | 海外実務訓練指導（豊橋科学技術大学）：豊橋科学技術大学 電気・電気情報工学系の学部生を短期インターンシップ生として2ヶ月間受け入れ、卒業研究の指導を行った。（計2名）                              |
-| FY2021–2023 | 薬理学IV：北海道大学薬学部において、講義・評価を担当した。7 x 2 h sessions during the 2nd semester                                                                                               |
-| FY2021–2023 | 先端生物学実験法II：北海道大学薬学部において、講義・評価を担当した。2 x 2 h sessions during the 2nd semester                                                                                     |
-| FY2021–2023 | 分析化学実習：北海道大学薬学部において、実習実施・評価を担当した。4 x 4 h sessions in the 2nd semester                                                                                           |
-| FY2022–2023 | 薬学概論：北海道大学薬学部において、早期体験学習を担当した。2 x 2 h sessions during the 1st semester                                                                                             |
-| FY2022–2023 | 薬理学II：北海道大学薬学部において、講義・評価を担当した。3 x 2 h sessions during the 1st semester                                                                                               |
-| FY2022–2023 | 薬理学III：北海道大学薬学部において、講義・評価を担当した。3 x 2 h sessions during the 1st semester                                                                                              |
-| FY2022–2023 | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 神経薬理学への招待：北海道大学において、講義・評価を担当した。 2 x 2 h sessions during the 1st semester                                                                |
-| FY2022–2023 | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 脳・神経科学研究へのガイド：北海道大学において、講義・評価を担当した。 15 x 2 h sessions during the 2nd semester                                                       |
-| FY2022–2023 | 物理化学実習：北海道大学薬学部において、実習実施・評価を担当した。4 x 4 h sessions in the 2nd semester                                                                                           |
-| FY2023–2023 | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 北大脳科学への招待：北海道大学において、講義・評価を担当した。 2 x 2 h sessions during the 1st semester                                                                |
+| FY2021–2023 | 薬理学IV：北海道大学薬学部において、講義・評価を担当した。3rd year undergraduate students, 7 x 2 h sessions during the 2nd semester                                                                                               |
+| FY2021–2023 | 先端生物学実験法II：北海道大学薬学部において、講義・評価を担当した。3rd year undergraduate students, 2 x 2 h sessions during the 2nd semester                                                                                     |
+| FY2021–2023 | 分析化学実習：北海道大学薬学部において、実習実施・評価を担当した。2nd year undergraduate students, 4 x 4 h sessions in the 2nd semester                                                                                           |
+| FY2022–2023 | 薬学概論：北海道大学薬学部において、早期体験学習を担当した。2nd year undergraduate students, 2 x 2 h sessions during the 1st semester                                                                                             |
+| FY2022–2023 | 薬理学II：北海道大学薬学部において、講義・評価を担当した。3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                                                                                               |
+| FY2022–2023 | 薬理学III：北海道大学薬学部において、講義・評価を担当した。3rd year undergraduate students, 3 x 2 h sessions during the 1st semester                                                                                              |
+| FY2022–2023 | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 神経薬理学への招待：北海道大学において、講義・評価を担当した。1st year undergraduate students, 2 x 2 h sessions during the 1st semester                                                                |
+| FY2022–2023 | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 脳・神経科学研究へのガイド：北海道大学において、講義・評価を担当した。1st year undergraduate students, 15 x 2 h sessions during the 2nd semester                                                       |
+| FY2022–2023 | 物理化学実習：北海道大学薬学部において、実習実施・評価を担当した。2nd year undergraduate students, 4 x 4 h sessions in the 2nd semester                                                                                           |
+| FY2023–2023 | 一般教育演習(ﾌﾚｯｼｭﾏﾝｾﾐﾅｰ) 北大脳科学への招待：北海道大学において、講義・評価を担当した。1st year undergraduate students, 2 x 2 h sessions during the 1st semester                                                                |
 | FY2024–現在  | 病理学：近畿大学において、講義・評価を担当した。3rd year undergraduate students, 15 x 2 h sessions during the 1st semester                |
 | FY2024–現在  | 疾患と薬物治療法１：近畿大学薬学部において、講義・評価を担当した。3rd year undergraduate students, 15 x 2 h sessions during the 1st semester                |
 | FY2024–現在  | 疾患と薬物治療法２：近畿大学薬学部において、講義・評価を担当した。3rd year undergraduate students, 15 x 2 h sessions during the 2nd semester                |
