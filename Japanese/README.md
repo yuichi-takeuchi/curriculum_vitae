@@ -172,26 +172,19 @@
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 15, 2022. (Abstract No. 565.14) Poster
 1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. 9th Biomedical Imaging and Sensing Conference. Yokohama, Japan. Apr 21, 2023. (Abstract No. BISC9-01) Symposium
 1. Li Q†, <ins>Takeuchi Y</ins>†, Wang J, Gellért L, Barcsai L, Pedraza LK, Nagy AJ, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Horváth G, Kékesi G, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. The 2nd International Symposium Hyper-Adaptability. Kyoto, Japan. Nov 29, 2023. (Abstract No. II-10) Poster
+1. <ins>Takeuchi Y</ins>, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. Gordon Research Conference: In Vivo Ultrasound Imaging 2024. Waterville valley, U.S.A. Aug 25–30, 2024. Poster
+1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. 2024 Fall International Convention of The Pharmaceutical Society of Korea. Seoul, Korea. Oct 22, 2024. (Abstract No. S11-2) Symposium
 
 ### 国内学会発表（直近）
-1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30, 2022. (Abstract No. 1P-069) Poster
-1. <ins>Takeuchi Y</ins>, Li Q, Berényi A, Minami M, Decoding and quantification of seizure susceptibility with cross-regional oscillatory brain activity patterns in a rat model of temporal lobe epilepsy. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30, 2022. (Abstract No. 1P-109) Poster
-1. Chan M, Li Q, Horváth G, Berényi A, Minami M, <ins>Takeuchi Y</ins>, Reduced operant task engagement and altered neural oscillations in a triple-hit rat model of schizophrenia. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30, 2022. (Abstract No. 1P-263) Poster
-1. <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 73rd meeting of the north branch of The Japanese Pharmacological Society. Sapporo, Japan. Sep 18th, 2022.
-1. <ins>Takeuchi Y</ins>, Chan M, Maeki M, Kudo N, Development of Transcranial Gene Manipulation Technologies. The 8th Hokkaido University Cross-Departmental Symposium. Sapporo, Japan. Oct 28th, 2022. (Abstract No. K-14) Poster
-1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 8th Hokkaido University Cross-Departmental Symposium. Sapporo, Japan. Oct 28th, 2022. (Abstract No. P-49) Poster
-1. <ins>Takeuchi Y</ins>, Closed-loop control of neurological and psychiatric disorders, BPCNPNPPP4. Tokyo, Japan. Nov 4th, 2022. (Abstract No. S13-3) Symposium
-1. 板垣航太、南雅文、<ins>竹内雄一</ins>、海馬様神経回路における求心性GABAおよびコリン作動性神経投射の双方向性デルタ帯活動修飾、日本生理学会 第100回記念大会、京都、3月14日、2023．(Abstract No. 1P-023) Poster
-1. 三村聡優、チャン ミシェル、南雅文、<ins>竹内雄一</ins>、経頭蓋ソノポレーションによる大脳神経細胞を標的とした新規遺伝子導入法、日本薬学会第143年会、札幌、3月26日、2023．(Abstract No. 26P1-pm2-089S) Poster
-1. 三村聡優、チャン ミシェル、南雅文、小俣大樹、鈴木亮、<ins>竹内雄一</ins>、経頭蓋ソノポレーションによる非侵襲的遺伝子導入法の開発、日本薬学会北海道支部第150回支部例会、札幌、5月21日、2023．(Abstract No. C-11) Poster
-1. Yoshida K, Minami M, <ins>Takeuchi Y</ins>, A closed-loop transcranial ultrasound irradiation system for an awake rat model of absence epilepsy, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 1, 2023. (Abstract No. 1Pm-094) Poster
-1. Chan M, Mimura T, Minami M, <ins>Takeuchi Y</ins>, Non-invasive gene transfection to neurons in the cortex using transcranial ultrasound irradiation, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 3, 2023. (Abstract No. 3Pm-131) Poster
-1. Yoshida K, Chan M, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making when faced with contradictory predictions of reward and punishment, CogFeel@ALIFE2023. Sapporo, Japan. Jul 25, 2023. Oral
-1. Yoshida K, Xu Y, Mimura T, Chan M, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, JNNS2023. Tokyo, Japan. Sep 4, 2023. (Abstract No. 15) Poster
-1. Yoshida K, Minami M, <ins>Takeuchi Y</ins>, A closed-loop sonogenetic control of absence epilepsy, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 28, 2024. (Abstract No. 1S05a-3) Symposium
-1. Mimura T, Chan M, Minami M, Kudo N, <ins>Takeuchi Y</ins>, A non-invasive gene transfection technology using transcranial focused ultrasound irradiation, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 29, 2024. (Abstract No. 2P-150) Poster
-1. <ins>Takeuchi Y</ins>, Reinstating olfactory bulb-derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 30, 2024. (Abstract No. 3O09-02-01) Oral
 1. 原巧樹、南雅文、<ins>竹内雄一</ins>、時間特異的報酬系脳領域刺激による認知機能の向上、日本薬学会北海道支部第151回支部例会、札幌、7月7日、2024．(Abstract No. C-5) Poster
+1. Yoshida K, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Bacterial mechano-sensitive channels effectively enhance neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice. NEURO2024. Fukuoka, Japan. Jul 24, 2024. (Abstract No. 1P-304) Poster
+1. Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>, Shimojo M, Higuchi M, Intrinsic neuronal responses to ultrasound irradiation via the mechanosensitive channel in cultured mouse cortical neurons. NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstract No. 3O01e-02)  Oral
+1. Chan M, Minami M, <ins>Takeuchi Y</ins>, Chemogenetic inhibition of the prefrontal cortex induces impulsive decision-making in Long-Evans rats. NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstaract No. 3P-221) Poster
+1. Shimojo M, Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>, Higuchi M, Ultrasound induces network excitation of mouse cortical neurons. NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstaract No. 3P-484) Poster
+1. <ins>Takeuchi Y</ins>, Limbic gamma oscillation maintains positive mood. The 58th Annual Meeting of the Japanese Association for the Study of Taste and Smell. Okayama, Japan. Sep 11, 2024. (Abstract No. S1-2) Symposium
+1. 松下有美、吉田楓、吉屋美雪、清水敬紘、塚本智史、<ins>竹内雄一</ins>、樋口真人、下條雅文、マウス大脳神経細胞におけるTRPC6を介した超音波ニューロモデュレーション、第167回日本獣医学会学術集会、帯広、Sep 12, 2024. (Abstract No. IG-07) Oral
+1. Yoshida K, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Bacterial mechano-sensitive channels effectively enhance neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice. The NIPS Learning & Memory meeting 2024. Okazaki, Japan. Sep 17, 2024. Poster
+1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. The NIPS Synapse Meeting 2024. Okazaki, Japan. Nov 14, 2024. Symposium
 
 ### 随筆
 1.  <ins>竹内雄一</ins>、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10–11,  2013
@@ -300,7 +293,7 @@
 | 02 Nov 2017 | MathWorks Asia Research Summit 2017, Tokyo, Japan                                                               |
 | 14 Jul 2018 | PCS 3rd Global Cell Science and Stem Cell Conference, Budapest, Hungary                                         |
 | 04 Sep 2018 | 大阪市立大学医学部、部門公開セミナー                                                                            |
-| 05 Dec 2018 | 日本薬学会東海支部　特別講演会＠名古屋市立大学                                                                  |
+| 05 Dec 2018 | 日本薬学会東海支部 特別講演会＠名古屋市立大学                                                                  |
 | 10 Dec 2018 | 生理学研究所、部門公開セミナー                                                                                  |
 | 29 Jul 2019 | 大阪市立大学医学部、部門公開セミナー                                                                            |
 | 05 Sep 2019 | 東京女子医科大学医学部、部門公開セミナー                                                                        |
@@ -319,10 +312,16 @@
 | 21 Oct 2022 | 生理学研究所 共同利用研究会、オンライン開催                                                                     |
 | 04 Nov 2022 | BPCNPNPPP4学会合同年会、東京                                                                                    |
 | 06 Jan 2023 | 神戸大学大学院医学研究科 脳神経内科学分野、オンラインセミナー                                                   |
-| 18 Aug 2023 | 立命館大学、オンラインセミナー                                                                                  |
+| 21 Apr 2023 | BISC2023/OPIC2023、横浜                                             |
+| 18 Aug 2023 | 立命館大学、オンラインセミナー                                       |
+| 30 Mar 2024 | 第101回日本生理学会年会、小倉                                        |
+| 06 Sep 2024 | 北海道大学医学部、部門公開セミナー                                   |
+| 11 Sep 2024 | 日本味と匂学会第58回大会、岡山                                       |
+| 22 Oct 2024 | 2024 Fall International Convention of The Pharmaceutical Society of Korea, Seoul, Korea                                       |
+| 14 Nov 2024 | 生理学研究所 シナプス研究会2024、岡崎                                 |
+| 09 Dec 2024 | 日本薬学会北陸支部 特別講演会＠金沢大学                               |
 
-
-## 一般演題・その他の講演等
+## その他の講演等
 |             |                                                                         |
 | ----------- | ----------------------------------------------------------------------- |
 | 02 Sep 2006 | 第27回鎮痛薬・オピオイドペプチドシンポジウム、和歌山                    |
@@ -334,6 +333,7 @@
 | 18 Nov 2020 | 生理研研究会 第２回「力学系の視点からの脳・神経回路の理解」、オンライン |
 | 14 Jan 2021 | 大阪市立大学 第４回 ４研究センター合同セミナー、大阪                    |
 | 06 Nov 2021 | 第８回日本BMI研究会、オンライン                                         |
+| 27 Sep 2024 | PRIME若手の研究者会、熊本                                              |
 
 ## 学術的教育
 |      |                                                                                                                                                                      |
