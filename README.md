@@ -211,16 +211,17 @@ https://doi.org/10.6084/m9.figshare.6160181
 1.	Real-time closed-loop interventions of epileptic seizures by non-invasive deep brain stimulation. JSPS, KAKENHI: Fostering Joint International Research (B) (Grant no. 18KK0236), Role: PI, Period: 2018–2022, Total cost: 179,40,000 JPY
 1.	Development of a quantification method of seizure susceptibility using brain-wide electrical spatiotemporal dynamics. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (B) (Grant no. 19H03550), Role: PI, Period: 2019–2024, Total cost: 17,160,000 JPY
 1.	Revealing neuronal network dynamics underlying behavioral phenotypes of psychiatric disorders by solving inverse problems. MEXT, KAKENHI: Grant-in-Aid for Scientific Research on Innovative Areas (Grant no. 19H05224), Role: PI, Period: 2019–2021, Total cost: 5,720,000 JPY
-1. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 21K19745), Role: co-PI, Period: 2021–2023, Total cost: 195,000 JPY
+1. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 21K19745), Role: Co-Investigator, Period: 2021–2023, Total cost: 195,000 JPY
 1. A closed-loop brain stimulation for reinforcing hyper-adaptability. MEXT, KAKENHI: Grant-in-Aid for Scientific Research on Innovative Areas (Grant no. 22H04762), Role: PI, Period: 2022–2024, Total cost: 5,980,000 JPY
-1. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 22K18650), Role: co-PI, Period: 2022–2024, Total cost: 520,000 JPY
-1. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (A) (Grant no. 23H00459), Role: co-PI, Period: 2023–2027, Total cost: 1,210,000 JPY
-1. Deletion of seizure susceptibility via transcranial deep brain stimulation. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (B) (Grant no. 23H02790), Role: PI, Period: 2023–2027, Total cost: 18,590,000 JPY
+1. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 22K18650), Role: Co-Investigator, Period: 2022–2024, Total cost: 520,000 JPY
+1. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (A) (Grant no. 23H00459), Role: Co-Investigator, Period: 2023–2027, Total cost: 1,210,000 JPY
+1. Deletion of seizure susceptibility via transcranial deep brain stimulation. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (B) (Grant no. 23K27481), Role: PI, Period: 2023–2027, Total cost: 18,590,000 JPY
 1. Development of transcranial gene manipulation technologies. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 23K18250), Role: PI, Period: 2023–2026, Total cost: 6,370,000 JPY
-1. A method for elucidating a subset genes that enable hibernation-like hypometabolic states. MEXT, KAKENHI: Grant-in-Aid for Transformative Research Areas (Grant no. 24H01999), Role: PI, Period: 2024–2026, Total cost: 10,920,000 JPY
+1. A method for elucidating a subset genes that enable hibernation-like hypometabolic states. MEXT, KAKENHI: Grant-in-Aid for Transformative Research Areas (A) (Grant no. 24H01999), Role: PI, Period: 2024–2026, Total cost: 10,920,000 JPY
+1. Identification of the mechanism of chronic pain focusing on oscillatory brain activity and its application to the development of chronic pain relief therapy. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (B) (Grant no. 24K02786), Role: Co-Investigator, Period: 2024–2028, Total cost: 1,274,000 JPY
 
 ### Contract Researches
-1. Moonshot Goal 7. Japan Agency for Medical Research and Development, Moonshot Research and Development Program, Role: co-PI, Period: 2021–2026, Total cost: 35,750,000 JPY
+1. Moonshot Goal 7. Japan Agency for Medical Research and Development, Moonshot Research and Development Program, Role: Co-Investigator, Period: 2021–2026, Total cost: 35,750,000 JPY
 1. Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, AMED Prime, Role: PI, Period: 2022–2026, Total cost: 52,000,000 JPY
 
 ### Research Foundation and Other Competitive Research Funds
@@ -254,6 +255,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 1. Control of depression with transcranial deep brain stimulation technologies. Astellas Foundation for Research on Metabolic Disorders: Research Grant, Role: PI, Period: 2024–2026, Total cost: 2,000,000 JPY
 1. Recovery of hedonia associated with food intake via transcranial deep brain stimulation. Lotte Foundation: Research Grant, Role: PI, Period: 2024–2027, Total cost: 3,000,000 JPY
 1. Deletion of seizure susceptibility via transcranial deep brain stimulation. Ono Pharmaceutical Foundation for Oncology, Immunology, and Neurology: Research Grant, Role: PI, Period: 2024–2027, Total cost: 30,000,000 JPY
+1. A radical epilepsy treatment with a novel transcranial deep brain stimulation technology. The Uehara Memorial Foundation, Role: PI, Period: 2024–2026, Total cost: 4,000,000 JPY
 
 ### Other Grants
 1. A study of reorganization of the whisker-sensory thalamic circuit after peripheral nerve injury. Tokyo Women's Medical University: Research Grant for Basic Medical Research, Role: PI, Period: 2010–2011, Total cost: 800,000 JPY
@@ -482,6 +484,8 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 2022–present | BMC Neuroscience                                                                    |
 | 2022–present | Current Gene Therapy                                                                |
 | 2023–present | Current Molecular Pharmacology                                                      |
+| 2024–present | Journal of Ethnopharmacology                                                        |
+| 2024–present | Learning and Motivation                                                             |
 
 ## Post-publication Peer Reviews
 |             |                                              |
@@ -513,10 +517,9 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 05 Sep 2023 | The 2nd IGM-NIPS Joint symposium, Chair                                                |
 
 ## Reviews of Research Grants
-### UKRI – UK Research and Innovation
-|              |                                                        |
-| ------------ | ------------------------------------------------------ |
-| 2021–present | Biotechnology and Biological Sciences Research Council |
+|              |                                                                                           |
+| ------------ | ----------------------------------------------------------------------------------------- |
+| 2021–present | UKRI – UK Research and Innovation, Biotechnology and Biological Sciences Research Council |
 
 ## Research Training Course
 |             |                                                                                                                                                                                    |
