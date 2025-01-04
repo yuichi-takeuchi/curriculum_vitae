@@ -63,15 +63,16 @@ Updated on Jan 3rd, 2025
 | 2022–present | The Pharmaceutical Society of Japan, Member |
 
 ### Professional Bodies
-|                         |                                                                   |
-| ----------------------- | ----------------------------------------------------------------- |
-| 18 Mar 2020–present     | Board Member, The Physiological Society of Japan                  |
-| 20 Nov 2020–31 Dec 2021 | Guest Associate Editor, Frontiers in Behavioral Neuroscience      |
-| 20 Nov 2020–present     | Guest Associate Editor, Frontiers in Human Neuroscience           |
-| 15 Mar 2021–present     | Board Member, Japanese Pharmacological Society                    |
-| 01 Apr 2022–31 Mar 2024     | Board Member, The Pharmaceutical Society of Japan Hokkaido Branch |
-| 05 May 2023–present     | Review Editor, Frontiers in Behavioral Neuroscience               |
-| 19 Nov 2023–present     | Mentor, IUPS International Mentoring Program                      |
+|                           |                                                                     |
+| ------------------------- | ------------------------------------------------------------------- |
+| 18 Mar 2020–present       | Board Member, The Physiological Society of Japan                    |
+| 20 Nov 2020–31 Dec 2021   | Guest Associate Editor, Frontiers in Behavioral Neuroscience        |
+| 20 Nov 2020–present       | Guest Associate Editor, Frontiers in Human Neuroscience             |
+| 15 Mar 2021–present       | Board Member, Japanese Pharmacological Society                      |
+| 01 Apr 2022–31 Mar 2024   | Board Member, The Pharmaceutical Society of Japan Hokkaido Branch   |
+| 05 May 2023–present       | Review Editor, Frontiers in Behavioral Neuroscience                 |
+| 19 Nov 2023–present       | Mentor, IUPS International Mentoring Program                        |
+| 10 May 2024–present       | Comittee Member, The Pharmaceutical Society of Japan Kainsai Branch |
 
 ## 5. Prizes, Awards and other Honors
 |      |                                                                                                                                                     |
