@@ -63,6 +63,23 @@
 1. <ins>Takeuchi Y</ins>, Closed-loop brain stimulation for epileptic seizures and beyond. The 98th Annual Meeting of the Physiological Society of Japan. Nagoya, Japan. Mar 29, 2021. (Abstract No. OP15-2) Oral
 1. <ins>Takeuchi Y</ins>, Closed-loop stimulation of the medial septum terminates epileptic seizures. The 44th Annual Meeting of the Japan Neuroscience Society. Kobe, Japan. Jul 28, 2021. (Abstract No. 1S04m-3) Symposium
 1. <ins>Takeuchi Y</ins>, Closed-loop brain stimulation for controlling epileptic seizures. The 51st Annual Meeting of the Japanese Society of Clinical Neurophysiology. Sendai, Japan. Dec 16, 2021. (Abstract No. SP9-2) Symposium
+1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30, 2022. (Abstract No. 1P-069) Poster
+1. <ins>Takeuchi Y</ins>, Li Q, Berényi A, Minami M, Decoding and quantification of seizure susceptibility with cross-regional oscillatory brain activity patterns in a rat model of temporal lobe epilepsy. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30, 2022. (Abstract No. 1P-109) Poster
+1. Chan M, Li Q, Horváth G, Berényi A, Minami M, <ins>Takeuchi Y</ins>, Reduced operant task engagement and altered neural oscillations in a triple-hit rat model of schizophrenia. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30, 2022. (Abstract No. 1P-263) Poster
+1. <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 73rd meeting of the north branch of The Japanese Pharmacological Society. Sapporo, Japan. Sep 18th, 2022.
+1. <ins>Takeuchi Y</ins>, Chan M, Maeki M, Kudo N, Development of Transcranial Gene Manipulation Technologies. The 8th Hokkaido University Cross-Departmental Symposium. Sapporo, Japan. Oct 28th, 2022. (Abstract No. K-14) Poster
+1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 8th Hokkaido University Cross-Departmental Symposium. Sapporo, Japan. Oct 28th, 2022. (Abstract No. P-49) Poster
+1. <ins>Takeuchi Y</ins>, Closed-loop control of neurological and psychiatric disorders, BPCNPNPPP4. Tokyo, Japan. Nov 4th, 2022. (Abstract No. S13-3) Symposium
+1. 板垣航太、南雅文、<ins>竹内雄一</ins>、海馬様神経回路における求心性GABAおよびコリン作動性神経投射の双方向性デルタ帯活動修飾、日本生理学会 第100回記念大会、京都、3月14日、2023．(Abstract No. 1P-023) Poster
+1. 三村聡優、チャン ミシェル、南雅文、<ins>竹内雄一</ins>、経頭蓋ソノポレーションによる大脳神経細胞を標的とした新規遺伝子導入法、日本薬学会第143年会、札幌、3月26日、2023．(Abstract No. 26P1-pm2-089S) Poster
+1. 三村聡優、チャン ミシェル、南雅文、小俣大樹、鈴木亮、<ins>竹内雄一</ins>、経頭蓋ソノポレーションによる非侵襲的遺伝子導入法の開発、日本薬学会北海道支部第150回支部例会、札幌、5月21日、2023．(Abstract No. C-11) Poster
+1. Yoshida K, Minami M, <ins>Takeuchi Y</ins>, A closed-loop transcranial ultrasound irradiation system for an awake rat model of absence epilepsy, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 1, 2023. (Abstract No. 1Pm-094) Poster
+1. Chan M, Mimura T, Minami M, <ins>Takeuchi Y</ins>, Non-invasive gene transfection to neurons in the cortex using transcranial ultrasound irradiation, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 3, 2023. (Abstract No. 3Pm-131) Poster
+1. Yoshida K, Chan M, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making when faced with contradictory predictions of reward and punishment, CogFeel@ALIFE2023. Sapporo, Japan. Jul 25, 2023. Oral
+1. Yoshida K, Xu Y, Mimura T, Chan M, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, JNNS2023. Tokyo, Japan. Sep 4, 2023. (Abstract No. 15) Poster
+1. Yoshida K, Minami M, <ins>Takeuchi Y</ins>, A closed-loop sonogenetic control of absence epilepsy, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 28, 2024. (Abstract No. 1S05a-3) Symposium
+1. Mimura T, Chan M, Minami M, Kudo N, <ins>Takeuchi Y</ins>, A non-invasive gene transfection technology using transcranial focused ultrasound irradiation, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 29, 2024. (Abstract No. 2P-150) Poster
+1. <ins>Takeuchi Y</ins>, Reinstating olfactory bulb-derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 30, 2024. (Abstract No. 3O09-02-01) Oral
 
 ## 研究課題・受託研究・科研費
 1. 宮田麻理子（代表）、櫻井裕之、大和雅之、佐々木亮、松峯元、竹内雄一
