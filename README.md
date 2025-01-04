@@ -152,16 +152,11 @@ Updated on Jan 3rd, 2025
 1. Chan M†, Yoshida K†, Yang G†, Mimura T†, Kudo N, <ins>Takeuchi Y</ins>\*, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, *in press*, Springer-Nature. (Invited)
 
 ### Proceedings and Reports
-1. <ins>Takeuchi Y</ins>, Uchida M, Miyata M, Neuroanatomical and physiological analyses of afferent fiber rewiring in the ventrobasal thalamus of mice after peripheral nerve injury. Proceedings of Tokyo Women’s Medical University Medical Institute 32: 20–21. 2012. (Japanese)
-1. <ins>Takeuchi Y</ins> and Miyata M, Neuroanatomical analyses of thalamic circuitry rewiring (I). Proceedings of Tokyo Women’s Medical University Medical Institute 33: 21. Nov 30th, 2013. (Japanese)
-1. <ins>Takeuchi Y</ins> and Miyata M, Neuroanatomical analyses of thalamic circuitry rewiring (II). Proceedings of Tokyo Women’s Medical University Medical Institute 34: 16. Nov 30th, 2014. (Japanese)
-1. Miyata M, Matsumine H, Sasaki R, Watanabe Y, <ins>Takeuchi Y</ins>, Yamato M, and Sakurai H, Functional evaluations of regenerated peripheral nerve. J Tokyo Wom Med Univ 84: 130. Aug 25th, 2014. (Japanese)
-1. <ins>Takeuchi Y</ins> and Miyata M, Neuroanatomical analyses of thalamic circuitry rewiring (III). Proceedings of Tokyo Women’s Medical University Medical Institute 36: 22–23. Feb 27th, 2017. (Japanese)
 1. <ins>Takeuchi Y</ins>, Annual report of research project, Hyper-Adaptability Area 2022 Annual report, A05-1, 2023.
 1. <ins>Takeuchi Y</ins>, Closed-loop control of epilepsy with transcranial ultrasound irradiation, Tateisi Foundation Annual report 32: 2221019, 2023.
 1. <ins>Takeuchi Y</ins>, Development of a non-invasive and spatiotemporally-specific in vivo gene transfection technology, Noastec Foundation  Research Report 2023: 7, 2023.
 1. <ins>Takeuchi Y</ins>, An international collaboration research for clinical application of a novel therapeutic technology of epilepsy, The Nagai Foundation Tokyo Annual Report 29: 6–8, 2023.
-1. 
+1.
 
 ### Recent Preprints
 1. Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>\*, Higuchi M, Shimojo M\*, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. **_bioRxiv_** 2024.03.06.583779. DOI: https://doi.org/10.1101/2024.03.06.583779
