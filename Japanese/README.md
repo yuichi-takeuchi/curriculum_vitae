@@ -144,7 +144,8 @@
 1. <ins>竹内雄一</ins>、関和彦、超音波と神経疾患－How useful?：超音波ニューロモデュレーション、**_Clin Neurosci_** 40 (2): 249–253, 2022.2. 中外医学社
 1. <ins>Takeuchi Y</ins>\*, Kawano T, Li Q, Mima T, Nagai J, eds. (2022). Oscillotherapeutics - Toward Real-Time Control of Pathological Oscillations in the Brain. Lausanne: **_Frontiers Media_** SA. DOI: https://doi.org/10.3389/978-2-88976-458-7
 1. 原巧樹、<ins>竹内雄一</ins>、ひきこもりと精神疾患：報酬系脳領域刺激による脳疾患治療、**_Medical Science Digest_** 49 (3): 154–156, 2023.3. 北隆館
-1. Chan M†, Yoshida K†, Yang G†, Mimura T†, Kudo N, <ins>Takeuchi Y</ins>\*, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, *in press*, Springer-Nature.
+1. Chan M†, Yoshida K†, Yang G†, Mimura T†, Li Q, Kudo N, <ins>Takeuchi Y</ins>\*, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, *in press*, Springer-Nature.
+1. <ins>竹内雄一</ins>、ブレインサイエンスレビュー２０２５：時間標的脳深部刺激法による神経・精神疾患の制御法開発、**_Brain Science Reviews_**, *in press*. アドスリー
 
 ### 紀要、研究報告
 1.  <ins>竹内雄一</ins>、内田萌衣、宮田麻理子、末梢神経損傷による視床内求心性線維再配線現象の神経解剖学的および機能的解析、東京女子医科大学総合研究所紀要 32: 20-21, 170, 2012年
@@ -199,6 +200,7 @@
 1.  <ins>竹内雄一</ins>、セゲド便り、上原記念生命科学財団 一年の歩み H28: 104–105, Aug 2017
 1.  <ins>竹内雄一</ins>、転入のご挨拶、芳香 71: 6, 25 Mar 2022
 1.  <ins>竹内雄一</ins>、脳・神経系疾患の新規制御法開発と人材育成、近畿大学薬友会報 令和６年度号, 01 Apr 2024
+1.  <ins>竹内雄一</ins>、AWARDS：神経・精神疾患の制御を目的とした新規脳刺激技術の研究開発、日本生理学雑誌 86(3): 46, Jul 2024
 1.  <ins>竹内雄一</ins>、転出のご挨拶、芳香 *in press*.
 1. 川岸裕幸、<ins>竹内雄一</ins>、韓国薬学会会議派遣報告 -2024 Fall International Convention of the Pharmaceutical Society of Korea-、ファルマシア、*in press*.
 
