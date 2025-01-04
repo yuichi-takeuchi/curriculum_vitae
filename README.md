@@ -1,4 +1,4 @@
-Updated on Jan 3rd, 2025
+Updated on Jan 4th, 2025
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -151,7 +151,7 @@ Updated on Jan 3rd, 2025
 1. Hara K, <ins>Takeuchi Y</ins>, Time-targeted stimulation of the bran rewarding system as a novel brain disorder treatment, **_Medical Science Digest_** 49 (3): 154–156. Mar 2023. Hokuryukan. (Invited, Japanese)
 1. Chan M†, Yoshida K†, Yang G†, Mimura T†, Kudo N, <ins>Takeuchi Y</ins>\*, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, *in press*, Springer-Nature. (Invited)
 
-### Proceedings and Reports
+### Proceedings and Research Reports
 1. <ins>Takeuchi Y</ins>, Annual report of research project, Hyper-Adaptability Area 2022 Annual report, A05-1, 2023.
 1. <ins>Takeuchi Y</ins>, Closed-loop control of epilepsy with transcranial ultrasound irradiation, Tateisi Foundation Annual report 32: 2221019, 2023.
 1. <ins>Takeuchi Y</ins>, Development of a non-invasive and spatiotemporally-specific in vivo gene transfection technology, Noastec Foundation  Research Report 2023: 7, 2023.
