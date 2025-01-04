@@ -365,14 +365,6 @@ https://doi.org/10.6084/m9.figshare.6160181
 ## Educational Publications
 1.	<ins>Takeuchi Y</ins> (2017) Physiological Education and Japanese Medical Students in University of Szeged. J Physiol Soc Japan 79: 8-15. (Peer Reviewed, Japanese) http://physiology.jp/wp-content/uploads/2017/01/Education_20170201_8-15.pdf.
 
-
-### Teaching Committee and Organization
-|        |                                                                                           |
-| ------ | ----------------------------------------------------------------------------------------- |
-| FY2015 | Segment 2 Tutorial Committee Member	School of Medicine, Tokyo Women’s Medical University  |
-| FY2015 | Tutorial Committee Organizing Member	School of Medicine, Tokyo Women’s Medical University |
-| FY2021 | Admission committee, Hokkaido University                                                  |
-
 ### Relevant Experience
 |      |                                                                                                                   |
 | ---- | ----------------------------------------------------------------------------------------------------------------- |
