@@ -157,25 +157,16 @@ Updated on Jan 4th, 2025
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 15, 2022. (Abstract No. 565.14) Poster
 1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. 9th Biomedical Imaging and Sensing Conference. Yokohama, Japan. Apr 21, 2023. (Abstract No. BISC9-01) Symposium
 1. Li Q†, <ins>Takeuchi Y</ins>†, Wang J, Gellért L, Barcsai L, Pedraza LK, Nagy AJ, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Horváth G, Kékesi G, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. The 2nd International Symposium Hyper-Adaptability. Kyoto, Japan. Nov 29, 2023. (Abstract No. II-10) Poster
+1. <ins>Takeuchi Y</ins>, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. Gordon Research Conference: In Vivo Ultrasound Imaging 2024. Waterville valley, U.S.A. Aug 25–30, 2024. Poster
+1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. 2024 Fall International Convention of The Pharmaceutical Society of Korea. Seoul, Korea. Nov 22, 2024. (Abstract No. S11-2) Symposium
 
 ### Recent Abstracts (Domestic)
-1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Berényi A, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-069) Poster
-1. <ins>Takeuchi Y</ins>, Li Q, Berényi A, Minami M, Decoding and quantification of seizure susceptibility with cross-regional oscillatory brain activity patterns in a rat model of temporal lobe epilepsy. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30 – Jul 03, 2022. (Abstract No. 1P-109) Poster
-1. Chan M, Li Q, Horváth G, Berényi A, Minami M, <ins>Takeuchi Y</ins>, Reduced operant task engagement and altered neural oscillations in a triple-hit rat model of schizophrenia. The 45th Annual Meeting of the Japan Neuroscience Society. Okinawa, Japan. Jun 30, 2022. (Abstract No. 1P-263) Poster
-1. <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 73rd meeting of the north branch of The Japanese Pharmacological Society. Sapporo, Japan. Sep 18th, 2022.
-1. <ins>Takeuchi Y</ins>, Chan M, Maeki M, Kudo N, Development of Transcranial Gene Manipulation Technologies. The 8th Hokkaido University Cross-Departmental Symposium. Sapporo, Japan. Oct 28th, 2022. (Abstract No. K-14) Poster
-1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 8th Hokkaido University Cross-Departmental Symposium. Sapporo, Japan. Oct 28th, 2022. (Abstract No. P-49) Poster
-1. <ins>Takeuchi Y</ins>, Closed-loop control of neurological and psychiatric disorders, BPCNPNPPP4. Tokyo, Japan. Nov 4th, 2022. (Abstract No. S13-3) Symposium
-1. Itagaki K, Minami M, <ins>Takeuchi Y</ins>, Bidirectional GABAergic and cholinergic modulation of delta-band activities in a hippocampal-like circuit in silico, The 100th Anniversary Annual Meeting of The Physiological Society of Japan. Kyoto, Japan. Mar 14th, 2023．(Abstract No. 1P-023) Poster
-1. Mimura T, Chan M, Minami M, <ins>Takeuchi Y</ins>, Transcranial sonoporation technology for non-invasive gene transfection to neurons in the cerebral cortex, The 143rd Annual Meeting of the Pharmaceutical Society of Japan. Sapporo, Japan. Mar 26, 2023. (Abstract No. 26P1-pm2-089S) Poster
-1. Mimura T, Chan M, Minami M, Omata D, Suzuki R, <ins>Takeuchi Y</ins>, Transcranial sonoporation technology for non-invasive gene transfection, The 150th Annual Meeting of the Hokkaido Branch of the Pharmaceutical Society of Japan. Sapporo, Japan. May 21st, 2023. (Abstract No. C-11) Poster
-1. Yoshida K, Minami M, <ins>Takeuchi Y</ins>, A closed-loop transcranial ultrasound irradiation system for an awake rat model of absence epilepsy, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 1, 2023. (Abstract No. 1Pm-094) Poster
-1. Chan M, Mimura T, Minami M, <ins>Takeuchi Y</ins>, Non-invasive gene transfection to neurons in the cortex using transcranial ultrasound irradiation, The 46th Annual Meeting of the Japan Neuroscience Society. Sendai, Japan. Aug 3, 2023. (Abstract No. 3Pm-131) Poster
-1. Yoshida K, Chan M, Minami M, <ins>Takeuchi Y</ins>, A neural basis of decision-making when faced with contradictory predictions of reward and punishment, CogFeel@ALIFE2023. Sapporo, Japan. Jul 25, 2023. Oral
-1. Yoshida K, Xu Y, Mimura T, Chan M, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, JNNS2023. Tokyo, Japan. Sep 4, 2023. (Abstract No. 15) Poster
-1. Yoshida K, Minami M, <ins>Takeuchi Y</ins>, A closed-loop sonogenetic control of absence epilepsy, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 28, 2024. (Abstract No. 1S05a-3) Symposium
-1. Mimura T, Chan M, Minami M, Kudo N, <ins>Takeuchi Y</ins>, A non-invasive gene transfection technology using transcranial focused ultrasound irradiation, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 29, 2024. (Abstract No. 2P-150) Poster
-1. <ins>Takeuchi Y</ins>, Reinstating olfactory bulb-derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 30, 2024. (Abstract No. 3O09-02-01) Oral
+1. Yoshida K, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Bacterial mechano-sensitive channels effectively enhance neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice, NEURO2024. Fukuoka, Japan. Jul 24, 2024. (Abstract No. 1P-304) Poster
+1. Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>, Shimojo M, Higuchi M, Intrinsic neuronal responses to ultrasound irradiation via the mechanosensitive channel in cultured mouse cortical neurons, NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstract No. 3O01e-02)  Oral
+1. Chan M, Minami M, <ins>Takeuchi Y</ins>, Chemogenetic inhibition of the prefrontal cortex induces impulsive decision-making in Long-Evans rats, NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstaract No. 3P-221) Poster
+1. Shimojo M, Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>, Higuchi M, Ultrasound induces network excitation of mouse cortical neurons, NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstaract No. 3P-484) Poster
+1. <ins>Takeuchi Y</ins>, Limbic gamma oscillation maintains positive mood. The 58th Annual Meeting of the Japanese Association for the Study of Taste and Smell. Okayama, Japan. Sep 11, 2024. (Abstract No. S1-2) Symposium
+1. Yoshida K, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Bacterial mechano-sensitive channels effectively enhance neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice. The NIPS Learning & Memory meeting 2024. Okazaki, Japan. Sep 17, 2024. Poster
 
 ### Scientific Essays
 1.	<ins>Takeuchi Y</ins> (2013) Report of the 36th Annual Meeting of Japanese Neuroscience Society. Neuroscience News of the Japan Neuroscience Society 195: 10. (Japanese)
@@ -277,7 +268,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2017 | Invited speaker, MathWorks Asia Research Summit 2017, Tokyo, Japan                                                                        |
 | 2018 | Invited speaker, PCS 3rd Global Cell Science and Stem Cell Conference, Budapest, Hungary                                                  |
 | 2018 | Invited speaker, Osaka City University, Osaka, Japan                                                                                      |
-| 2018 | Invited speaker, The Pharmaceutical Society of Japan, Tokai Branch @ Nagoya City University, Nagoya, Japan                                |
+| 2018 | Invited speaker, The Pharmaceutical Society of Japan Tokai Branch @ Nagoya City University, Nagoya, Japan                                |
 | 2018 | Invited speaker, Seminar @ National Institute of Physiological Sciences                                                                   |
 | 2019 | Invited speaker, Seminar @ University of Szeged, Szeged, Hungary                                                                          |
 | 2019 | Invited speaker, Seminar @ Osaka City University, Osaka, Japan                                                                            |
@@ -293,11 +284,18 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2022 | Invited speaker, Summer Program @ Taipei Medical University, Taipei City, Taipei                                                          |
 | 2022 | Invited symposiast, Seitai-kinou and Souyaku Symposium 2022 @ University of Shizuoka, Shizuoka, Japan                                     |
 | 2022 | Invited speaker, The 73th Meeting of the North Branch of the Japanese Pharmacological Society, Sapporo, Japan                             |
-| 2022 | Invited speaker, Dr. Wake CREST kick-off symposium, Sapporo, Japan                                                                        |
+| 2022 | Invited symposiast, Dr. Wake CREST kick-off symposium, Sapporo, Japan                                                                        |
 | 2022 | Invited speaker, NIPS seminar, Online                                                                                                     |
 | 2022 | Invited symposiast, BPCNPNPPP4 conference, Tokyo, Japan                                                                                   |
 | 2023 | Invited speaker, Kobe University, Online                                                                                                  |
-| 2023 | Invited speaker, Ritsumeikan Univ, Online                                                                                                 |
+| 2023 | Invited speaker, BISC2023/OPIC2023, Yokohama, Japan                                                                                                 |
+| 2023 | Invited symposiast, Ritsumeikan Univ, Online                                                                                                 |
+| 2024 | Invited speaker, The 101st Annual Meeting of the Phyiological Society of Japan, Kokura                                                                                                 |
+| 2024 | Invited speaker, Seminar @ Hokkaido University, Sapporo, Japan                                                                               |
+| 2024 | Invited symposiast, The 58th Annual Meeting of the Japanese Association for the Study of Taste and Smell, Okayama, Japan                                                                                                 |
+| 2024 | Invited symposiast, 2024 Fall International Convention of The Pharmaceutical Society of Korea, Seoul, Korea                                                                                                 |
+| 2024 | Invited symposiast, The NIPS Synapse Meeting 2024, Okazaki, Japan                                                                                                 |
+| 2024 | Invited speaker, The Pharmaceutical Society of Japan Hokuriku Branch @ Kanazawa University, Kanazawa, Japan                                |
 
 ## Contributed Talks
 |      |                                                                                                          |
@@ -311,6 +309,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2020 | Research forum, National Institute for Physiological Sciences, Okazaki, Japan (online)                   |
 | 2021 | Research forum, Osaka City University, Osaka, Japan                                                      |
 | 2021 | The 8th Japan BMI Research forum (online)                                                                |
+| 2024 | The 1st Meeting of Young PRIME Researchers, Kumamoto, Japan                                              |
 
 ## Relevant Experience
 |      |                                                                                                                                                                      |
