@@ -1,4 +1,4 @@
-2024年 1月 4日現在
+2024年 1月 7日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -549,4 +549,4 @@
 | 26 Nov 2016  | セゲド大学　医学部　生理学部門　オープンキャンパス |
 | 7,8 Aug 2022 | 北海道大学　薬学部　オープンキャンパス             |
 | 11 Sep 2023  | 日本神経科学学会公認・ニューロナビゲータ            |
-|  4 Dec 2024  | プレスリリース: [Link1](https://www.qst.go.jp/site/press/20241204.html) [Link2](https://newscast.jp/news/0254276) [報道](http://ytake.org/wp-content/uploads/2025/01/acc215c6a60ff47b2a6a7d4a8188f3c0.pdf) |
+|  4 Dec 2024  | プレスリリース: [Link1](https://www.qst.go.jp/site/press/20241204.html) [Link2](https://newscast.jp/news/0254276) [報道1](http://ytake.org/wp-content/uploads/2025/01/acc215c6a60ff47b2a6a7d4a8188f3c0.pdf) [報道2](http://ytake.org/wp-content/uploads/2025/01/e10637d1277194812dad37b04e4578af.pdf) |
