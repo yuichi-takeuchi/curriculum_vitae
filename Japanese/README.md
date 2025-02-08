@@ -1,4 +1,4 @@
-2024年 1月 7日現在
+2025年 2月 8日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -492,6 +492,7 @@
 | 2023–現在   | Current Molecular Pharmacology                                                      |
 | 2024–現在   | Journal of Ethnopharmacology                                                        |
 | 2024–現在   | Learning and Motivation                                                             |
+| 2024–現在   | Neuroscience and Behavioral Reviews                                                 |
 
 ### Post-publication Peer Reviews
 |             |                                              |
