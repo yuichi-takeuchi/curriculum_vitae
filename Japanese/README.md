@@ -144,8 +144,9 @@
 1. <ins>竹内雄一</ins>、関和彦、超音波と神経疾患－How useful?：超音波ニューロモデュレーション、***Clin Neurosci*** 40 (2): 249–253, 2022.2. 中外医学社
 1. <ins>Takeuchi Y</ins>\*, Kawano T, Li Q, Mima T, Nagai J, eds. (2022). Oscillotherapeutics - Toward Real-Time Control of Pathological Oscillations in the Brain. Lausanne: **_Frontiers Media_** SA. DOI: https://doi.org/10.3389/978-2-88976-458-7
 1. 原巧樹、<ins>竹内雄一</ins>、ひきこもりと精神疾患：報酬系脳領域刺激による脳疾患治療、***Medical Science Digest*** 49 (3): 154–156, 2023.3. 北隆館
-1. Chan M†, Yoshida K†, Yang G†, Mimura T†, Li Q, Kudo N, <ins>Takeuchi Y</ins>\*, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, *in press*, Springer-Nature.
+1. Chan M†, Yoshida K†, Yang G†, Mimura T†, Li Q, Kudo N, <ins>Takeuchi Y</ins>\*, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, Springer Nature, London, *in press*. (Invited)
 1. <ins>竹内雄一</ins>、ブレインサイエンスレビュー２０２５：時間標的脳深部刺激法による神経・精神疾患の制御法開発、***Brain Science Reviews***, *in press*. アドスリー
+1. 吉田楓、原巧樹、<ins>竹内雄一</ins>、てんかん研究最前線：閉ループ制御と非侵襲的脳刺激技術による新規てんかん制御法の研究開発、***BIO Clinica***, *in press*. 北隆館
 
 ### 紀要、研究報告
 1.  <ins>竹内雄一</ins>、内田萌衣、宮田麻理子、末梢神経損傷による視床内求心性線維再配線現象の神経解剖学的および機能的解析、東京女子医科大学総合研究所紀要 32: 20-21, 170, 2012年
