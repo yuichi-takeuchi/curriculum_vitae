@@ -1,4 +1,4 @@
-Updated on Feb 8th, 2025
+Updated on Feb 23rd, 2025
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -141,7 +141,7 @@ Updated on Feb 8th, 2025
 †: Co-first author; \*: Corresponding author
 ### Book etc.
 1. <ins>Takeuchi Y</ins>\*, Kawano T, Li Q, Mima T, Nagai J, eds. (2022). Oscillotherapeutics - Toward Real-Time Control of Pathological Oscillations in the Brain. Lausanne: **_Frontiers Media_** SA. DOI: https://doi.org/10.3389/978-2-88976-458-7
-1. Chan M†, Yoshida K†, Yang G†, Mimura T†, Li Q, Kudo N, <ins>Takeuchi Y</ins>\*, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, *in press*, Springer-Nature. (Invited)
+1. Chan M†, Yoshida K†, Yang G†, Mimura T†, Li Q, Kudo N, <ins>Takeuchi Y</ins>\*, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, Springer Nature, London, *in press*. (Invited)
 
 ### Proceedings and Research Reports
 1. <ins>Takeuchi Y</ins>, Annual report of research project, Hyper-Adaptability Area 2022 Annual report, A05-1, 2023.
