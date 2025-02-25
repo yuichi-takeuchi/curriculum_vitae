@@ -175,6 +175,7 @@
 1. Li Q†, <ins>Takeuchi Y</ins>†, Wang J, Gellért L, Barcsai L, Pedraza LK, Nagy AJ, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Horváth G, Kékesi G, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. The 2nd International Symposium Hyper-Adaptability. Kyoto, Japan. Nov 29, 2023. (Abstract No. II-10) Poster
 1. <ins>Takeuchi Y</ins>, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. Gordon Research Conference: In Vivo Ultrasound Imaging 2024. Waterville valley, U.S.A. Aug 25–30, 2024. Poster
 1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. 2024 Fall International Convention of The Pharmaceutical Society of Korea. Seoul, Korea. Oct 22, 2024. (Abstract No. S11-2) Symposium
+1. Xu Y, Minami M, <ins>Takeuchi Y</ins>, Precise control of heart rate to a given setpoint by closed-loop transcranial ultrasound irradiation to the medulla cardiovascular center in anesthetized rats. 6th International Brain Stimulation Conference. Kobe, Japan. Feb 23–25, 2025. (Abstract No. BRST2025_0250) Poster
 
 ### 国内学会発表（直近）
 1. 原巧樹、南雅文、<ins>竹内雄一</ins>、時間特異的報酬系脳領域刺激による認知機能の向上、日本薬学会北海道支部第151回支部例会、札幌、7月7日、2024．(Abstract No. C-5) Poster
