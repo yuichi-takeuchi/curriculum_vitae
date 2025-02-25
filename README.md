@@ -1,4 +1,4 @@
-Updated on Feb 23rd, 2025
+Updated on Feb 25th, 2025
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -158,7 +158,7 @@ Updated on Feb 23rd, 2025
 1. Li Q†, <ins>Takeuchi Y</ins>†, Wang J, Gellért L, Barcsai L, Pedraza LK, Nagy AJ, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Horváth G, Kékesi G, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. The 2nd International Symposium Hyper-Adaptability. Kyoto, Japan. Nov 29, 2023. (Abstract No. II-10) Poster
 1. <ins>Takeuchi Y</ins>, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. Gordon Research Conference: In Vivo Ultrasound Imaging 2024. Waterville valley, U.S.A. Aug 25–30, 2024. Poster
 1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. 2024 Fall International Convention of The Pharmaceutical Society of Korea. Seoul, Korea. Nov 22, 2024. (Abstract No. S11-2) Symposium
-1. Xu Y, Minami M, <ins>Takeuchi Y</ins>, Precise control of heart rate to a given setpoint by closed-loop transcranial ultrasound irradiation to the medulla cardiovascular center in anesthetized rats. 6th International Brain Stimulation Conference. Kobe, Japan. Feb 23–25, 2025. (Abstract No. BRST2025_0250) Poster
+1. Xu Y, Minami M, <ins>Takeuchi Y</ins>, Precise control of heart rate to a given setpoint by closed-loop transcranial ultrasound irradiation to the medulla cardiovascular center in anesthetized rats. 6th International Brain Stimulation Conference. Kobe, Japan. Feb 24, 2025. (Abstract No. BRST2025_0250) Poster
 
 ### Recent Abstracts (Domestic)
 1. Yoshida K, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Bacterial mechano-sensitive channels effectively enhance neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice, NEURO2024. Fukuoka, Japan. Jul 24, 2024. (Abstract No. 1P-304) Poster
