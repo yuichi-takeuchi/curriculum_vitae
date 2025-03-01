@@ -1,4 +1,4 @@
-Updated on Feb 25th, 2025
+Updated on Mar 1st, 2025
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -221,7 +221,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 1. Identification of the mechanism of chronic pain focusing on oscillatory brain activity and its application to the development of chronic pain relief therapy. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (B) (Grant no. 24K02786), Role: Co-Investigator, Period: 2024–2028, Total cost: 1,274,000 JPY
 
 ### Contract Researches
-1. Moonshot Goal 7. Japan Agency for Medical Research and Development, Moonshot Research and Development Program, Role: Co-Investigator, Period: 2021–2026, Total cost: 35,750,000 JPY
+1. Moonshot Goal 7. Japan Agency for Medical Research and Development, Moonshot Research and Development Program, Role: Co-Investigator, Period: 2021–2026, Total cost: 37,700,000 JPY
 1. Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, AMED Prime, Role: PI, Period: 2022–2026, Total cost: 52,000,000 JPY
 
 ### Research Foundation and Other Competitive Research Funds
