@@ -1,4 +1,4 @@
-Updated on Mar 1st, 2025
+Updated on Apr 15th, 2025
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -479,6 +479,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 2024–present | Journal of Ethnopharmacology                                                        |
 | 2024–present | Learning and Motivation                                                             |
 | 2024–present | Neuroscience and Behavioral Reviews                                                 |
+| 2025–present | Journal of Neurorestoratology                                                       |
 
 ## Post-publication Peer Reviews
 |             |                                              |
