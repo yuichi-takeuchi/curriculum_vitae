@@ -1,4 +1,4 @@
-2025年 3月 1日現在
+2025年 4月 15日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -495,6 +495,7 @@
 | 2024–現在   | Journal of Ethnopharmacology                                                        |
 | 2024–現在   | Learning and Motivation                                                             |
 | 2024–現在   | Neuroscience and Behavioral Reviews                                                 |
+| 2025–現在   | Journal of Neurorestoratology                                                       |
 
 ### Post-publication Peer Reviews
 |             |                                              |
