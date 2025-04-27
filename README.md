@@ -1,4 +1,4 @@
-Updated on Apr 15th, 2025
+Updated on Apr 27th, 2025
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -150,7 +150,7 @@ Updated on Apr 15th, 2025
 1. <ins>Takeuchi Y</ins>, An international collaboration research for clinical application of a novel therapeutic technology of epilepsy, The Nagai Foundation Tokyo Annual Report 29: 6–8, 2023.
 
 ### Recent Preprints
-1. Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>\*, Higuchi M, Shimojo M\*, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. **_bioRxiv_** 2024.03.06.583779. DOI: https://doi.org/10.1101/2024.03.06.583779
+1. Ishimoto T, Abe T, Nakamura Y, Tsuyama T, Kondoh K, Kajitani N, Yoshida K, <ins>Takeuchi Y</ins>, Kato KX, Xu S, Koduki M, Ichimura M, Itoi T, Shimba K, Yamaguchi Y, Minami M, Koike S, Kasai K, Ye JJ, Takebayashi M, Yamagata K, Toda C, Chronic social defeat causes dysregulation of systemic glucose metabolism via the cerebellar fastigial nucleus. **_bioRxiv_** 2025.02.18.638938. DOI: https://doi.org/10.1101/2025.02.18.638938
 
 ### Recent Abstracts (International)
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 15, 2022. (Abstract No. 565.14) Poster
