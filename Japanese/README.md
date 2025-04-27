@@ -1,4 +1,4 @@
-2025年 4月 15日現在
+2025年 4月 27日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -144,9 +144,10 @@
 1. <ins>竹内雄一</ins>、関和彦、超音波と神経疾患－How useful?：超音波ニューロモデュレーション、***Clin Neurosci*** 40 (2): 249–253, 2022.2. 中外医学社
 1. <ins>Takeuchi Y</ins>\*, Kawano T, Li Q, Mima T, Nagai J, eds. (2022). Oscillotherapeutics - Toward Real-Time Control of Pathological Oscillations in the Brain. Lausanne: **_Frontiers Media_** SA. DOI: https://doi.org/10.3389/978-2-88976-458-7
 1. 原巧樹、<ins>竹内雄一</ins>、ひきこもりと精神疾患：報酬系脳領域刺激による脳疾患治療、***Medical Science Digest*** 49 (3): 154–156, 2023.3. 北隆館
+1. <ins>竹内雄一</ins>、ブレインサイエンスレビュー２０２５：時間標的脳深部刺激法による神経・精神疾患の制御法開発、***Brain Science Reviews***: 127–142, 2025.3. アドスリー
+1. 吉田楓、原巧樹、<ins>竹内雄一</ins>、てんかん研究最前線：閉ループ制御と非侵襲的脳刺激技術による新規てんかん制御法の研究開発、***BIO Clinica*** 40 (4): 82–85, 2025.4. 北隆館
 1. Chan M†, Yoshida K†, Yang G†, Mimura T†, Li Q, Kudo N, <ins>Takeuchi Y</ins>\*, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, Springer Nature, London, *in press*. (Invited)
-1. <ins>竹内雄一</ins>、ブレインサイエンスレビュー２０２５：時間標的脳深部刺激法による神経・精神疾患の制御法開発、***Brain Science Reviews***, *in press*. アドスリー
-1. 吉田楓、原巧樹、<ins>竹内雄一</ins>、てんかん研究最前線：閉ループ制御と非侵襲的脳刺激技術による新規てんかん制御法の研究開発、***BIO Clinica***, *in press*. 北隆館
+1. 吉田楓、Michele Chan、Gangsheng Yang、工藤信樹、<ins>竹内雄一</ins>、超音波ニューロモデュレーション法の研究開発、***超音波TECHNO***, *in press*. 日本工業出版
 
 ### 紀要、研究報告
 1.  <ins>竹内雄一</ins>、内田萌衣、宮田麻理子、末梢神経損傷による視床内求心性線維再配線現象の神経解剖学的および機能的解析、東京女子医科大学総合研究所紀要 32: 20-21, 170, 2012年
@@ -167,7 +168,7 @@
 1. <ins>竹内雄一</ins>、うつ症状を生じる脳内メカニズムとその制御法、日本神経科学学会 神経科学ニュース FY2023: 5: 32–33, 2024年.
 
 ### プレプリント（直近）
-1. Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>\*, Higuchi M, Shimojo M\*, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. **_bioRxiv_** 2024.03.06.583779. DOI: https://doi.org/10.1101/2024.03.06.583779
+1. Ishimoto T, Abe T, Nakamura Y, Tsuyama T, Kondoh K, Kajitani N, Yoshida K, <ins>Takeuchi Y</ins>, Kato KX, Xu S, Koduki M, Ichimura M, Itoi T, Shimba K, Yamaguchi Y, Minami M, Koike S, Kasai K, Ye JJ, Takebayashi M, Yamagata K, Toda C, Chronic social defeat causes dysregulation of systemic glucose metabolism via the cerebellar fastigial nucleus. **_bioRxiv_** 2025.02.18.638938. DOI: https://doi.org/10.1101/2025.02.18.638938
 
 ### 国際学会発表（直近）
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 15, 2022. (Abstract No. 565.14) Poster
@@ -190,14 +191,14 @@
 
 ### 随筆
 1.  <ins>竹内雄一</ins>、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10–11,  2013
-1.  <ins>竹内雄一</ins>、AFTERNOON TEA：心を動かす体験、日本生理学雑誌 77: 6 – 7,  Jan 2015
+1.  <ins>竹内雄一</ins>、AFTERNOON TEA：心を動かす体験、日本生理学雑誌 77: 6–7,  Jan 2015
 1.  <ins>竹内雄一</ins>、ハンガリー紀行、名古屋市立大学薬友会関東支部会報、Jun 2015
 1.  <ins>竹内雄一</ins>、セゲド便り、上原記念生命科学財団 一年の歩み H28: 104–105, Aug 2017
 1.  <ins>竹内雄一</ins>、転入のご挨拶、芳香 71: 6, 25 Mar 2022
 1.  <ins>竹内雄一</ins>、脳・神経系疾患の新規制御法開発と人材育成、近畿大学薬友会報 令和６年度号, 01 Apr 2024
 1.  <ins>竹内雄一</ins>、AWARDS：神経・精神疾患の制御を目的とした新規脳刺激技術の研究開発、日本生理学雑誌 86(3): 46, Jul 2024
-1.  <ins>竹内雄一</ins>、転出のご挨拶、芳香 *in press*.
-1. 川岸裕幸、<ins>竹内雄一</ins>、韓国薬学会会議派遣報告 -2024 Fall International Convention of the Pharmaceutical Society of Korea-、ファルマシア、*in press*.
+1.  <ins>竹内雄一</ins>、転出のご挨拶、芳香 74: 8–9, 25 Mar 2025
+1. 川岸裕幸、<ins>竹内雄一</ins>、韓国薬学会会議派遣報告 -2024 Fall International Convention of the Pharmaceutical Society of Korea-、ファルマシア 61 (4): 346–347, 01 Apr 2024.
 
 ### データセットリポジトリ
 1.	<ins>Takeuchi Y</ins> (2017) Three-dimensional dendritic morphology of somatosensory thalamic neurons in developing mice: Takeuchi Archive. NeuroMorpho.org. URL: http://www.neuromorpho.org/bylab.jsp (Invited)
