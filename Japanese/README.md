@@ -171,12 +171,10 @@
 1. Ishimoto T, Abe T, Nakamura Y, Tsuyama T, Kondoh K, Kajitani N, Yoshida K, <ins>Takeuchi Y</ins>, Kato KX, Xu S, Koduki M, Ichimura M, Itoi T, Shimba K, Yamaguchi Y, Minami M, Koike S, Kasai K, Ye JJ, Takebayashi M, Yamagata K, Toda C, Chronic social defeat causes dysregulation of systemic glucose metabolism via the cerebellar fastigial nucleus. **_bioRxiv_** 2025.02.18.638938. DOI: https://doi.org/10.1101/2025.02.18.638938
 
 ### 国際学会発表（直近）
-1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 15, 2022. (Abstract No. 565.14) Poster
-1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. 9th Biomedical Imaging and Sensing Conference. Yokohama, Japan. Apr 21, 2023. (Abstract No. BISC9-01) Symposium
-1. Li Q†, <ins>Takeuchi Y</ins>†, Wang J, Gellért L, Barcsai L, Pedraza LK, Nagy AJ, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Horváth G, Kékesi G, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. The 2nd International Symposium Hyper-Adaptability. Kyoto, Japan. Nov 29, 2023. (Abstract No. II-10) Poster
 1. <ins>Takeuchi Y</ins>, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. Gordon Research Conference: In Vivo Ultrasound Imaging 2024. Waterville valley, U.S.A. Aug 25–30, 2024. Poster
 1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. 2024 Fall International Convention of The Pharmaceutical Society of Korea. Seoul, Korea. Oct 22, 2024. (Abstract No. S11-2) Symposium
 1. Xu Y, Minami M, <ins>Takeuchi Y</ins>, Precise control of heart rate to a given setpoint by closed-loop transcranial ultrasound irradiation to the medulla cardiovascular center in anesthetized rats. 6th International Brain Stimulation Conference. Kobe, Japan. Feb 4, 2025. (Abstract No. BRST2025_0250) Poster
+1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. QP45 & QBIC2025 International Joint Workshop. Chiba, Japan. Mar 7, 2025.
 
 ### 国内学会発表（直近）
 1. 原巧樹、南雅文、<ins>竹内雄一</ins>、時間特異的報酬系脳領域刺激による認知機能の向上、日本薬学会北海道支部第151回支部例会、札幌、7月7日、2024．(Abstract No. C-5) Poster
@@ -188,6 +186,8 @@
 1. 松下有美、吉田楓、吉屋美雪、清水敬紘、塚本智史、<ins>竹内雄一</ins>、樋口真人、下條雅文、マウス大脳神経細胞におけるTRPC6を介した超音波ニューロモデュレーション、第167回日本獣医学会学術集会、帯広、Sep 12, 2024. (Abstract No. IG-07) Oral
 1. Yoshida K, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Bacterial mechano-sensitive channels effectively enhance neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice. The NIPS Learning & Memory meeting 2024. Okazaki, Japan. Sep 17, 2024. Poster
 1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. The NIPS Synapse Meeting 2024. Okazaki, Japan. Nov 14, 2024. Symposium
+1. Yang G, Kudo N, Minami M, <ins>Takeuchi Y</ins>, A sonogenetic neuromodulation technology in a deep brain region in anesthetized rats. APPW 2025. Chiba, Japan. Mar 19, 2025. (Abstract No. 3P-030) Poster
+1. Zhao F, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Human will-driven external control of heart rate in anesthetized rats via closed-loop transcranial ultrasound irradiation to the medulla cardiovascular center. APPW 2025. Chiba, Japan. Mar 19, 2025. (Abstract No. 3P-142) Poster
 
 ### 随筆
 1.  <ins>竹内雄一</ins>、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10–11,  2013
@@ -316,14 +316,15 @@
 | 21 Oct 2022 | 生理学研究所 共同利用研究会、オンライン開催                                                                     |
 | 04 Nov 2022 | BPCNPNPPP4学会合同年会、東京                                                                                    |
 | 06 Jan 2023 | 神戸大学大学院医学研究科 脳神経内科学分野、オンラインセミナー                                                   |
-| 21 Apr 2023 | BISC2023/OPIC2023、横浜                                             |
-| 18 Aug 2023 | 立命館大学、オンラインセミナー                                       |
-| 30 Mar 2024 | 第101回日本生理学会年会、小倉                                        |
-| 06 Sep 2024 | 北海道大学医学部、部門公開セミナー                                   |
-| 11 Sep 2024 | 日本味と匂学会第58回大会、岡山                                       |
-| 22 Oct 2024 | 2024 Fall International Convention of The Pharmaceutical Society of Korea, Seoul, Korea                                       |
-| 14 Nov 2024 | 生理学研究所 シナプス研究会2024、岡崎                                 |
-| 09 Dec 2024 | 日本薬学会北陸支部 特別講演会＠金沢大学                               |
+| 21 Apr 2023 | BISC2023/OPIC2023、横浜                                                                                      |
+| 18 Aug 2023 | 立命館大学、オンラインセミナー                                                                                |
+| 30 Mar 2024 | 第101回日本生理学会年会、小倉                                                                                 |
+| 06 Sep 2024 | 北海道大学医学部、部門公開セミナー                                                                            |
+| 11 Sep 2024 | 日本味と匂学会第58回大会、岡山                                                                                |
+| 22 Oct 2024 | 2024 Fall International Convention of The Pharmaceutical Society of Korea, Seoul, Korea                      |
+| 14 Nov 2024 | 生理学研究所 シナプス研究会2024、岡崎                                                                          |
+| 09 Dec 2024 | 日本薬学会北陸支部 特別講演会＠金沢大学                                                                        |
+| 07 Mar 2025 | Invited symposiast, QP45 & QBIC2025 International Joint Workshop, Chiba, Japan                                |
 
 ## その他の講演等
 |             |                                                                         |
