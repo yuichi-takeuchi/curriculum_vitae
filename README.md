@@ -159,6 +159,7 @@ Updated on Apr 27th, 2025
 1. <ins>Takeuchi Y</ins>, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. Gordon Research Conference: In Vivo Ultrasound Imaging 2024. Waterville valley, U.S.A. Aug 25–30, 2024. Poster
 1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. 2024 Fall International Convention of The Pharmaceutical Society of Korea. Seoul, Korea. Nov 22, 2024. (Abstract No. S11-2) Symposium
 1. Xu Y, Minami M, <ins>Takeuchi Y</ins>, Precise control of heart rate to a given setpoint by closed-loop transcranial ultrasound irradiation to the medulla cardiovascular center in anesthetized rats. 6th International Brain Stimulation Conference. Kobe, Japan. Feb 24, 2025. (Abstract No. BRST2025_0250) Poster
+1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. QP45 & QBIC2025 International Joint Workshop. Chiba, Japan. Mar 7, 2025.
 
 ### Recent Abstracts (Domestic)
 1. Yoshida K, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Bacterial mechano-sensitive channels effectively enhance neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice, NEURO2024. Fukuoka, Japan. Jul 24, 2024. (Abstract No. 1P-304) Poster
@@ -167,6 +168,8 @@ Updated on Apr 27th, 2025
 1. Shimojo M, Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>, Higuchi M, Ultrasound induces network excitation of mouse cortical neurons, NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstaract No. 3P-484) Poster
 1. <ins>Takeuchi Y</ins>, Limbic gamma oscillation maintains positive mood. The 58th Annual Meeting of the Japanese Association for the Study of Taste and Smell. Okayama, Japan. Sep 11, 2024. (Abstract No. S1-2) Symposium
 1. Yoshida K, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Bacterial mechano-sensitive channels effectively enhance neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice. The NIPS Learning & Memory meeting 2024. Okazaki, Japan. Sep 17, 2024. Poster
+1. Yang G, Kudo N, Minami M, <ins>Takeuchi Y</ins>, A sonogenetic neuromodulation technology in a deep brain region in anesthetized rats. APPW 2025. Chiba, Japan. Mar 19, 2025. (Abstract No. 3P-030) Poster
+1. Zhao F, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Human will-driven external control of heart rate in anesthetized rats via closed-loop transcranial ultrasound irradiation to the medulla cardiovascular center. APPW 2025. Chiba, Japan. Mar 19, 2025. (Abstract No. 3P-142) Poster
 
 ### Scientific Essays
 1.	<ins>Takeuchi Y</ins> (2013) Report of the 36th Annual Meeting of Japanese Neuroscience Society. Neuroscience News of the Japan Neuroscience Society 195: 10. (Japanese)
@@ -286,18 +289,19 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2022 | Invited speaker, Summer Program @ Taipei Medical University, Taipei City, Taipei                                                          |
 | 2022 | Invited symposiast, Seitai-kinou and Souyaku Symposium 2022 @ University of Shizuoka, Shizuoka, Japan                                     |
 | 2022 | Invited speaker, The 73th Meeting of the North Branch of the Japanese Pharmacological Society, Sapporo, Japan                             |
-| 2022 | Invited symposiast, Dr. Wake CREST kick-off symposium, Sapporo, Japan                                                                        |
+| 2022 | Invited symposiast, Dr. Wake CREST kick-off symposium, Sapporo, Japan                                                                     |
 | 2022 | Invited speaker, NIPS seminar, Online                                                                                                     |
 | 2022 | Invited symposiast, BPCNPNPPP4 conference, Tokyo, Japan                                                                                   |
 | 2023 | Invited speaker, Kobe University, Online                                                                                                  |
-| 2023 | Invited speaker, BISC2023/OPIC2023, Yokohama, Japan                                                                                                 |
-| 2023 | Invited symposiast, Ritsumeikan Univ, Online                                                                                                 |
-| 2024 | Invited speaker, The 101st Annual Meeting of the Phyiological Society of Japan, Kokura                                                                                                 |
-| 2024 | Invited speaker, Seminar @ Hokkaido University, Sapporo, Japan                                                                               |
-| 2024 | Invited symposiast, The 58th Annual Meeting of the Japanese Association for the Study of Taste and Smell, Okayama, Japan                                                                                                 |
-| 2024 | Invited symposiast, 2024 Fall International Convention of The Pharmaceutical Society of Korea, Seoul, Korea                                                                                                 |
-| 2024 | Invited symposiast, The NIPS Synapse Meeting 2024, Okazaki, Japan                                                                                                 |
-| 2024 | Invited speaker, The Pharmaceutical Society of Japan Hokuriku Branch @ Kanazawa University, Kanazawa, Japan                                |
+| 2023 | Invited speaker, BISC2023/OPIC2023, Yokohama, Japan                                                                                       |
+| 2023 | Invited symposiast, Ritsumeikan Univ, Online                                                                                              |
+| 2024 | Invited speaker, The 101st Annual Meeting of the Phyiological Society of Japan, Kokura                                                    |
+| 2024 | Invited speaker, Seminar @ Hokkaido University, Sapporo, Japan                                                                            |
+| 2024 | Invited symposiast, The 58th Annual Meeting of the Japanese Association for the Study of Taste and Smell, Okayama, Japan                  |
+| 2024 | Invited symposiast, 2024 Fall International Convention of The Pharmaceutical Society of Korea, Seoul, Korea                               |
+| 2024 | Invited symposiast, The NIPS Synapse Meeting 2024, Okazaki, Japan                                                                         |
+| 2024 | Invited speaker, The Pharmaceutical Society of Japan Hokuriku Branch @ Kanazawa University, Kanazawa, Japan                               |
+| 2025 | Invited symposiast, QP45 & QBIC2025 International Joint Workshop, Chiba, Japan                                                            |
 
 ## Contributed Talks
 |      |                                                                                                          |
