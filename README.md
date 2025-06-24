@@ -72,7 +72,7 @@ Updated on Apr 27th, 2025
 | 01 Apr 2022–31 Mar 2024   | Board Member, The Pharmaceutical Society of Japan Hokkaido Branch   |
 | 05 May 2023–present       | Review Editor, Frontiers in Behavioral Neuroscience                 |
 | 19 Nov 2023–present       | Mentor, IUPS International Mentoring Program                        |
-| 10 May 2024–present       | Comittee Member, The Pharmaceutical Society of Japan Kainsai Branch |
+| 10 May 2024–present       | Committee Member, The Pharmaceutical Society of Japan Kainsai Branch |
 
 ## 5. Prizes, Awards and other Honors
 |      |                                                                                                                                                     |
