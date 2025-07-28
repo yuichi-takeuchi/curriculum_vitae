@@ -1,4 +1,4 @@
-Updated on Apr 27th, 2025
+Updated on Jul 28th, 2025
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -162,14 +162,19 @@ Updated on Apr 27th, 2025
 1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. QP45 & QBIC2025 International Joint Workshop. Chiba, Japan. Mar 7, 2025.
 
 ### Recent Abstracts (Domestic)
-1. Yoshida K, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Bacterial mechano-sensitive channels effectively enhance neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice, NEURO2024. Fukuoka, Japan. Jul 24, 2024. (Abstract No. 1P-304) Poster
-1. Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>, Shimojo M, Higuchi M, Intrinsic neuronal responses to ultrasound irradiation via the mechanosensitive channel in cultured mouse cortical neurons, NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstract No. 3O01e-02)  Oral
-1. Chan M, Minami M, <ins>Takeuchi Y</ins>, Chemogenetic inhibition of the prefrontal cortex induces impulsive decision-making in Long-Evans rats, NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstaract No. 3P-221) Poster
-1. Shimojo M, Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>, Higuchi M, Ultrasound induces network excitation of mouse cortical neurons, NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstaract No. 3P-484) Poster
-1. <ins>Takeuchi Y</ins>, Limbic gamma oscillation maintains positive mood. The 58th Annual Meeting of the Japanese Association for the Study of Taste and Smell. Okayama, Japan. Sep 11, 2024. (Abstract No. S1-2) Symposium
+1. Yoshida K, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Bacterial mechano-sensitive channels effectively enhance neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice. NEURO2024. Fukuoka, Japan. Jul 24, 2024. (Abstract No. 1P-304) Poster
+1. Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>, Shimojo M, Higuchi M, Intrinsic neuronal responses to ultrasound irradiation via the mechanosensitive channel in cultured mouse cortical neurons. NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstract No. 3O01e-02)  Oral
+1. Chan M, Minami M, <ins>Takeuchi Y</ins>, Chemogenetic inhibition of the prefrontal cortex induces impulsive decision-making in Long-Evans rats. NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstaract No. 3P-221) Poster
+1. Shimojo M, Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>, Higuchi M, Ultrasound induces network excitation of mouse cortical neurons. NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstaract No. 3P-484) Poster
+1. <ins>Takeuchi Y</ins>, Limbic gamma oscillation maintains positive mood. The 58th Annual Meeting of the Japanese Association for the Study of Taste and Smell, Okayama, Japan. Sep 11, 2024. (Abstract No. S1-2) Symposium
 1. Yoshida K, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Bacterial mechano-sensitive channels effectively enhance neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice. The NIPS Learning & Memory meeting 2024. Okazaki, Japan. Sep 17, 2024. Poster
 1. Yang G, Kudo N, Minami M, <ins>Takeuchi Y</ins>, A sonogenetic neuromodulation technology in a deep brain region in anesthetized rats. APPW 2025. Chiba, Japan. Mar 19, 2025. (Abstract No. 3P-030) Poster
 1. Zhao F, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Human will-driven external control of heart rate in anesthetized rats via closed-loop transcranial ultrasound irradiation to the medulla cardiovascular center. APPW 2025. Chiba, Japan. Mar 19, 2025. (Abstract No. 3P-142) Poster
+1. Yoshida K, Matsushita Y, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Shimojo M, BNon-invasive cell type-specific neuromodulation using a sonogenetic technology. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 24, 2025. (Abstract No. 1S06a-3) Symposium
+1. Chan M, <ins>Takeuchi Y</ins>, Chemogenetic inhibition of the prefrontal cortices in Long-Evans rats induces impulsive decision-making via the reduction of limbic beta and gamma frequency oscillations. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 24, 2025. (Abstract No. 1P-160) Poster
+1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 25, 2025. (Abstract No. 2S04m-3) Symposium
+1. Yang G, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Development of a transcranial focused ultrasound irradiation system for a deep brain region with electrophysiological neural recordings in anesthetized rats. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 25, 2025. (Abstract No. 2P-297) Poster
+1. Kobayashi N, Chan M, Kudo N,  <ins>Takeuchi Y</ins>, Toward Sonogenetics: exogenous mechanosensitive channel expression in cortical neurons via a non-invasive gene delivery technology. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 26, 2025. (Abstract No. 3P-395) Poster
 
 ### Scientific Essays
 1.	<ins>Takeuchi Y</ins> (2013) Report of the 36th Annual Meeting of Japanese Neuroscience Society. Neuroscience News of the Japan Neuroscience Society 195: 10. (Japanese)
