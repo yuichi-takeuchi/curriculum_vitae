@@ -1,4 +1,4 @@
-2025年 7月 28日現在
+2025年 8月 20日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -147,7 +147,7 @@
 1. <ins>竹内雄一</ins>、ブレインサイエンスレビュー２０２５：時間標的脳深部刺激法による神経・精神疾患の制御法開発、***Brain Science Reviews***: 127–142, 2025.3. アドスリー
 1. 吉田楓、原巧樹、<ins>竹内雄一</ins>、てんかん研究最前線：閉ループ制御と非侵襲的脳刺激技術による新規てんかん制御法の研究開発、***BIO Clinica*** 40 (4): 82–85, 2025.4. 北隆館
 1. Chan M†, Yoshida K†, Yang G†, Mimura T†, Li Q, Kudo N, <ins>Takeuchi Y</ins>\*, Time-targeted intervention of brain oscillations with transcranial ultrasound irradiation, **_Neuromethods_**, Springer Nature, London, *in press*. (Invited)
-1. 吉田楓、Michele Chan、Gangsheng Yang、工藤信樹、<ins>竹内雄一</ins>、超音波ニューロモデュレーション法の研究開発、***超音波TECHNO***, *in press*. 日本工業出版
+1. 吉田楓、Michele Chan、Gangsheng Yang、工藤信樹、<ins>竹内雄一</ins>、超音波ニューロモデュレーション法の研究開発、***超音波TECHNO***, 2025.7-8: 43–47, 2025.8. 日本工業出版
 
 ### 紀要、研究報告
 1.  <ins>竹内雄一</ins>、内田萌衣、宮田麻理子、末梢神経損傷による視床内求心性線維再配線現象の神経解剖学的および機能的解析、東京女子医科大学総合研究所紀要 32: 20-21, 170, 2012年.
