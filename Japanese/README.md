@@ -1,4 +1,4 @@
-2025年 8月 20日現在
+2025年 9月 2日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -332,6 +332,7 @@
 | 14 Nov 2024 | 生理学研究所 シナプス研究会2024、岡崎                                                                          |
 | 09 Dec 2024 | 日本薬学会北陸支部 特別講演会＠金沢大学                                                                        |
 | 07 Mar 2025 | Invited symposiast, QP45 & QBIC2025 International Joint Workshop, Chiba, Japan                                |
+| 29 Sep 2025 | Invited speaker, OLFACTORY IMPLANTS AND REGENERATIVE THERAPIES: THE VERSAILLES MEETING, Versailles, France    |
 
 ## その他の講演等
 |             |                                                                         |
