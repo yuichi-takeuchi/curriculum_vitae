@@ -1,4 +1,4 @@
-Updated on Jul 28th, 2025
+Updated on Sep 2nd, 2025
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -307,6 +307,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2024 | Invited symposiast, The NIPS Synapse Meeting 2024, Okazaki, Japan                                                                         |
 | 2024 | Invited speaker, The Pharmaceutical Society of Japan Hokuriku Branch @ Kanazawa University, Kanazawa, Japan                               |
 | 2025 | Invited symposiast, QP45 & QBIC2025 International Joint Workshop, Chiba, Japan                                                            |
+| 2025 | Invited speaker, OLFACTORY IMPLANTS AND REGENERATIVE THERAPIES: THE VERSAILLES MEETING, Versailles, France                                |
 
 ## Contributed Talks
 |      |                                                                                                          |
