@@ -1,4 +1,4 @@
-2025年 9月 2日現在
+2025年 11月 12日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -486,6 +486,7 @@
 | 25 Nov 2021 | Frontiers in Behavioral Neuroscience | [Mokhothu TM and Tanaka KZ](https://doi.org/10.3389/fnbeh.2021.785328) |
 | 24 Dec 2021 | Frontiers in Behavioral Neuroscience | [Acerbo E et al](https://doi.org/10.3389/fnbeh.2021.774999)            |
 | 11 Oct 2023 | Frontiers in Human Neuroscience      | [Hüsser AM et al](https://doi.org/10.3389/fnhum.2023.1253529)          |
+| 07 Oct 2025 | Frontiers in Neurology               | [Su M et al](https://doi.org/10.3389/fneur.2025.1580273)               |
 
 ## 論文査読
 ### Pre-publication Peer Reviews
@@ -506,6 +507,7 @@
 | 2024–現在   | Learning and Motivation                                                             |
 | 2024–現在   | Neuroscience and Behavioral Reviews                                                 |
 | 2025–現在   | Journal of Neurorestoratology                                                       |
+| 2025–現在   | iScience                                                                            |
 
 ### Post-publication Peer Reviews
 |             |                                              |
