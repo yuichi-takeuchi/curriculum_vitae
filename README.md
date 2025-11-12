@@ -1,4 +1,4 @@
-Updated on Sep 2nd, 2025
+Updated on Oct 12th, 2025
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -470,6 +470,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 25 Nov 2021 | Frontiers in Behavioral Neuroscience | [Mokhothu TM and Tanaka KZ](https://doi.org/10.3389/fnbeh.2021.785328) |
 | 24 Dec 2021 | Frontiers in Behavioral Neuroscience | [Acerbo E et al](https://doi.org/10.3389/fnbeh.2021.774999)            |
 | 11 Oct 2023 | Frontiers in Human Neuroscience      | [Hüsser AM et al](https://doi.org/10.3389/fnhum.2023.1253529)          |
+| 07 Oct 2025 | Frontiers in Neurology               | [Su M et al](https://doi.org/10.3389/fneur.2025.1580273)               |
 
 ## Reviews of Research Articles
 ### Pre-publication Peer Reviews
@@ -490,6 +491,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 2024–present | Learning and Motivation                                                             |
 | 2024–present | Neuroscience and Behavioral Reviews                                                 |
 | 2025–present | Journal of Neurorestoratology                                                       |
+| 2025–present | iScience                                                                            |
 
 ## Post-publication Peer Reviews
 |             |                                              |
