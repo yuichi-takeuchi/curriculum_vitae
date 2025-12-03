@@ -1,4 +1,4 @@
-Updated on Oct 12th, 2025
+Updated on Dec 3rd, 2025
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -152,6 +152,7 @@ Updated on Oct 12th, 2025
 
 ### Recent Preprints
 1. Ishimoto T, Abe T, Nakamura Y, Tsuyama T, Kondoh K, Kajitani N, Yoshida K, <ins>Takeuchi Y</ins>, Kato KX, Xu S, Koduki M, Ichimura M, Itoi T, Shimba K, Yamaguchi Y, Minami M, Koike S, Kasai K, Ye JJ, Takebayashi M, Yamagata K, Toda C, Chronic social defeat causes dysregulation of systemic glucose metabolism via the cerebellar fastigial nucleus. **_bioRxiv_** 2025.02.18.638938. DOI: https://doi.org/10.1101/2025.02.18.638938
+1. Xu Y, Chan M, Minami M, <ins>Takeuchi Y</ins>, Closed-loop heart rate regulation based on medulla stimulation. **_bioRxiv_** 2025.11.29.691268. DOI: https://doi.org/10.64898/2025.11.29.691268
 
 ### Recent Abstracts (International)
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 15, 2022. (Abstract No. 565.14) Poster
