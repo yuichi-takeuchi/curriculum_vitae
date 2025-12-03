@@ -1,4 +1,4 @@
-2025年 11月 12日現在
+2025年 12月 3日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -172,6 +172,7 @@
 
 ### プレプリント（直近）
 1. Ishimoto T, Abe T, Nakamura Y, Tsuyama T, Kondoh K, Kajitani N, Yoshida K, <ins>Takeuchi Y</ins>, Kato KX, Xu S, Koduki M, Ichimura M, Itoi T, Shimba K, Yamaguchi Y, Minami M, Koike S, Kasai K, Ye JJ, Takebayashi M, Yamagata K, Toda C, Chronic social defeat causes dysregulation of systemic glucose metabolism via the cerebellar fastigial nucleus. **_bioRxiv_** 2025.02.18.638938. DOI: https://doi.org/10.1101/2025.02.18.638938
+1. Xu Y, Chan M, Minami M, <ins>Takeuchi Y</ins>, Closed-loop heart rate regulation based on medulla stimulation. **_bioRxiv_** 2025.11.29.691268. DOI: https://doi.org/10.64898/2025.11.29.691268
 
 ### 国際学会発表（直近）
 1. <ins>Takeuchi Y</ins>, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. Gordon Research Conference: In Vivo Ultrasound Imaging 2024. Waterville valley, U.S.A. Aug 25–30, 2024. Poster
