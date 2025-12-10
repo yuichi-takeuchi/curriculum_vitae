@@ -570,3 +570,4 @@
 | 7,8 Aug 2022 | 北海道大学　薬学部　オープンキャンパス             |
 | 11 Sep 2023  | 日本神経科学学会公認・ニューロナビゲータ            |
 |  4 Dec 2024  | プレスリリース: [Link1](https://www.qst.go.jp/site/press/20241204.html) [Link2](https://newscast.jp/news/0254276) [報道1](http://ytake.org/wp-content/uploads/2025/01/acc215c6a60ff47b2a6a7d4a8188f3c0.pdf) [報道2](http://ytake.org/wp-content/uploads/2025/01/e10637d1277194812dad37b04e4578af.pdf) |
+| 27 Jul 2025  | 近畿大学　薬学部　医療薬学科　オープンキャンパス |
