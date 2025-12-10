@@ -1,4 +1,4 @@
-Updated on Dec 3rd, 2025
+Updated on Dec 10th, 2025
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -402,6 +402,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | FY2022–2023 | Brain Science I, Lecture; Hokkaido University                                                                    |
 | FY2022–2023 | Brain Science I, Practice; Hokkaido University                                                                   |
 | FY2024–present | Advanced Lecture on Pharmaceutical and Biological Science; Kindai University                                  |
+| FY2025–present | Lecture on Pharmacology, Pharmacotherapy and Pharmacokinetics; Kindai University                                  |
 
 ## Faculty Development
 |        |                                                                                  |
@@ -445,6 +446,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | FY2024      | Lecture Slides for Introduction to Pharmacy @ Kindai University, Faculty of Pharmacy                                |
 | FY2024      | Text for Laboratory Course of Pharmacology and Pharmacokinetics @ Kindai University, Faculty of Pharmacy            |
 | FY2024      | Lecture Slides for Advanced Lecture on Pharmaceutical and Biological Science @ Kindai University                    |
+| FY2025      | Lecture Slides for Lecture on Pharmacology, Pharmacotherapy and Pharmacokinetics @ Kindai University                |
 
 ## Other Teaching Contributions
 |           |                                                                                                                                         |
