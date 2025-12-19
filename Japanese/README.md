@@ -1,4 +1,4 @@
-2025年 12月 10日現在
+2025年 12月 19日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -192,6 +192,7 @@
 1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. The NIPS Synapse Meeting 2024. Okazaki, Japan. Nov 14, 2024. Symposium
 1. Yang G, Kudo N, Minami M, <ins>Takeuchi Y</ins>, A sonogenetic neuromodulation technology in a deep brain region in anesthetized rats. APPW 2025. Chiba, Japan. Mar 19, 2025. (Abstract No. 3P-030) Poster
 1. Zhao F, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Human will-driven external control of heart rate in anesthetized rats via closed-loop transcranial ultrasound irradiation to the medulla cardiovascular center. APPW 2025. Chiba, Japan. Mar 19, 2025. (Abstract No. 3P-142) Poster
+1. 下條雅文、松下有美、吉田楓、吉屋美雪、清水敬宏、塚本智史、工藤信樹、<ins>竹内雄一</ins>、樋口真人、TRPC6チャネルを介したマウス大脳神経細胞の超音波応答メカニズム. 日本超音波医学会第98回学術集会、京都、May 30, 2025.
 1. Yoshida K, Matsushita Y, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Shimojo M, BNon-invasive cell type-specific neuromodulation using a sonogenetic technology. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 24, 2025. (Abstract No. 1S06a-3) Symposium
 1. Chan M, <ins>Takeuchi Y</ins>, Chemogenetic inhibition of the prefrontal cortices in Long-Evans rats induces impulsive decision-making via the reduction of limbic beta and gamma frequency oscillations. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 24, 2025. (Abstract No. 1P-160) Poster
 1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 25, 2025. (Abstract No. 2S04m-3) Symposium
