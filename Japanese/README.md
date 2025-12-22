@@ -1,4 +1,4 @@
-2025年 12月 19日現在
+2025年 12月 22日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -513,6 +513,8 @@
 | 2024–現在   | Neuroscience and Behavioral Reviews                                                 |
 | 2025–現在   | Journal of Neurorestoratology                                                       |
 | 2025–現在   | iScience                                                                            |
+| 2025–現在   | CNS Neuroscience & Therapeutics                                                     |
+| 2025–現在   | Journal of Pharmacological Sciences                                                 |
 
 ### Post-publication Peer Reviews
 |             |                                              |
