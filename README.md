@@ -1,4 +1,4 @@
-Updated on Dec 29th, 2025
+Updated on Jan 19th, 2026
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -74,6 +74,7 @@ Updated on Dec 29th, 2025
 | 19 Nov 2023–present       | Mentor, IUPS International Mentoring Program                         |
 | 10 May 2024–present       | Committee Member, The Pharmaceutical Society of Japan Kainsai Branch |
 | 07 Oct 2025–present       | Guest Associate Editor, Frontiers in Neurology                       |
+| 19 Jan 2026–present       | Board Member, The Japan Neuroscience Society                         |
 
 ## 5. Prizes, Awards and other Honors
 |      |                                                                                                                                                     |
