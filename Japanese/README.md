@@ -1,4 +1,4 @@
-2026年 1月 19日現在
+2026年 1月 26日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -516,6 +516,7 @@
 | 2025–現在   | iScience                                                                            |
 | 2025–現在   | CNS Neuroscience & Therapeutics                                                     |
 | 2025–現在   | Journal of Pharmacological Sciences                                                 |
+| 2026–現在   | Brain Stimulation                                                                   |
 
 ### Post-publication Peer Reviews
 |             |                                              |
