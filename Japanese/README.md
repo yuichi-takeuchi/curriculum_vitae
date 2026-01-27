@@ -517,6 +517,7 @@
 | 2025–現在   | CNS Neuroscience & Therapeutics                                                     |
 | 2025–現在   | Journal of Pharmacological Sciences                                                 |
 | 2026–現在   | Brain Stimulation                                                                   |
+| 2026–現在   | Biological and Pharmaceutical Bulletin                                              |
 
 ### Post-publication Peer Reviews
 |             |                                              |
