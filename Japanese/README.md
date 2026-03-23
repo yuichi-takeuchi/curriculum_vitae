@@ -1,4 +1,4 @@
-2026年 1月 26日現在
+2026年 3月 23日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -124,6 +124,8 @@
 
 ### 国際会議論文
 1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. **_Proc. SPIE_** 12608, Biomedical Imaging and Sensing Conference, 126081O. 20 Sep 2023. DOI: https://doi.org/10.1117/12.3008167
+
+1. Xu Y, Minami M, <ins>Takeuchi Y</ins>, Precise control of heart rate to a given setpoint by closed-loop transcranial ultrasound irradiation to the medulla cardiovascular center in anesthetized rats. **_Brain stimulation_** 18: 443. Jan 2025. DOI: https://doi.org/10.1016/j.brs.2024.12.673
 
 ### 国内会議論文
 1. 鈴木尚也、澤畑博人、赤井大輔、山下幸司、沼野利佳、鯉田孝和、<ins>竹内雄一</ins>、河野 剛士、超音波ニューロモジュレーション用発振回路の製作、 **_第40回「センサ・マイクロマシンと応用システム」シンポジウム_**. 7P2-PS-25. 07 Nov 2023.
