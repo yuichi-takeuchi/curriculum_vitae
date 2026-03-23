@@ -1,4 +1,4 @@
-Updated on Jan 26th, 2026
+Updated on Mar 23, 2026
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -129,6 +129,8 @@ Updated on Jan 26th, 2026
 
 ### Conference paper (International)
 1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. **_Proc. SPIE_** 12608, Biomedical Imaging and Sensing Conference, 126081O. 20 Sep 2023. DOI: https://doi.org/10.1117/12.3008167
+
+1. Xu Y, Minami M, <ins>Takeuchi Y</ins>, Precise control of heart rate to a given setpoint by closed-loop transcranial ultrasound irradiation to the medulla cardiovascular center in anesthetized rats. **_Brain stimulation_** 18: 443. Jan 2025. DOI: https://doi.org/10.1016/j.brs.2024.12.673
 
 ### Conference paper (Domestic)
 1. Suzuki N, Sawahata H, Akai D, Yamashita K, Numano R, Koida K, <ins>Takeuchi Y</ins>, Kawano T, Design and fabrication of an oscillator circuit for ultrasound neuromodulation. **_Future Technologies from Kumamoto 2023_**. 7P2-PS-25. 07 Nov 2023.
