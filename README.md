@@ -158,20 +158,11 @@ Updated on Apr 12, 2026
 1. Xu Y, Chan M, Minami M, <ins>Takeuchi Y</ins>, Closed-loop heart rate regulation based on medulla stimulation. **_bioRxiv_** 2025.11.29.691268. DOI: https://doi.org/10.64898/2025.11.29.691268
 
 ### Recent Abstracts (International)
-
 1. Shimojo M, Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, Kudo N, <ins>Takeuchi Y</ins>, Higuchi M, Ultrasound-induced neuromodulation of cortical neurons through TRPC6 channel activation. The SfN Annual Meeting. San Diego, U.S.A. Nov 15-19, 2025.
 1. Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, Kudo N, <ins>Takeuchi Y</ins>, Higuchi M, Shimojo M, TRPC6 ion channels mediate neural activation induced by ultrasonic acoustic radiation force. The SfN Annual Meeting. San Diego, U.S.A. Nov 15-19, 2025.
 
 ### Recent Abstracts (Domestic)
-1. Yoshida K, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Bacterial mechano-sensitive channels effectively enhance neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice. NEURO2024. Fukuoka, Japan. Jul 24, 2024. (Abstract No. 1P-304) Poster
-1. Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>, Shimojo M, Higuchi M, Intrinsic neuronal responses to ultrasound irradiation via the mechanosensitive channel in cultured mouse cortical neurons. NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstract No. 3O01e-02)  Oral
-1. Chan M, Minami M, <ins>Takeuchi Y</ins>, Chemogenetic inhibition of the prefrontal cortex induces impulsive decision-making in Long-Evans rats. NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstaract No. 3P-221) Poster
-1. Shimojo M, Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>, Higuchi M, Ultrasound induces network excitation of mouse cortical neurons. NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstaract No. 3P-484) Poster
-1. <ins>Takeuchi Y</ins>, Limbic gamma oscillation maintains positive mood. The 58th Annual Meeting of the Japanese Association for the Study of Taste and Smell, Okayama, Japan. Sep 11, 2024. (Abstract No. S1-2) Symposium
-1. Yoshida K, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Bacterial mechano-sensitive channels effectively enhance neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice. The NIPS Learning & Memory meeting 2024. Okazaki, Japan. Sep 17, 2024. Poster
-1. Yang G, Kudo N, Minami M, <ins>Takeuchi Y</ins>, A sonogenetic neuromodulation technology in a deep brain region in anesthetized rats. APPW 2025. Chiba, Japan. Mar 19, 2025. (Abstract No. 3P-030) Poster
-1. Zhao F, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Human will-driven external control of heart rate in anesthetized rats via closed-loop transcranial ultrasound irradiation to the medulla cardiovascular center. APPW 2025. Chiba, Japan. Mar 19, 2025. (Abstract No. 3P-142) Poster
-1. Yoshida K, Matsushita Y, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Shimojo M, BNon-invasive cell type-specific neuromodulation using a sonogenetic technology. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 24, 2025. (Abstract No. 1S06a-3) Symposium
+1. Yoshida K, Matsushita Y, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Shimojo M, Non-invasive cell type-specific neuromodulation using a sonogenetic technology. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 24, 2025. (Abstract No. 1S06a-3) Symposium
 1. Chan M, <ins>Takeuchi Y</ins>, Chemogenetic inhibition of the prefrontal cortices in Long-Evans rats induces impulsive decision-making via the reduction of limbic beta and gamma frequency oscillations. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 24, 2025. (Abstract No. 1P-160) Poster
 1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 25, 2025. (Abstract No. 2S04m-3) Symposium
 1. Yang G, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Development of a transcranial focused ultrasound irradiation system for a deep brain region with electrophysiological neural recordings in anesthetized rats. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 25, 2025. (Abstract No. 2P-297) Poster
