@@ -1,4 +1,4 @@
-2026年 3月 23日現在
+2026年 4月 12日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -182,25 +182,18 @@
 1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. 2024 Fall International Convention of The Pharmaceutical Society of Korea. Seoul, Korea. Oct 22, 2024. (Abstract No. S11-2) Symposium
 1. Xu Y, Minami M, <ins>Takeuchi Y</ins>, Precise control of heart rate to a given setpoint by closed-loop transcranial ultrasound irradiation to the medulla cardiovascular center in anesthetized rats. 6th International Brain Stimulation Conference. Kobe, Japan. Feb 4, 2025. (Abstract No. BRST2025_0250) Poster
 1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. QP45 & QBIC2025 International Joint Workshop. Chiba, Japan. Mar 7, 2025.
+1. Shimojo M, Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, Kudo N, <ins>Takeuchi Y</ins>, Higuchi M, Ultrasound-induced neuromodulation of cortical neurons through TRPC6 channel activation. The SfN Annual Meeting. San Diego, U.S.A. Nov 15-19, 2025.
+1. Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, Kudo N, <ins>Takeuchi Y</ins>, Higuchi M, Shimojo M, TRPC6 ion channels mediate neural activation induced by ultrasonic acoustic radiation force. The SfN Annual Meeting. San Diego, U.S.A. Nov 15-19, 2025.
 
 ### 国内学会発表（直近）
-1. 原巧樹、南雅文、<ins>竹内雄一</ins>、時間特異的報酬系脳領域刺激による認知機能の向上、日本薬学会北海道支部第151回支部例会、札幌、7月7日、2024．(Abstract No. C-5) Poster
-1. Yoshida K, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Bacterial mechano-sensitive channels effectively enhance neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice. NEURO2024. Fukuoka, Japan. Jul 24, 2024. (Abstract No. 1P-304) Poster
-1. Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>, Shimojo M, Higuchi M, Intrinsic neuronal responses to ultrasound irradiation via the mechanosensitive channel in cultured mouse cortical neurons. NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstract No. 3O01e-02)  Oral
-1. Chan M, Minami M, <ins>Takeuchi Y</ins>, Chemogenetic inhibition of the prefrontal cortex induces impulsive decision-making in Long-Evans rats. NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstaract No. 3P-221) Poster
-1. Shimojo M, Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>, Higuchi M, Ultrasound induces network excitation of mouse cortical neurons. NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstaract No. 3P-484) Poster
-1. <ins>Takeuchi Y</ins>, Limbic gamma oscillation maintains positive mood. The 58th Annual Meeting of the Japanese Association for the Study of Taste and Smell. Okayama, Japan. Sep 11, 2024. (Abstract No. S1-2) Symposium
-1. 松下有美、吉田楓、吉屋美雪、清水敬紘、塚本智史、<ins>竹内雄一</ins>、樋口真人、下條雅文、マウス大脳神経細胞におけるTRPC6を介した超音波ニューロモデュレーション、第167回日本獣医学会学術集会、帯広、Sep 12, 2024. (Abstract No. IG-07) Oral
-1. Yoshida K, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Bacterial mechano-sensitive channels effectively enhance neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice. The NIPS Learning & Memory meeting 2024. Okazaki, Japan. Sep 17, 2024. Poster
-1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. The NIPS Synapse Meeting 2024. Okazaki, Japan. Nov 14, 2024. Symposium
-1. Yang G, Kudo N, Minami M, <ins>Takeuchi Y</ins>, A sonogenetic neuromodulation technology in a deep brain region in anesthetized rats. APPW 2025. Chiba, Japan. Mar 19, 2025. (Abstract No. 3P-030) Poster
-1. Zhao F, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Human will-driven external control of heart rate in anesthetized rats via closed-loop transcranial ultrasound irradiation to the medulla cardiovascular center. APPW 2025. Chiba, Japan. Mar 19, 2025. (Abstract No. 3P-142) Poster
 1. 下條雅文、松下有美、吉田楓、吉屋美雪、清水敬宏、塚本智史、工藤信樹、<ins>竹内雄一</ins>、樋口真人、TRPC6チャネルを介したマウス大脳神経細胞の超音波応答メカニズム. 日本超音波医学会第98回学術集会、京都、May 30, 2025.
 1. Yoshida K, Matsushita Y, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Shimojo M, BNon-invasive cell type-specific neuromodulation using a sonogenetic technology. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 24, 2025. (Abstract No. 1S06a-3) Symposium
 1. Chan M, <ins>Takeuchi Y</ins>, Chemogenetic inhibition of the prefrontal cortices in Long-Evans rats induces impulsive decision-making via the reduction of limbic beta and gamma frequency oscillations. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 24, 2025. (Abstract No. 1P-160) Poster
 1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 25, 2025. (Abstract No. 2S04m-3) Symposium
 1. Yang G, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Development of a transcranial focused ultrasound irradiation system for a deep brain region with electrophysiological neural recordings in anesthetized rats. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 25, 2025. (Abstract No. 2P-297) Poster
 1. Kobayashi N, Chan M, Kudo N,  <ins>Takeuchi Y</ins>, Toward Sonogenetics: exogenous mechanosensitive channel expression in cortical neurons via a non-invasive gene delivery technology. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 26, 2025. (Abstract No. 3P-395) Poster
+1. 片山翔太、長井紀章、工藤信樹、<ins>竹内雄一</ins>、視床下部への超音波刺激によるシリアンハムスターの冬眠様状態を誘導する装置の開発、第75回日本薬学会関西支部大会、京都、Oct 4, 2025. (Abstract No. P2-13)
+1. 冨田佳那、長井紀章、村上正晃、田井中一貴、<ins>竹内雄一</ins>、自然発症自己免疫疾患モデルマウスにおけるペンチレンテトラゾール誘発てんかんの増悪とその神経機序の解明、第75回日本薬学会関西支部大会、京都、Oct 4, 2025. (Abstract No. P2-14)
 
 ### 随筆
 1.  <ins>竹内雄一</ins>、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10–11,  2013
@@ -430,7 +423,8 @@
 ## 教員教育
 |        |                                                                                             |
 | ------ | ------------------------------------------------------------------------------------------- |
-| FY2023 | 北海道大学 大学力強化推進本部 URAステーション主催 AMED-CREST・PRIME事業説明会＋採択者体験談 |
+| FY2023 | 北海道大学 大学力強化推進本部 URAステーション主催 AMED-CREST・PRIME事業説明会＋採択者体験談    |
+| FY2025 | 近畿大学 新任教員研修会における講演　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　    |
 
 ## 作成した教材
 |             |                                                                                                                                                                                                            |
@@ -538,17 +532,7 @@
 | 21 Feb 2024 | 特別講演会、日本薬学会北海道支部、札幌                                                                                                        |
 | 14 Mar 2024 | 特別講演会、日本薬学会北海道支部、札幌                                                                                                        |
 | 28 Mar 2024 | シンポジウム、超音波による生体機能の解明と制御 (1S05a). 第101回日本生理学会大会、北九州                                                       |
-
-## パネリスト・セッションチェア等
-|             |                                                                              |
-| ----------- | ---------------------------------------------------------------------------- |
-| 07 Jul 2018 | 3rd Global Cell Science and Stem Cell Conference                             |
-| 29 Mar 2019 | 9th FAOPS Congress, Meet the Lectures, Facilitator                           |
-| 26 Aug 2021 | 生体機能と創薬シンポジウム2021、座長                                         |
-| 30 Jun 2022 | Neuro2022、座長                                                              |
-| 20 May 2023 | 日本薬学会北海道支部第150回支部例会 一般講演、座長                           |
-| 04 Aug 2023 | 第46回日本神経科学大会、座長                                                 |
-| 06 Sep 2023 | 第2回 北海道大学遺伝子病制御研究所 生理学研究所 ジョイントシンポジウム、座長 |
+| 26, 27 Sep 2025 | AMED PRIME・若手の研究者会議＠札幌北広島クラッセホテル                                                       |
 
 ## 研究費審査
 |              |                                                                                           |
