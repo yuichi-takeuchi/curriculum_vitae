@@ -187,13 +187,14 @@
 
 ### 国内学会発表（直近）
 1. 下條雅文、松下有美、吉田楓、吉屋美雪、清水敬宏、塚本智史、工藤信樹、<ins>竹内雄一</ins>、樋口真人、TRPC6チャネルを介したマウス大脳神経細胞の超音波応答メカニズム. 日本超音波医学会第98回学術集会、京都、May 30, 2025.
-1. Yoshida K, Matsushita Y, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Shimojo M, BNon-invasive cell type-specific neuromodulation using a sonogenetic technology. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 24, 2025. (Abstract No. 1S06a-3) Symposium
+1. Yoshida K, Matsushita Y, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Shimojo M, Non-invasive cell type-specific neuromodulation using a sonogenetic technology. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 24, 2025. (Abstract No. 1S06a-3) Symposium
 1. Chan M, <ins>Takeuchi Y</ins>, Chemogenetic inhibition of the prefrontal cortices in Long-Evans rats induces impulsive decision-making via the reduction of limbic beta and gamma frequency oscillations. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 24, 2025. (Abstract No. 1P-160) Poster
 1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 25, 2025. (Abstract No. 2S04m-3) Symposium
 1. Yang G, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Development of a transcranial focused ultrasound irradiation system for a deep brain region with electrophysiological neural recordings in anesthetized rats. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 25, 2025. (Abstract No. 2P-297) Poster
 1. Kobayashi N, Chan M, Kudo N,  <ins>Takeuchi Y</ins>, Toward Sonogenetics: exogenous mechanosensitive channel expression in cortical neurons via a non-invasive gene delivery technology. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 26, 2025. (Abstract No. 3P-395) Poster
-1. 片山翔太、長井紀章、工藤信樹、<ins>竹内雄一</ins>、視床下部への超音波刺激によるシリアンハムスターの冬眠様状態を誘導する装置の開発、第75回日本薬学会関西支部大会、京都、Oct 4, 2025. (Abstract No. P2-13)
-1. 冨田佳那、長井紀章、村上正晃、田井中一貴、<ins>竹内雄一</ins>、自然発症自己免疫疾患モデルマウスにおけるペンチレンテトラゾール誘発てんかんの増悪とその神経機序の解明、第75回日本薬学会関西支部大会、京都、Oct 4, 2025. (Abstract No. P2-14)
+1. 片山翔太、長井紀章、工藤信樹、<ins>竹内雄一</ins>、視床下部への超音波刺激によるシリアンハムスターの冬眠様状態を誘導する装置の開発、第75回日本薬学会関西支部大会、京都、Oct 4, 2025. (Abstract No. P2-13)、ポスター
+1. 冨田佳那、長井紀章、村上正晃、田井中一貴、<ins>竹内雄一</ins>、自然発症自己免疫疾患モデルマウスにおけるペンチレンテトラゾール誘発てんかんの増悪とその神経機序の解明、第75回日本薬学会関西支部大会、京都、Oct 4, 2025. (Abstract No. P2-14)、ポスター
+1. 原巧樹、森本小晴、田井中一貴、南雅文、村上正晃、<ins>竹内雄一</ins>、ミエリンオリゴデンドロサイト糖タンパク感作T細胞の静脈内投与によるマウスてんかんモデルにおけるてんかん病態悪化、第99回日本薬理学会年会、仙台、Mar 16, 2026. (Abstract No. 1-YIA-10)、口頭
 
 ### 随筆
 1.  <ins>竹内雄一</ins>、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10–11,  2013
