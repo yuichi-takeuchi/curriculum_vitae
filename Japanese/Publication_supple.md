@@ -32,6 +32,10 @@
 1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 15, 2022. (Abstract No. 565.14) Poster
 1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. 9th Biomedical Imaging and Sensing Conference. Yokohama, Japan. Apr 21, 2023. (Abstract No. BISC9-01) Symposium
 1. Li Q†, <ins>Takeuchi Y</ins>†, Wang J, Gellért L, Barcsai L, Pedraza LK, Nagy AJ, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Horváth G, Kékesi G, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. The 2nd International Symposium Hyper-Adaptability. Kyoto, Japan. Nov 29, 2023. (Abstract No. II-10) Poster
+1. <ins>Takeuchi Y</ins>, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. Gordon Research Conference: In Vivo Ultrasound Imaging 2024. Waterville valley, U.S.A. Aug 25–30, 2024. Poster
+1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. 2024 Fall International Convention of The Pharmaceutical Society of Korea. Seoul, Korea. Nov 22, 2024. (Abstract No. S11-2) Symposium
+1. Xu Y, Minami M, <ins>Takeuchi Y</ins>, Precise control of heart rate to a given setpoint by closed-loop transcranial ultrasound irradiation to the medulla cardiovascular center in anesthetized rats. 6th International Brain Stimulation Conference. Kobe, Japan. Feb 24, 2025. (Abstract No. BRST2025_0250) Poster
+1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. QP45 & QBIC2025 International Joint Workshop. Chiba, Japan. Mar 7, 2025.
 
 ## 国内学会発表
 1.	<ins>Takeuchi Y</ins>, Tanabe M, Honda M, Ono H, Gabapentin supraspinally accelerates spinal noradrenalin turnover in a murine neuropathic pain model. The 79th Annual Meeting of The Japanese Pharmacological Society. Yokohama, Japan. Mar 10, 2006. (Abstract No. P3K-64) Poster
@@ -84,6 +88,17 @@
 1. Yoshida K, Minami M, <ins>Takeuchi Y</ins>, A closed-loop sonogenetic control of absence epilepsy, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 28, 2024. (Abstract No. 1S05a-3) Symposium
 1. Mimura T, Chan M, Minami M, Kudo N, <ins>Takeuchi Y</ins>, A non-invasive gene transfection technology using transcranial focused ultrasound irradiation, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 29, 2024. (Abstract No. 2P-150) Poster
 1. <ins>Takeuchi Y</ins>, Reinstating olfactory bulb-derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents, The 101st Annual Meeting of The Physiological Society of Japan. Kita-Kyushu, Japan. Mar 30, 2024. (Abstract No. 3O09-02-01) Oral
+1. 原巧樹、南雅文、<ins>竹内雄一</ins>、時間特異的報酬系脳領域刺激による認知機能の向上、日本薬学会北海道支部第151回支部例会、札幌、7月7日、2024．(Abstract No. C-5) Poster
+1. Yoshida K, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Bacterial mechano-sensitive channels effectively enhance neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice. NEURO2024. Fukuoka, Japan. Jul 24, 2024. (Abstract No. 1P-304) Poster
+1. Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>, Shimojo M, Higuchi M, Intrinsic neuronal responses to ultrasound irradiation via the mechanosensitive channel in cultured mouse cortical neurons. NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstract No. 3O01e-02)  Oral
+1. Chan M, Minami M, <ins>Takeuchi Y</ins>, Chemogenetic inhibition of the prefrontal cortex induces impulsive decision-making in Long-Evans rats. NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstaract No. 3P-221) Poster
+1. Shimojo M, Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, <ins>Takeuchi Y</ins>, Higuchi M, Ultrasound induces network excitation of mouse cortical neurons. NEURO2024. Fukuoka, Japan. Jul 26, 2024. (Abstaract No. 3P-484) Poster
+1. <ins>Takeuchi Y</ins>, Limbic gamma oscillation maintains positive mood. The 58th Annual Meeting of the Japanese Association for the Study of Taste and Smell. Okayama, Japan. Sep 11, 2024. (Abstract No. S1-2) Symposium
+1. 松下有美、吉田楓、吉屋美雪、清水敬紘、塚本智史、<ins>竹内雄一</ins>、樋口真人、下條雅文、マウス大脳神経細胞におけるTRPC6を介した超音波ニューロモデュレーション、第167回日本獣医学会学術集会、帯広、Sep 12, 2024. (Abstract No. IG-07) Oral
+1. Yoshida K, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Bacterial mechano-sensitive channels effectively enhance neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice. The NIPS Learning & Memory meeting 2024. Okazaki, Japan. Sep 17, 2024. Poster
+1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. The NIPS Synapse Meeting 2024. Okazaki, Japan. Nov 14, 2024. Symposium
+1. Yang G, Kudo N, Minami M, <ins>Takeuchi Y</ins>, A sonogenetic neuromodulation technology in a deep brain region in anesthetized rats. APPW 2025. Chiba, Japan. Mar 19, 2025. (Abstract No. 3P-030) Poster
+1. Zhao F, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Human will-driven external control of heart rate in anesthetized rats via closed-loop transcranial ultrasound irradiation to the medulla cardiovascular center. APPW 2025. Chiba, Japan. Mar 19, 2025. (Abstract No. 3P-142) Poster
 
 ## 研究課題・受託研究・科研費
 1. 宮田麻理子（代表）、櫻井裕之、大和雅之、佐々木亮、松峯元、竹内雄一
