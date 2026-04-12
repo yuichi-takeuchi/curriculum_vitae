@@ -1,4 +1,4 @@
-Updated on Mar 23, 2026
+Updated on Apr 12, 2026
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -158,13 +158,9 @@ Updated on Mar 23, 2026
 1. Xu Y, Chan M, Minami M, <ins>Takeuchi Y</ins>, Closed-loop heart rate regulation based on medulla stimulation. **_bioRxiv_** 2025.11.29.691268. DOI: https://doi.org/10.64898/2025.11.29.691268
 
 ### Recent Abstracts (International)
-1. Yoshida K, Chan M, Li Q, Pedraza L, Sierra R, Minami M, Berényi A, <ins>Takeuchi Y</ins>, A neural basis of decision-making under conflicting predictions of reward and punishment. The 52nd SfN Annual Meeting. San Diego, U.S.A. Nov 15, 2022. (Abstract No. 565.14) Poster
-1. Xu Y, Yoshida K, <ins>Takeuchi Y</ins>, Toward non-invasive, precise control of internal organs via ultrasound neuromodulation of the autonomic nervous system. 9th Biomedical Imaging and Sensing Conference. Yokohama, Japan. Apr 21, 2023. (Abstract No. BISC9-01) Symposium
-1. Li Q†, <ins>Takeuchi Y</ins>†, Wang J, Gellért L, Barcsai L, Pedraza LK, Nagy AJ, Kozák G, Nakai S, Kato S, Kobayashi K, Ohsawa M, Horváth G, Kékesi G, Lőrincz ML, Devinsky O, Buzsáki G, Berényi A, Reinstating olfactory bulb derived limbic gamma oscillations alleviates depression-like behavioral deficits in rodents. The 2nd International Symposium Hyper-Adaptability. Kyoto, Japan. Nov 29, 2023. (Abstract No. II-10) Poster
-1. <ins>Takeuchi Y</ins>, TRPC6 is a mechanosensitive channel essential for ultrasound neuromodulation in mammalian brain. Gordon Research Conference: In Vivo Ultrasound Imaging 2024. Waterville valley, U.S.A. Aug 25–30, 2024. Poster
-1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. 2024 Fall International Convention of The Pharmaceutical Society of Korea. Seoul, Korea. Nov 22, 2024. (Abstract No. S11-2) Symposium
-1. Xu Y, Minami M, <ins>Takeuchi Y</ins>, Precise control of heart rate to a given setpoint by closed-loop transcranial ultrasound irradiation to the medulla cardiovascular center in anesthetized rats. 6th International Brain Stimulation Conference. Kobe, Japan. Feb 24, 2025. (Abstract No. BRST2025_0250) Poster
-1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. QP45 & QBIC2025 International Joint Workshop. Chiba, Japan. Mar 7, 2025.
+
+1. Shimojo M, Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, Kudo N, <ins>Takeuchi Y</ins>, Higuchi M, Ultrasound-induced neuromodulation of cortical neurons through TRPC6 channel activation. The SfN Annual Meeting. San Diego, U.S.A. Nov 15-19, 2025.
+1. Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, Kudo N, <ins>Takeuchi Y</ins>, Higuchi M, Shimojo M, TRPC6 ion channels mediate neural activation induced by ultrasonic acoustic radiation force. The SfN Annual Meeting. San Diego, U.S.A. Nov 15-19, 2025.
 
 ### Recent Abstracts (Domestic)
 1. Yoshida K, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Bacterial mechano-sensitive channels effectively enhance neural responses to transcranial ultrasound irradiation in the cerebral cortex of anesthetized mice. NEURO2024. Fukuoka, Japan. Jul 24, 2024. (Abstract No. 1P-304) Poster
@@ -411,6 +407,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 |        |                                                                                  |
 | ------ | -------------------------------------------------------------------------------- |
 | FY2023 | Hokkaido University URA station, Lectures for AMED-CREST/PRIME grant application |
+| FY2025 | Kindai University, FD seminar                                                    |
 
 ## Teaching Materials Prepared
 |             |                                                                                                                     |
@@ -521,17 +518,6 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 21 Feb 2024 | Special seminar: The Pharmaceutical Society of Japan Hokkaido Branch, Sapporo                                                                                                                             |
 | 14 Mar 2024 | Special seminar: The Pharmaceutical Society of Japan Hokkaido Branch, Sapporo                                                                                                                             |
 | 28 Mar 2024 | Symposium: Ultrasound interrogation and control physiological functions (1S05a). The 101st Annual Meeting of The Physiological Society of Japan (Kita-Kyushu)                                             |
-
-## Panelist, Chair etc.
-|             |                                                                                        |
-| ----------- | -------------------------------------------------------------------------------------- |
-| 07 Jul 2018 | 3rd Global Cell Science and Stem Cell Conference, Chair                                |
-| 29 Mar 2019 | 9th FAOPS Congress, Meet the Lectures, Facilitator                                     |
-| 26 Aug 2021 | Seitai-kinou and Souyaku symposium 2021, Chair                                         |
-| 30 Jun 2022 | Neuro2022, Chair                                                                       |
-| 20 May 2023 | The 150th Annual Meeting of the Pharmaceutical Society of Japan Hokkaido branch, Chair |
-| 04 Aug 2023 | The 46th Annual Meeting of the Japan Neuroscience Society, Chair                       |
-| 05 Sep 2023 | The 2nd IGM-NIPS Joint symposium, Chair                                                |
 
 ## Reviews of Research Grants
 |              |                                                                                           |
