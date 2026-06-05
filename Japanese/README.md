@@ -1,4 +1,4 @@
-2026年 4月 12日現在
+2026年 6月 5日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -195,6 +195,7 @@
 1. 片山翔太、長井紀章、工藤信樹、<ins>竹内雄一</ins>、視床下部への超音波刺激によるシリアンハムスターの冬眠様状態を誘導する装置の開発、第75回日本薬学会関西支部大会、京都、Oct 4, 2025. (Abstract No. P2-13)、ポスター
 1. 冨田佳那、長井紀章、村上正晃、田井中一貴、<ins>竹内雄一</ins>、自然発症自己免疫疾患モデルマウスにおけるペンチレンテトラゾール誘発てんかんの増悪とその神経機序の解明、第75回日本薬学会関西支部大会、京都、Oct 4, 2025. (Abstract No. P2-14)、ポスター
 1. 原巧樹、森本小晴、田井中一貴、南雅文、村上正晃、<ins>竹内雄一</ins>、ミエリンオリゴデンドロサイト糖タンパク感作T細胞の静脈内投与によるマウスてんかんモデルにおけるてんかん病態悪化、第99回日本薬理学会年会、仙台、Mar 16, 2026. (Abstract No. 1-YIA-10)、口頭
+1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling brain disorders. The 68th Annual Meeting of the Japanese Society of Child Neurology. Utsunomiya, Japan. Jun 4, 2026. (Abstract No. S3-2) Symposium
 
 ### 随筆
 1.  <ins>竹内雄一</ins>、第36回日本神経科学大会および若手研究者国際交流会に参加して、神経科学ニュース 133: 10–11,  2013
@@ -333,6 +334,7 @@
 | 09 Dec 2024 | 日本薬学会北陸支部 特別講演会＠金沢大学                                                                        |
 | 07 Mar 2025 | Invited symposiast, QP45 & QBIC2025 International Joint Workshop, Chiba, Japan                                |
 | 29 Sep 2025 | Invited speaker, OLFACTORY IMPLANTS AND REGENERATIVE THERAPIES: THE VERSAILLES MEETING, Versailles, France    |
+| 04 Jun 2026 | Invited symposiast, The 68th Annual Meeting of the Japanese Society of Child Neurology, Utsunomiya, Japan     |
 
 ## その他の講演等
 |             |                                                                         |
