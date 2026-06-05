@@ -1,4 +1,4 @@
-Updated on Apr 12, 2026
+Updated on Jun 5, 2026
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -158,6 +158,7 @@ Updated on Apr 12, 2026
 1. Xu Y, Chan M, Minami M, <ins>Takeuchi Y</ins>, Closed-loop heart rate regulation based on medulla stimulation. **_bioRxiv_** 2025.11.29.691268. DOI: https://doi.org/10.64898/2025.11.29.691268
 
 ### Recent Abstracts (International)
+1. <ins>Takeuchi Y</ins>, Limbic gamma oscillation maintains positive mood. OLFACTORY IMPLANTS AND REGENERATIVE THERAPIES: THE VERSAILLES MEETING. Versailles, France. Aug 29, 2025.
 1. Shimojo M, Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, Kudo N, <ins>Takeuchi Y</ins>, Higuchi M, Ultrasound-induced neuromodulation of cortical neurons through TRPC6 channel activation. The SfN Annual Meeting. San Diego, U.S.A. Nov 15-19, 2025.
 1. Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, Kudo N, <ins>Takeuchi Y</ins>, Higuchi M, Shimojo M, TRPC6 ion channels mediate neural activation induced by ultrasonic acoustic radiation force. The SfN Annual Meeting. San Diego, U.S.A. Nov 15-19, 2025.
 
@@ -167,6 +168,7 @@ Updated on Apr 12, 2026
 1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 25, 2025. (Abstract No. 2S04m-3) Symposium
 1. Yang G, Kudo N, Minami M, <ins>Takeuchi Y</ins>, Development of a transcranial focused ultrasound irradiation system for a deep brain region with electrophysiological neural recordings in anesthetized rats. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 25, 2025. (Abstract No. 2P-297) Poster
 1. Kobayashi N, Chan M, Kudo N,  <ins>Takeuchi Y</ins>, Toward Sonogenetics: exogenous mechanosensitive channel expression in cortical neurons via a non-invasive gene delivery technology. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 26, 2025. (Abstract No. 3P-395) Poster
+1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling brain disorders. The 68th Annual Meeting of the Japanese Society of Child Neurology. Utsunomiya, Japan. Jun 4, 2026. (Abstract No. S3-2) Symposium
 
 ### Scientific Essays
 1.	<ins>Takeuchi Y</ins> (2013) Report of the 36th Annual Meeting of Japanese Neuroscience Society. Neuroscience News of the Japan Neuroscience Society 195: 10. (Japanese)
@@ -300,6 +302,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2024 | Invited speaker, The Pharmaceutical Society of Japan Hokuriku Branch @ Kanazawa University, Kanazawa, Japan                               |
 | 2025 | Invited symposiast, QP45 & QBIC2025 International Joint Workshop, Chiba, Japan                                                            |
 | 2025 | Invited speaker, OLFACTORY IMPLANTS AND REGENERATIVE THERAPIES: THE VERSAILLES MEETING, Versailles, France                                |
+| 04 Jun 2026 | Invited symposiast, The 68th Annual Meeting of the Japanese Society of Child Neurology, Utsunomiya, Japan                          |
 
 ## Contributed Talks
 |      |                                                                                                          |
