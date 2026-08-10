@@ -1,4 +1,4 @@
-Updated on Jun 5, 2026
+Updated on Aug 10, 2026
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -494,6 +494,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 2025–present | Journal of Pharmacological Sciences                                                 |
 | 2026–present | Brain Stimulation                                                                   |
 | 2026–present | Biological and Pharmaceutical Bulletin                                              |
+| 2026–present | Frontiers in Neuroscience                                                           |
 
 ## Post-publication Peer Reviews
 |             |                                              |
