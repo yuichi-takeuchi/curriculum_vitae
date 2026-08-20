@@ -1,4 +1,4 @@
-Updated on Aug 10, 2026
+Updated on Aug 20, 2026
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -221,6 +221,9 @@ https://doi.org/10.6084/m9.figshare.6160181
 1. Development of transcranial gene manipulation technologies. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 23K18250), Role: PI, Period: 2023–2026, Total cost: 6,370,000 JPY
 1. A method for elucidating a subset genes that enable hibernation-like hypometabolic states. MEXT, KAKENHI: Grant-in-Aid for Transformative Research Areas (A) (Grant no. 24H01999), Role: PI, Period: 2024–2026, Total cost: 10,920,000 JPY
 1. Identification of the mechanism of chronic pain focusing on oscillatory brain activity and its application to the development of chronic pain relief therapy. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (B) (Grant no. 24K02786), Role: Co-Investigator, Period: 2024–2028, Total cost: 1,274,000 JPY
+1. Neural basis of adaptive action selection via active inference of punishment risk. MEXT, KAKENHI: Grant-in-Aid for Transformative Research Areas (A) (Grant no. 26H01185), Role: PI, Period: 2026–2028, Total cost: 10,140,000 JPY
+1. 脳応答構成器の開発：脳刺激応答の予測・制御に基づく耳鳴り抑制への音遺伝学応用. JSPS, KAKENHI: Grant-in-Aid for Scientific Research (A) (Grant no. 26H02507), Role: Co-Investigator, Period: 2026–2030, Total cost: 42,120,000 JPY
+1. 経頭蓋ソノゲノム編集法の創出. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 26K23447), Role: PI, Period: 2026–2029, Total cost: 6,240,000 JPY
 
 ### Contract Researches
 1. Moonshot Goal 7. Japan Agency for Medical Research and Development, Moonshot Research and Development Program, Role: Co-Investigator, Period: 2021–2026, Total cost: 37,700,000 JPY
