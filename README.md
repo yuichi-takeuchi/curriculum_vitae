@@ -1,4 +1,4 @@
-Updated on Aug 20, 2026
+Updated on Aug 21, 2026
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -71,7 +71,7 @@ Updated on Aug 20, 2026
 | 15 Mar 2021–present       | Board Member, Japanese Pharmacological Society                       |
 | 01 Apr 2022–31 Mar 2024   | Board Member, The Pharmaceutical Society of Japan Hokkaido Branch    |
 | 05 May 2023–present       | Review Editor, Frontiers in Behavioral Neuroscience                  |
-| 19 Nov 2023–present       | Mentor, IUPS International Mentoring Program                         |
+| 01 Feb 2024–31 Jan 2026   | Mentor, The IUPS International Mentoring Program                         |
 | 10 May 2024–present       | Committee Member, The Pharmaceutical Society of Japan Kainsai Branch |
 | 07 Oct 2025–present       | Guest Associate Editor, Frontiers in Neurology                       |
 | 19 Jan 2026–present       | Board Member, The Japan Neuroscience Society                         |
@@ -226,7 +226,7 @@ https://doi.org/10.6084/m9.figshare.6160181
 1. 経頭蓋ソノゲノム編集法の創出. JSPS, KAKENHI: Grant-in-Aid for Challenging Research (Exploratory) (Grant no. 26K23447), Role: PI, Period: 2026–2029, Total cost: 6,240,000 JPY
 
 ### Contract Researches
-1. Moonshot Goal 7. Japan Agency for Medical Research and Development, Moonshot Research and Development Program, Role: Co-Investigator, Period: 2021–2026, Total cost: 37,700,000 JPY
+1. Moonshot Goal 7. Japan Agency for Medical Research and Development, Moonshot Research and Development Program, Role: Co-Investigator, Period: 2021–2029, Total cost: 66,300,000 JPY
 1. Non-invasive, spatiotemporal control of internal organs via sonogenetic stimulation of the autonomic nervous system, AMED Prime, Role: PI, Period: 2022–2026, Total cost: 52,000,000 JPY
 
 ### Research Foundation and Other Competitive Research Funds
