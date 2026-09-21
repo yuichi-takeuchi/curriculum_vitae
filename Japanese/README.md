@@ -1,4 +1,4 @@
-2026年 8月 21日現在
+2026年 9月 21日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -524,6 +524,7 @@
 | 2026–現在   | Brain Stimulation                                                                   |
 | 2026–現在   | Biological and Pharmaceutical Bulletin                                              |
 | 2026–現在   | Frontiers in Neuroscience                                                           |
+| 2026–現在   | Frontiers in Neurology                                                              |
 
 ### Post-publication Peer Reviews
 |             |                                              |
