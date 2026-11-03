@@ -1,4 +1,4 @@
-Updated on Aug Sep 21, 2026
+Updated on Nov 3, 2026
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -499,6 +499,7 @@ s1. Harangozó M (2021) MTA-SZTE „Lendület“ Oszcillatorikus Neuronhálózat
 | 2026–present | Biological and Pharmaceutical Bulletin                                              |
 | 2026–present | Frontiers in Neuroscience                                                           |
 | 2026–present | Frontiers in Neurology                                                              |
+| 2026–Present | Progress in Rehabilitation Medicine                                                 |
 
 ## Post-publication Peer Reviews
 |             |                                              |
