@@ -1,4 +1,4 @@
-Updated on Nov 3, 2026
+Updated on Nov 6, 2026
 # COVERSHEET
 ## 1. Personal details
 |                  |                                                                                                              |
@@ -161,6 +161,7 @@ Updated on Nov 3, 2026
 1. <ins>Takeuchi Y</ins>, Limbic gamma oscillation maintains positive mood. OLFACTORY IMPLANTS AND REGENERATIVE THERAPIES: THE VERSAILLES MEETING. Versailles, France. Aug 29, 2025.
 1. Shimojo M, Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, Kudo N, <ins>Takeuchi Y</ins>, Higuchi M, Ultrasound-induced neuromodulation of cortical neurons through TRPC6 channel activation. The SfN Annual Meeting. San Diego, U.S.A. Nov 15-19, 2025.
 1. Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, Kudo N, <ins>Takeuchi Y</ins>, Higuchi M, Shimojo M, TRPC6 ion channels mediate neural activation induced by ultrasonic acoustic radiation force. The SfN Annual Meeting. San Diego, U.S.A. Nov 15-19, 2025.
+1. <ins>Takeuchi Y</ins>, Toward the control of neurological and psychiatric diseases with time-targeted brain stimulation technologies. The 12th Annual Symposium of the Korean Society for the Therapeutic Ultrasound. Daegu, South Korea. Nov 6, 7, 2026.
 
 ### Recent Abstracts (Domestic)
 1. Yoshida K, Matsushita Y, Kudo N, Minami M, Shimojo M, <ins>Takeuchi Y</ins>, Non-invasive cell type-specific neuromodulation using a sonogenetic technology. The 48th Annual Meeting of the Japan Neuroscience Society. Niigata, Japan. Jul 24, 2025. (Abstract No. 1S06a-3) Symposium
@@ -305,7 +306,8 @@ https://doi.org/10.6084/m9.figshare.6160181
 | 2024 | Invited speaker, The Pharmaceutical Society of Japan Hokuriku Branch @ Kanazawa University, Kanazawa, Japan                               |
 | 2025 | Invited symposiast, QP45 & QBIC2025 International Joint Workshop, Chiba, Japan                                                            |
 | 2025 | Invited speaker, OLFACTORY IMPLANTS AND REGENERATIVE THERAPIES: THE VERSAILLES MEETING, Versailles, France                                |
-| 04 Jun 2026 | Invited symposiast, The 68th Annual Meeting of the Japanese Society of Child Neurology, Utsunomiya, Japan                          |
+| 2026 | Invited symposiast, The 68th Annual Meeting of the Japanese Society of Child Neurology, Utsunomiya, Japan                          |
+| 2026 | Invited symposiast, The 12th Annual Symposium of the Korean Society for the Therapeutic Ultrasound, Daegu, South Korea                                                            |
 
 ## Contributed Talks
 |      |                                                                                                          |
