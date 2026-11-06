@@ -1,4 +1,4 @@
-2026年 11月 3日現在
+2026年 11月 6日現在
 # 履歴および教育研究業績（curriculum vitae）
 ## 1. 個人情報・連絡先
 |              |                                                                           |
@@ -187,6 +187,7 @@
 1. <ins>Takeuchi Y</ins>, Research and development of novel brain stimulation technologies for controlling neurological and psychiatric disorders. QP45 & QBIC2025 International Joint Workshop. Chiba, Japan. Mar 7, 2025.
 1. Shimojo M, Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, Kudo N, <ins>Takeuchi Y</ins>, Higuchi M, Ultrasound-induced neuromodulation of cortical neurons through TRPC6 channel activation. The SfN Annual Meeting. San Diego, U.S.A. Nov 15-19, 2025.
 1. Matsushita Y, Yoshida K, Yoshiya M, Shimizu T, Tsukamoto S, Kudo N, <ins>Takeuchi Y</ins>, Higuchi M, Shimojo M, TRPC6 ion channels mediate neural activation induced by ultrasonic acoustic radiation force. The SfN Annual Meeting. San Diego, U.S.A. Nov 15-19, 2025.
+1. <ins>Takeuchi Y</ins>, Toward the control of neurological and psychiatric diseases with time-targeted brain stimulation technologies. The 12th Annual Symposium of the Korean Society for the Therapeutic Ultrasound. Daegu, South Korea. Nov 6, 7, 2026.
 
 ### 国内学会発表（直近）
 1. 下條雅文、松下有美、吉田楓、吉屋美雪、清水敬宏、塚本智史、工藤信樹、<ins>竹内雄一</ins>、樋口真人、TRPC6チャネルを介したマウス大脳神経細胞の超音波応答メカニズム. 日本超音波医学会第98回学術集会、京都、May 30, 2025.
@@ -341,6 +342,8 @@
 | 07 Mar 2025 | Invited symposiast, QP45 & QBIC2025 International Joint Workshop, Chiba, Japan                                |
 | 29 Sep 2025 | Invited speaker, OLFACTORY IMPLANTS AND REGENERATIVE THERAPIES: THE VERSAILLES MEETING, Versailles, France    |
 | 04 Jun 2026 | Invited symposiast, The 68th Annual Meeting of the Japanese Society of Child Neurology, Utsunomiya, Japan     |
+| 06 Nov 2026 | Invited symposiast, The 12th Annual Symposium of the Korean Society for the Therapeutic Ultrasound, Daegu, South Korea                                                            |
+
 
 ## その他の講演等
 |             |                                                                         |
